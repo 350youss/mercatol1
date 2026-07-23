@@ -1,11 +1,13 @@
 @echo off
 REM ============================================================
 REM  Rafraichissement auto du recap mercato Ligue 1
-REM  - scrape Transfermarkt -> regenere mercato-l1-2026.html
-REM  - publie sur GitHub Pages seulement si les DONNEES ont change
+REM  - scrape Transfermarkt -> regenere mercato-l1-2026.html + equipe.html
+REM  - copie vers le repo dedie "mercatol1" et publie sur GitHub Pages
+REM    (uniquement si les DONNEES ont change)
 REM ============================================================
 setlocal
-set "PUSH=0"
+set "PUSH=1"
+set "REPO=C:\Users\Youss\Documents\mercato-l1-repo"
 
 cd /d "%~dp0"
 echo [%date% %time%] Scrape mercato L1...
@@ -24,10 +26,17 @@ if not "%CHANGED%"=="1" (
   goto :done
 )
 
-git add mercato-l1-2026.html equipe.html data\transfers_l1.json
+copy /y "mercato-l1-2026.html" "%REPO%\mercato-l1-2026.html" >nul
+copy /y "equipe.html" "%REPO%\equipe.html" >nul
+copy /y "data\transfers_l1.json" "%REPO%\data\transfers_l1.json" >nul
+xcopy /y /q "logos\*.*" "%REPO%\logos\" >nul
+
+pushd "%REPO%"
+git add mercato-l1-2026.html equipe.html data\transfers_l1.json logos
 git commit -m "MAJ mercato L1 (auto)"
 git push
-echo Publie sur GitHub Pages.
+echo Publie sur GitHub Pages (mercatol1).
+popd
 
 :done
 endlocal
