@@ -1,0 +1,470 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Effectif & Compo · Ligue 1 2026/27</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link href="https://api.fontshare.com/v2/css?f[]=tanker@400&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0a0a0a;--s1:#111113;--s2:#161618;--s3:#1c1c1f;
+  --in:#34c77b;--accent:#4a8cff;--gold:#c9a84c;--out:#ff4d6d;
+  --txt:#f0f0f0;--sub:#9a9a9a;--muted:#5a5a5a;--faint:#3a3a3a;--line:rgba(255,255,255,.08);
+  --gk:#f0a93b;--def:#4a8cff;--mid:#34c77b;--att:#ff6b6b;
+}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{background:var(--bg);color:var(--txt);font-family:'Inter',sans-serif;min-height:100vh;}
+a{color:inherit;text-decoration:none;}
+.bleed-bar{height:5px;background:linear-gradient(90deg,#34c77b,#4a8cff,#ff4d6d,#34c77b);background-size:200% 100%;animation:bar 9s linear infinite;}
+@keyframes bar{to{background-position:200% 0;}}
+.hidden{display:none !important;}
+
+.crest{position:relative;display:inline-flex;align-items:center;justify-content:center;overflow:hidden;flex-shrink:0;font-family:'Tanker',sans-serif;letter-spacing:0;}
+.crest.has-logo{background-color:transparent !important;color:transparent !important;background-size:contain !important;background-position:center !important;background-repeat:no-repeat !important;}
+
+.top{display:flex;align-items:center;gap:14px;padding:16px 28px;border-bottom:1px solid var(--line);flex-wrap:wrap;}
+.top .back{font-size:12px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--sub);border:1px solid var(--line);padding:8px 13px;border-radius:8px;transition:all .15s;}
+.top .back:hover{border-color:var(--accent);color:#fff;}
+.top .crest{width:40px;height:40px;border-radius:10px;font-size:14px;}
+.top h1{font-family:'Tanker',sans-serif;font-size:24px;text-transform:uppercase;line-height:1;}
+.top .sel{margin-left:auto;display:flex;gap:10px;align-items:center;}
+select,input{background:var(--s1);color:var(--txt);border:1px solid var(--line);border-radius:8px;padding:8px 11px;font-family:inherit;font-size:13px;font-weight:600;}
+select{cursor:pointer;}
+.hint{font-size:12px;color:var(--muted);}
+
+.layout{display:grid;grid-template-columns:360px 1fr;gap:20px;padding:20px 28px 60px;max-width:1440px;margin:0 auto;align-items:start;}
+
+/* SQUAD PANEL */
+.squad{background:var(--s1);border:1px solid var(--line);border-radius:14px;overflow:hidden;}
+.squad-h{padding:12px 16px;font-family:'Tanker',sans-serif;font-size:16px;text-transform:uppercase;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;align-items:center;}
+.squad-h .n{font-family:'Inter';font-size:11px;color:var(--sub);font-weight:700;}
+.sect-h{padding:11px 16px 6px;font-size:11px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--sub);display:flex;justify-content:space-between;align-items:center;border-top:1px solid var(--line);margin-top:6px;}
+.sect-h.arr{color:var(--in);}.sect-h.dep{color:var(--out);}
+.mini-btn{font-size:11px;font-weight:800;color:var(--in);background:rgba(52,199,123,.12);border:1px solid rgba(52,199,123,.3);border-radius:7px;padding:4px 9px;cursor:pointer;font-family:inherit;}
+.mini-btn:hover{background:rgba(52,199,123,.22);}
+.grp-lab{font-size:10px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;padding:8px 16px 4px;display:flex;align-items:center;gap:7px;color:var(--sub);}
+.grp-lab .pt{width:9px;height:9px;border-radius:2px;display:inline-block;}
+.gk .pt{background:var(--gk);}.df .pt{background:var(--def);}.md .pt{background:var(--mid);}.at .pt{background:var(--att);}
+.pl{display:flex;align-items:center;gap:9px;padding:7px 16px;cursor:grab;transition:background .12s;user-select:none;}
+.pl:hover{background:var(--s2);}
+.pl.used{opacity:.32;}
+.pl.sel{background:rgba(201,168,76,.15);box-shadow:inset 3px 0 0 var(--gold);}
+.pl .num{width:22px;text-align:center;font-weight:800;font-size:12px;color:var(--sub);font-variant-numeric:tabular-nums;}
+.pl .pos{width:32px;text-align:center;font-size:8.5px;font-weight:800;padding:3px 0;border-radius:4px;color:#0a0a0a;}
+.pos.gk{background:var(--gk);}.pos.def{background:var(--def);}.pos.mid{background:var(--mid);}.pos.att{background:var(--att);}
+.pl .nm{flex:1;min-width:0;font-size:13px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.pl .nm .ag{color:var(--muted);font-weight:600;font-size:10.5px;margin-left:4px;}
+.pl .val{font-size:11px;font-weight:700;color:var(--gold);font-variant-numeric:tabular-nums;}
+.pl .act{width:22px;height:22px;border-radius:6px;border:1px solid var(--line);background:var(--s2);color:var(--sub);font-size:13px;font-weight:800;cursor:pointer;display:flex;align-items:center;justify-content:center;flex-shrink:0;}
+.pl .act.out:hover{border-color:var(--out);color:var(--out);}
+.pl .act.rm:hover{border-color:var(--out);color:var(--out);}
+.pl .fee{font-size:11px;font-weight:800;}
+.fee.paid{color:#fff;}.fee.loan{color:var(--accent);}
+.empty-s{padding:8px 16px 12px;font-size:11.5px;color:var(--muted);font-style:italic;}
+
+/* recruit form */
+.rform{padding:10px 16px 14px;display:flex;flex-direction:column;gap:8px;background:var(--s2);}
+.rform input,.rform select{width:100%;}
+.feerow{display:flex;gap:10px;align-items:center;}
+.feerow input[type=number]{flex:1;}
+.feerow label{font-size:12px;color:var(--sub);display:flex;align-items:center;gap:5px;cursor:pointer;white-space:nowrap;}
+.rform .btns{display:flex;gap:8px;}
+.rform .btns button{flex:1;padding:8px;border-radius:8px;font-weight:800;font-size:12px;cursor:pointer;font-family:inherit;border:1px solid var(--line);}
+.rform .ok{background:var(--in);border-color:var(--in);color:#04160c;}
+.rform .cancel{background:var(--s1);color:var(--sub);}
+
+/* RIGHT */
+.right{display:flex;flex-direction:column;gap:16px;}
+.controls{display:flex;gap:8px;flex-wrap:wrap;align-items:center;}
+.fbtn{background:var(--s1);border:1px solid var(--line);color:var(--sub);font-weight:800;font-size:12px;padding:8px 13px;border-radius:8px;cursor:pointer;transition:all .15s;font-family:inherit;}
+.fbtn:hover{border-color:var(--accent);color:#fff;}
+.fbtn.active{background:var(--accent);border-color:var(--accent);color:#fff;}
+.controls .reset{margin-left:auto;color:var(--out);border-color:rgba(255,77,109,.3);}
+.controls .reset:hover{background:var(--out);color:#fff;border-color:var(--out);}
+
+.pitch-wrap{background:var(--s1);border:1px solid var(--line);border-radius:14px;padding:16px;}
+.pitch{position:relative;width:100%;aspect-ratio:68/92;border-radius:10px;overflow:hidden;touch-action:none;
+  background:repeating-linear-gradient(0deg,#1a7a43 0 10%,#178040 10% 20%);border:2px solid rgba(255,255,255,.15);}
+.pitch .lines::before{content:'';position:absolute;left:5%;right:5%;top:50%;height:2px;background:rgba(255,255,255,.25);}
+.pitch .lines::after{content:'';position:absolute;left:34%;right:34%;top:calc(50% - 46px);height:92px;border:2px solid rgba(255,255,255,.22);border-radius:50%;}
+.box{position:absolute;left:26%;right:26%;height:14%;border:2px solid rgba(255,255,255,.22);}
+.box.top{top:0;border-top:0;}.box.bot{bottom:0;border-bottom:0;}
+
+.slot{position:absolute;transform:translate(-50%,-50%);width:78px;text-align:center;}
+.disc{width:50px;height:50px;margin:0 auto;border-radius:50%;border:2px dashed rgba(255,255,255,.5);
+  background:rgba(0,0,0,.3);display:flex;align-items:center;justify-content:center;
+  font-size:10px;font-weight:800;color:rgba(255,255,255,.8);cursor:pointer;transition:border-color .12s,box-shadow .12s;}
+.slot.filled .starter .disc{border-style:solid;border-color:#fff;background:var(--club,#111);color:#fff;font-size:15px;font-family:'Tanker',sans-serif;cursor:grab;}
+.slot.dragging .disc{cursor:grabbing;}
+.seat.active .disc{border-color:var(--gold);box-shadow:0 0 0 3px rgba(201,168,76,.4);}
+.seat.dragover .disc{border-color:var(--in);box-shadow:0 0 0 3px rgba(52,199,123,.5);}
+.lab{font-size:9px;font-weight:800;color:rgba(255,255,255,.9);margin-top:2px;text-transform:uppercase;letter-spacing:.03em;text-shadow:0 1px 2px rgba(0,0,0,.7);}
+.who{font-size:10.5px;font-weight:700;color:#fff;line-height:1.05;text-shadow:0 1px 3px rgba(0,0,0,.9);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.sub{margin-top:3px;display:flex;flex-direction:column;align-items:center;}
+.sub .disc{width:30px;height:30px;border-width:2px;border-style:dashed;border-color:rgba(255,255,255,.22);
+  font-size:7px;background:rgba(0,0,0,.18);color:rgba(255,255,255,.3);position:relative;}
+.sub.filled .disc{border-style:solid;border-color:var(--accent);background:var(--club,#111);
+  box-shadow:0 0 0 2px rgba(74,140,255,.35);opacity:1;font-family:'Tanker',sans-serif;font-size:12px;color:#fff;cursor:grab;}
+.sub.filled .disc::after{content:'R';position:absolute;top:-5px;right:-5px;width:15px;height:15px;border-radius:50%;
+  background:var(--accent);color:#fff;font-size:8.5px;font-weight:800;display:flex;align-items:center;justify-content:center;
+  border:2px solid var(--bg);}
+.sub .who{font-size:8px;color:rgba(255,255,255,.35);}
+.sub.filled .who{font-size:8.5px;font-weight:700;color:#fff;}
+.sub-lab{font-size:7.5px;color:rgba(255,255,255,.4);text-transform:uppercase;letter-spacing:.05em;margin-top:1px;text-shadow:0 1px 2px rgba(0,0,0,.7);}
+
+/* MODAL */
+.modal{position:fixed;inset:0;background:rgba(0,0,0,.6);display:flex;align-items:center;justify-content:center;z-index:100;}
+.modal-box{background:var(--s1);border:1px solid var(--line);border-radius:14px;padding:22px;width:340px;max-width:92vw;}
+.modal-t{font-family:'Tanker',sans-serif;font-size:18px;margin-bottom:6px;}
+.modal-sub{font-size:12px;color:var(--sub);margin-bottom:16px;}
+.modal .feerow{margin-bottom:18px;}
+.modal-btns{display:flex;gap:10px;}
+.modal-btns button{flex:1;padding:10px;border-radius:9px;font-weight:800;font-size:13px;cursor:pointer;font-family:inherit;border:1px solid var(--line);}
+.modal-btns .ok{background:var(--in);border-color:var(--in);color:#04160c;}
+.modal-btns .cancel{background:var(--s2);color:var(--sub);}
+
+@media(max-width:900px){.layout{grid-template-columns:1fr;}.top{padding:12px 14px;}.layout{padding:14px;}}
+</style>
+<style>/*__LOGOCSS__*/</style>
+</head>
+<body>
+<div class="bleed-bar"></div>
+<div class="top">
+  <a class="back" href="mercato-l1-2026.html">‹ Mercato</a>
+  <span id="topcrestbox"></span>
+  <h1 id="topname"></h1>
+  <div class="sel"><label class="hint" for="clubsel">Équipe</label><select id="clubsel"></select></div>
+</div>
+
+<div class="layout">
+  <div class="squad">
+    <div class="squad-h"><span>Effectif</span><span class="n" id="squadCount"></span></div>
+    <div id="squadList"></div>
+
+    <div class="sect-h arr"><span>Arrivées</span><button class="mini-btn" id="addRecruit">+ Ajouter</button></div>
+    <div id="recruitForm" class="rform hidden">
+      <input id="rName" placeholder="Nom du joueur" maxlength="40">
+      <select id="rPos">
+        <option value="GK">Gardien</option><option value="DEF">Défenseur</option>
+        <option value="MID" selected>Milieu</option><option value="ATT">Attaquant</option>
+      </select>
+      <div class="feerow">
+        <input id="rFee" type="number" placeholder="Montant (M€)" min="0" step="0.5">
+        <label><input type="checkbox" id="rLoan"> Prêt</label>
+      </div>
+      <div class="btns"><button class="ok" id="rOk">Ajouter</button><button class="cancel" id="rCancel">Annuler</button></div>
+    </div>
+    <div id="recruitList"></div>
+
+    <div class="sect-h dep"><span>Départs</span></div>
+    <div id="departList"></div>
+  </div>
+
+  <div class="right">
+    <div class="controls" id="formations"></div>
+    <div class="hint">Clique un poste vide puis un joueur (ou glisse-le depuis la liste) pour le placer. Clique un joueur déjà placé pour le retirer. Glisse un titulaire sur le terrain pour ajuster sa position.</div>
+    <div class="pitch-wrap">
+      <div class="pitch" id="pitch">
+        <div class="lines"></div><div class="box top"></div><div class="box bot"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal hidden" id="modal"><div class="modal-box">
+  <div class="modal-t" id="modalT"></div>
+  <div class="modal-sub" id="modalSub"></div>
+  <div class="feerow">
+    <input id="mFee" type="number" placeholder="Montant (M€)" min="0" step="0.5">
+    <label><input type="checkbox" id="mLoan"> Prêt</label>
+  </div>
+  <div class="modal-btns"><button class="cancel" id="mCancel">Annuler</button><button class="ok" id="mOk">Valider</button></div>
+</div></div>
+
+<script>
+const SQUADS=/*__SQUADS__*/{};
+const CLUBMETA=/*__CLUBMETA__*/{};
+const LOGO_CODES=/*__LOGOCODES__*/[];
+const ORDER=/*__ORDER__*/[];
+
+const FORMATIONS={
+ "4-3-3":[["GB",50,90],["DG",15,72],["DC",38,76],["DC",62,76],["DD",85,72],["MC",28,52],["MC",50,55],["MC",72,52],["AIG",18,26],["BU",50,18],["AID",82,26]],
+ "4-4-2":[["GB",50,90],["DG",15,72],["DC",38,76],["DC",62,76],["DD",85,72],["MG",15,50],["MC",38,52],["MC",62,52],["MD",85,50],["BU",38,22],["BU",62,22]],
+ "4-2-3-1":[["GB",50,90],["DG",15,72],["DC",38,76],["DC",62,76],["DD",85,72],["MDC",35,58],["MDC",65,58],["MG",18,38],["MO",50,35],["MD",82,38],["BU",50,18]],
+ "3-5-2":[["GB",50,90],["DC",28,76],["DC",50,78],["DC",72,76],["MG",10,53],["MC",34,52],["MO",50,56],["MC",66,52],["MD",90,53],["BU",38,22],["BU",62,22]],
+ "3-4-3":[["GB",50,90],["DC",28,76],["DC",50,78],["DC",72,76],["MG",15,52],["MC",38,54],["MC",62,54],["MD",85,52],["AIG",20,25],["BU",50,18],["AID",80,25]]
+};
+const GRPCLS={GK:'gk',DEF:'def',MID:'mid',ATT:'att'};
+const GRPLAB={GK:'Gardiens',DEF:'Défenseurs',MID:'Milieux',ATT:'Attaquants'};
+const POSLAB={GK:'GB',DEF:'DC',MID:'MC',ATT:'BU'};
+
+let club=null, formation="4-3-3";
+let slots=[];              // {role,x,y,starter,sub}
+let recruits=[];           // {id,p,pos,grp,type,val}
+let departures={};         // key -> {type,val}
+let active=null;           // {kind:'player',k} | {kind:'seat',i,seat}
+let recId=1;
+
+function money(v,type){if(type==='loan')return 'Prêt';if(!v)return '—';if(v<1)return Math.round(v*1000)+' K€';const s=Number.isInteger(v)?v:(Math.round(v*10)/10).toString().replace('.',',');return s+' M€';}
+function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));}
+function crest(code,cls){const has=LOGO_CODES.indexOf(code)>=0;const m=CLUBMETA[code]||{};
+  const st=has?'':`background:${m.bg};color:${m.fg}`;
+  return `<span class="crest ${cls||''}${has?' has-logo l-'+code:''}" style="${st}">${esc(code).slice(0,4)}</span>`;}
+function short(name){const p=name.trim().split(' ');return p.length>1?p[p.length-1]:name;}
+function pkey(pl){return (pl.n||'')+'|'+pl.p;}
+
+function pool(){ // joueurs dispo à placer : effectif (hors départs) + recrues
+  const sq=(SQUADS[club]||[]).filter(p=>!departures[pkey(p)]);
+  return sq.concat(recruits);
+}
+function getPlayer(k){
+  if(k&&k.indexOf('REC:')===0)return recruits.find(r=>('REC:'+r.id)===k);
+  return (SQUADS[club]||[]).find(p=>pkey(p)===k);
+}
+function keyOf(p){return p.id!=null?'REC:'+p.id:pkey(p);}
+function placedKeys(){const s=new Set();slots.forEach(sl=>{if(sl.starter)s.add(sl.starter);if(sl.sub)s.add(sl.sub);});return s;}
+function isPlaced(k){return placedKeys().has(k);}
+
+function initClubSelect(){
+  const sel=document.getElementById('clubsel');
+  sel.innerHTML=ORDER.map(c=>`<option value="${c}">${esc(CLUBMETA[c].name)}</option>`).join('');
+  sel.onchange=()=>loadClub(sel.value);
+}
+function setFormation(f,keep){
+  const prevStarters=keep&&slots.length?slots.map(s=>s.starter):[];
+  const prevSubs=keep&&slots.length?slots.map(s=>s.sub):[];
+  formation=f;
+  slots=FORMATIONS[f].map(([role,x,y],idx)=>({role,x,y,starter:prevStarters[idx]||null,sub:prevSubs[idx]||null}));
+}
+function loadClub(code){
+  club=code; recruits=[]; departures={}; active=null; recId=1;
+  setFormation(formation,false);
+  const m=CLUBMETA[code];
+  document.documentElement.style.setProperty('--club',m.bg);
+  document.getElementById('topcrestbox').innerHTML=crest(code);
+  document.getElementById('topname').textContent=m.name;
+  document.getElementById('clubsel').value=code;
+  document.title=m.name+' · Effectif & Compo';
+  history.replaceState(null,'','?c='+code);
+  document.getElementById('recruitForm').classList.add('hidden');
+  renderFormations(); renderAll();
+}
+function renderFormations(){
+  document.getElementById('formations').innerHTML=
+    Object.keys(FORMATIONS).map(f=>`<button class="fbtn${f===formation?' active':''}" data-f="${f}">${f}</button>`).join('')
+    +`<button class="fbtn reset" id="resetBtn">Réinitialiser</button>`;
+  document.querySelectorAll('.fbtn[data-f]').forEach(b=>b.onclick=()=>{setFormation(b.dataset.f,true);active=null;renderFormations();renderAll();});
+  document.getElementById('resetBtn').onclick=()=>{setFormation(formation,false);active=null;renderAll();};
+}
+
+/* ---------- actions ---------- */
+function clickPlayer(k){
+  if(isPlaced(k))return;
+  if(active&&active.kind==='seat'){assignSeat(active.i,active.seat,k);active=null;}
+  else if(active&&active.kind==='player'&&active.k===k){active=null;}
+  else active={kind:'player',k};
+  renderAll();
+}
+function seatClick(i,seat){
+  const cur=slots[i][seat];
+  if(cur){ slots[i][seat]=null; active=null; renderAll(); return; }   // vider
+  if(active&&active.kind==='player'){assignSeat(i,seat,active.k);active=null;}
+  else if(active&&active.kind==='seat'&&active.i===i&&active.seat===seat){active=null;}
+  else active={kind:'seat',i,seat};
+  renderAll();
+}
+function assignSeat(i,seat,k){
+  slots.forEach(sl=>{if(sl.starter===k)sl.starter=null;if(sl.sub===k)sl.sub=null;});
+  slots[i][seat]=k;
+}
+function addRecruit(){
+  const name=document.getElementById('rName').value.trim();
+  if(!name){document.getElementById('rName').focus();return;}
+  const grp=document.getElementById('rPos').value;
+  const loan=document.getElementById('rLoan').checked;
+  const val=parseFloat(document.getElementById('rFee').value)||0;
+  recruits.push({id:recId++,p:name,pos:POSLAB[grp],grp,type:loan?'loan':'paid',val:loan?0:val});
+  document.getElementById('rName').value='';document.getElementById('rFee').value='';document.getElementById('rLoan').checked=false;
+  document.getElementById('recruitForm').classList.add('hidden');
+  renderAll();
+}
+function removeRecruit(id){
+  const k='REC:'+id;
+  slots.forEach(sl=>{if(sl.starter===k)sl.starter=null;if(sl.sub===k)sl.sub=null;});
+  recruits=recruits.filter(r=>r.id!==id);
+  renderAll();
+}
+function undoDepart(k){delete departures[k];renderAll();}
+
+/* modal départ */
+let modalCb=null;
+function openModal(title,sub,cb){
+  modalCb=cb;
+  document.getElementById('modalT').textContent=title;
+  document.getElementById('modalSub').textContent=sub||'';
+  document.getElementById('mFee').value='';document.getElementById('mLoan').checked=false;
+  document.getElementById('modal').classList.remove('hidden');
+  setTimeout(()=>document.getElementById('mFee').focus(),0);
+}
+function closeModal(){document.getElementById('modal').classList.add('hidden');modalCb=null;}
+document.getElementById('mCancel').onclick=closeModal;
+document.getElementById('mOk').onclick=()=>{
+  const loan=document.getElementById('mLoan').checked;
+  const val=parseFloat(document.getElementById('mFee').value)||0;
+  if(modalCb)modalCb({type:loan?'loan':'paid',val:loan?0:val});
+  closeModal();
+};
+function departPlayer(k){
+  const p=getPlayer(k); if(!p)return;
+  openModal('Faire partir '+short(p.p),'Montant de la vente ou prêt',fee=>{
+    departures[k]=fee;
+    slots.forEach(sl=>{if(sl.starter===k)sl.starter=null;if(sl.sub===k)sl.sub=null;});
+    renderAll();
+  });
+}
+
+/* ---------- rendu ---------- */
+function renderAll(){renderSquad();renderRecruits();renderDeparts();renderPitch();}
+
+function renderSquad(){
+  const sq=(SQUADS[club]||[]).filter(p=>!departures[pkey(p)]);
+  const pset=placedKeys();
+  let html='';
+  ['GK','DEF','MID','ATT'].forEach(g=>{
+    const list=sq.filter(p=>p.grp===g); if(!list.length)return;
+    const gl={GK:'gk',DEF:'df',MID:'md',ATT:'at'}[g];
+    html+=`<div class="grp"><div class="grp-lab ${gl}"><span class="pt"></span>${GRPLAB[g]}</div>`;
+    list.forEach(p=>{const k=pkey(p),used=pset.has(k),sel=active&&active.kind==='player'&&active.k===k;
+      html+=`<div class="pl${used?' used':''}${sel?' sel':''}" draggable="${!used}" data-k="${esc(k)}">
+        <span class="num">${esc(p.n||'–')}</span>
+        <span class="pos ${GRPCLS[p.grp]}">${esc(p.pos)}</span>
+        <span class="nm">${esc(p.p)}<span class="ag">${p.age||''}</span></span>
+        <span class="val">${money(p.val,'paid')}</span>
+        <span class="act out" data-out="${esc(k)}" title="Faire partir">→</span></div>`;});
+    html+='</div>';
+  });
+  document.getElementById('squadList').innerHTML=html;
+  const total=sq.length,used=sq.filter(p=>pset.has(pkey(p))).length;
+  document.getElementById('squadCount').textContent=`${used}/${total} placés`;
+  document.querySelectorAll('#squadList .pl').forEach(el=>{
+    const k=el.dataset.k;
+    el.addEventListener('dragstart',e=>e.dataTransfer.setData('text/plain',k));
+    el.onclick=e=>{if(e.target.classList.contains('act'))return;clickPlayer(k);};
+  });
+  document.querySelectorAll('#squadList .act.out').forEach(el=>el.onclick=e=>{e.stopPropagation();departPlayer(el.dataset.out);});
+}
+function renderRecruits(){
+  const pset=placedKeys();
+  document.getElementById('recruitList').innerHTML= recruits.length? recruits.map(r=>{
+    const k='REC:'+r.id,used=pset.has(k),sel=active&&active.kind==='player'&&active.k===k;
+    return `<div class="pl${used?' used':''}${sel?' sel':''}" draggable="${!used}" data-k="${k}">
+      <span class="num">+</span>
+      <span class="pos ${GRPCLS[r.grp]}">${esc(r.pos)}</span>
+      <span class="nm">${esc(r.p)}</span>
+      <span class="fee ${r.type}">${money(r.val,r.type)}</span>
+      <span class="act rm" data-rm="${r.id}" title="Retirer">✕</span></div>`;}).join('')
+    : '<div class="empty-s">Aucune recrue ajoutée.</div>';
+  document.querySelectorAll('#recruitList .pl').forEach(el=>{
+    const k=el.dataset.k;
+    el.addEventListener('dragstart',e=>e.dataTransfer.setData('text/plain',k));
+    el.onclick=e=>{if(e.target.classList.contains('act'))return;clickPlayer(k);};
+  });
+  document.querySelectorAll('#recruitList .act.rm').forEach(el=>el.onclick=e=>{e.stopPropagation();removeRecruit(+el.dataset.rm);});
+}
+function renderDeparts(){
+  const keys=Object.keys(departures);
+  document.getElementById('departList').innerHTML= keys.length? keys.map(k=>{
+    const p=getPlayer(k)||{p:k.split('|')[1]||k,pos:''};const f=departures[k];
+    return `<div class="pl">
+      <span class="num">–</span>
+      <span class="pos ${GRPCLS[p.grp]||'mid'}">${esc(p.pos||'')}</span>
+      <span class="nm">${esc(p.p)}</span>
+      <span class="fee ${f.type}">${money(f.val,f.type)}</span>
+      <span class="act rm" data-undo="${esc(k)}" title="Annuler">↩</span></div>`;}).join('')
+    : '<div class="empty-s">Aucun départ.</div>';
+  document.querySelectorAll('#departList .act.rm').forEach(el=>el.onclick=()=>undoDepart(el.dataset.undo));
+}
+
+function discContent(k){const p=k?getPlayer(k):null;return p?esc(p.n||short(p.p).slice(0,3)):'';}
+function renderPitch(){
+  const pitch=document.getElementById('pitch');
+  pitch.querySelectorAll('.slot').forEach(s=>s.remove());
+  slots.forEach((sl,i)=>{
+    const div=document.createElement('div');
+    div.className='slot'+(sl.starter?' filled':'');
+    div.dataset.i=i;
+    div.style.left=sl.x+'%';div.style.top=sl.y+'%';
+    const stP=sl.starter?getPlayer(sl.starter):null, sbP=sl.sub?getPlayer(sl.sub):null;
+    const stActive=active&&active.kind==='seat'&&active.i===i&&active.seat==='starter';
+    const sbActive=active&&active.kind==='seat'&&active.i===i&&active.seat==='sub';
+    div.innerHTML=
+      `<div class="seat starter${stActive?' active':''}" data-seat="starter">
+         <div class="disc">${stP?discContent(sl.starter):sl.role}</div>
+         <div class="lab">${sl.role}</div>${stP?`<div class="who">${esc(short(stP.p))}</div>`:''}
+       </div>
+       <div class="sub seat${sbP?' filled':''}${sbActive?' active':''}" data-seat="sub">
+         <div class="disc">${sbP?discContent(sl.sub):'+'}</div>
+         ${sbP?`<div class="who">${esc(short(sbP.p))}</div>`:'<div class="sub-lab">remp.</div>'}
+       </div>`;
+    wireSlot(div,i);
+    pitch.appendChild(div);
+  });
+}
+function wireSlot(div,i){
+  div.querySelectorAll('.seat').forEach(seatEl=>{
+    const seat=seatEl.dataset.seat;
+    const filled=!!slots[i][seat];
+    // native DnD : recevoir un joueur venant de l'effectif / des recrues (remplace l'occupant éventuel)
+    seatEl.addEventListener('dragover',e=>{e.preventDefault();seatEl.classList.add('dragover');});
+    seatEl.addEventListener('dragleave',()=>seatEl.classList.remove('dragover'));
+    seatEl.addEventListener('drop',e=>{e.preventDefault();seatEl.classList.remove('dragover');
+      const k=e.dataTransfer.getData('text/plain');if(k){assignSeat(i,seat,k);active=null;renderAll();}});
+    const disc=seatEl.querySelector('.disc');
+    if(!filled){
+      // poste vide : clic = placer le joueur sélectionné dans la liste
+      disc.addEventListener('click',()=>seatClick(i,seat));
+    } else if(seat==='starter'){
+      // titulaire placé : clic = le retirer ; glisser = repositionner sur le terrain (jamais changer de poste)
+      disc.addEventListener('pointerdown',e=>startStarterDrag(e,div,i));
+    } else {
+      // remplaçant placé : pas de position propre, seul le clic a un sens (le retirer)
+      disc.addEventListener('click',()=>{slots[i].sub=null;active=null;renderAll();});
+    }
+  });
+}
+
+function startStarterDrag(e,div,i){
+  e.preventDefault();
+  active=null;
+  const pitch=document.getElementById('pitch');const rect=pitch.getBoundingClientRect();
+  const sx=e.clientX,sy=e.clientY;let moved=false;
+  function move(ev){
+    if(!moved&&Math.hypot(ev.clientX-sx,ev.clientY-sy)<6)return;
+    moved=true;div.classList.add('dragging');
+    slots[i].x=Math.max(5,Math.min(95,((ev.clientX-rect.left)/rect.width)*100));
+    slots[i].y=Math.max(6,Math.min(95,((ev.clientY-rect.top)/rect.height)*100));
+    div.style.left=slots[i].x+'%';div.style.top=slots[i].y+'%';
+  }
+  function up(){
+    document.removeEventListener('pointermove',move);document.removeEventListener('pointerup',up);
+    if(!moved){ slots[i].starter=null; renderAll(); return; }   // simple clic -> retirer le titulaire
+    renderAll();   // sinon : position déjà mise à jour en direct pendant le glisser
+  }
+  document.addEventListener('pointermove',move);document.addEventListener('pointerup',up);
+}
+
+/* boutons formulaire recrue */
+document.getElementById('addRecruit').onclick=()=>{const f=document.getElementById('recruitForm');f.classList.toggle('hidden');if(!f.classList.contains('hidden'))document.getElementById('rName').focus();};
+document.getElementById('rOk').onclick=addRecruit;
+document.getElementById('rCancel').onclick=()=>document.getElementById('recruitForm').classList.add('hidden');
+document.getElementById('rName').addEventListener('keydown',e=>{if(e.key==='Enter')addRecruit();});
+
+initClubSelect();
+const start=(new URLSearchParams(location.search).get('c')||'').toUpperCase();
+loadClub(ORDER.includes(start)?start:ORDER[0]);
+</script>
+</body>
+</html>
