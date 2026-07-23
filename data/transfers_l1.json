@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-23T22:03:07",
- "sig": "a82ac65c9f888e93d7e44cb8a11e6a14",
+ "updated": "2026-07-23T22:07:21",
+ "sig": "894ac9b2aaed13545603160b7ab87455",
  "seen": {
   "PSG|out|Gonçalo Ramos|AC Milan": "2026-07-22",
   "PSG|out|Noham Kamara|Ol. Lyonnais": "2026-07-22",
@@ -592,7 +592,7 @@
      "age": 23,
      "pos": "ArG",
      "club": "Ittihad Tanger",
-     "type": "none",
+     "type": "free",
      "val": 0.0,
      "fs": "2026-07-22"
     },
