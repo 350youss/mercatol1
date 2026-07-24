@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Scrape des transferts Ligue 1 (Transfermarkt) -> régénère mercato-l1-2026.html
+Scrape des transferts Ligue 1 (Transfermarkt) -> régénère index.html (+ equipe.html)
 
 - Arrivées à gauche, départs à droite, montants inclus.
 - Retire les RETOURS DE PRÊT ("Fin du prêt ...").
@@ -31,7 +31,7 @@ ROOT   = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE  = os.path.join(ROOT, "scripts", ".cache")
 DATA   = os.path.join(ROOT, "data")
 TPL    = os.path.join(ROOT, "scripts", "mercato_template.html")
-OUT    = os.path.join(ROOT, "mercato-l1-2026.html")
+OUT    = os.path.join(ROOT, "index.html")
 TPL_TEAM = os.path.join(ROOT, "scripts", "equipe_template.html")
 OUT_TEAM = os.path.join(ROOT, "equipe.html")
 STATE  = os.path.join(DATA, "transfers_l1.json")   # snapshot + historique des dates
