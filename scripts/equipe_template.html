@@ -92,34 +92,34 @@ select{cursor:pointer;}
 .controls .reset:hover{background:var(--out);color:#fff;border-color:var(--out);}
 
 .pitch-wrap{background:var(--s1);border:1px solid var(--line);border-radius:14px;padding:16px;display:flex;justify-content:center;}
-.pitch{position:relative;width:100%;max-width:376px;height:auto;aspect-ratio:68/92;border-radius:10px;overflow:hidden;touch-action:none;
+.pitch{position:relative;width:100%;max-width:376px;height:auto;aspect-ratio:68/92;border-radius:10px;overflow:hidden;touch-action:pan-y;
   background:repeating-linear-gradient(0deg,#1a7a43 0 10%,#178040 10% 20%);border:2px solid rgba(255,255,255,.15);}
 .pitch .lines::before{content:'';position:absolute;left:5%;right:5%;top:50%;height:2px;background:rgba(255,255,255,.25);}
 .pitch .lines::after{content:'';position:absolute;left:34%;right:34%;top:calc(50% - 46px);height:92px;border:2px solid rgba(255,255,255,.22);border-radius:50%;}
 .box{position:absolute;left:26%;right:26%;height:14%;border:2px solid rgba(255,255,255,.22);}
 .box.top{top:0;border-top:0;}.box.bot{bottom:0;border-bottom:0;}
 
-.slot{position:absolute;transform:translate(-50%,-50%);width:78px;text-align:center;}
+/* le slot est ancré par le CENTRE DU TITULAIRE (translateY fixe, pas -50%) :
+   le remplaçant/étiquette qui suit en dessous ne décale donc jamais l'ancrage. */
+.slot{position:absolute;transform:translate(-50%,-25px);width:78px;text-align:center;}
 .disc{width:50px;height:50px;margin:0 auto;border-radius:50%;border:2px dashed rgba(255,255,255,.5);
   background:rgba(0,0,0,.3);display:flex;align-items:center;justify-content:center;
   font-size:10px;font-weight:800;color:rgba(255,255,255,.8);cursor:pointer;transition:border-color .12s,box-shadow .12s;}
-.slot.filled .starter .disc{border-style:solid;border-color:#fff;background:var(--club,#111);color:#fff;font-size:15px;font-family:'Tanker',sans-serif;cursor:grab;}
+.slot.filled .starter .disc{border-style:solid;border-color:#fff;background:var(--club,#111);color:#fff;
+  font-size:16px;font-family:'Inter',sans-serif;font-weight:800;cursor:grab;touch-action:none;}
 .slot.dragging .disc{cursor:grabbing;}
-.seat.active .disc{border-color:var(--gold);box-shadow:0 0 0 3px rgba(201,168,76,.4);}
-.seat.dragover .disc{border-color:var(--in);box-shadow:0 0 0 3px rgba(52,199,123,.5);}
+.seat.active .disc,.seat.active .subbox{border-color:var(--gold);box-shadow:0 0 0 3px rgba(201,168,76,.4);}
+.seat.dragover .disc,.seat.dragover .subbox{border-color:var(--in);box-shadow:0 0 0 3px rgba(52,199,123,.5);}
 .lab{font-size:9px;font-weight:800;color:rgba(255,255,255,.9);margin-top:2px;text-transform:uppercase;letter-spacing:.03em;text-shadow:0 1px 2px rgba(0,0,0,.7);}
 .who{font-size:10.5px;font-weight:700;color:#fff;line-height:1.05;text-shadow:0 1px 3px rgba(0,0,0,.9);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
-.sub{margin-top:3px;display:flex;flex-direction:column;align-items:center;}
-.sub .disc{width:30px;height:30px;border-width:2px;border-style:dashed;border-color:rgba(255,255,255,.22);
-  font-size:7px;background:rgba(0,0,0,.18);color:rgba(255,255,255,.3);position:relative;}
-.sub.filled .disc{border-style:solid;border-color:var(--accent);background:var(--club,#111);
-  box-shadow:0 0 0 2px rgba(74,140,255,.35);opacity:1;font-family:'Tanker',sans-serif;font-size:12px;color:#fff;cursor:grab;}
-.sub.filled .disc::after{content:'R';position:absolute;top:-5px;right:-5px;width:15px;height:15px;border-radius:50%;
-  background:var(--accent);color:#fff;font-size:8.5px;font-weight:800;display:flex;align-items:center;justify-content:center;
-  border:2px solid var(--bg);}
-.sub .who{font-size:8px;color:rgba(255,255,255,.35);}
-.sub.filled .who{font-size:8.5px;font-weight:700;color:#fff;}
-.sub-lab{font-size:7.5px;color:rgba(255,255,255,.4);text-transform:uppercase;letter-spacing:.05em;margin-top:1px;text-shadow:0 1px 2px rgba(0,0,0,.7);}
+
+/* remplaçant : simple rectangle avec le nom, sous le titulaire */
+.sub{margin-top:4px;}
+.subbox{min-width:60px;max-width:78px;padding:3px 5px;border-radius:5px;font-size:9px;font-weight:700;
+  border:1.5px dashed rgba(255,255,255,.25);background:rgba(0,0,0,.18);color:rgba(255,255,255,.35);
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;cursor:pointer;text-transform:uppercase;letter-spacing:.02em;}
+.sub.filled .subbox{border-style:solid;border-color:var(--accent);background:var(--club,#111);color:#fff;
+  box-shadow:0 0 0 1px rgba(74,140,255,.35);cursor:pointer;text-transform:none;}
 
 /* MODAL */
 .modal{position:fixed;inset:0;background:rgba(0,0,0,.6);display:flex;align-items:center;justify-content:center;z-index:100;}
@@ -148,8 +148,7 @@ select{cursor:pointer;}
   .layout.tab-squad .right{display:none;}
   .layout.tab-pitch .squad{display:none;}
   .squad{max-height:none;}
-  .sub .disc{width:36px;height:36px;}
-  .sub.filled .disc::after{width:16px;height:16px;font-size:9px;}
+  .subbox{font-size:9.5px;padding:4px 6px;}
 }
 </style>
 <style>/*__LOGOCSS__*/</style>
@@ -219,11 +218,11 @@ const LOGO_CODES=/*__LOGOCODES__*/[];
 const ORDER=/*__ORDER__*/[];
 
 const FORMATIONS={
- "4-3-3":[["GB",50,90],["DG",15,72],["DC",38,76],["DC",62,76],["DD",85,72],["MC",28,52],["MC",50,55],["MC",72,52],["AIG",18,26],["BU",50,18],["AID",82,26]],
- "4-4-2":[["GB",50,90],["DG",15,72],["DC",38,76],["DC",62,76],["DD",85,72],["MG",15,50],["MC",38,52],["MC",62,52],["MD",85,50],["BU",38,22],["BU",62,22]],
- "4-2-3-1":[["GB",50,90],["DG",15,72],["DC",38,76],["DC",62,76],["DD",85,72],["MDC",35,58],["MDC",65,58],["MG",18,38],["MO",50,35],["MD",82,38],["BU",50,18]],
- "3-5-2":[["GB",50,90],["DC",28,76],["DC",50,78],["DC",72,76],["MG",10,53],["MC",34,52],["MO",50,56],["MC",66,52],["MD",90,53],["BU",38,22],["BU",62,22]],
- "3-4-3":[["GB",50,90],["DC",28,76],["DC",50,78],["DC",72,76],["MG",15,52],["MC",38,54],["MC",62,54],["MD",85,52],["AIG",20,25],["BU",50,18],["AID",80,25]]
+ "4-3-3":[["GB",50,78],["DG",15,72],["DC",38,76],["DC",62,76],["DD",85,72],["MC",28,52],["MC",50,55],["MC",72,52],["AIG",18,26],["BU",50,18],["AID",82,26]],
+ "4-4-2":[["GB",50,78],["DG",15,72],["DC",38,76],["DC",62,76],["DD",85,72],["MG",15,50],["MC",38,52],["MC",62,52],["MD",85,50],["BU",38,22],["BU",62,22]],
+ "4-2-3-1":[["GB",50,78],["DG",15,72],["DC",38,76],["DC",62,76],["DD",85,72],["MDC",35,58],["MDC",65,58],["MG",18,38],["MO",50,35],["MD",82,38],["BU",50,18]],
+ "3-5-2":[["GB",50,78],["DC",28,76],["DC",50,78],["DC",72,76],["MG",10,53],["MC",34,52],["MO",50,56],["MC",66,52],["MD",90,53],["BU",38,22],["BU",62,22]],
+ "3-4-3":[["GB",50,78],["DC",28,76],["DC",50,78],["DC",72,76],["MG",15,52],["MC",38,54],["MC",62,54],["MD",85,52],["AIG",20,25],["BU",50,18],["AID",80,25]]
 };
 const GRPCLS={GK:'gk',DEF:'def',MID:'mid',ATT:'att'};
 const GRPLAB={GK:'Gardiens',DEF:'Défenseurs',MID:'Milieux',ATT:'Attaquants'};
@@ -468,8 +467,7 @@ function renderPitch(){
          <div class="lab">${sl.role}</div>${stP?`<div class="who">${esc(short(stP.p))}</div>`:''}
        </div>
        <div class="sub seat${sbP?' filled':''}${sbActive?' active':''}" data-seat="sub">
-         <div class="disc">${sbP?discContent(sl.sub):'+'}</div>
-         ${sbP?`<div class="who">${esc(short(sbP.p))}</div>`:'<div class="sub-lab">remp.</div>'}
+         <div class="subbox">${sbP?esc(short(sbP.p)):'Remp.'}</div>
        </div>`;
     wireSlot(div,i);
     pitch.appendChild(div);
@@ -484,16 +482,16 @@ function wireSlot(div,i){
     seatEl.addEventListener('dragleave',()=>seatEl.classList.remove('dragover'));
     seatEl.addEventListener('drop',e=>{e.preventDefault();seatEl.classList.remove('dragover');
       const k=e.dataTransfer.getData('text/plain');if(k){assignSeat(i,seat,k);active=null;renderAll();}});
-    const disc=seatEl.querySelector('.disc');
+    const target=seatEl.querySelector(seat==='starter'?'.disc':'.subbox');
     if(!filled){
       // poste vide : clic = placer le joueur sélectionné dans la liste
-      disc.addEventListener('click',()=>seatClick(i,seat));
+      target.addEventListener('click',()=>seatClick(i,seat));
     } else if(seat==='starter'){
       // titulaire placé : clic = le retirer ; glisser = repositionner sur le terrain (jamais changer de poste)
-      disc.addEventListener('pointerdown',e=>startStarterDrag(e,div,i));
+      target.addEventListener('pointerdown',e=>startStarterDrag(e,div,i));
     } else {
       // remplaçant placé : pas de position propre, seul le clic a un sens (le retirer)
-      disc.addEventListener('click',()=>{slots[i].sub=null;active=null;renderAll();});
+      target.addEventListener('click',()=>{slots[i].sub=null;active=null;renderAll();});
     }
   });
 }
