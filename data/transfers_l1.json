@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-23T22:07:21",
- "sig": "894ac9b2aaed13545603160b7ab87455",
+ "updated": "2026-07-24T17:29:48",
+ "sig": "b8a46e3db155a52d012b7dfde8b6248f",
  "seen": {
   "PSG|out|Gonçalo Ramos|AC Milan": "2026-07-22",
   "PSG|out|Noham Kamara|Ol. Lyonnais": "2026-07-22",
@@ -52,7 +52,7 @@
   "OM|out|Mason Greenwood|Fenerbahçe": "2026-07-22",
   "OM|out|Hamed Traoré|Genoa": "2026-07-22",
   "OM|out|Pierre-Emerick Aubameyang|Dep. La Corogne": "2026-07-22",
-  "OM|out|Bilal Nadir|Sans club": "2026-07-22",
+  "OM|out|Bilal Nadir|Hamburg": "2026-07-24",
   "SRFC|in|Eliezer Mayenda|AFC Sunderland": "2026-07-22",
   "SRFC|in|Bryan Reynolds|KVC Westerlo": "2026-07-22",
   "SRFC|in|Gonçalo Oliveira|Benfica B": "2026-07-22",
@@ -63,6 +63,7 @@
   "SRFC|out|Jérémy Jacquet|Liverpool": "2026-07-22",
   "SRFC|out|Albert Grønbaek|Hamburg": "2026-07-22",
   "SRFC|out|Mikayil Faye|1.FC Nürnberg": "2026-07-23",
+  "SRFC|out|Lucas Rosier|Concarneau": "2026-07-24",
   "SRFC|out|Mathys Silistrie|QRM": "2026-07-22",
   "SRFC|out|Paolo Limon|FC Villefranche": "2026-07-22",
   "SRFC|out|Hans Hateboer|Sans club": "2026-07-22",
@@ -70,6 +71,7 @@
   "ASM|in|Sadibou Sané|FC Metz": "2026-07-22",
   "ASM|in|Nazinho|Cercle Brugge": "2026-07-22",
   "ASM|in|Mathys Detourbet|Man City": "2026-07-22",
+  "ASM|out|Aladji Bamba|Newcastle": "2026-07-24",
   "ASM|out|Caio Henrique|Ajax": "2026-07-22",
   "ASM|out|Kassoum Ouattara|Besiktas": "2026-07-22",
   "ASM|out|Radoslaw Majecki|Pafos": "2026-07-22",
@@ -682,10 +684,10 @@
      "p": "Bilal Nadir",
      "age": 22,
      "pos": "MC",
-     "club": "Sans club",
-     "type": "none",
+     "club": "Hamburg",
+     "type": "free",
      "val": 0.0,
-     "fs": "2026-07-22"
+     "fs": "2026-07-24"
     }
    ]
   },
@@ -788,6 +790,15 @@
      "fs": "2026-07-23"
     },
     {
+     "p": "Lucas Rosier",
+     "age": 19,
+     "pos": "AiG",
+     "club": "Concarneau",
+     "type": "loan",
+     "val": 0.0,
+     "fs": "2026-07-24"
+    },
+    {
      "p": "Mathys Silistrie",
      "age": 20,
      "pos": "GdB",
@@ -860,6 +871,15 @@
     }
    ],
    "dep": [
+    {
+     "p": "Aladji Bamba",
+     "age": 20,
+     "pos": "MDC",
+     "club": "Newcastle",
+     "type": "paid",
+     "val": 35.5,
+     "fs": "2026-07-24"
+    },
     {
      "p": "Caio Henrique",
      "age": 28,
@@ -3464,14 +3484,6 @@
     "val": 25.0
    },
    {
-    "n": "23",
-    "p": "Aladji Bamba",
-    "pos": "MDC",
-    "grp": "MID",
-    "age": 20,
-    "val": 18.0
-   },
-   {
     "n": "15",
     "p": "Lamine Camara",
     "pos": "MC",
@@ -3598,7 +3610,7 @@
     "p": "Ismaël Doukouré",
     "pos": "DC",
     "grp": "DEF",
-    "age": 22,
+    "age": 23,
     "val": 20.0
    },
    {
