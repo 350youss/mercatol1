@@ -71,16 +71,9 @@ select{cursor:pointer;}
 .fee.paid{color:#fff;}.fee.loan{color:var(--accent);}
 .empty-s{padding:8px 16px 12px;font-size:11.5px;color:var(--muted);font-style:italic;}
 
-/* recruit form */
-.rform{padding:10px 16px 14px;display:flex;flex-direction:column;gap:8px;background:var(--s2);}
-.rform input,.rform select{width:100%;}
 .feerow{display:flex;gap:10px;align-items:center;}
 .feerow input[type=number]{flex:1;}
 .feerow label{font-size:12px;color:var(--sub);display:flex;align-items:center;gap:5px;cursor:pointer;white-space:nowrap;}
-.rform .btns{display:flex;gap:8px;}
-.rform .btns button{flex:1;padding:8px;border-radius:8px;font-weight:800;font-size:12px;cursor:pointer;font-family:inherit;border:1px solid var(--line);}
-.rform .ok{background:var(--in);border-color:var(--in);color:#04160c;}
-.rform .cancel{background:var(--s1);color:var(--sub);}
 
 /* RIGHT */
 .right{display:flex;flex-direction:column;gap:16px;}
@@ -118,12 +111,14 @@ select{cursor:pointer;}
 .subbox{min-width:60px;max-width:78px;padding:3px 5px;border-radius:5px;font-size:9px;font-weight:700;
   border:1.5px dashed rgba(255,255,255,.25);background:rgba(0,0,0,.18);color:rgba(255,255,255,.35);
   white-space:nowrap;overflow:hidden;text-overflow:ellipsis;cursor:pointer;text-transform:uppercase;letter-spacing:.02em;}
-.sub.filled .subbox{border-style:solid;border-color:var(--accent);background:var(--club,#111);color:#fff;
-  box-shadow:0 0 0 1px rgba(74,140,255,.35);cursor:pointer;text-transform:none;}
+.sub.filled .subbox{border-style:solid;border-color:var(--line);background:var(--s2);color:var(--txt);
+  cursor:pointer;text-transform:none;}
 
 /* MODAL */
-.modal{position:fixed;inset:0;background:rgba(0,0,0,.6);display:flex;align-items:center;justify-content:center;z-index:100;}
-.modal-box{background:var(--s1);border:1px solid var(--line);border-radius:14px;padding:22px;width:340px;max-width:92vw;}
+.modal{position:fixed;inset:0;background:rgba(0,0,0,.6);display:flex;align-items:flex-start;justify-content:center;
+  padding:8vh 16px 16px;overflow-y:auto;z-index:100;}
+.modal-box{background:var(--s1);border:1px solid var(--line);border-radius:14px;padding:22px;width:340px;max-width:92vw;
+  max-height:84vh;overflow-y:auto;}
 .modal-t{font-family:'Tanker',sans-serif;font-size:18px;margin-bottom:6px;}
 .modal-sub{font-size:12px;color:var(--sub);margin-bottom:16px;}
 .modal .feerow{margin-bottom:18px;}
@@ -172,18 +167,6 @@ select{cursor:pointer;}
     <div id="squadList"></div>
 
     <div class="sect-h arr"><span>Arrivées</span><button class="mini-btn" id="addRecruit">+ Ajouter</button></div>
-    <div id="recruitForm" class="rform hidden">
-      <input id="rName" placeholder="Nom du joueur" maxlength="40">
-      <select id="rPos">
-        <option value="GK">Gardien</option><option value="DEF">Défenseur</option>
-        <option value="MID" selected>Milieu</option><option value="ATT">Attaquant</option>
-      </select>
-      <div class="feerow">
-        <input id="rFee" type="number" placeholder="Montant (M€)" min="0" step="0.5">
-        <label><input type="checkbox" id="rLoan"> Prêt</label>
-      </div>
-      <div class="btns"><button class="ok" id="rOk">Ajouter</button><button class="cancel" id="rCancel">Annuler</button></div>
-    </div>
     <div id="recruitList"></div>
 
     <div class="sect-h dep"><span>Départs</span></div>
@@ -209,6 +192,21 @@ select{cursor:pointer;}
     <label><input type="checkbox" id="mLoan"> Prêt</label>
   </div>
   <div class="modal-btns"><button class="cancel" id="mCancel">Annuler</button><button class="ok" id="mOk">Valider</button></div>
+</div></div>
+
+<div class="modal hidden" id="recruitModal"><div class="modal-box">
+  <div class="modal-t">Ajouter une recrue</div>
+  <div class="modal-sub">Un joueur qui n'est pas encore dans l'effectif</div>
+  <input id="rName" placeholder="Nom du joueur" maxlength="40" style="width:100%;margin-bottom:10px;">
+  <select id="rPos" style="width:100%;margin-bottom:14px;">
+    <option value="GK">Gardien</option><option value="DEF">Défenseur</option>
+    <option value="MID" selected>Milieu</option><option value="ATT">Attaquant</option>
+  </select>
+  <div class="feerow">
+    <input id="rFee" type="number" placeholder="Montant (M€)" min="0" step="0.5">
+    <label><input type="checkbox" id="rLoan"> Prêt</label>
+  </div>
+  <div class="modal-btns"><button class="cancel" id="rCancel">Annuler</button><button class="ok" id="rOk">Ajouter</button></div>
 </div></div>
 
 <script>
@@ -300,7 +298,7 @@ function loadClub(code){
   document.getElementById('clubsel').value=code;
   document.title=m.name+' · Effectif & Compo';
   history.replaceState(null,'','?c='+code);
-  document.getElementById('recruitForm').classList.add('hidden');
+  document.getElementById('recruitModal').classList.add('hidden');
   setMobileTab('squad');
   renderFormations(); renderAll();
 }
@@ -349,7 +347,7 @@ function addRecruit(){
   const val=parseFloat(document.getElementById('rFee').value)||0;
   recruits.push({id:recId++,p:name,pos:POSLAB[grp],grp,type:loan?'loan':'paid',val:loan?0:val});
   document.getElementById('rName').value='';document.getElementById('rFee').value='';document.getElementById('rLoan').checked=false;
-  document.getElementById('recruitForm').classList.add('hidden');
+  document.getElementById('recruitModal').classList.add('hidden');
   renderAll();
 }
 function removeRecruit(id){
@@ -517,9 +515,12 @@ function startStarterDrag(e,div,i){
 }
 
 /* boutons formulaire recrue */
-document.getElementById('addRecruit').onclick=()=>{const f=document.getElementById('recruitForm');f.classList.toggle('hidden');if(!f.classList.contains('hidden'))document.getElementById('rName').focus();};
+document.getElementById('addRecruit').onclick=()=>{
+  document.getElementById('recruitModal').classList.remove('hidden');
+  setTimeout(()=>document.getElementById('rName').focus(),50);
+};
 document.getElementById('rOk').onclick=addRecruit;
-document.getElementById('rCancel').onclick=()=>document.getElementById('recruitForm').classList.add('hidden');
+document.getElementById('rCancel').onclick=()=>document.getElementById('recruitModal').classList.add('hidden');
 document.getElementById('rName').addEventListener('keydown',e=>{if(e.key==='Enter')addRecruit();});
 
 initClubSelect();
