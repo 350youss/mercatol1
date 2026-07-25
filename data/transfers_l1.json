@@ -1,8 +1,9 @@
 {
- "updated": "2026-07-24T17:46:05",
- "sig": "b8a46e3db155a52d012b7dfde8b6248f",
+ "updated": "2026-07-25T14:01:14",
+ "sig": "fe81a14c5c4d80a1cb42b463346fd1e1",
  "seen": {
   "PSG|out|Gonçalo Ramos|AC Milan": "2026-07-22",
+  "PSG|out|Kang-in Lee|Atlético": "2026-07-25",
   "PSG|out|Noham Kamara|Ol. Lyonnais": "2026-07-22",
   "PSG|out|Gabriel Moscardo|Esp. Barcelona": "2026-07-22",
   "PSG|out|Renato Marin|Nacional": "2026-07-22",
@@ -198,6 +199,15 @@
      "type": "paid",
      "val": 74.0,
      "fs": "2026-07-22"
+    },
+    {
+     "p": "Kang-in Lee",
+     "age": 25,
+     "pos": "MO",
+     "club": "Atlético",
+     "type": "paid",
+     "val": 40.0,
+     "fs": "2026-07-25"
     },
     {
      "p": "Noham Kamara",
@@ -2118,14 +2128,6 @@
     "grp": "MID",
     "age": 28,
     "val": 2.0
-   },
-   {
-    "n": "19",
-    "p": "Kang-in Lee",
-    "pos": "MO",
-    "grp": "MID",
-    "age": 25,
-    "val": 28.0
    },
    {
     "n": "27",
