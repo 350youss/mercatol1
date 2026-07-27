@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-27T15:35:20",
- "sig": "d17eba7dc142e42f776f9b8cace5124f",
+ "updated": "2026-07-27T17:01:09",
+ "sig": "e96196a6d61a3b14142b6a55349a9030",
  "seen": {
   "PSG|out|Gonçalo Ramos|AC Milan": "2026-07-22",
   "PSG|out|Kang-in Lee|Atlético": "2026-07-25",
@@ -124,6 +124,7 @@
   "SCO|in|Anthony Bermont|RC Lens": "2026-07-22",
   "SCO|out|Sidiki Chérif|Fenerbahçe": "2026-07-22",
   "SCO|out|Florent Hanin|Nea Salamis": "2026-07-22",
+  "SCO|out|Lanroy Machine|Heerenveen": "2026-07-27",
   "SCO|out|Abdoulaye Bamba|Fin de carrière": "2026-07-22",
   "SCO|out|Pierrick Capelle|Fin de carrière": "2026-07-22",
   "HAC|in|Timothée Pembélé|AFC Sunderland": "2026-07-22",
@@ -1407,6 +1408,15 @@
      "type": "free",
      "val": 0.0,
      "fs": "2026-07-22"
+    },
+    {
+     "p": "Lanroy Machine",
+     "age": 20,
+     "pos": "AC",
+     "club": "Heerenveen",
+     "type": "loan",
+     "val": 0.0,
+     "fs": "2026-07-27"
     },
     {
      "p": "Abdoulaye Bamba",
@@ -4800,14 +4810,6 @@
     "grp": "ATT",
     "age": 25,
     "val": 2.5
-   },
-   {
-    "n": "36",
-    "p": "Lanroy Machine",
-    "pos": "AC",
-    "grp": "ATT",
-    "age": 20,
-    "val": 1.5
    },
    {
     "n": "17",
