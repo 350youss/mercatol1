@@ -344,7 +344,7 @@ function loadClub(code){
 function renderFormations(){
   document.getElementById('formations').innerHTML=
     Object.keys(FORMATIONS).map(f=>`<button class="fbtn${f===formation?' active':''}" data-f="${f}">${f}</button>`).join('')
-    +`<button class="fbtn share" id="shareBtn">⇩ Partager</button>`
+    +`<button class="fbtn share" id="shareBtn">⇧ Partager</button>`
     +`<button class="fbtn reset" id="resetBtn">Réinitialiser</button>`;
   document.querySelectorAll('.fbtn[data-f]').forEach(b=>b.onclick=()=>{setFormation(b.dataset.f,true);active=null;renderFormations();renderAll();});
   document.getElementById('resetBtn').onclick=()=>{setFormation(formation,false);active=null;renderAll();};
@@ -395,6 +395,23 @@ function drawPitch(ctx,x,y,w,h){
   const boxW=w*0.48,boxH=h*0.14;
   ctx.strokeRect(x+(w-boxW)/2,y,boxW,boxH);
   ctx.strokeRect(x+(w-boxW)/2,y+h-boxH,boxW,boxH);
+}
+async function shareOrDownload(blob,filename,text){
+  const file=new File([blob],filename,{type:'image/png'});
+  if(navigator.canShare && navigator.canShare({files:[file]})){
+    try{
+      await navigator.share({files:[file],title:text,text});
+      return;                              // partagé avec succès
+    }catch(err){
+      if(err && err.name==='AbortError')return;   // l'utilisateur a annulé -> ne rien faire
+      // sinon (pas supporté / échec) -> on tombe sur le téléchargement classique ci-dessous
+    }
+  }
+  const url=URL.createObjectURL(blob);
+  const a=document.createElement('a');
+  a.href=url;a.download=filename;
+  document.body.appendChild(a);a.click();a.remove();
+  setTimeout(()=>URL.revokeObjectURL(url),4000);
 }
 async function shareImage(){
   const btn=document.getElementById('shareBtn');
@@ -511,13 +528,9 @@ async function shareImage(){
     ctx.fillStyle='#5a5a5a';ctx.font='700 20px Inter, sans-serif';
     ctx.fillText('350 · Mercato Ligue 1',W/2,H-30);
 
-    canvas.toBlob(blob=>{
-      const url=URL.createObjectURL(blob);
-      const a=document.createElement('a');
-      a.href=url;a.download=`compo-${club}-${formation}.png`.toLowerCase();
-      document.body.appendChild(a);a.click();a.remove();
-      setTimeout(()=>URL.revokeObjectURL(url),4000);
-    },'image/png');
+    const blob=await new Promise(resolve=>canvas.toBlob(resolve,'image/png'));
+    const filename=`compo-${club}-${formation}.png`.toLowerCase();
+    await shareOrDownload(blob,filename,`Ma compo ${m.name}`);
   } finally {
     btn.disabled=false;btn.textContent=original;
   }
