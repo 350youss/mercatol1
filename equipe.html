@@ -215,8 +215,27 @@ select{cursor:pointer;}
   <div class="modal-sub">Un joueur qui n'est pas encore dans l'effectif</div>
   <input id="rName" placeholder="Nom du joueur" maxlength="40" style="width:100%;margin-bottom:10px;">
   <select id="rPos" style="width:100%;margin-bottom:14px;">
-    <option value="GK">Gardien</option><option value="DEF">Défenseur</option>
-    <option value="MID" selected>Milieu</option><option value="ATT">Attaquant</option>
+    <optgroup label="Gardien">
+      <option value="GdB">Gardien de but</option>
+    </optgroup>
+    <optgroup label="Défenseurs">
+      <option value="ArD">Arrière droit</option>
+      <option value="ArG">Arrière gauche</option>
+      <option value="DC">Défenseur central</option>
+    </optgroup>
+    <optgroup label="Milieux">
+      <option value="MDC">Milieu défensif</option>
+      <option value="MC" selected>Milieu central</option>
+      <option value="MO">Milieu offensif</option>
+      <option value="MD">Milieu droit</option>
+      <option value="MG">Milieu gauche</option>
+    </optgroup>
+    <optgroup label="Attaquants">
+      <option value="AiD">Ailier droit</option>
+      <option value="AiG">Ailier gauche</option>
+      <option value="AC">Avant-centre</option>
+      <option value="SA">Second attaquant</option>
+    </optgroup>
   </select>
   <div class="feerow">
     <input id="rFee" type="number" placeholder="Montant (M€)" min="0" step="0.5">
@@ -240,7 +259,8 @@ const FORMATIONS={
 };
 const GRPCLS={GK:'gk',DEF:'def',MID:'mid',ATT:'att'};
 const GRPLAB={GK:'Gardiens',DEF:'Défenseurs',MID:'Milieux',ATT:'Attaquants'};
-const POSLAB={GK:'GB',DEF:'DC',MID:'MC',ATT:'BU'};
+// poste précis (recrue) -> groupe (GK/DEF/MID/ATT), même convention que les joueurs scrapés
+const POS_GRP={GdB:'GK',ArD:'DEF',ArG:'DEF',DC:'DEF',MDC:'MID',MC:'MID',MO:'MID',MD:'MID',MG:'MID',AiD:'ATT',AiG:'ATT',AC:'ATT',SA:'ATT'};
 
 let club=null, formation="4-3-3";
 let slots=[];              // {role,x,y,starter,sub}
@@ -358,10 +378,11 @@ function assignSeat(i,seat,k){
 function addRecruit(){
   const name=document.getElementById('rName').value.trim();
   if(!name){document.getElementById('rName').focus();return;}
-  const grp=document.getElementById('rPos').value;
+  const pos=document.getElementById('rPos').value;
+  const grp=POS_GRP[pos]||'MID';
   const loan=document.getElementById('rLoan').checked;
   const val=parseFloat(document.getElementById('rFee').value)||0;
-  recruits.push({id:recId++,p:name,pos:POSLAB[grp],grp,type:loan?'loan':'paid',val:loan?0:val});
+  recruits.push({id:recId++,p:name,pos,grp,type:loan?'loan':'paid',val:loan?0:val});
   document.getElementById('rName').value='';document.getElementById('rFee').value='';document.getElementById('rLoan').checked=false;
   document.getElementById('recruitModal').classList.add('hidden');
   renderAll();
