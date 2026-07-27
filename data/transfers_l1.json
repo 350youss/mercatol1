@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-25T14:01:14",
- "sig": "fe81a14c5c4d80a1cb42b463346fd1e1",
+ "updated": "2026-07-27T02:01:08",
+ "sig": "d17eba7dc142e42f776f9b8cace5124f",
  "seen": {
   "PSG|out|Gonçalo Ramos|AC Milan": "2026-07-22",
   "PSG|out|Kang-in Lee|Atlético": "2026-07-25",
@@ -82,8 +82,8 @@
   "RCSA|in|Mateo Del Blanco|Unión Santa Fe": "2026-07-22",
   "RCSA|in|Benjamin Brantlind|IFK Göteborg": "2026-07-22",
   "RCSA|in|Milosz Piekutowski|Jagiellonia": "2026-07-22",
-  "RCSA|out|Stefan Bajic|Alem. Aachen": "2026-07-22",
   "RCSA|out|Emmanuel Emegha|Chelsea": "2026-07-22",
+  "RCSA|out|Stefan Bajic|Alem. Aachen": "2026-07-22",
   "RCSA|out|Karl-Johan Johnsson|Sans club": "2026-07-22",
   "FCL|in|Gabin Bernardeau|OGC Nice": "2026-07-22",
   "FCL|in|Alec Georgen|USL Dunkerque": "2026-07-22",
@@ -982,20 +982,20 @@
    ],
    "dep": [
     {
+     "p": "Emmanuel Emegha",
+     "age": 23,
+     "pos": "AC",
+     "club": "Chelsea",
+     "type": "paid",
+     "val": 25.3,
+     "fs": "2026-07-22"
+    },
+    {
      "p": "Stefan Bajic",
      "age": 24,
      "pos": "GdB",
      "club": "Alem. Aachen",
      "type": "free",
-     "val": 0.0,
-     "fs": "2026-07-22"
-    },
-    {
-     "p": "Emmanuel Emegha",
-     "age": 23,
-     "pos": "AC",
-     "club": "Chelsea",
-     "type": "none",
      "val": 0.0,
      "fs": "2026-07-22"
     },
