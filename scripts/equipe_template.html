@@ -81,7 +81,10 @@ select{cursor:pointer;}
 .fbtn{background:var(--s1);border:1px solid var(--line);color:var(--sub);font-weight:800;font-size:12px;padding:8px 13px;border-radius:8px;cursor:pointer;transition:all .15s;font-family:inherit;}
 .fbtn:hover{border-color:var(--accent);color:#fff;}
 .fbtn.active{background:var(--accent);border-color:var(--accent);color:#fff;}
-.controls .reset{margin-left:auto;color:var(--out);border-color:rgba(255,77,109,.3);}
+.controls .share{margin-left:auto;background:var(--in);border-color:var(--in);color:#04160c;}
+.controls .share:hover{background:#2bb06c;border-color:#2bb06c;color:#04160c;}
+.controls .share[disabled]{opacity:.6;cursor:default;}
+.controls .reset{color:var(--out);border-color:rgba(255,77,109,.3);}
 .controls .reset:hover{background:var(--out);color:#fff;border-color:var(--out);}
 
 .pitch-wrap{background:var(--s1);border:1px solid var(--line);border-radius:14px;padding:16px;display:flex;justify-content:center;}
@@ -325,9 +328,183 @@ function loadClub(code){
 function renderFormations(){
   document.getElementById('formations').innerHTML=
     Object.keys(FORMATIONS).map(f=>`<button class="fbtn${f===formation?' active':''}" data-f="${f}">${f}</button>`).join('')
+    +`<button class="fbtn share" id="shareBtn">⇩ Partager</button>`
     +`<button class="fbtn reset" id="resetBtn">Réinitialiser</button>`;
   document.querySelectorAll('.fbtn[data-f]').forEach(b=>b.onclick=()=>{setFormation(b.dataset.f,true);active=null;renderFormations();renderAll();});
   document.getElementById('resetBtn').onclick=()=>{setFormation(formation,false);active=null;renderAll();};
+  document.getElementById('shareBtn').onclick=shareImage;
+}
+
+/* ---------- image de partage (canvas) ---------- */
+function loadImage(src){
+  return new Promise((resolve,reject)=>{
+    const img=new Image();
+    img.onload=()=>resolve(img);
+    img.onerror=reject;
+    img.src=src;
+  });
+}
+function getCrestDataUri(){
+  const el=document.querySelector('#topcrestbox .crest');
+  if(!el)return null;
+  const bg=getComputedStyle(el).backgroundImage;
+  const m=/url\(["']?(.+?)["']?\)/.exec(bg);
+  return (m&&m[1]!=='none')?m[1]:null;
+}
+function roundRect(ctx,x,y,w,h,r){
+  ctx.beginPath();
+  ctx.moveTo(x+r,y);
+  ctx.arcTo(x+w,y,x+w,y+h,r);
+  ctx.arcTo(x+w,y+h,x,y+h,r);
+  ctx.arcTo(x,y+h,x,y,r);
+  ctx.arcTo(x,y,x+w,y,r);
+  ctx.closePath();
+}
+function fitText(ctx,text,x,y,maxW,size,family,weight){
+  weight=weight||'400';let s=size;
+  ctx.font=`${weight} ${s}px ${family}, sans-serif`;
+  while(ctx.measureText(text).width>maxW && s>16){s-=2;ctx.font=`${weight} ${s}px ${family}, sans-serif`;}
+  ctx.fillText(text,x,y);
+}
+function drawPitch(ctx,x,y,w,h){
+  const stripes=10;
+  for(let i=0;i<stripes;i++){
+    ctx.fillStyle=i%2===0?'#1a7a43':'#178040';
+    ctx.fillRect(x,y+(h/stripes)*i,w,h/stripes+1);
+  }
+  ctx.strokeStyle='rgba(255,255,255,.85)';ctx.lineWidth=3;
+  ctx.strokeRect(x,y,w,h);
+  ctx.beginPath();ctx.moveTo(x,y+h/2);ctx.lineTo(x+w,y+h/2);ctx.stroke();
+  ctx.beginPath();ctx.arc(x+w/2,y+h/2,w*0.135,0,Math.PI*2);ctx.stroke();
+  const boxW=w*0.48,boxH=h*0.14;
+  ctx.strokeRect(x+(w-boxW)/2,y,boxW,boxH);
+  ctx.strokeRect(x+(w-boxW)/2,y+h-boxH,boxW,boxH);
+}
+async function shareImage(){
+  const btn=document.getElementById('shareBtn');
+  const original=btn.textContent;
+  btn.disabled=true;btn.textContent='Génération…';
+  try{
+    await Promise.all([
+      document.fonts.load('400 46px Tanker'),
+      document.fonts.load('800 22px Inter'),
+      document.fonts.load('700 22px Inter'),
+    ]);
+    await document.fonts.ready;
+
+    const W=1080,H=1350;
+    const canvas=document.createElement('canvas');
+    canvas.width=W;canvas.height=H;
+    const ctx=canvas.getContext('2d');
+    const m=CLUBMETA[club];
+
+    ctx.fillStyle='#0a0a0a';ctx.fillRect(0,0,W,H);
+    const grad=ctx.createLinearGradient(0,0,W,0);
+    grad.addColorStop(0,'#34c77b');grad.addColorStop(.4,'#4a8cff');grad.addColorStop(.7,'#ff4d6d');grad.addColorStop(1,'#34c77b');
+    ctx.fillStyle=grad;ctx.fillRect(0,0,W,10);
+
+    const crestSize=104,crestX=56,crestY=56;
+    function drawMonogram(){
+      roundRect(ctx,crestX,crestY,crestSize,crestSize,22);
+      ctx.fillStyle=m.bg;ctx.fill();
+      ctx.fillStyle=m.fg;ctx.font='400 34px Tanker, sans-serif';
+      ctx.textAlign='center';ctx.textBaseline='middle';
+      ctx.fillText(club.slice(0,4),crestX+crestSize/2,crestY+crestSize/2+2);
+    }
+    const dataUri=getCrestDataUri();
+    if(dataUri){
+      try{
+        const img=await loadImage(dataUri);
+        roundRect(ctx,crestX,crestY,crestSize,crestSize,22);
+        ctx.fillStyle='#fff';ctx.fill();
+        ctx.save();roundRect(ctx,crestX,crestY,crestSize,crestSize,22);ctx.clip();
+        const pad=8;
+        ctx.drawImage(img,crestX+pad,crestY+pad,crestSize-pad*2,crestSize-pad*2);
+        ctx.restore();
+      }catch(e){drawMonogram();}
+    } else drawMonogram();
+
+    ctx.textAlign='left';ctx.textBaseline='alphabetic';
+    ctx.fillStyle='#fff';
+    fitText(ctx,m.name.toUpperCase(),crestX+crestSize+24,crestY+46,W-crestX-crestSize-24-190,46,'Tanker','400');
+    ctx.fillStyle='#9a9a9a';
+    ctx.font='700 20px Inter, sans-serif';
+    ctx.fillText('COMPOSITION · LIGUE 1 2026/27',crestX+crestSize+24,crestY+crestSize-6);
+
+    const chipW=150,chipH=42,chipX=W-56-chipW,chipY=crestY+(crestSize-chipH)/2;
+    roundRect(ctx,chipX,chipY,chipW,chipH,10);
+    ctx.fillStyle='#4a8cff';ctx.fill();
+    ctx.fillStyle='#fff';ctx.font='800 22px Inter, sans-serif';
+    ctx.textAlign='center';ctx.textBaseline='middle';
+    ctx.fillText(formation,chipX+chipW/2,chipY+chipH/2+1);
+
+    const pitchX=56,pitchY=200,pitchW=W-112,pitchH=860;
+    drawPitch(ctx,pitchX,pitchY,pitchW,pitchH);
+
+    slots.forEach(sl=>{
+      const cx=pitchX+(sl.x/100)*pitchW, cy=pitchY+(sl.y/100)*pitchH;
+      const p=sl.starter?getPlayer(sl.starter):null;
+      const r=46;
+      if(p){
+        ctx.beginPath();ctx.arc(cx,cy,r,0,Math.PI*2);
+        ctx.fillStyle=m.bg;ctx.fill();
+        ctx.lineWidth=4;ctx.strokeStyle='#fff';ctx.stroke();
+        ctx.fillStyle='#fff';ctx.font='800 34px Inter, sans-serif';
+        ctx.textAlign='center';ctx.textBaseline='middle';
+        ctx.fillText(p.n||short(p.p).slice(0,3).toUpperCase(),cx,cy+2);
+        ctx.font='700 22px Inter, sans-serif';
+        ctx.shadowColor='rgba(0,0,0,.85)';ctx.shadowBlur=6;
+        ctx.fillText(short(p.p),cx,cy+r+30);
+        ctx.shadowBlur=0;
+      } else {
+        ctx.beginPath();ctx.arc(cx,cy,r,0,Math.PI*2);
+        ctx.setLineDash([6,6]);ctx.lineWidth=3;ctx.strokeStyle='rgba(255,255,255,.45)';ctx.stroke();
+        ctx.setLineDash([]);
+        ctx.fillStyle='rgba(255,255,255,.7)';ctx.font='800 20px Inter, sans-serif';
+        ctx.textAlign='center';ctx.textBaseline='middle';
+        ctx.fillText(sl.role,cx,cy);
+      }
+    });
+
+    const subs=slots.filter(s=>s.sub).map(s=>getPlayer(s.sub)).filter(Boolean);
+    let subY=pitchY+pitchH+56;
+    ctx.textAlign='left';ctx.textBaseline='alphabetic';
+    ctx.fillStyle='#9a9a9a';ctx.font='800 20px Inter, sans-serif';
+    ctx.fillText('REMPLAÇANTS',56,subY);
+    subY+=24;
+    if(subs.length){
+      let cx2=56;const chipHh=40,chipGap=10;
+      ctx.font='700 22px Inter, sans-serif';ctx.textBaseline='middle';
+      subs.forEach(p=>{
+        const label=short(p.p);
+        const cw=ctx.measureText(label).width+34;
+        if(cx2+cw>W-56){cx2=56;subY+=chipHh+10;}
+        roundRect(ctx,cx2,subY,cw,chipHh,20);
+        ctx.fillStyle='#161618';ctx.fill();
+        ctx.strokeStyle='rgba(255,255,255,.14)';ctx.lineWidth=1;ctx.stroke();
+        ctx.fillStyle='#fff';
+        ctx.fillText(label,cx2+17,subY+chipHh/2+1);
+        cx2+=cw+chipGap;
+      });
+    } else {
+      ctx.font='italic 20px Inter, sans-serif';ctx.fillStyle='#5a5a5a';
+      ctx.fillText('Aucun remplaçant placé',56,subY+20);
+    }
+
+    ctx.textAlign='center';ctx.textBaseline='alphabetic';
+    ctx.fillStyle='#5a5a5a';ctx.font='700 20px Inter, sans-serif';
+    ctx.fillText('350 · Mercato Ligue 1',W/2,H-30);
+
+    canvas.toBlob(blob=>{
+      const url=URL.createObjectURL(blob);
+      const a=document.createElement('a');
+      a.href=url;a.download=`compo-${club}-${formation}.png`.toLowerCase();
+      document.body.appendChild(a);a.click();a.remove();
+      setTimeout(()=>URL.revokeObjectURL(url),4000);
+    },'image/png');
+  } finally {
+    btn.disabled=false;btn.textContent=original;
+  }
 }
 
 /* ---------- actions ---------- */
