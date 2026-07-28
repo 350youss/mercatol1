@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-28T17:01:13",
- "sig": "44c046151893025b4a1b6f15729e6a6d",
+ "updated": "2026-07-28T18:52:27",
+ "sig": "08d97a19e94011c3dde437ce8689b386",
  "seen": {
   "PSG|out|Gonçalo Ramos|AC Milan": "2026-07-22",
   "PSG|out|Kang-in Lee|Atlético": "2026-07-25",
@@ -41,6 +41,7 @@
   "OL|in|Mads Bidstrup|RB Salzbourg": "2026-07-22",
   "OL|in|Julien Duranville|Dortmund": "2026-07-22",
   "OL|in|Noham Kamara|Paris SG": "2026-07-22",
+  "OL|in|Loïs Openda|Juventus": "2026-07-28",
   "OL|in|Mohamed Ouédraogo|SCR Altach": "2026-07-22",
   "OL|in|Kaïl Boudache|OGC Nice": "2026-07-22",
   "OL|out|Afonso Moreira|Leverkusen": "2026-07-22",
@@ -573,6 +574,15 @@
      "type": "paid",
      "val": 4.1,
      "fs": "2026-07-22"
+    },
+    {
+     "p": "Loïs Openda",
+     "age": 26,
+     "pos": "AC",
+     "club": "Juventus",
+     "type": "loan",
+     "val": 3.5,
+     "fs": "2026-07-28"
     },
     {
      "p": "Mohamed Ouédraogo",
@@ -2950,6 +2960,14 @@
     "grp": "ATT",
     "age": 20,
     "val": 5.0
+   },
+   {
+    "n": "",
+    "p": "Loïs Openda",
+    "pos": "AC",
+    "grp": "ATT",
+    "age": 26,
+    "val": 25.0
    },
    {
     "n": "",
