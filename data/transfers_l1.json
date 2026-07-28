@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-28T18:52:27",
- "sig": "08d97a19e94011c3dde437ce8689b386",
+ "updated": "2026-07-28T23:01:09",
+ "sig": "0aad1d9f1bbd676691db9a91ff184fc4",
  "seen": {
   "PSG|out|Gonçalo Ramos|AC Milan": "2026-07-22",
   "PSG|out|Kang-in Lee|Atlético": "2026-07-25",
@@ -14,6 +14,7 @@
   "RCL|in|Thorgan Hazard|RSC Anderlecht": "2026-07-22",
   "RCL|out|Facundo Medina|Marseille": "2026-07-22",
   "RCL|out|Anass Zaroury|Panathinaikos": "2026-07-22",
+  "RCL|out|Rémy Labeau Lascary|AJ Auxerre": "2026-07-28",
   "RCL|out|Malang Sarr|NEOM SC": "2026-07-22",
   "RCL|out|Allan Saint-Maximin|Charlotte": "2026-07-22",
   "RCL|out|Wesley Saïd|Al-Shamal SC": "2026-07-22",
@@ -149,6 +150,7 @@
   "AJA|in|Danny Namaso|FC Porto": "2026-07-22",
   "AJA|in|Christ Makosso|Luton": "2026-07-22",
   "AJA|in|Mamadou Diop|Grenoble": "2026-07-22",
+  "AJA|in|Rémy Labeau Lascary|RC Lens": "2026-07-28",
   "AJA|in|Sékou Fofana|Lausanne-Sport": "2026-07-22",
   "AJA|in|Paul Nardi|QPR": "2026-07-22",
   "AJA|in|Xiangxin Wei|MZ Hakka": "2026-07-22",
@@ -167,6 +169,7 @@
   "OGCN|out|Kaïl Boudache|Ol. Lyonnais": "2026-07-22",
   "OGCN|out|Maxime Dupé|FC Nantes": "2026-07-22",
   "OGCN|out|Aliou Baldé|FC Saint-Gall": "2026-07-22",
+  "OGCN|out|Rareș Ilie|Mantova": "2026-07-28",
   "OGCN|out|Tanguy Ndombélé|Sans club": "2026-07-22",
   "OGCN|out|Dante|Fin de carrière": "2026-07-22",
   "OGCN|out|Bartosz Żelazowski|Sans club": "2026-07-22",
@@ -313,6 +316,15 @@
      "type": "paid",
      "val": 2.7,
      "fs": "2026-07-22"
+    },
+    {
+     "p": "Rémy Labeau Lascary",
+     "age": 23,
+     "pos": "AC",
+     "club": "AJ Auxerre",
+     "type": "loan",
+     "val": 1.5,
+     "fs": "2026-07-28"
     },
     {
      "p": "Malang Sarr",
@@ -1027,7 +1039,7 @@
      "age": 20,
      "pos": "AiG",
      "club": "América",
-     "type": "none",
+     "type": "loan",
      "val": 0.0,
      "fs": "2026-07-28"
     },
@@ -1657,6 +1669,15 @@
      "fs": "2026-07-22"
     },
     {
+     "p": "Rémy Labeau Lascary",
+     "age": 23,
+     "pos": "AC",
+     "club": "RC Lens",
+     "type": "loan",
+     "val": 1.5,
+     "fs": "2026-07-28"
+    },
+    {
      "p": "Sékou Fofana",
      "age": 23,
      "pos": "ArG",
@@ -1829,6 +1850,15 @@
      "type": "none",
      "val": 0.0,
      "fs": "2026-07-22"
+    },
+    {
+     "p": "Rareș Ilie",
+     "age": 23,
+     "pos": "MO",
+     "club": "Mantova",
+     "type": "none",
+     "val": 0.0,
+     "fs": "2026-07-28"
     },
     {
      "p": "Tanguy Ndombélé",
@@ -2470,14 +2500,6 @@
     "val": 8.0
    },
    {
-    "n": "20",
-    "p": "Rémy Labeau Lascary",
-    "pos": "AC",
-    "grp": "ATT",
-    "age": 23,
-    "val": 4.0
-   },
-   {
     "n": "7",
     "p": "Florian Sotoca",
     "pos": "AC",
@@ -2946,7 +2968,7 @@
     "val": 6.0
    },
    {
-    "n": "37",
+    "n": "7",
     "p": "Ernest Nuamah",
     "pos": "AiD",
     "grp": "ATT",
@@ -2962,7 +2984,7 @@
     "val": 5.0
    },
    {
-    "n": "",
+    "n": "17",
     "p": "Loïs Openda",
     "pos": "AC",
     "grp": "ATT",
@@ -5264,6 +5286,14 @@
     "val": 0.15
    },
    {
+    "n": "3",
+    "p": "Rémy Labeau Lascary",
+    "pos": "AC",
+    "grp": "ATT",
+    "age": 23,
+    "val": 4.0
+   },
+   {
     "n": "",
     "p": "Theo Bair",
     "pos": "AC",
@@ -5448,14 +5478,6 @@
     "grp": "MID",
     "age": 23,
     "val": 7.0
-   },
-   {
-    "n": "",
-    "p": "Rareș Ilie",
-    "pos": "MO",
-    "grp": "MID",
-    "age": 23,
-    "val": 1.2
    },
    {
     "n": "10",
