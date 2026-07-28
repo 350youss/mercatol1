@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-27T17:01:09",
- "sig": "e96196a6d61a3b14142b6a55349a9030",
+ "updated": "2026-07-28T17:01:13",
+ "sig": "44c046151893025b4a1b6f15729e6a6d",
  "seen": {
   "PSG|out|Gonçalo Ramos|AC Milan": "2026-07-22",
   "PSG|out|Kang-in Lee|Atlético": "2026-07-25",
@@ -29,6 +29,7 @@
   "LOSC|in|Başar Önal|NEC Nijmegen": "2026-07-22",
   "LOSC|in|Loun Srdanovic|Servette FC": "2026-07-22",
   "LOSC|in|Tanguy Nianzou|Séville FC": "2026-07-22",
+  "LOSC|out|Ugo Raghouber|Burnley FC": "2026-07-28",
   "LOSC|out|Vincent Burlet|Cracovia": "2026-07-22",
   "LOSC|out|Thomas Meunier|AFC Sunderland": "2026-07-22",
   "LOSC|out|Aïssa Mandi|UD Levante": "2026-07-22",
@@ -84,6 +85,7 @@
   "RCSA|in|Milosz Piekutowski|Jagiellonia": "2026-07-22",
   "RCSA|out|Emmanuel Emegha|Chelsea": "2026-07-22",
   "RCSA|out|Stefan Bajic|Alem. Aachen": "2026-07-22",
+  "RCSA|out|Óscar Perea|América": "2026-07-28",
   "RCSA|out|Karl-Johan Johnsson|Sans club": "2026-07-22",
   "FCL|in|Gabin Bernardeau|OGC Nice": "2026-07-22",
   "FCL|in|Alec Georgen|USL Dunkerque": "2026-07-22",
@@ -125,6 +127,7 @@
   "SCO|out|Sidiki Chérif|Fenerbahçe": "2026-07-22",
   "SCO|out|Florent Hanin|Nea Salamis": "2026-07-22",
   "SCO|out|Lanroy Machine|Heerenveen": "2026-07-27",
+  "SCO|out|Dan Sinaté|Amiens SC": "2026-07-28",
   "SCO|out|Abdoulaye Bamba|Fin de carrière": "2026-07-22",
   "SCO|out|Pierrick Capelle|Fin de carrière": "2026-07-22",
   "HAC|in|Timothée Pembélé|AFC Sunderland": "2026-07-22",
@@ -455,6 +458,15 @@
     }
    ],
    "dep": [
+    {
+     "p": "Ugo Raghouber",
+     "age": 23,
+     "pos": "MDC",
+     "club": "Burnley FC",
+     "type": "paid",
+     "val": 5.0,
+     "fs": "2026-07-28"
+    },
     {
      "p": "Vincent Burlet",
      "age": 20,
@@ -1001,6 +1013,15 @@
      "fs": "2026-07-22"
     },
     {
+     "p": "Óscar Perea",
+     "age": 20,
+     "pos": "AiG",
+     "club": "América",
+     "type": "none",
+     "val": 0.0,
+     "fs": "2026-07-28"
+    },
+    {
      "p": "Karl-Johan Johnsson",
      "age": 36,
      "pos": "GdB",
@@ -1417,6 +1438,15 @@
      "type": "loan",
      "val": 0.0,
      "fs": "2026-07-27"
+    },
+    {
+     "p": "Dan Sinaté",
+     "age": 20,
+     "pos": "ArG",
+     "club": "Amiens SC",
+     "type": "loan",
+     "val": 0.0,
+     "fs": "2026-07-28"
     },
     {
      "p": "Abdoulaye Bamba",
@@ -2084,14 +2114,6 @@
     "val": 1.8
    },
    {
-    "n": "",
-    "p": "Naoufel El Hannach",
-    "pos": "ArD",
-    "grp": "DEF",
-    "age": 19,
-    "val": 1.5
-   },
-   {
     "n": "17",
     "p": "Vitinha",
     "pos": "MDC",
@@ -2366,6 +2388,14 @@
     "val": 3.0
    },
    {
+    "n": "38",
+    "p": "Mezian Mesloub",
+    "pos": "MC",
+    "grp": "MID",
+    "age": 16,
+    "val": 0.5
+   },
+   {
     "n": "9",
     "p": "Thorgan Hazard",
     "pos": "MO",
@@ -2557,14 +2587,6 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 35,
-    "val": 3.0
-   },
-   {
-    "n": "34",
-    "p": "Ugo Raghouber",
-    "pos": "MDC",
-    "grp": "MID",
-    "age": 23,
     "val": 3.0
    },
    {
@@ -3826,14 +3848,6 @@
     "val": 2.8
    },
    {
-    "n": "",
-    "p": "Óscar Perea",
-    "pos": "AiG",
-    "grp": "ATT",
-    "age": 20,
-    "val": 1.5
-   },
-   {
     "n": "80",
     "p": "Gessime Yassine",
     "pos": "AiD",
@@ -4690,14 +4704,6 @@
     "grp": "DEF",
     "age": 22,
     "val": 9.0
-   },
-   {
-    "n": "23",
-    "p": "Dan Sinaté",
-    "pos": "ArG",
-    "grp": "DEF",
-    "age": 20,
-    "val": 0.15
    },
    {
     "n": "27",
