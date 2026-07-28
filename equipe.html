@@ -340,6 +340,7 @@ function loadClub(code){
   document.getElementById('recruitModal').classList.add('hidden');
   setMobileTab('squad');
   renderFormations(); renderAll();
+  preloadShareAssets();   // prépare logo + polices à l'avance (voir plus bas)
 }
 function renderFormations(){
   document.getElementById('formations').innerHTML=
@@ -366,6 +367,26 @@ function getCrestDataUri(){
   const bg=getComputedStyle(el).backgroundImage;
   const m=/url\(["']?(.+?)["']?\)/.exec(bg);
   return (m&&m[1]!=='none')?m[1]:null;
+}
+
+/* Préchargement (logo + polices) déclenché à chaque changement de club,
+   pour que shareImage() n'ait (quasi) plus rien à attendre au moment du clic :
+   Safari exige que navigator.share() suive le clic sans délai notable. */
+let shareFontsWarmed=false;
+let currentCrestImgPromise=Promise.resolve(null);
+function warmShareFonts(){
+  if(shareFontsWarmed)return;
+  shareFontsWarmed=true;
+  Promise.all([
+    document.fonts.load('400 46px Tanker'),
+    document.fonts.load('800 22px Inter'),
+    document.fonts.load('700 22px Inter'),
+  ]).catch(()=>{});
+}
+function preloadShareAssets(){
+  warmShareFonts();
+  const dataUri=getCrestDataUri();
+  currentCrestImgPromise=dataUri?loadImage(dataUri).catch(()=>null):Promise.resolve(null);
 }
 function roundRect(ctx,x,y,w,h,r){
   ctx.beginPath();
@@ -418,12 +439,11 @@ async function shareImage(){
   const original=btn.textContent;
   btn.disabled=true;btn.textContent='Génération…';
   try{
-    await Promise.all([
-      document.fonts.load('400 46px Tanker'),
-      document.fonts.load('800 22px Inter'),
-      document.fonts.load('700 22px Inter'),
-    ]);
-    await document.fonts.ready;
+    // polices déjà préchargées (preloadShareAssets) -> on n'attend que si vraiment nécessaire, et borné
+    if(document.fonts.status!=='loaded'){
+      await Promise.race([document.fonts.ready,new Promise(r=>setTimeout(r,120))]);
+    }
+    const crestImg=await currentCrestImgPromise;   // déjà résolu dans l'immense majorité des cas
 
     const W=1080,H=1350;
     const canvas=document.createElement('canvas');
@@ -444,17 +464,13 @@ async function shareImage(){
       ctx.textAlign='center';ctx.textBaseline='middle';
       ctx.fillText(club.slice(0,4),crestX+crestSize/2,crestY+crestSize/2+2);
     }
-    const dataUri=getCrestDataUri();
-    if(dataUri){
-      try{
-        const img=await loadImage(dataUri);
-        roundRect(ctx,crestX,crestY,crestSize,crestSize,22);
-        ctx.fillStyle='#fff';ctx.fill();
-        ctx.save();roundRect(ctx,crestX,crestY,crestSize,crestSize,22);ctx.clip();
-        const pad=8;
-        ctx.drawImage(img,crestX+pad,crestY+pad,crestSize-pad*2,crestSize-pad*2);
-        ctx.restore();
-      }catch(e){drawMonogram();}
+    if(crestImg){
+      roundRect(ctx,crestX,crestY,crestSize,crestSize,22);
+      ctx.fillStyle='#fff';ctx.fill();
+      ctx.save();roundRect(ctx,crestX,crestY,crestSize,crestSize,22);ctx.clip();
+      const pad=8;
+      ctx.drawImage(crestImg,crestX+pad,crestY+pad,crestSize-pad*2,crestSize-pad*2);
+      ctx.restore();
     } else drawMonogram();
 
     ctx.textAlign='left';ctx.textBaseline='alphabetic';
@@ -485,10 +501,11 @@ async function shareImage(){
         ctx.fillStyle='#fff';ctx.font='800 34px Inter, sans-serif';
         ctx.textAlign='center';ctx.textBaseline='middle';
         ctx.fillText(p.n||short(p.p).slice(0,3).toUpperCase(),cx,cy+2);
-        ctx.font='700 22px Inter, sans-serif';
-        ctx.shadowColor='rgba(0,0,0,.85)';ctx.shadowBlur=6;
+        ctx.font='700 22px Inter, sans-serif';ctx.lineJoin='round';
+        ctx.lineWidth=4;ctx.strokeStyle='rgba(0,0,0,.9)';
+        ctx.strokeText(short(p.p),cx,cy+r+30);
+        ctx.fillStyle='#fff';
         ctx.fillText(short(p.p),cx,cy+r+30);
-        ctx.shadowBlur=0;
       } else {
         ctx.beginPath();ctx.arc(cx,cy,r,0,Math.PI*2);
         ctx.setLineDash([6,6]);ctx.lineWidth=3;ctx.strokeStyle='rgba(255,255,255,.45)';ctx.stroke();
