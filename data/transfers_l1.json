@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-29T17:01:11",
- "sig": "2a9166320dab391ccdf2c6228e81c80e",
+ "updated": "2026-07-29T20:01:37",
+ "sig": "4bc9e353a7247be6301d28c098bb7a29",
  "seen": {
   "PSG|out|Gonçalo Ramos|AC Milan": "2026-07-22",
   "PSG|out|Kang-in Lee|Atlético": "2026-07-25",
@@ -87,6 +87,7 @@
   "RCSA|in|Benjamin Brantlind|IFK Göteborg": "2026-07-22",
   "RCSA|in|Milosz Piekutowski|Jagiellonia": "2026-07-22",
   "RCSA|out|Emmanuel Emegha|Chelsea": "2026-07-22",
+  "RCSA|out|Junior Mwanga|Le Havre AC": "2026-07-29",
   "RCSA|out|Stefan Bajic|Alem. Aachen": "2026-07-22",
   "RCSA|out|Óscar Perea|América": "2026-07-28",
   "RCSA|out|Karl-Johan Johnsson|Sans club": "2026-07-22",
@@ -134,6 +135,7 @@
   "SCO|out|Dan Sinaté|Amiens SC": "2026-07-28",
   "SCO|out|Abdoulaye Bamba|Fin de carrière": "2026-07-22",
   "SCO|out|Pierrick Capelle|Fin de carrière": "2026-07-22",
+  "HAC|in|Junior Mwanga|R. Strasbourg": "2026-07-29",
   "HAC|in|Timothée Pembélé|AFC Sunderland": "2026-07-22",
   "HAC|in|Kaito Mizuta|RW Essen": "2026-07-22",
   "HAC|in|Vincent Sasso|USL Dunkerque": "2026-07-22",
@@ -1038,6 +1040,15 @@
      "fs": "2026-07-22"
     },
     {
+     "p": "Junior Mwanga",
+     "age": 23,
+     "pos": "MDC",
+     "club": "Le Havre AC",
+     "type": "paid",
+     "val": 1.5,
+     "fs": "2026-07-29"
+    },
+    {
      "p": "Stefan Bajic",
      "age": 24,
      "pos": "GdB",
@@ -1517,6 +1528,15 @@
    "bg": "#003e7e",
    "fg": "#fff",
    "arr": [
+    {
+     "p": "Junior Mwanga",
+     "age": 23,
+     "pos": "MDC",
+     "club": "R. Strasbourg",
+     "type": "paid",
+     "val": 1.5,
+     "fs": "2026-07-29"
+    },
     {
      "p": "Timothée Pembélé",
      "age": 23,
@@ -3798,14 +3818,6 @@
     "val": 8.0
    },
    {
-    "n": "18",
-    "p": "Junior Mwanga",
-    "pos": "MDC",
-    "grp": "MID",
-    "age": 23,
-    "val": 6.0
-   },
-   {
     "n": "8",
     "p": "Maxi Oyedele",
     "pos": "MDC",
@@ -4976,6 +4988,14 @@
     "grp": "DEF",
     "age": 23,
     "val": 1.8
+   },
+   {
+    "n": "",
+    "p": "Junior Mwanga",
+    "pos": "MDC",
+    "grp": "MID",
+    "age": 23,
+    "val": 6.0
    },
    {
     "n": "78",
