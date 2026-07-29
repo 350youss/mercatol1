@@ -97,12 +97,12 @@ select{cursor:pointer;}
 
 /* le slot est ancré par le CENTRE DU TITULAIRE (translateY fixe, pas -50%) :
    le remplaçant/étiquette qui suit en dessous ne décale donc jamais l'ancrage. */
-.slot{position:absolute;transform:translate(-50%,-25px);width:78px;text-align:center;}
-.disc{width:50px;height:50px;margin:0 auto;border-radius:50%;border:2px dashed rgba(255,255,255,.5);
+.slot{position:absolute;transform:translate(-50%,-22px);width:72px;text-align:center;}
+.disc{width:44px;height:44px;margin:0 auto;border-radius:50%;border:2px dashed rgba(255,255,255,.5);
   background:rgba(0,0,0,.3);display:flex;align-items:center;justify-content:center;
-  font-size:10px;font-weight:800;color:rgba(255,255,255,.8);cursor:pointer;transition:border-color .12s,box-shadow .12s;}
+  font-size:9px;font-weight:800;color:rgba(255,255,255,.8);cursor:pointer;transition:border-color .12s,box-shadow .12s;}
 .slot.filled .starter .disc{border-style:solid;border-color:#fff;background:var(--club,#111);color:#fff;
-  font-size:16px;font-family:'Inter',sans-serif;font-weight:800;cursor:grab;touch-action:none;}
+  font-size:14px;font-family:'Inter',sans-serif;font-weight:800;cursor:grab;touch-action:none;}
 .slot.dragging .disc{cursor:grabbing;}
 .seat.active .disc,.seat.active .subbox{border-color:var(--gold);box-shadow:0 0 0 3px rgba(201,168,76,.4);}
 .seat.dragover .disc,.seat.dragover .subbox{border-color:var(--in);box-shadow:0 0 0 3px rgba(52,199,123,.5);}
@@ -238,11 +238,11 @@ const LOGO_CODES=/*__LOGOCODES__*/[];
 const ORDER=/*__ORDER__*/[];
 
 const FORMATIONS={
- "4-3-3":[["GB",50,78],["DG",15,72],["DC",38,76],["DC",62,76],["DD",85,72],["MC",28,52],["MC",50,55],["MC",72,52],["AIG",18,26],["BU",50,18],["AID",82,26]],
- "4-4-2":[["GB",50,78],["DG",15,72],["DC",38,76],["DC",62,76],["DD",85,72],["MG",15,50],["MC",38,52],["MC",62,52],["MD",85,50],["BU",38,22],["BU",62,22]],
- "4-2-3-1":[["GB",50,78],["DG",15,72],["DC",38,76],["DC",62,76],["DD",85,72],["MDC",35,58],["MDC",65,58],["MG",18,38],["MO",50,35],["MD",82,38],["BU",50,18]],
- "3-5-2":[["GB",50,78],["DC",28,76],["DC",50,78],["DC",72,76],["MG",10,53],["MC",34,52],["MO",50,56],["MC",66,52],["MD",90,53],["BU",38,22],["BU",62,22]],
- "3-4-3":[["GB",50,78],["DC",28,76],["DC",50,78],["DC",72,76],["MG",15,52],["MC",38,54],["MC",62,54],["MD",85,52],["AIG",20,25],["BU",50,18],["AID",80,25]]
+ "4-3-3":[["GB",50,78],["DG",15,64],["DC",38,68],["DC",62,68],["DD",85,64],["MC",28,46],["MC",50,50],["MC",72,46],["AIG",18,22],["BU",50,14],["AID",82,22]],
+ "4-4-2":[["GB",50,78],["DG",15,64],["DC",38,68],["DC",62,68],["DD",85,64],["MG",15,44],["MC",38,46],["MC",62,46],["MD",85,44],["BU",38,18],["BU",62,18]],
+ "4-2-3-1":[["GB",50,78],["DG",15,64],["DC",38,68],["DC",62,68],["DD",85,64],["MDC",35,52],["MDC",65,52],["MG",18,32],["MO",50,28],["MD",82,32],["BU",50,12]],
+ "3-5-2":[["GB",50,78],["DC",28,64],["DC",50,68],["DC",72,64],["MG",8,46],["MC",32,44],["MO",50,50],["MC",68,44],["MD",92,46],["BU",38,16],["BU",62,16]],
+ "3-4-3":[["GB",50,78],["DC",28,64],["DC",50,68],["DC",72,64],["MG",12,48],["MC",35,50],["MC",65,50],["MD",88,48],["AIG",20,20],["BU",50,12],["AID",80,20]]
 };
 const GRPCLS={GK:'gk',DEF:'def',MID:'mid',ATT:'att'};
 const GRPLAB={GK:'Gardiens',DEF:'Défenseurs',MID:'Milieux',ATT:'Attaquants'};
