@@ -106,12 +106,12 @@ select{cursor:pointer;}
 .slot.dragging .disc{cursor:grabbing;}
 .seat.active .disc,.seat.active .subbox{border-color:var(--gold);box-shadow:0 0 0 3px rgba(201,168,76,.4);}
 .seat.dragover .disc,.seat.dragover .subbox{border-color:var(--in);box-shadow:0 0 0 3px rgba(52,199,123,.5);}
-.lab{font-size:9px;font-weight:800;color:rgba(255,255,255,.9);margin-top:2px;text-transform:uppercase;letter-spacing:.03em;text-shadow:0 1px 2px rgba(0,0,0,.7);}
-.who{font-size:10.5px;font-weight:700;color:#fff;line-height:1.05;text-shadow:0 1px 3px rgba(0,0,0,.9);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.lab{font-size:8.5px;font-weight:800;color:rgba(255,255,255,.9);margin-top:1px;text-transform:uppercase;letter-spacing:.03em;text-shadow:0 1px 2px rgba(0,0,0,.7);}
+.who{font-size:10px;font-weight:700;color:#fff;line-height:1;text-shadow:0 1px 3px rgba(0,0,0,.9);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
 
 /* remplaçant : simple rectangle avec le nom, sous le titulaire */
-.sub{margin-top:4px;}
-.subbox{min-width:60px;max-width:78px;padding:3px 5px;border-radius:5px;font-size:9px;font-weight:700;
+.sub{margin-top:2px;}
+.subbox{min-width:60px;max-width:78px;padding:2px 5px;border-radius:5px;font-size:8.5px;font-weight:700;
   border:1.5px dashed rgba(255,255,255,.25);background:rgba(0,0,0,.18);color:rgba(255,255,255,.35);
   white-space:nowrap;overflow:hidden;text-overflow:ellipsis;cursor:pointer;text-transform:uppercase;letter-spacing:.02em;}
 .sub.filled .subbox{border-style:solid;border-color:var(--line);background:var(--s2);color:var(--txt);
@@ -238,11 +238,11 @@ const LOGO_CODES=/*__LOGOCODES__*/[];
 const ORDER=/*__ORDER__*/[];
 
 const FORMATIONS={
- "4-3-3":[["GB",50,78],["DG",15,64],["DC",38,68],["DC",62,68],["DD",85,64],["MC",28,46],["MC",50,50],["MC",72,46],["AIG",18,22],["BU",50,14],["AID",82,22]],
- "4-4-2":[["GB",50,78],["DG",15,64],["DC",38,68],["DC",62,68],["DD",85,64],["MG",15,44],["MC",38,46],["MC",62,46],["MD",85,44],["BU",38,18],["BU",62,18]],
- "4-2-3-1":[["GB",50,78],["DG",15,64],["DC",38,68],["DC",62,68],["DD",85,64],["MDC",35,52],["MDC",65,52],["MG",18,32],["MO",50,28],["MD",82,32],["BU",50,12]],
- "3-5-2":[["GB",50,78],["DC",28,64],["DC",50,68],["DC",72,64],["MG",8,46],["MC",32,44],["MO",50,50],["MC",68,44],["MD",92,46],["BU",38,16],["BU",62,16]],
- "3-4-3":[["GB",50,78],["DC",28,64],["DC",50,68],["DC",72,64],["MG",12,48],["MC",35,50],["MC",65,50],["MD",88,48],["AIG",20,20],["BU",50,12],["AID",80,20]]
+ "4-3-3":[["GB",50,82],["DG",15,58],["DC",38,60],["DC",62,60],["DD",85,58],["MC",28,46],["MC",50,50],["MC",72,46],["AIG",18,22],["BU",50,14],["AID",82,22]],
+ "4-4-2":[["GB",50,82],["DG",15,58],["DC",38,60],["DC",62,60],["DD",85,58],["MG",15,44],["MC",38,46],["MC",62,46],["MD",85,44],["BU",38,18],["BU",62,18]],
+ "4-2-3-1":[["GB",50,82],["DG",15,58],["DC",38,60],["DC",62,60],["DD",85,58],["MDC",35,52],["MDC",65,52],["MG",18,32],["MO",50,28],["MD",82,32],["BU",50,12]],
+ "3-5-2":[["GB",50,82],["DC",28,58],["DC",50,60],["DC",72,58],["MG",8,46],["MC",32,44],["MO",50,50],["MC",68,44],["MD",92,46],["BU",38,16],["BU",62,16]],
+ "3-4-3":[["GB",50,82],["DC",28,58],["DC",50,60],["DC",72,58],["MG",12,48],["MC",35,50],["MC",65,50],["MD",88,48],["AIG",20,20],["BU",50,12],["AID",80,20]]
 };
 const GRPCLS={GK:'gk',DEF:'def',MID:'mid',ATT:'att'};
 const GRPLAB={GK:'Gardiens',DEF:'Défenseurs',MID:'Milieux',ATT:'Attaquants'};
