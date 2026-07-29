@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-28T23:01:09",
- "sig": "0aad1d9f1bbd676691db9a91ff184fc4",
+ "updated": "2026-07-29T17:01:11",
+ "sig": "2a9166320dab391ccdf2c6228e81c80e",
  "seen": {
   "PSG|out|Gonçalo Ramos|AC Milan": "2026-07-22",
   "PSG|out|Kang-in Lee|Atlético": "2026-07-25",
@@ -23,6 +23,7 @@
   "RCL|out|Fodé Sylla|FC Sion": "2026-07-22",
   "RCL|out|Yannick Pandor|Amiens SC": "2026-07-22",
   "RCL|out|Kembo Diliwidi|FCV Dender EH": "2026-07-22",
+  "RCL|out|Erawan Garnier|SC Bastia": "2026-07-29",
   "RCL|out|Jeremy Agbonifo|Jagiellonia": "2026-07-22",
   "RCL|out|Goduine Koyalipou|KV Kortrijk": "2026-07-22",
   "RCL|out|Mattia Fortin|Palerme": "2026-07-22",
@@ -41,7 +42,7 @@
   "LOSC|out|Marc-Aurèle Caillard|Sans club": "2026-07-22",
   "OL|in|Mads Bidstrup|RB Salzbourg": "2026-07-22",
   "OL|in|Julien Duranville|Dortmund": "2026-07-22",
-  "OL|in|Noham Kamara|Paris SG": "2026-07-22",
+  "OL|in|Noham Kamara|PSG": "2026-07-29",
   "OL|in|Loïs Openda|Juventus": "2026-07-28",
   "OL|in|Mohamed Ouédraogo|SCR Altach": "2026-07-22",
   "OL|in|Kaïl Boudache|OGC Nice": "2026-07-22",
@@ -56,7 +57,7 @@
   "OM|out|Mason Greenwood|Fenerbahçe": "2026-07-22",
   "OM|out|Hamed Traoré|Genoa": "2026-07-22",
   "OM|out|Pierre-Emerick Aubameyang|Dep. La Corogne": "2026-07-22",
-  "OM|out|Bilal Nadir|Hamburg": "2026-07-24",
+  "OM|out|Bilal Nadir|Hambourg": "2026-07-29",
   "SRFC|in|Eliezer Mayenda|AFC Sunderland": "2026-07-22",
   "SRFC|in|Bryan Reynolds|KVC Westerlo": "2026-07-22",
   "SRFC|in|Gonçalo Oliveira|Benfica B": "2026-07-22",
@@ -65,7 +66,7 @@
   "SRFC|in|Adrien Thomasson|RC Lens": "2026-07-22",
   "SRFC|in|Nicolas Lemaître|Troyes": "2026-07-22",
   "SRFC|out|Jérémy Jacquet|Liverpool": "2026-07-22",
-  "SRFC|out|Albert Grønbaek|Hamburg": "2026-07-22",
+  "SRFC|out|Albert Grønbaek|Hambourg": "2026-07-29",
   "SRFC|out|Mikayil Faye|1.FC Nürnberg": "2026-07-23",
   "SRFC|out|Lucas Rosier|Concarneau": "2026-07-24",
   "SRFC|out|Mathys Silistrie|QRM": "2026-07-22",
@@ -110,6 +111,7 @@
   "PFC|in|Patrick Zabi|Stade de Reims": "2026-07-22",
   "PFC|in|Diego Coppola|Brighton": "2026-07-22",
   "PFC|in|Pablo Pagis|FC Lorient": "2026-07-22",
+  "PFC|in|Luca Koleosho|Burnley FC": "2026-07-29",
   "PFC|in|Lassine Sinayoko|AJ Auxerre": "2026-07-22",
   "PFC|out|Mathieu Cafaro|FC Nantes": "2026-07-22",
   "PFC|out|Lohann Doucet|Vit. Guimarães": "2026-07-22",
@@ -176,7 +178,8 @@
   "ESTAC|in|Patrick Beach|Melbourne City": "2026-07-22",
   "ESTAC|in|Iron Gomis|Zira FK": "2026-07-22",
   "ESTAC|out|Mathys Detourbet|Man City": "2026-07-22",
-  "ESTAC|out|Martin Adeline|Hamburg": "2026-07-22",
+  "ESTAC|out|Martin Adeline|Hambourg": "2026-07-29",
+  "ESTAC|out|Sankhoun Diawara|AC Milan": "2026-07-29",
   "ESTAC|out|Yasser Larouci|Le Mans FC": "2026-07-22",
   "ESTAC|out|Nicolas Lemaître|Stade Rennais": "2026-07-22",
   "ESTAC|out|Mounaïm El Idrissy|Sans club": "2026-07-22",
@@ -399,6 +402,15 @@
      "fs": "2026-07-22"
     },
     {
+     "p": "Erawan Garnier",
+     "age": 20,
+     "pos": "AiD",
+     "club": "SC Bastia",
+     "type": "none",
+     "val": 0.0,
+     "fs": "2026-07-29"
+    },
+    {
      "p": "Jeremy Agbonifo",
      "age": 20,
      "pos": "AiD",
@@ -582,10 +594,10 @@
      "p": "Noham Kamara",
      "age": 19,
      "pos": "DC",
-     "club": "Paris SG",
+     "club": "PSG",
      "type": "paid",
      "val": 4.1,
-     "fs": "2026-07-22"
+     "fs": "2026-07-29"
     },
     {
      "p": "Loïs Openda",
@@ -729,10 +741,10 @@
      "p": "Bilal Nadir",
      "age": 22,
      "pos": "MC",
-     "club": "Hamburg",
+     "club": "Hambourg",
      "type": "free",
      "val": 0.0,
-     "fs": "2026-07-24"
+     "fs": "2026-07-29"
     }
    ]
   },
@@ -820,10 +832,10 @@
      "p": "Albert Grønbaek",
      "age": 25,
      "pos": "MO",
-     "club": "Hamburg",
+     "club": "Hambourg",
      "type": "paid",
      "val": 4.7,
-     "fs": "2026-07-22"
+     "fs": "2026-07-29"
     },
     {
      "p": "Mikayil Faye",
@@ -1268,6 +1280,15 @@
      "type": "paid",
      "val": 15.0,
      "fs": "2026-07-22"
+    },
+    {
+     "p": "Luca Koleosho",
+     "age": 21,
+     "pos": "AiD",
+     "club": "Burnley FC",
+     "type": "paid",
+     "val": 14.0,
+     "fs": "2026-07-29"
     },
     {
      "p": "Lassine Sinayoko",
@@ -1928,10 +1949,19 @@
      "p": "Martin Adeline",
      "age": 22,
      "pos": "MO",
-     "club": "Hamburg",
+     "club": "Hambourg",
      "type": "paid",
      "val": 4.0,
-     "fs": "2026-07-22"
+     "fs": "2026-07-29"
+    },
+    {
+     "p": "Sankhoun Diawara",
+     "age": 20,
+     "pos": "DC",
+     "club": "AC Milan",
+     "type": "paid",
+     "val": 2.0,
+     "fs": "2026-07-29"
     },
     {
      "p": "Yasser Larouci",
@@ -2474,14 +2504,6 @@
     "grp": "ATT",
     "age": 33,
     "val": 5.0
-   },
-   {
-    "n": "34",
-    "p": "Erawan Garnier",
-    "pos": "AiD",
-    "grp": "ATT",
-    "age": 20,
-    "val": 0.2
    },
    {
     "n": "11",
@@ -4486,6 +4508,14 @@
     "val": 12.0
    },
    {
+    "n": "",
+    "p": "Luca Koleosho",
+    "pos": "AiD",
+    "grp": "ATT",
+    "age": 21,
+    "val": 6.0
+   },
+   {
     "n": "93",
     "p": "Jonathan Ikoné",
     "pos": "AiD",
@@ -5560,14 +5590,6 @@
     "grp": "DEF",
     "age": 23,
     "val": 6.0
-   },
-   {
-    "n": "38",
-    "p": "Sankhoun Diawara",
-    "pos": "DC",
-    "grp": "DEF",
-    "age": 20,
-    "val": 2.0
    },
    {
     "n": "25",
