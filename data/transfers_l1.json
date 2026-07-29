@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-29T20:01:37",
- "sig": "4bc9e353a7247be6301d28c098bb7a29",
+ "updated": "2026-07-29T23:03:12",
+ "sig": "b3ed0a756e7c58d5e7832fc18d5d120a",
  "seen": {
   "PSG|out|Gonçalo Ramos|AC Milan": "2026-07-22",
   "PSG|out|Kang-in Lee|Atlético": "2026-07-25",
@@ -67,6 +67,7 @@
   "SRFC|in|Nicolas Lemaître|Troyes": "2026-07-22",
   "SRFC|out|Jérémy Jacquet|Liverpool": "2026-07-22",
   "SRFC|out|Albert Grønbaek|Hambourg": "2026-07-29",
+  "SRFC|out|Yassir Zabiri|Racing": "2026-07-29",
   "SRFC|out|Mikayil Faye|1.FC Nürnberg": "2026-07-23",
   "SRFC|out|Lucas Rosier|Concarneau": "2026-07-24",
   "SRFC|out|Mathys Silistrie|QRM": "2026-07-22",
@@ -837,6 +838,15 @@
      "club": "Hambourg",
      "type": "paid",
      "val": 4.7,
+     "fs": "2026-07-29"
+    },
+    {
+     "p": "Yassir Zabiri",
+     "age": 21,
+     "pos": "AC",
+     "club": "Racing",
+     "type": "loan",
+     "val": 0.0,
      "fs": "2026-07-29"
     },
     {
@@ -3492,14 +3502,6 @@
     "grp": "ATT",
     "age": 29,
     "val": 15.0
-   },
-   {
-    "n": "77",
-    "p": "Yassir Zabiri",
-    "pos": "AC",
-    "grp": "ATT",
-    "age": 21,
-    "val": 9.0
    }
   ],
   "ASM": [
@@ -3552,7 +3554,7 @@
     "val": 10.0
    },
    {
-    "n": "",
+    "n": "72",
     "p": "Sadibou Sané",
     "pos": "DC",
     "grp": "DEF",
@@ -3568,7 +3570,7 @@
     "val": 4.0
    },
    {
-    "n": "",
+    "n": "20",
     "p": "Nazinho",
     "pos": "ArG",
     "grp": "DEF",
@@ -3810,7 +3812,7 @@
     "val": 15.0
    },
    {
-    "n": "",
+    "n": "23",
     "p": "Diogo Sousa",
     "pos": "MDC",
     "grp": "MID",
