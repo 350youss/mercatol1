@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-30T17:01:44",
- "sig": "75d8b4a735f6e2e50b916d93a1986075",
+ "updated": "2026-07-30T20:01:11",
+ "sig": "d626a537dbd73886553e0b39beb78065",
  "seen": {
   "PSG|out|Gonçalo Ramos|AC Milan": "2026-07-22",
   "PSG|out|Kang-in Lee|Atlético": "2026-07-25",
@@ -69,6 +69,7 @@
   "SRFC|out|Albert Grønbaek|Hambourg": "2026-07-29",
   "SRFC|out|Yassir Zabiri|Racing": "2026-07-29",
   "SRFC|out|Mikayil Faye|1.FC Nürnberg": "2026-07-23",
+  "SRFC|out|Rayan Bamba|Le Mans FC": "2026-07-30",
   "SRFC|out|Lucas Rosier|Concarneau": "2026-07-24",
   "SRFC|out|Mathys Silistrie|QRM": "2026-07-22",
   "SRFC|out|Paolo Limon|FC Villefranche": "2026-07-22",
@@ -98,6 +99,7 @@
   "FCL|out|Pablo Pagis|Paris FC": "2026-07-22",
   "FCL|out|Sambou Soumano|Stade de Reims": "2026-07-22",
   "FCL|out|Laurent Abergel|OGC Nice": "2026-07-22",
+  "FCL|out|Isaac Monnier|SC Bastia": "2026-07-30",
   "FCL|out|Bamba Dieng|Sans club": "2026-07-22",
   "FCL|out|Darlin Yongwa|Sans club": "2026-07-22",
   "FCL|out|Igor Silva|Sans club": "2026-07-22",
@@ -191,6 +193,7 @@
   "LM|in|Yasser Larouci|Troyes": "2026-07-22",
   "LM|in|Billal Brahimi|Santos": "2026-07-22",
   "LM|in|Louis Mafouta|EA Guingamp": "2026-07-22",
+  "LM|in|Rayan Bamba|Stade Rennais": "2026-07-30",
   "LM|out|Anthony Ribelin|Amiens SC": "2026-07-22",
   "LM|out|Mathis Hamdi|QRM": "2026-07-22",
   "LM|out|Taylor Luvambo|FC Arges": "2026-07-22",
@@ -860,6 +863,15 @@
      "fs": "2026-07-23"
     },
     {
+     "p": "Rayan Bamba",
+     "age": 22,
+     "pos": "ArD",
+     "club": "Le Mans FC",
+     "type": "loan",
+     "val": 0.0,
+     "fs": "2026-07-30"
+    },
+    {
      "p": "Lucas Rosier",
      "age": 19,
      "pos": "AiG",
@@ -1149,6 +1161,15 @@
      "type": "free",
      "val": 0.0,
      "fs": "2026-07-22"
+    },
+    {
+     "p": "Isaac Monnier",
+     "age": 19,
+     "pos": "ArG",
+     "club": "SC Bastia",
+     "type": "loan",
+     "val": 0.0,
+     "fs": "2026-07-30"
     },
     {
      "p": "Bamba Dieng",
@@ -2073,6 +2094,15 @@
      "type": "none",
      "val": 0.0,
      "fs": "2026-07-22"
+    },
+    {
+     "p": "Rayan Bamba",
+     "age": 22,
+     "pos": "ArD",
+     "club": "Stade Rennais",
+     "type": "loan",
+     "val": 0.0,
+     "fs": "2026-07-30"
     }
    ],
    "dep": [
@@ -3360,14 +3390,6 @@
     "grp": "DEF",
     "age": 25,
     "val": 3.5
-   },
-   {
-    "n": "",
-    "p": "Rayan Bamba",
-    "pos": "ArD",
-    "grp": "DEF",
-    "age": 22,
-    "val": 1.0
    },
    {
     "n": "",
@@ -5880,6 +5902,14 @@
     "grp": "DEF",
     "age": 28,
     "val": 1.5
+   },
+   {
+    "n": "",
+    "p": "Rayan Bamba",
+    "pos": "ArD",
+    "grp": "DEF",
+    "age": 22,
+    "val": 1.0
    },
    {
     "n": "29",
