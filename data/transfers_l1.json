@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-29T23:03:12",
- "sig": "b3ed0a756e7c58d5e7832fc18d5d120a",
+ "updated": "2026-07-30T14:01:23",
+ "sig": "5006f09bd90c6870f1890974dc459879",
  "seen": {
   "PSG|out|Gonçalo Ramos|AC Milan": "2026-07-22",
   "PSG|out|Kang-in Lee|Atlético": "2026-07-25",
@@ -73,6 +73,7 @@
   "SRFC|out|Mathys Silistrie|QRM": "2026-07-22",
   "SRFC|out|Paolo Limon|FC Villefranche": "2026-07-22",
   "SRFC|out|Hans Hateboer|Sans club": "2026-07-22",
+  "ASM|in|Matthis Abline|FC Nantes": "2026-07-30",
   "ASM|in|Ansu Fati|Barcelone": "2026-07-22",
   "ASM|in|Sadibou Sané|FC Metz": "2026-07-22",
   "ASM|in|Nazinho|Cercle Brugge": "2026-07-22",
@@ -902,6 +903,15 @@
    "bg": "#e63329",
    "fg": "#fff",
    "arr": [
+    {
+     "p": "Matthis Abline",
+     "age": 23,
+     "pos": "AC",
+     "club": "FC Nantes",
+     "type": "paid",
+     "val": 25.0,
+     "fs": "2026-07-30"
+    },
     {
      "p": "Ansu Fati",
      "age": 23,
@@ -3698,6 +3708,14 @@
     "val": 50.0
    },
    {
+    "n": "",
+    "p": "Matthis Abline",
+    "pos": "AC",
+    "grp": "ATT",
+    "age": 23,
+    "val": 20.0
+   },
+   {
     "n": "14",
     "p": "Mika Biereth",
     "pos": "AC",
@@ -3960,7 +3978,7 @@
     "p": "Sékou Mara",
     "pos": "AC",
     "grp": "ATT",
-    "age": 23,
+    "age": 24,
     "val": 4.0
    },
    {
@@ -5110,6 +5128,14 @@
     "grp": "ATT",
     "age": 22,
     "val": 0.2
+   },
+   {
+    "n": "",
+    "p": "Joan Tincres",
+    "pos": "AC",
+    "grp": "ATT",
+    "age": 20,
+    "val": 0.1
    }
   ],
   "AJA": [
