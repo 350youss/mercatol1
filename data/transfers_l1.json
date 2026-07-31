@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-31T11:01:41",
- "sig": "c86b649f64b2c4df944d594953c13ee5",
+ "updated": "2026-07-31T23:01:14",
+ "sig": "95f4f24f061612def6495f2db392ffe4",
  "seen": {
   "PSG|out|Gonçalo Ramos|AC Milan": "2026-07-22",
   "PSG|out|Kang-in Lee|Atlético": "2026-07-25",
@@ -141,6 +141,7 @@
   "SCO|out|Abdoulaye Bamba|Fin de carrière": "2026-07-22",
   "SCO|out|Pierrick Capelle|Fin de carrière": "2026-07-22",
   "HAC|in|Junior Mwanga|R. Strasbourg": "2026-07-29",
+  "HAC|in|Josh Maja|West Brom": "2026-07-31",
   "HAC|in|Timothée Pembélé|AFC Sunderland": "2026-07-22",
   "HAC|in|Kaito Mizuta|RW Essen": "2026-07-22",
   "HAC|in|Vincent Sasso|USL Dunkerque": "2026-07-22",
@@ -177,6 +178,7 @@
   "OGCN|out|Gabin Bernardeau|FC Lorient": "2026-07-22",
   "OGCN|out|Kaïl Boudache|Ol. Lyonnais": "2026-07-22",
   "OGCN|out|Maxime Dupé|FC Nantes": "2026-07-22",
+  "OGCN|out|Mattia Viti|Sampdoria": "2026-07-31",
   "OGCN|out|Aliou Baldé|FC Saint-Gall": "2026-07-22",
   "OGCN|out|Rareș Ilie|Mantova": "2026-07-28",
   "OGCN|out|Tanguy Ndombélé|Sans club": "2026-07-22",
@@ -1589,6 +1591,15 @@
      "fs": "2026-07-29"
     },
     {
+     "p": "Josh Maja",
+     "age": 27,
+     "pos": "AC",
+     "club": "West Brom",
+     "type": "free",
+     "val": 0.0,
+     "fs": "2026-07-31"
+    },
+    {
      "p": "Timothée Pembélé",
      "age": 23,
      "pos": "ArD",
@@ -1933,6 +1944,15 @@
      "type": "free",
      "val": 0.0,
      "fs": "2026-07-22"
+    },
+    {
+     "p": "Mattia Viti",
+     "age": 24,
+     "pos": "DC",
+     "club": "Sampdoria",
+     "type": "none",
+     "val": 0.0,
+     "fs": "2026-07-31"
     },
     {
      "p": "Aliou Baldé",
@@ -2716,7 +2736,7 @@
     "val": 15.0
    },
    {
-    "n": "",
+    "n": "6",
     "p": "Nabil Bentaleb",
     "pos": "MDC",
     "grp": "MID",
@@ -3402,7 +3422,7 @@
     "val": 6.0
    },
    {
-    "n": "",
+    "n": "14",
     "p": "Bryan Reynolds",
     "pos": "ArD",
     "grp": "DEF",
@@ -3538,7 +3558,7 @@
     "val": 35.0
    },
    {
-    "n": "",
+    "n": "12",
     "p": "Eliezer Mayenda",
     "pos": "AC",
     "grp": "ATT",
@@ -5122,6 +5142,14 @@
     "val": 0.5
    },
    {
+    "n": "9",
+    "p": "Josh Maja",
+    "pos": "AC",
+    "grp": "ATT",
+    "age": 27,
+    "val": 4.5
+   },
+   {
     "n": "20",
     "p": "Noam Obougou",
     "pos": "AC",
@@ -5468,14 +5496,6 @@
     "grp": "DEF",
     "age": 26,
     "val": 7.0
-   },
-   {
-    "n": "",
-    "p": "Mattia Viti",
-    "pos": "DC",
-    "grp": "DEF",
-    "age": 24,
-    "val": 4.0
    },
    {
     "n": "5",
