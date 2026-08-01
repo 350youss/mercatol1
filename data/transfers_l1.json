@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-31T23:01:14",
- "sig": "95f4f24f061612def6495f2db392ffe4",
+ "updated": "2026-08-01T14:06:33",
+ "sig": "1a5b1632a6124f9084de3198b9d18162",
  "seen": {
   "PSG|out|Gonçalo Ramos|AC Milan": "2026-07-22",
   "PSG|out|Kang-in Lee|Atlético": "2026-07-25",
@@ -176,9 +176,9 @@
   "OGCN|out|Charles Vanhoutte|Feyenoord": "2026-07-22",
   "OGCN|out|Jérémie Boga|Juventus": "2026-07-22",
   "OGCN|out|Gabin Bernardeau|FC Lorient": "2026-07-22",
+  "OGCN|out|Mattia Viti|Sampdoria": "2026-07-31",
   "OGCN|out|Kaïl Boudache|Ol. Lyonnais": "2026-07-22",
   "OGCN|out|Maxime Dupé|FC Nantes": "2026-07-22",
-  "OGCN|out|Mattia Viti|Sampdoria": "2026-07-31",
   "OGCN|out|Aliou Baldé|FC Saint-Gall": "2026-07-22",
   "OGCN|out|Rareș Ilie|Mantova": "2026-07-28",
   "OGCN|out|Tanguy Ndombélé|Sans club": "2026-07-22",
@@ -652,7 +652,7 @@
      "age": 23,
      "pos": "ArG",
      "club": "Ittihad Tanger",
-     "type": "free",
+     "type": "none",
      "val": 0.0,
      "fs": "2026-07-22"
     },
@@ -1928,6 +1928,15 @@
      "fs": "2026-07-22"
     },
     {
+     "p": "Mattia Viti",
+     "age": 24,
+     "pos": "DC",
+     "club": "Sampdoria",
+     "type": "paid",
+     "val": 0.3,
+     "fs": "2026-07-31"
+    },
+    {
      "p": "Kaïl Boudache",
      "age": 20,
      "pos": "AiD",
@@ -1944,15 +1953,6 @@
      "type": "free",
      "val": 0.0,
      "fs": "2026-07-22"
-    },
-    {
-     "p": "Mattia Viti",
-     "age": 24,
-     "pos": "DC",
-     "club": "Sampdoria",
-     "type": "none",
-     "val": 0.0,
-     "fs": "2026-07-31"
     },
     {
      "p": "Aliou Baldé",
@@ -4986,7 +4986,7 @@
     "p": "Lionel Mpasi-Nzau",
     "pos": "GdB",
     "grp": "GK",
-    "age": 31,
+    "age": 32,
     "val": 0.7
    },
    {
