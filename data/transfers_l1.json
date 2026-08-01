@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-01T14:06:33",
- "sig": "1a5b1632a6124f9084de3198b9d18162",
+ "updated": "2026-08-01T17:01:07",
+ "sig": "ae7b163037376dc29c0185b3d41e309f",
  "seen": {
   "PSG|out|Gonçalo Ramos|AC Milan": "2026-07-22",
   "PSG|out|Kang-in Lee|Atlético": "2026-07-25",
@@ -24,6 +24,7 @@
   "RCL|out|Yannick Pandor|Amiens SC": "2026-07-22",
   "RCL|out|Kembo Diliwidi|FCV Dender EH": "2026-07-22",
   "RCL|out|Erawan Garnier|SC Bastia": "2026-07-29",
+  "RCL|out|Hervé Koffi|Union SG": "2026-08-01",
   "RCL|out|Jeremy Agbonifo|Jagiellonia": "2026-07-22",
   "RCL|out|Goduine Koyalipou|KV Kortrijk": "2026-07-22",
   "RCL|out|Mattia Fortin|Palerme": "2026-07-22",
@@ -421,6 +422,15 @@
      "fs": "2026-07-29"
     },
     {
+     "p": "Hervé Koffi",
+     "age": 29,
+     "pos": "GdB",
+     "club": "Union SG",
+     "type": "loan",
+     "val": 0.0,
+     "fs": "2026-08-01"
+    },
+    {
      "p": "Jeremy Agbonifo",
      "age": 20,
      "pos": "AiD",
@@ -652,7 +662,7 @@
      "age": 23,
      "pos": "ArG",
      "club": "Ittihad Tanger",
-     "type": "none",
+     "type": "free",
      "val": 0.0,
      "fs": "2026-07-22"
     },
@@ -2404,14 +2414,6 @@
     "grp": "GK",
     "age": 21,
     "val": 30.0
-   },
-   {
-    "n": "70",
-    "p": "Hervé Koffi",
-    "pos": "GdB",
-    "grp": "GK",
-    "age": 29,
-    "val": 6.0
    },
    {
     "n": "16",
