@@ -1,8 +1,9 @@
 {
- "updated": "2026-08-01T17:01:07",
- "sig": "ae7b163037376dc29c0185b3d41e309f",
+ "updated": "2026-08-02T23:01:09",
+ "sig": "ea4f4084904968a65d9d77349fd4d06f",
  "seen": {
   "PSG|out|Gonçalo Ramos|AC Milan": "2026-07-22",
+  "PSG|out|Randal Kolo Muani|Juventus": "2026-08-02",
   "PSG|out|Kang-in Lee|Atlético": "2026-07-25",
   "PSG|out|Noham Kamara|Ol. Lyonnais": "2026-07-22",
   "PSG|out|Gabriel Moscardo|Esp. Barcelona": "2026-07-22",
@@ -12,6 +13,7 @@
   "RCL|in|Michaël Cuisance|Hertha BSC": "2026-07-22",
   "RCL|in|Maik Nawrocki|Celtic Glasgow": "2026-07-22",
   "RCL|in|Thorgan Hazard|RSC Anderlecht": "2026-07-22",
+  "RCL|out|Mamadou Sangaré|Brentford": "2026-08-02",
   "RCL|out|Facundo Medina|Marseille": "2026-07-22",
   "RCL|out|Anass Zaroury|Panathinaikos": "2026-07-22",
   "RCL|out|Rémy Labeau Lascary|AJ Auxerre": "2026-07-28",
@@ -34,14 +36,15 @@
   "LOSC|in|Tanguy Nianzou|Séville FC": "2026-07-22",
   "LOSC|out|Ugo Raghouber|Burnley FC": "2026-07-28",
   "LOSC|out|Vincent Burlet|Cracovia": "2026-07-22",
-  "LOSC|out|Lisandru Olmeta|Torreense": "2026-07-22",
   "LOSC|out|Thomas Meunier|AFC Sunderland": "2026-07-22",
   "LOSC|out|Aïssa Mandi|UD Levante": "2026-07-22",
+  "LOSC|out|Lisandru Olmeta|Torreense": "2026-07-22",
   "LOSC|out|Rafael Fernandes|Marítimo": "2026-07-22",
   "LOSC|out|Chancel Mbemba|Sans club": "2026-07-22",
   "LOSC|out|Marc-Aurèle Caillard|Sans club": "2026-07-22",
   "OL|in|Mads Bidstrup|RB Salzbourg": "2026-07-22",
   "OL|in|Julien Duranville|Dortmund": "2026-07-22",
+  "OL|in|Felix Bacher|Estoril": "2026-08-02",
   "OL|in|Noham Kamara|PSG": "2026-07-29",
   "OL|in|Loïs Openda|Juventus": "2026-07-28",
   "OL|in|Mohamed Ouédraogo|SCR Altach": "2026-07-22",
@@ -70,6 +73,7 @@
   "SRFC|out|Yassir Zabiri|Racing": "2026-07-29",
   "SRFC|out|Mikayil Faye|1.FC Nürnberg": "2026-07-23",
   "SRFC|out|Rayan Bamba|Le Mans FC": "2026-07-30",
+  "SRFC|out|Nordan Mukiele|Montpellier": "2026-08-02",
   "SRFC|out|Lucas Rosier|Concarneau": "2026-07-24",
   "SRFC|out|Mathys Silistrie|QRM": "2026-07-22",
   "SRFC|out|Paolo Limon|FC Villefranche": "2026-07-22",
@@ -93,10 +97,12 @@
   "RCSA|out|Emmanuel Emegha|Chelsea": "2026-07-22",
   "RCSA|out|Junior Mwanga|Le Havre AC": "2026-07-29",
   "RCSA|out|Stefan Bajic|Alem. Aachen": "2026-07-22",
+  "RCSA|out|Valentín Barco|Chelsea": "2026-08-02",
   "RCSA|out|Óscar Perea|América": "2026-07-28",
   "RCSA|out|Karl-Johan Johnsson|Sans club": "2026-07-22",
   "FCL|in|Gabin Bernardeau|OGC Nice": "2026-07-22",
   "FCL|in|Alec Georgen|USL Dunkerque": "2026-07-22",
+  "FCL|in|Souleymane Faye|Sporting": "2026-08-02",
   "FCL|out|Pablo Pagis|Paris FC": "2026-07-22",
   "FCL|out|Sambou Soumano|Stade de Reims": "2026-07-22",
   "FCL|out|Laurent Abergel|OGC Nice": "2026-07-22",
@@ -112,6 +118,7 @@
   "TFC|out|Álex Domínguez|Ponferradina": "2026-07-22",
   "TFC|out|Ibrahim Cissoko|PEC Zwolle": "2026-07-22",
   "TFC|out|Edhy Zuliani|VVV-Venlo": "2026-07-22",
+  "TFC|out|Aymen Sadi|Aubagne Air Bel": "2026-08-02",
   "TFC|out|Frank Magri|Sans club": "2026-07-22",
   "TFC|out|Djibril Sidibé|Sans club": "2026-07-22",
   "PFC|in|Patrick Zabi|Stade de Reims": "2026-07-22",
@@ -119,6 +126,7 @@
   "PFC|in|Pablo Pagis|FC Lorient": "2026-07-22",
   "PFC|in|Luca Koleosho|Burnley FC": "2026-07-29",
   "PFC|in|Lassine Sinayoko|AJ Auxerre": "2026-07-22",
+  "PFC|out|Willem Geubbels|Lecce": "2026-08-02",
   "PFC|out|Mathieu Cafaro|FC Nantes": "2026-07-22",
   "PFC|out|Lohann Doucet|Vit. Guimarães": "2026-07-22",
   "PFC|out|Julien Lopez|AS Cannes": "2026-07-22",
@@ -223,6 +231,15 @@
      "fs": "2026-07-22"
     },
     {
+     "p": "Randal Kolo Muani",
+     "age": 27,
+     "pos": "AC",
+     "club": "Juventus",
+     "type": "paid",
+     "val": 41.2,
+     "fs": "2026-08-02"
+    },
+    {
      "p": "Kang-in Lee",
      "age": 25,
      "pos": "MO",
@@ -313,6 +330,15 @@
     }
    ],
    "dep": [
+    {
+     "p": "Mamadou Sangaré",
+     "age": 24,
+     "pos": "MC",
+     "club": "Brentford",
+     "type": "paid",
+     "val": 48.0,
+     "fs": "2026-08-02"
+    },
     {
      "p": "Facundo Medina",
      "age": 27,
@@ -522,15 +548,6 @@
      "fs": "2026-07-22"
     },
     {
-     "p": "Lisandru Olmeta",
-     "age": 20,
-     "pos": "GdB",
-     "club": "Torreense",
-     "type": "paid",
-     "val": 0.25,
-     "fs": "2026-07-22"
-    },
-    {
      "p": "Thomas Meunier",
      "age": 34,
      "pos": "ArD",
@@ -544,6 +561,15 @@
      "age": 34,
      "pos": "DC",
      "club": "UD Levante",
+     "type": "free",
+     "val": 0.0,
+     "fs": "2026-07-22"
+    },
+    {
+     "p": "Lisandru Olmeta",
+     "age": 20,
+     "pos": "GdB",
+     "club": "Torreense",
      "type": "free",
      "val": 0.0,
      "fs": "2026-07-22"
@@ -600,6 +626,15 @@
      "type": "paid",
      "val": 5.0,
      "fs": "2026-07-22"
+    },
+    {
+     "p": "Felix Bacher",
+     "age": 25,
+     "pos": "DC",
+     "club": "Estoril",
+     "type": "paid",
+     "val": 4.3,
+     "fs": "2026-08-02"
     },
     {
      "p": "Noham Kamara",
@@ -876,6 +911,15 @@
      "fs": "2026-07-30"
     },
     {
+     "p": "Nordan Mukiele",
+     "age": 20,
+     "pos": "AiD",
+     "club": "Montpellier",
+     "type": "loan",
+     "val": 0.0,
+     "fs": "2026-08-02"
+    },
+    {
      "p": "Lucas Rosier",
      "age": 19,
      "pos": "AiG",
@@ -1081,7 +1125,7 @@
      "pos": "AC",
      "club": "Chelsea",
      "type": "paid",
-     "val": 25.3,
+     "val": 25.0,
      "fs": "2026-07-22"
     },
     {
@@ -1101,6 +1145,15 @@
      "type": "free",
      "val": 0.0,
      "fs": "2026-07-22"
+    },
+    {
+     "p": "Valentín Barco",
+     "age": 22,
+     "pos": "MC",
+     "club": "Chelsea",
+     "type": "none",
+     "val": 0.0,
+     "fs": "2026-08-02"
     },
     {
      "p": "Óscar Perea",
@@ -1145,6 +1198,15 @@
      "type": "free",
      "val": 0.0,
      "fs": "2026-07-22"
+    },
+    {
+     "p": "Souleymane Faye",
+     "age": 23,
+     "pos": "AiD",
+     "club": "Sporting",
+     "type": "loan",
+     "val": 0.0,
+     "fs": "2026-08-02"
     }
    ],
    "dep": [
@@ -1294,6 +1356,15 @@
      "fs": "2026-07-22"
     },
     {
+     "p": "Aymen Sadi",
+     "age": 20,
+     "pos": "ArD",
+     "club": "Aubagne Air Bel",
+     "type": "loan",
+     "val": 0.0,
+     "fs": "2026-08-02"
+    },
+    {
      "p": "Frank Magri",
      "age": 26,
      "pos": "AC",
@@ -1366,6 +1437,15 @@
     }
    ],
    "dep": [
+    {
+     "p": "Willem Geubbels",
+     "age": 24,
+     "pos": "AC",
+     "club": "Lecce",
+     "type": "paid",
+     "val": 5.0,
+     "fs": "2026-08-02"
+    },
     {
      "p": "Mathieu Cafaro",
      "age": 29,
@@ -2396,14 +2476,6 @@
     "grp": "ATT",
     "age": 29,
     "val": 100.0
-   },
-   {
-    "n": "",
-    "p": "Randal Kolo Muani",
-    "pos": "AC",
-    "grp": "ATT",
-    "age": 27,
-    "val": 20.0
    }
   ],
   "RCL": [
@@ -2526,14 +2598,6 @@
     "grp": "DEF",
     "age": 33,
     "val": 2.5
-   },
-   {
-    "n": "8",
-    "p": "Mamadou Sangaré",
-    "pos": "MC",
-    "grp": "MID",
-    "age": 24,
-    "val": 40.0
    },
    {
     "n": "5",
@@ -2922,6 +2986,14 @@
     "grp": "DEF",
     "age": 25,
     "val": 8.0
+   },
+   {
+    "n": "",
+    "p": "Felix Bacher",
+    "pos": "DC",
+    "grp": "DEF",
+    "age": 25,
+    "val": 6.0
    },
    {
     "n": "85",
@@ -3544,14 +3616,6 @@
     "val": 1.5
    },
    {
-    "n": "65",
-    "p": "Nordan Mukiele",
-    "pos": "AiD",
-    "grp": "ATT",
-    "age": 20,
-    "val": 1.0
-   },
-   {
     "n": "9",
     "p": "Estéban Lepaul",
     "pos": "AC",
@@ -3916,14 +3980,6 @@
     "val": 2.0
    },
    {
-    "n": "32",
-    "p": "Valentín Barco",
-    "pos": "MC",
-    "grp": "MID",
-    "age": 22,
-    "val": 40.0
-   },
-   {
     "n": "29",
     "p": "Samir El Mourabet",
     "pos": "MC",
@@ -4204,6 +4260,14 @@
     "grp": "ATT",
     "age": 21,
     "val": 0.7
+   },
+   {
+    "n": "",
+    "p": "Souleymane Faye",
+    "pos": "AiD",
+    "grp": "ATT",
+    "age": 23,
+    "val": 3.0
    },
    {
     "n": "9",
@@ -4608,14 +4672,6 @@
     "grp": "ATT",
     "age": 26,
     "val": 10.0
-   },
-   {
-    "n": "9",
-    "p": "Willem Geubbels",
-    "pos": "AC",
-    "grp": "ATT",
-    "age": 24,
-    "val": 5.0
    },
    {
     "n": "11",
@@ -5392,6 +5448,14 @@
     "grp": "ATT",
     "age": 21,
     "val": 2.5
+   },
+   {
+    "n": "",
+    "p": "Rayan Mandengue",
+    "pos": "AiG",
+    "grp": "ATT",
+    "age": 20,
+    "val": 0.4
    },
    {
     "n": "7",
