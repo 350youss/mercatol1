@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-03T17:40:18",
- "sig": "2c2ed37378d481cef99f72720ab0c877",
+ "updated": "2026-08-03T20:01:20",
+ "sig": "dc2e880104896f441a37ab9d27723fa4",
  "seen": {
   "PSG|out|Gonçalo Ramos|AC Milan": "2026-07-22",
   "PSG|out|Randal Kolo Muani|Juventus": "2026-08-02",
@@ -13,6 +13,7 @@
   "RCL|in|Michaël Cuisance|Hertha BSC": "2026-07-22",
   "RCL|in|Maik Nawrocki|Celtic Glasgow": "2026-07-22",
   "RCL|in|Thorgan Hazard|RSC Anderlecht": "2026-07-22",
+  "RCL|in|Yacine Titraoui|R Charleroi SC": "2026-08-03",
   "RCL|out|Mamadou Sangaré|Brentford": "2026-08-02",
   "RCL|out|Facundo Medina|Marseille": "2026-07-22",
   "RCL|out|Anass Zaroury|Panathinaikos": "2026-07-22",
@@ -22,8 +23,8 @@
   "RCL|out|Wesley Saïd|Al-Shamal SC": "2026-07-22",
   "RCL|out|Angelo Fulgini|Al-Khaleej": "2026-07-22",
   "RCL|out|Adrien Thomasson|Stade Rennais": "2026-07-22",
-  "RCL|out|Fodé Sylla|FC Sion": "2026-07-22",
   "RCL|out|Yannick Pandor|Amiens SC": "2026-07-22",
+  "RCL|out|Fodé Sylla|FC Sion": "2026-07-22",
   "RCL|out|Kembo Diliwidi|FCV Dender EH": "2026-07-22",
   "RCL|out|Erawan Garnier|SC Bastia": "2026-07-29",
   "RCL|out|Hervé Koffi|Union SG": "2026-08-01",
@@ -72,6 +73,7 @@
   "SRFC|out|Albert Grønbaek|Hambourg": "2026-07-29",
   "SRFC|out|Yassir Zabiri|Racing": "2026-07-29",
   "SRFC|out|Mikayil Faye|1.FC Nürnberg": "2026-07-23",
+  "SRFC|out|Glen Kamara|QPR": "2026-08-03",
   "SRFC|out|Rayan Bamba|Le Mans FC": "2026-07-30",
   "SRFC|out|Nordan Mukiele|Montpellier": "2026-08-02",
   "SRFC|out|Lucas Rosier|Concarneau": "2026-07-24",
@@ -184,12 +186,12 @@
   "OGCN|in|Laurent Abergel|FC Lorient": "2026-07-22",
   "OGCN|out|Charles Vanhoutte|Feyenoord": "2026-07-22",
   "OGCN|out|Jérémie Boga|Juventus": "2026-07-22",
+  "OGCN|out|Aliou Baldé|FC Saint-Gall": "2026-07-22",
   "OGCN|out|Gabin Bernardeau|FC Lorient": "2026-07-22",
   "OGCN|out|Mattia Viti|Sampdoria": "2026-07-31",
   "OGCN|out|Kaïl Boudache|Ol. Lyonnais": "2026-07-22",
-  "OGCN|out|Maxime Dupé|FC Nantes": "2026-07-22",
-  "OGCN|out|Aliou Baldé|FC Saint-Gall": "2026-07-22",
   "OGCN|out|Rareș Ilie|Mantova": "2026-07-28",
+  "OGCN|out|Maxime Dupé|FC Nantes": "2026-07-22",
   "OGCN|out|Tanguy Ndombélé|Sans club": "2026-07-22",
   "OGCN|out|Dante|Fin de carrière": "2026-07-22",
   "OGCN|out|Bartosz Żelazowski|Sans club": "2026-07-22",
@@ -201,6 +203,7 @@
   "ESTAC|out|Yasser Larouci|Le Mans FC": "2026-07-22",
   "ESTAC|out|Nicolas Lemaître|Stade Rennais": "2026-07-22",
   "ESTAC|out|Mounaïm El Idrissy|Sans club": "2026-07-22",
+  "ESTAC|out|Thierno Baldé|Sans club": "2026-08-03",
   "ESTAC|out|Xavier Chavalerin|Sans club": "2026-07-22",
   "LM|in|Yasser Larouci|Troyes": "2026-07-22",
   "LM|in|Billal Brahimi|Santos": "2026-07-22",
@@ -327,6 +330,15 @@
      "type": "free",
      "val": 0.0,
      "fs": "2026-07-22"
+    },
+    {
+     "p": "Yacine Titraoui",
+     "age": 23,
+     "pos": "MC",
+     "club": "R Charleroi SC",
+     "type": "none",
+     "val": 0.0,
+     "fs": "2026-08-03"
     }
    ],
    "dep": [
@@ -412,19 +424,19 @@
      "fs": "2026-07-22"
     },
     {
-     "p": "Fodé Sylla",
-     "age": 20,
-     "pos": "MDC",
-     "club": "FC Sion",
-     "type": "none",
-     "val": 0.0,
-     "fs": "2026-07-22"
-    },
-    {
      "p": "Yannick Pandor",
      "age": 25,
      "pos": "GdB",
      "club": "Amiens SC",
+     "type": "free",
+     "val": 0.0,
+     "fs": "2026-07-22"
+    },
+    {
+     "p": "Fodé Sylla",
+     "age": 20,
+     "pos": "MDC",
+     "club": "FC Sion",
      "type": "none",
      "val": 0.0,
      "fs": "2026-07-22"
@@ -900,6 +912,15 @@
      "type": "loan",
      "val": 0.0,
      "fs": "2026-07-23"
+    },
+    {
+     "p": "Glen Kamara",
+     "age": 30,
+     "pos": "MC",
+     "club": "QPR",
+     "type": "loan",
+     "val": 0.0,
+     "fs": "2026-08-03"
     },
     {
      "p": "Rayan Bamba",
@@ -2009,6 +2030,15 @@
      "fs": "2026-07-22"
     },
     {
+     "p": "Aliou Baldé",
+     "age": 23,
+     "pos": "AiG",
+     "club": "FC Saint-Gall",
+     "type": "paid",
+     "val": 3.0,
+     "fs": "2026-07-22"
+    },
+    {
      "p": "Gabin Bernardeau",
      "age": 20,
      "pos": "MO",
@@ -2036,6 +2066,15 @@
      "fs": "2026-07-22"
     },
     {
+     "p": "Rareș Ilie",
+     "age": 23,
+     "pos": "MO",
+     "club": "Mantova",
+     "type": "free",
+     "val": 0.0,
+     "fs": "2026-07-28"
+    },
+    {
      "p": "Maxime Dupé",
      "age": 33,
      "pos": "GdB",
@@ -2043,24 +2082,6 @@
      "type": "free",
      "val": 0.0,
      "fs": "2026-07-22"
-    },
-    {
-     "p": "Aliou Baldé",
-     "age": 23,
-     "pos": "AiG",
-     "club": "FC Saint-Gall",
-     "type": "none",
-     "val": 0.0,
-     "fs": "2026-07-22"
-    },
-    {
-     "p": "Rareș Ilie",
-     "age": 23,
-     "pos": "MO",
-     "club": "Mantova",
-     "type": "none",
-     "val": 0.0,
-     "fs": "2026-07-28"
     },
     {
      "p": "Tanguy Ndombélé",
@@ -2170,6 +2191,15 @@
      "type": "none",
      "val": 0.0,
      "fs": "2026-07-22"
+    },
+    {
+     "p": "Thierno Baldé",
+     "age": 24,
+     "pos": "ArD",
+     "club": "Sans club",
+     "type": "none",
+     "val": 0.0,
+     "fs": "2026-08-03"
     },
     {
      "p": "Xavier Chavalerin",
@@ -2606,6 +2636,14 @@
     "grp": "MID",
     "age": 19,
     "val": 8.0
+   },
+   {
+    "n": "",
+    "p": "Yacine Titraoui",
+    "pos": "MC",
+    "grp": "MID",
+    "age": 23,
+    "val": 7.0
    },
    {
     "n": "21",
@@ -3550,14 +3588,6 @@
     "grp": "MID",
     "age": 32,
     "val": 4.0
-   },
-   {
-    "n": "4",
-    "p": "Glen Kamara",
-    "pos": "MC",
-    "grp": "MID",
-    "age": 30,
-    "val": 2.0
    },
    {
     "n": "10",
@@ -5804,14 +5834,6 @@
     "grp": "DEF",
     "age": 26,
     "val": 0.8
-   },
-   {
-    "n": "18",
-    "p": "Thierno Baldé",
-    "pos": "ArD",
-    "grp": "DEF",
-    "age": 24,
-    "val": 0.4
    },
    {
     "n": "26",
