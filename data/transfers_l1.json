@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-03T20:01:20",
- "sig": "dc2e880104896f441a37ab9d27723fa4",
+ "updated": "2026-08-03T23:01:33",
+ "sig": "1c543e9f1259ac05dfe4775def013054",
  "seen": {
   "PSG|out|Gonçalo Ramos|AC Milan": "2026-07-22",
   "PSG|out|Randal Kolo Muani|Juventus": "2026-08-02",
@@ -8,12 +8,12 @@
   "PSG|out|Noham Kamara|Ol. Lyonnais": "2026-07-22",
   "PSG|out|Gabriel Moscardo|Esp. Barcelona": "2026-07-22",
   "PSG|out|Renato Marin|Nacional": "2026-07-22",
+  "RCL|in|Yacine Titraoui|R Charleroi SC": "2026-08-03",
   "RCL|in|Michal Skoras|La Gantoise": "2026-07-22",
   "RCL|in|Saud Abdulhamid|AS Roma": "2026-07-22",
   "RCL|in|Michaël Cuisance|Hertha BSC": "2026-07-22",
   "RCL|in|Maik Nawrocki|Celtic Glasgow": "2026-07-22",
   "RCL|in|Thorgan Hazard|RSC Anderlecht": "2026-07-22",
-  "RCL|in|Yacine Titraoui|R Charleroi SC": "2026-08-03",
   "RCL|out|Mamadou Sangaré|Brentford": "2026-08-02",
   "RCL|out|Facundo Medina|Marseille": "2026-07-22",
   "RCL|out|Anass Zaroury|Panathinaikos": "2026-07-22",
@@ -187,6 +187,7 @@
   "OGCN|out|Charles Vanhoutte|Feyenoord": "2026-07-22",
   "OGCN|out|Jérémie Boga|Juventus": "2026-07-22",
   "OGCN|out|Aliou Baldé|FC Saint-Gall": "2026-07-22",
+  "OGCN|out|Tom Louchet|PAOK Saloniki": "2026-08-03",
   "OGCN|out|Gabin Bernardeau|FC Lorient": "2026-07-22",
   "OGCN|out|Mattia Viti|Sampdoria": "2026-07-31",
   "OGCN|out|Kaïl Boudache|Ol. Lyonnais": "2026-07-22",
@@ -287,6 +288,15 @@
    "fg": "#b10012",
    "arr": [
     {
+     "p": "Yacine Titraoui",
+     "age": 23,
+     "pos": "MC",
+     "club": "R Charleroi SC",
+     "type": "paid",
+     "val": 8.0,
+     "fs": "2026-08-03"
+    },
+    {
      "p": "Michal Skoras",
      "age": 26,
      "pos": "AiG",
@@ -330,15 +340,6 @@
      "type": "free",
      "val": 0.0,
      "fs": "2026-07-22"
-    },
-    {
-     "p": "Yacine Titraoui",
-     "age": 23,
-     "pos": "MC",
-     "club": "R Charleroi SC",
-     "type": "none",
-     "val": 0.0,
-     "fs": "2026-08-03"
     }
    ],
    "dep": [
@@ -2039,6 +2040,15 @@
      "fs": "2026-07-22"
     },
     {
+     "p": "Tom Louchet",
+     "age": 23,
+     "pos": "MD",
+     "club": "PAOK Saloniki",
+     "type": "paid",
+     "val": 2.0,
+     "fs": "2026-08-03"
+    },
+    {
      "p": "Gabin Bernardeau",
      "age": 20,
      "pos": "MO",
@@ -2638,7 +2648,7 @@
     "val": 8.0
    },
    {
-    "n": "",
+    "n": "8",
     "p": "Yacine Titraoui",
     "pos": "MC",
     "grp": "MID",
@@ -3026,7 +3036,7 @@
     "val": 8.0
    },
    {
-    "n": "",
+    "n": "20",
     "p": "Felix Bacher",
     "pos": "DC",
     "grp": "DEF",
@@ -3976,6 +3986,14 @@
     "grp": "DEF",
     "age": 20,
     "val": 15.0
+   },
+   {
+    "n": "",
+    "p": "Genesis Antwi",
+    "pos": "ArD",
+    "grp": "DEF",
+    "age": 19,
+    "val": 0.35
    },
    {
     "n": "23",
@@ -5688,14 +5706,6 @@
     "grp": "MID",
     "age": 21,
     "val": 0.25
-   },
-   {
-    "n": "20",
-    "p": "Tom Louchet",
-    "pos": "MD",
-    "grp": "MID",
-    "age": 23,
-    "val": 7.0
    },
    {
     "n": "10",
