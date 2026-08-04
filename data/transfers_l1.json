@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-03T23:01:33",
- "sig": "1c543e9f1259ac05dfe4775def013054",
+ "updated": "2026-08-04T14:03:28",
+ "sig": "355322be9a3e42ebd45d106117b10d3d",
  "seen": {
   "PSG|out|Gonçalo Ramos|AC Milan": "2026-07-22",
   "PSG|out|Randal Kolo Muani|Juventus": "2026-08-02",
@@ -65,6 +65,7 @@
   "SRFC|in|Eliezer Mayenda|AFC Sunderland": "2026-07-22",
   "SRFC|in|Bryan Reynolds|KVC Westerlo": "2026-07-22",
   "SRFC|in|Gonçalo Oliveira|Benfica B": "2026-07-22",
+  "SRFC|in|Charlie Cresswell|Toulouse": "2026-08-04",
   "SRFC|in|Arnaud Nordin|Mainz": "2026-07-22",
   "SRFC|in|Issa Soumaré|Le Havre AC": "2026-07-22",
   "SRFC|in|Adrien Thomasson|RC Lens": "2026-07-22",
@@ -93,6 +94,7 @@
   "ASM|out|Krépin Diatta|Sans club": "2026-07-22",
   "RCSA|in|Diogo Sousa|Vit. Guimarães": "2026-07-22",
   "RCSA|in|Angelo Candido|São Paulo U20": "2026-07-22",
+  "RCSA|in|Giovanni Reyna|Bor. M'gladbach": "2026-08-04",
   "RCSA|in|Mateo Del Blanco|Unión Santa Fe": "2026-07-22",
   "RCSA|in|Benjamin Brantlind|IFK Göteborg": "2026-07-22",
   "RCSA|in|Miłosz Piekutowski|Jagiellonia": "2026-07-30",
@@ -115,6 +117,7 @@
   "TFC|in|Christ Tapé|AC Horsens": "2026-07-22",
   "TFC|in|Ismaïl Diallo|Dijon": "2026-07-22",
   "TFC|out|Emersonn|Ipswich Town": "2026-07-22",
+  "TFC|out|Charlie Cresswell|Stade Rennais": "2026-08-04",
   "TFC|out|Warren Kamanzi|Malmö FF": "2026-07-22",
   "TFC|out|Kjetil Haug|Go Ahead Eagles": "2026-07-22",
   "TFC|out|Álex Domínguez|Ponferradina": "2026-07-22",
@@ -841,6 +844,15 @@
      "fs": "2026-07-22"
     },
     {
+     "p": "Charlie Cresswell",
+     "age": 23,
+     "pos": "DC",
+     "club": "Toulouse",
+     "type": "loan",
+     "val": 2.5,
+     "fs": "2026-08-04"
+    },
+    {
      "p": "Arnaud Nordin",
      "age": 28,
      "pos": "AiD",
@@ -1113,6 +1125,15 @@
      "fs": "2026-07-22"
     },
     {
+     "p": "Giovanni Reyna",
+     "age": 23,
+     "pos": "MO",
+     "club": "Bor. M'gladbach",
+     "type": "paid",
+     "val": 3.0,
+     "fs": "2026-08-04"
+    },
+    {
      "p": "Mateo Del Blanco",
      "age": 22,
      "pos": "ArG",
@@ -1333,6 +1354,15 @@
      "fs": "2026-07-22"
     },
     {
+     "p": "Charlie Cresswell",
+     "age": 23,
+     "pos": "DC",
+     "club": "Stade Rennais",
+     "type": "loan",
+     "val": 2.5,
+     "fs": "2026-08-04"
+    },
+    {
      "p": "Warren Kamanzi",
      "age": 25,
      "pos": "ArD",
@@ -1465,7 +1495,7 @@
      "pos": "AC",
      "club": "Lecce",
      "type": "paid",
-     "val": 5.0,
+     "val": 4.6,
      "fs": "2026-08-02"
     },
     {
@@ -2838,7 +2868,7 @@
     "p": "Loun Srdanovic",
     "pos": "ArD",
     "grp": "DEF",
-    "age": 19,
+    "age": 20,
     "val": 1.2
    },
    {
@@ -3472,6 +3502,14 @@
     "val": 0.0
    },
    {
+    "n": "",
+    "p": "Charlie Cresswell",
+    "pos": "DC",
+    "grp": "DEF",
+    "age": 23,
+    "val": 25.0
+   },
+   {
     "n": "3",
     "p": "Lilian Brassier",
     "pos": "DC",
@@ -4069,6 +4107,14 @@
    },
    {
     "n": "",
+    "p": "Giovanni Reyna",
+    "pos": "MO",
+    "grp": "MID",
+    "age": 23,
+    "val": 4.0
+   },
+   {
+    "n": "",
     "p": "Benjamin Brantlind",
     "pos": "MO",
     "grp": "MID",
@@ -4350,14 +4396,6 @@
     "grp": "GK",
     "age": 19,
     "val": 2.5
-   },
-   {
-    "n": "4",
-    "p": "Charlie Cresswell",
-    "pos": "DC",
-    "grp": "DEF",
-    "age": 23,
-    "val": 25.0
    },
    {
     "n": "3",
@@ -5948,7 +5986,7 @@
     "p": "Nicolas Kocik",
     "pos": "GdB",
     "grp": "GK",
-    "age": 27,
+    "age": 28,
     "val": 1.5
    },
    {
