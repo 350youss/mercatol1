@@ -1,12 +1,14 @@
 {
- "updated": "2026-08-04T14:03:28",
- "sig": "355322be9a3e42ebd45d106117b10d3d",
+ "updated": "2026-08-04T23:06:33",
+ "sig": "0c3fcdab207fc0ae14948e7667bc7673",
  "seen": {
+  "PSG|in|Khalil Ayari|Stade Tunisien": "2026-08-04",
   "PSG|out|Gonçalo Ramos|AC Milan": "2026-07-22",
   "PSG|out|Randal Kolo Muani|Juventus": "2026-08-02",
   "PSG|out|Kang-in Lee|Atlético": "2026-07-25",
   "PSG|out|Noham Kamara|Ol. Lyonnais": "2026-07-22",
   "PSG|out|Gabriel Moscardo|Esp. Barcelona": "2026-07-22",
+  "PSG|out|Khalil Ayari|USL Dunkerque": "2026-08-04",
   "PSG|out|Renato Marin|Nacional": "2026-07-22",
   "RCL|in|Yacine Titraoui|R Charleroi SC": "2026-08-03",
   "RCL|in|Michal Skoras|La Gantoise": "2026-07-22",
@@ -108,11 +110,11 @@
   "FCL|in|Alec Georgen|USL Dunkerque": "2026-07-22",
   "FCL|in|Souleymane Faye|Sporting": "2026-08-02",
   "FCL|out|Pablo Pagis|Paris FC": "2026-07-22",
+  "FCL|out|Darlin Yongwa|Norwich": "2026-08-04",
   "FCL|out|Sambou Soumano|Stade de Reims": "2026-07-22",
   "FCL|out|Laurent Abergel|OGC Nice": "2026-07-22",
   "FCL|out|Isaac Monnier|SC Bastia": "2026-07-30",
   "FCL|out|Bamba Dieng|Sans club": "2026-07-22",
-  "FCL|out|Darlin Yongwa|Sans club": "2026-07-22",
   "FCL|out|Igor Silva|Sans club": "2026-07-22",
   "TFC|in|Christ Tapé|AC Horsens": "2026-07-22",
   "TFC|in|Ismaïl Diallo|Dijon": "2026-07-22",
@@ -135,6 +137,7 @@
   "PFC|out|Mathieu Cafaro|FC Nantes": "2026-07-22",
   "PFC|out|Lohann Doucet|Vit. Guimarães": "2026-07-22",
   "PFC|out|Julien Lopez|AS Cannes": "2026-07-22",
+  "PFC|out|Alimami Gory|Abha": "2026-08-04",
   "PFC|out|Mathys Tourraine|Pau FC": "2026-07-30",
   "PFC|out|Pierre-Yves Hamel|Sans club": "2026-07-22",
   "PFC|out|Lamine Gueye|Sans club": "2026-07-22",
@@ -186,6 +189,7 @@
   "AJA|out|Théo De Percin|SC Bastia": "2026-07-22",
   "AJA|out|Tom Negrel|Sans club": "2026-07-22",
   "AJA|out|Nathan Buayi-Kiala|Sans club": "2026-07-22",
+  "OGCN|in|Gauthier Hein|FC Metz": "2026-08-04",
   "OGCN|in|Laurent Abergel|FC Lorient": "2026-07-22",
   "OGCN|out|Charles Vanhoutte|Feyenoord": "2026-07-22",
   "OGCN|out|Jérémie Boga|Juventus": "2026-07-22",
@@ -206,6 +210,7 @@
   "ESTAC|out|Sankhoun Diawara|AC Milan": "2026-07-29",
   "ESTAC|out|Yasser Larouci|Le Mans FC": "2026-07-22",
   "ESTAC|out|Nicolas Lemaître|Stade Rennais": "2026-07-22",
+  "ESTAC|out|Fred Ondoa Onambele|FC Villefranche": "2026-08-04",
   "ESTAC|out|Mounaïm El Idrissy|Sans club": "2026-07-22",
   "ESTAC|out|Thierno Baldé|Sans club": "2026-08-03",
   "ESTAC|out|Xavier Chavalerin|Sans club": "2026-07-22",
@@ -226,7 +231,17 @@
    "name": "Paris Saint-Germain",
    "bg": "#0b1e4d",
    "fg": "#fff",
-   "arr": [],
+   "arr": [
+    {
+     "p": "Khalil Ayari",
+     "age": 21,
+     "pos": "AiD",
+     "club": "Stade Tunisien",
+     "type": "paid",
+     "val": 1.5,
+     "fs": "2026-08-04"
+    }
+   ],
    "dep": [
     {
      "p": "Gonçalo Ramos",
@@ -272,6 +287,15 @@
      "type": "loan",
      "val": 0.0,
      "fs": "2026-07-22"
+    },
+    {
+     "p": "Khalil Ayari",
+     "age": 21,
+     "pos": "AiD",
+     "club": "USL Dunkerque",
+     "type": "loan",
+     "val": 0.0,
+     "fs": "2026-08-04"
     },
     {
      "p": "Renato Marin",
@@ -1263,6 +1287,15 @@
      "fs": "2026-07-22"
     },
     {
+     "p": "Darlin Yongwa",
+     "age": 25,
+     "pos": "ArG",
+     "club": "Norwich",
+     "type": "free",
+     "val": 0.0,
+     "fs": "2026-08-04"
+    },
+    {
      "p": "Sambou Soumano",
      "age": 25,
      "pos": "AC",
@@ -1293,15 +1326,6 @@
      "p": "Bamba Dieng",
      "age": 26,
      "pos": "AC",
-     "club": "Sans club",
-     "type": "none",
-     "val": 0.0,
-     "fs": "2026-07-22"
-    },
-    {
-     "p": "Darlin Yongwa",
-     "age": 25,
-     "pos": "ArG",
      "club": "Sans club",
      "type": "none",
      "val": 0.0,
@@ -1524,6 +1548,15 @@
      "type": "free",
      "val": 0.0,
      "fs": "2026-07-22"
+    },
+    {
+     "p": "Alimami Gory",
+     "age": 29,
+     "pos": "AiG",
+     "club": "Abha",
+     "type": "none",
+     "val": 0.0,
+     "fs": "2026-08-04"
     },
     {
      "p": "Mathys Tourraine",
@@ -2032,6 +2065,15 @@
    "fg": "#fff",
    "arr": [
     {
+     "p": "Gauthier Hein",
+     "age": 29,
+     "pos": "AiD",
+     "club": "FC Metz",
+     "type": "paid",
+     "val": 1.7,
+     "fs": "2026-08-04"
+    },
+    {
      "p": "Laurent Abergel",
      "age": 33,
      "pos": "MDC",
@@ -2222,6 +2264,15 @@
      "type": "free",
      "val": 0.0,
      "fs": "2026-07-22"
+    },
+    {
+     "p": "Fred Ondoa Onambele",
+     "age": 19,
+     "pos": "ArG",
+     "club": "FC Villefranche",
+     "type": "loan",
+     "val": 0.0,
+     "fs": "2026-08-04"
     },
     {
      "p": "Mounaïm El Idrissy",
@@ -2716,14 +2767,6 @@
     "grp": "MID",
     "age": 33,
     "val": 2.0
-   },
-   {
-    "n": "",
-    "p": "Alpha Diallo",
-    "pos": "MO",
-    "grp": "MID",
-    "age": 20,
-    "val": 0.0
    },
    {
     "n": "19",
@@ -4074,19 +4117,19 @@
     "val": 22.0
    },
    {
-    "n": "",
-    "p": "Pape Demba Diop",
-    "pos": "MC",
-    "grp": "MID",
-    "age": 22,
-    "val": 9.0
-   },
-   {
     "n": "17",
     "p": "Mathis Amougou",
     "pos": "MC",
     "grp": "MID",
     "age": 20,
+    "val": 9.0
+   },
+   {
+    "n": "21",
+    "p": "Pape Demba Diop",
+    "pos": "MC",
+    "grp": "MID",
+    "age": 22,
     "val": 9.0
    },
    {
@@ -4423,7 +4466,7 @@
    },
    {
     "n": "24",
-    "p": "Dayann Methalie",
+    "p": "Dayann Méthalie",
     "pos": "ArG",
     "grp": "DEF",
     "age": 20,
@@ -4718,14 +4761,6 @@
     "grp": "ATT",
     "age": 31,
     "val": 7.0
-   },
-   {
-    "n": "7",
-    "p": "Alimami Gory",
-    "pos": "AiG",
-    "grp": "ATT",
-    "age": 29,
-    "val": 1.5
    },
    {
     "n": "10",
@@ -5768,6 +5803,14 @@
     "grp": "ATT",
     "age": 22,
     "val": 15.0
+   },
+   {
+    "n": "7",
+    "p": "Gauthier Hein",
+    "pos": "AiD",
+    "grp": "ATT",
+    "age": 29,
+    "val": 5.0
    },
    {
     "n": "",
