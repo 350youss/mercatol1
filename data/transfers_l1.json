@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-04T23:06:33",
- "sig": "0c3fcdab207fc0ae14948e7667bc7673",
+ "updated": "2026-08-05T11:03:16",
+ "sig": "58abb77f5133abffef0dc9b97f98d658",
  "seen": {
   "PSG|in|Khalil Ayari|Stade Tunisien": "2026-08-04",
   "PSG|out|Gonçalo Ramos|AC Milan": "2026-07-22",
@@ -210,9 +210,9 @@
   "ESTAC|out|Sankhoun Diawara|AC Milan": "2026-07-29",
   "ESTAC|out|Yasser Larouci|Le Mans FC": "2026-07-22",
   "ESTAC|out|Nicolas Lemaître|Stade Rennais": "2026-07-22",
+  "ESTAC|out|Thierno Baldé|AS Nancy": "2026-08-05",
   "ESTAC|out|Fred Ondoa Onambele|FC Villefranche": "2026-08-04",
   "ESTAC|out|Mounaïm El Idrissy|Sans club": "2026-07-22",
-  "ESTAC|out|Thierno Baldé|Sans club": "2026-08-03",
   "ESTAC|out|Xavier Chavalerin|Sans club": "2026-07-22",
   "LM|in|Yasser Larouci|Troyes": "2026-07-22",
   "LM|in|Billal Brahimi|Santos": "2026-07-22",
@@ -2266,6 +2266,15 @@
      "fs": "2026-07-22"
     },
     {
+     "p": "Thierno Baldé",
+     "age": 24,
+     "pos": "ArD",
+     "club": "AS Nancy",
+     "type": "free",
+     "val": 0.0,
+     "fs": "2026-08-05"
+    },
+    {
      "p": "Fred Ondoa Onambele",
      "age": 19,
      "pos": "ArG",
@@ -2282,15 +2291,6 @@
      "type": "none",
      "val": 0.0,
      "fs": "2026-07-22"
-    },
-    {
-     "p": "Thierno Baldé",
-     "age": 24,
-     "pos": "ArD",
-     "club": "Sans club",
-     "type": "none",
-     "val": 0.0,
-     "fs": "2026-08-03"
     },
     {
      "p": "Xavier Chavalerin",
@@ -2613,7 +2613,7 @@
     "p": "Mathieu Gorgelin",
     "pos": "GdB",
     "grp": "GK",
-    "age": 35,
+    "age": 36,
     "val": 0.2
    },
    {
@@ -3427,7 +3427,7 @@
     "p": "Pierre-Emile Højbjerg",
     "pos": "MDC",
     "grp": "MID",
-    "age": 30,
+    "age": 31,
     "val": 15.0
    },
    {
