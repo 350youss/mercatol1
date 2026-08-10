@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-10T12:40:59",
- "sig": "6ee6c74a663cb6887bc708ee14c5e78e",
+ "updated": "2026-08-10T12:54:07",
+ "sig": "4c43e9370895541283b65bed0a296745",
  "seen": {
   "PSG|in|Maghnes Akliouche|Monaco": "2026-08-09",
   "PSG|in|Lucas Digne|Aston Villa": "2026-08-09",
@@ -42,11 +42,11 @@
   "LOSC|out|Ugo Raghouber|Burnley FC": "2026-08-09",
   "LOSC|out|Ichem Ferrah|Pisa": "2026-08-09",
   "LOSC|out|Vincent Burlet|Cracovia": "2026-08-09",
+  "LOSC|out|Chancel Mbemba|Al-Diriyah": "2026-08-10",
   "LOSC|out|Thomas Meunier|AFC Sunderland": "2026-08-09",
   "LOSC|out|Aïssa Mandi|UD Levante": "2026-08-09",
   "LOSC|out|Lisandru Olmeta|Torreense": "2026-08-09",
   "LOSC|out|Rafael Fernandes|Marítimo": "2026-08-09",
-  "LOSC|out|Chancel Mbemba|Sans club": "2026-08-09",
   "LOSC|out|Marc-Aurèle Caillard|Sans club": "2026-08-09",
   "OL|in|Mads Bidstrup|RB Salzbourg": "2026-08-09",
   "OL|in|Julien Duranville|Dortmund": "2026-08-09",
@@ -624,6 +624,15 @@
      "fs": "2026-08-09"
     },
     {
+     "p": "Chancel Mbemba",
+     "age": 31,
+     "pos": "DC",
+     "club": "Al-Diriyah",
+     "type": "free",
+     "val": 0.0,
+     "fs": "2026-08-10"
+    },
+    {
      "p": "Thomas Meunier",
      "age": 34,
      "pos": "ArD",
@@ -656,15 +665,6 @@
      "pos": "DC",
      "club": "Marítimo",
      "type": "loan",
-     "val": 0.0,
-     "fs": "2026-08-09"
-    },
-    {
-     "p": "Chancel Mbemba",
-     "age": 31,
-     "pos": "DC",
-     "club": "Sans club",
-     "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
     },
