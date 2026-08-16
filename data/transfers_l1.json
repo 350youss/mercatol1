@@ -1,8 +1,10 @@
 {
- "updated": "2026-08-10T14:37:12",
- "sig": "4c43e9370895541283b65bed0a296745",
+ "updated": "2026-08-16T21:58:20",
+ "sig": "7c69c8263c885918685137b362acabe5",
  "seen": {
   "PSG|in|Maghnes Akliouche|Monaco": "2026-08-09",
+  "PSG|in|Ferran Torres|Barcelone": "2026-08-15",
+  "PSG|in|Mika Godts|Ajax": "2026-08-16",
   "PSG|in|Lucas Digne|Aston Villa": "2026-08-09",
   "PSG|in|Khalil Ayari|Stade Tunisien": "2026-08-09",
   "PSG|out|Gonçalo Ramos|AC Milan": "2026-08-09",
@@ -16,6 +18,7 @@
   "RCL|in|Michal Skoras|La Gantoise": "2026-08-09",
   "RCL|in|Saud Abdulhamid|AS Roma": "2026-08-09",
   "RCL|in|Michaël Cuisance|Hertha BSC": "2026-08-09",
+  "RCL|in|Franjo Ivanović|Benfica": "2026-08-12",
   "RCL|in|Maik Nawrocki|Celtic Glasgow": "2026-08-09",
   "RCL|in|Thorgan Hazard|RSC Anderlecht": "2026-08-09",
   "RCL|out|Mamadou Sangaré|Brentford": "2026-08-09",
@@ -36,6 +39,7 @@
   "RCL|out|Goduine Koyalipou|KV Kortrijk": "2026-08-09",
   "RCL|out|Mattia Fortin|Palerme": "2026-08-09",
   "RCL|out|Anthony Bermont|Angers SCO": "2026-08-09",
+  "RCL|out|Gabin Capuano|QRM": "2026-08-15",
   "LOSC|in|Başar Önal|NEC Nijmegen": "2026-08-09",
   "LOSC|in|Loun Srdanovic|Servette FC": "2026-08-09",
   "LOSC|in|Tanguy Nianzou|Séville FC": "2026-08-09",
@@ -55,17 +59,21 @@
   "OL|in|Loïs Openda|Juventus": "2026-08-09",
   "OL|in|Mohamed Ouédraogo|SCR Altach": "2026-08-09",
   "OL|in|Kaïl Boudache|OGC Nice": "2026-08-09",
+  "OL|in|Zachary Athekame|AC Milan": "2026-08-14",
   "OL|out|Afonso Moreira|Leverkusen": "2026-08-09",
   "OL|out|Martín Satriano|FC Getafe": "2026-08-09",
   "OL|out|Achraf Laâziri|Ittihad Tanger": "2026-08-09",
   "OL|out|Orel Mangala|FC Getafe": "2026-08-09",
+  "OL|out|Enzo Molebe|Lausanne-Sport": "2026-08-11",
   "OL|out|Daryll Benlahlou|Montpellier": "2026-08-09",
   "OL|out|Rachid Ghezzal|Sans club": "2026-08-09",
   "OM|in|Facundo Medina|RC Lens": "2026-08-09",
   "OM|in|Timothy Weah|Juventus": "2026-08-09",
   "OM|in|Hamed Traoré|Bournemouth": "2026-08-09",
   "OM|out|Mason Greenwood|Fenerbahçe": "2026-08-09",
+  "OM|out|Facundo Medina|Leverkusen": "2026-08-11",
   "OM|out|Hamed Traoré|Genoa": "2026-08-09",
+  "OM|out|Gerónimo Rulli|Man City": "2026-08-12",
   "OM|out|Pierre-Emerick Aubameyang|Dep. La Corogne": "2026-08-09",
   "OM|out|Bilal Nadir|Hambourg": "2026-08-09",
   "SRFC|in|Eliezer Mayenda|AFC Sunderland": "2026-08-09",
@@ -100,15 +108,19 @@
   "ASM|out|Radoslaw Majecki|Pafos": "2026-08-09",
   "ASM|out|Krépin Diatta|Sans club": "2026-08-09",
   "RCSA|in|Diogo Sousa|Vit. Guimarães": "2026-08-09",
+  "RCSA|in|Fábio Baldé|Hambourg": "2026-08-14",
   "RCSA|in|Angelo Candido|São Paulo U20": "2026-08-09",
   "RCSA|in|Giovanni Reyna|Bor. M'gladbach": "2026-08-09",
   "RCSA|in|Mateo Del Blanco|Unión Santa Fe": "2026-08-09",
   "RCSA|in|Benjamin Brantlind|IFK Göteborg": "2026-08-09",
   "RCSA|in|Miłosz Piekutowski|Jagiellonia": "2026-08-09",
+  "RCSA|in|Filip Jørgensen|Chelsea": "2026-08-11",
   "RCSA|out|Valentín Barco|Chelsea": "2026-08-09",
   "RCSA|out|Emmanuel Emegha|Chelsea": "2026-08-09",
+  "RCSA|out|Rabby Nzingoula|West Brom": "2026-08-11",
   "RCSA|out|Junior Mwanga|Le Havre AC": "2026-08-09",
   "RCSA|out|Stefan Bajic|Alem. Aachen": "2026-08-09",
+  "RCSA|out|Rayane Messi|Al-Ettifaq": "2026-08-14",
   "RCSA|out|Saïdou Sow|FC Nantes": "2026-08-09",
   "RCSA|out|Óscar Perea|América": "2026-08-09",
   "RCSA|out|Karl-Johan Johnsson|Sans club": "2026-08-09",
@@ -147,14 +159,19 @@
   "PFC|out|Julien Lopez|AS Cannes": "2026-08-09",
   "PFC|out|Alimami Gory|Abha": "2026-08-09",
   "PFC|out|Mathys Tourraine|Pau FC": "2026-08-09",
+  "PFC|out|Ciro Immobile|Fin de carrière": "2026-08-15",
   "PFC|out|Pierre-Yves Hamel|Sans club": "2026-08-09",
   "PFC|out|Lamine Gueye|Sans club": "2026-08-09",
   "PFC|out|Timothée Kolodziejczak|Sans club": "2026-08-09",
   "PFC|out|Sofiane Alakouch|Sans club": "2026-08-09",
   "PFC|out|Rémy Riou|Sans club": "2026-08-09",
   "PFC|out|Gabriel Oualengbe|Sans club": "2026-08-09",
+  "SB29|in|Gautier Lloris|Le Havre AC": "2026-08-12",
   "SB29|in|Joseph Nonge|Kocaelispor": "2026-08-09",
+  "SB29|in|Mamady Diambou|RB Salzbourg": "2026-08-13",
+  "SB29|in|Egil Selvik|Watford": "2026-08-13",
   "SB29|out|Daouda Guindo|Stade de Reims": "2026-08-09",
+  "SB29|out|Noah Jauny|Francs Borains": "2026-08-12",
   "SCO|in|Usman Simbakoli|RWDM Brussels": "2026-08-09",
   "SCO|in|Branco van den Boomen|Ajax": "2026-08-09",
   "SCO|in|Anthony Lopes|FC Nantes": "2026-08-09",
@@ -162,6 +179,7 @@
   "SCO|in|Anthony Bermont|RC Lens": "2026-08-09",
   "SCO|out|Sidiki Chérif|Fenerbahçe": "2026-08-09",
   "SCO|out|Florent Hanin|Nea Salamis": "2026-08-09",
+  "SCO|out|Marius Courcoul|La Louvière": "2026-08-14",
   "SCO|out|Lanroy Machine|Heerenveen": "2026-08-09",
   "SCO|out|Dan Sinaté|Amiens SC": "2026-08-09",
   "SCO|out|Abdoulaye Bamba|Fin de carrière": "2026-08-09",
@@ -176,9 +194,10 @@
   "HAC|out|Issa Soumaré|Stade Rennais": "2026-08-09",
   "HAC|out|Arouna Sangante|Séville FC": "2026-08-09",
   "HAC|out|Yassine Kechta|CD Leganés": "2026-08-09",
+  "HAC|out|Gautier Lloris|Stade Brestois": "2026-08-12",
   "HAC|out|Kenny Quetant|Werder Brême": "2026-08-09",
   "HAC|out|Loïc Nego|Omonia Nicosie": "2026-08-09",
-  "HAC|out|Gautier Lloris|Sans club": "2026-08-09",
+  "HAC|out|Noam Obougou|AS Nancy": "2026-08-12",
   "HAC|out|Abdoulaye Touré|Sans club": "2026-08-09",
   "HAC|out|Étienne Youté Kinkoué|Sans club": "2026-08-09",
   "HAC|out|Sofiane Boufal|Sans club": "2026-08-09",
@@ -209,6 +228,7 @@
   "OGCN|out|Kaïl Boudache|Ol. Lyonnais": "2026-08-09",
   "OGCN|out|Rareș Ilie|Mantova": "2026-08-09",
   "OGCN|out|Maxime Dupé|FC Nantes": "2026-08-09",
+  "OGCN|out|Kevin Carlos|Cagliari": "2026-08-10",
   "OGCN|out|Tanguy Ndombélé|Sans club": "2026-08-09",
   "OGCN|out|Dante|Fin de carrière": "2026-08-09",
   "OGCN|out|Bartosz Żelazowski|Sans club": "2026-08-09",
@@ -249,6 +269,24 @@
      "type": "paid",
      "val": 50.0,
      "fs": "2026-08-09"
+    },
+    {
+     "p": "Ferran Torres",
+     "age": 26,
+     "pos": "AC",
+     "club": "Barcelone",
+     "type": "paid",
+     "val": 45.0,
+     "fs": "2026-08-15"
+    },
+    {
+     "p": "Mika Godts",
+     "age": 21,
+     "pos": "AiG",
+     "club": "Ajax",
+     "type": "paid",
+     "val": 45.0,
+     "fs": "2026-08-16"
     },
     {
      "p": "Lucas Digne",
@@ -376,6 +414,15 @@
      "type": "paid",
      "val": 3.5,
      "fs": "2026-08-09"
+    },
+    {
+     "p": "Franjo Ivanović",
+     "age": 22,
+     "pos": "AC",
+     "club": "Benfica",
+     "type": "loan",
+     "val": 2.5,
+     "fs": "2026-08-12"
     },
     {
      "p": "Maik Nawrocki",
@@ -558,6 +605,15 @@
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
+    },
+    {
+     "p": "Gabin Capuano",
+     "age": 20,
+     "pos": "AC",
+     "club": "QRM",
+     "type": "loan",
+     "val": 0.0,
+     "fs": "2026-08-15"
     }
    ]
   },
@@ -747,6 +803,15 @@
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
+    },
+    {
+     "p": "Zachary Athekame",
+     "age": 21,
+     "pos": "ArD",
+     "club": "AC Milan",
+     "type": "loan",
+     "val": 0.0,
+     "fs": "2026-08-14"
     }
    ],
    "dep": [
@@ -785,6 +850,15 @@
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
+    },
+    {
+     "p": "Enzo Molebe",
+     "age": 18,
+     "pos": "AC",
+     "club": "Lausanne-Sport",
+     "type": "loan",
+     "val": 0.0,
+     "fs": "2026-08-11"
     },
     {
      "p": "Daryll Benlahlou",
@@ -851,6 +925,15 @@
      "fs": "2026-08-09"
     },
     {
+     "p": "Facundo Medina",
+     "age": 27,
+     "pos": "DC",
+     "club": "Leverkusen",
+     "type": "paid",
+     "val": 23.0,
+     "fs": "2026-08-11"
+    },
+    {
      "p": "Hamed Traoré",
      "age": 26,
      "pos": "AiG",
@@ -858,6 +941,15 @@
      "type": "loan",
      "val": 2.0,
      "fs": "2026-08-09"
+    },
+    {
+     "p": "Gerónimo Rulli",
+     "age": 34,
+     "pos": "GdB",
+     "club": "Man City",
+     "type": "paid",
+     "val": 2.0,
+     "fs": "2026-08-12"
     },
     {
      "p": "Pierre-Emerick Aubameyang",
@@ -1194,6 +1286,15 @@
      "fs": "2026-08-09"
     },
     {
+     "p": "Fábio Baldé",
+     "age": 21,
+     "pos": "AiG",
+     "club": "Hambourg",
+     "type": "paid",
+     "val": 7.0,
+     "fs": "2026-08-14"
+    },
+    {
      "p": "Angelo Candido",
      "age": 18,
      "pos": "ArD",
@@ -1237,6 +1338,15 @@
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
+    },
+    {
+     "p": "Filip Jørgensen",
+     "age": 24,
+     "pos": "GdB",
+     "club": "Chelsea",
+     "type": "loan",
+     "val": 0.0,
+     "fs": "2026-08-11"
     }
    ],
    "dep": [
@@ -1259,6 +1369,15 @@
      "fs": "2026-08-09"
     },
     {
+     "p": "Rabby Nzingoula",
+     "age": 20,
+     "pos": "MDC",
+     "club": "West Brom",
+     "type": "paid",
+     "val": 2.35,
+     "fs": "2026-08-11"
+    },
+    {
      "p": "Junior Mwanga",
      "age": 23,
      "pos": "MDC",
@@ -1275,6 +1394,15 @@
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
+    },
+    {
+     "p": "Rayane Messi",
+     "age": 19,
+     "pos": "AiG",
+     "club": "Al-Ettifaq",
+     "type": "loan",
+     "val": 0.0,
+     "fs": "2026-08-14"
     },
     {
      "p": "Saïdou Sow",
@@ -1506,7 +1634,7 @@
     {
      "p": "Edhy Zuliani",
      "age": 21,
-     "pos": "MO",
+     "pos": "AiD",
      "club": "VVV-Venlo",
      "type": "none",
      "val": 0.0,
@@ -1649,6 +1777,15 @@
      "fs": "2026-08-09"
     },
     {
+     "p": "Ciro Immobile",
+     "age": 36,
+     "pos": "AC",
+     "club": "Fin de carrière",
+     "type": "none",
+     "val": 0.0,
+     "fs": "2026-08-15"
+    },
+    {
      "p": "Pierre-Yves Hamel",
      "age": 32,
      "pos": "AC",
@@ -1711,6 +1848,15 @@
    "fg": "#fff",
    "arr": [
     {
+     "p": "Gautier Lloris",
+     "age": 31,
+     "pos": "DC",
+     "club": "Le Havre AC",
+     "type": "free",
+     "val": 0.0,
+     "fs": "2026-08-12"
+    },
+    {
      "p": "Joseph Nonge",
      "age": 21,
      "pos": "MC",
@@ -1718,6 +1864,24 @@
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
+    },
+    {
+     "p": "Mamady Diambou",
+     "age": 23,
+     "pos": "MDC",
+     "club": "RB Salzbourg",
+     "type": "none",
+     "val": 0.0,
+     "fs": "2026-08-13"
+    },
+    {
+     "p": "Egil Selvik",
+     "age": 29,
+     "pos": "GdB",
+     "club": "Watford",
+     "type": "loan",
+     "val": 0.0,
+     "fs": "2026-08-13"
     }
    ],
    "dep": [
@@ -1729,6 +1893,15 @@
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
+    },
+    {
+     "p": "Noah Jauny",
+     "age": 21,
+     "pos": "GdB",
+     "club": "Francs Borains",
+     "type": "none",
+     "val": 0.0,
+     "fs": "2026-08-12"
     }
    ]
   },
@@ -1802,6 +1975,15 @@
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
+    },
+    {
+     "p": "Marius Courcoul",
+     "age": 19,
+     "pos": "MDC",
+     "club": "La Louvière",
+     "type": "loan",
+     "val": 0.0,
+     "fs": "2026-08-14"
     },
     {
      "p": "Lanroy Machine",
@@ -1940,6 +2122,15 @@
      "fs": "2026-08-09"
     },
     {
+     "p": "Gautier Lloris",
+     "age": 31,
+     "pos": "DC",
+     "club": "Stade Brestois",
+     "type": "free",
+     "val": 0.0,
+     "fs": "2026-08-12"
+    },
+    {
      "p": "Kenny Quetant",
      "age": 19,
      "pos": "AC",
@@ -1958,13 +2149,13 @@
      "fs": "2026-08-09"
     },
     {
-     "p": "Gautier Lloris",
-     "age": 30,
-     "pos": "DC",
-     "club": "Sans club",
-     "type": "none",
+     "p": "Noam Obougou",
+     "age": 20,
+     "pos": "AC",
+     "club": "AS Nancy",
+     "type": "loan",
      "val": 0.0,
-     "fs": "2026-08-09"
+     "fs": "2026-08-12"
     },
     {
      "p": "Abdoulaye Touré",
@@ -2257,6 +2448,15 @@
      "fs": "2026-08-09"
     },
     {
+     "p": "Kevin Carlos",
+     "age": 25,
+     "pos": "AC",
+     "club": "Cagliari",
+     "type": "loan",
+     "val": 0.0,
+     "fs": "2026-08-10"
+    },
+    {
      "p": "Tanguy Ndombélé",
      "age": 29,
      "pos": "MC",
@@ -2503,7 +2703,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 27,
-    "val": 30.0
+    "val": 30.0,
+    "stats": {
+     "m": 27,
+     "s": 27,
+     "g": 0,
+     "a": 1,
+     "min": 2490
+    }
    },
    {
     "n": "30",
@@ -2511,7 +2718,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 24,
-    "val": 25.0
+    "val": 25.0,
+    "stats": {
+     "m": 26,
+     "s": 26,
+     "g": 0,
+     "a": 0,
+     "min": 2340
+    }
    },
    {
     "n": "16",
@@ -2519,7 +2733,8 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 18,
-    "val": 0.3
+    "val": 0.3,
+    "stats": null
    },
    {
     "n": "51",
@@ -2527,7 +2742,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 24,
-    "val": 80.0
+    "val": 80.0,
+    "stats": {
+     "m": 44,
+     "s": 42,
+     "g": 2,
+     "a": 1,
+     "min": 3839
+    }
    },
    {
     "n": "6",
@@ -2535,7 +2757,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 23,
-    "val": 40.0
+    "val": 40.0,
+    "stats": {
+     "m": 37,
+     "s": 30,
+     "g": 1,
+     "a": 0,
+     "min": 2780
+    }
    },
    {
     "n": "5",
@@ -2543,7 +2772,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 32,
-    "val": 28.0
+    "val": 28.0,
+    "stats": {
+     "m": 32,
+     "s": 29,
+     "g": 2,
+     "a": 0,
+     "min": 2669
+    }
    },
    {
     "n": "4",
@@ -2551,7 +2787,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 22,
-    "val": 22.0
+    "val": 22.0,
+    "stats": {
+     "m": 25,
+     "s": 20,
+     "g": 2,
+     "a": 1,
+     "min": 1789
+    }
    },
    {
     "n": "25",
@@ -2559,7 +2802,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 24,
-    "val": 80.0
+    "val": 80.0,
+    "stats": {
+     "m": 41,
+     "s": 33,
+     "g": 6,
+     "a": 7,
+     "min": 2979
+    }
    },
    {
     "n": "21",
@@ -2567,7 +2817,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 30,
-    "val": 18.0
+    "val": 18.0,
+    "stats": {
+     "m": 36,
+     "s": 21,
+     "g": 0,
+     "a": 3,
+     "min": 2071
+    }
    },
    {
     "n": "12",
@@ -2575,7 +2832,8 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 33,
-    "val": 6.0
+    "val": 6.0,
+    "stats": null
    },
    {
     "n": "2",
@@ -2583,15 +2841,14 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 27,
-    "val": 80.0
-   },
-   {
-    "n": "",
-    "p": "Yoram Zague",
-    "pos": "ArD",
-    "grp": "DEF",
-    "age": 20,
-    "val": 1.8
+    "val": 80.0,
+    "stats": {
+     "m": 32,
+     "s": 29,
+     "g": 3,
+     "a": 9,
+     "min": 2619
+    }
    },
    {
     "n": "17",
@@ -2599,7 +2856,14 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 26,
-    "val": 140.0
+    "val": 140.0,
+    "stats": {
+     "m": 50,
+     "s": 45,
+     "g": 7,
+     "a": 10,
+     "min": 4056
+    }
    },
    {
     "n": "87",
@@ -2607,7 +2871,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 21,
-    "val": 140.0
+    "val": 140.0,
+    "stats": {
+     "m": 38,
+     "s": 28,
+     "g": 7,
+     "a": 4,
+     "min": 2701
+    }
    },
    {
     "n": "33",
@@ -2615,7 +2886,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 20,
-    "val": 80.0
+    "val": 80.0,
+    "stats": {
+     "m": 54,
+     "s": 47,
+     "g": 3,
+     "a": 5,
+     "min": 4224
+    }
    },
    {
     "n": "24",
@@ -2623,7 +2901,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 20,
-    "val": 40.0
+    "val": 40.0,
+    "stats": {
+     "m": 41,
+     "s": 28,
+     "g": 6,
+     "a": 5,
+     "min": 2309
+    }
    },
    {
     "n": "8",
@@ -2631,15 +2916,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 30,
-    "val": 30.0
-   },
-   {
-    "n": "",
-    "p": "Renato Sanches",
-    "pos": "MC",
-    "grp": "MID",
-    "age": 28,
-    "val": 2.0
+    "val": 30.0,
+    "stats": {
+     "m": 34,
+     "s": 24,
+     "g": 2,
+     "a": 5,
+     "min": 2122
+    }
    },
    {
     "n": "27",
@@ -2647,7 +2931,14 @@
     "pos": "MO",
     "grp": "MID",
     "age": 18,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 13,
+     "s": 7,
+     "g": 1,
+     "a": 0,
+     "min": 685
+    }
    },
    {
     "n": "7",
@@ -2655,7 +2946,14 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 25,
-    "val": 140.0
+    "val": 140.0,
+    "stats": {
+     "m": 48,
+     "s": 36,
+     "g": 19,
+     "a": 11,
+     "min": 2908
+    }
    },
    {
     "n": "29",
@@ -2663,7 +2961,23 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 23,
-    "val": 90.0
+    "val": 90.0,
+    "stats": {
+     "m": 49,
+     "s": 35,
+     "g": 13,
+     "a": 7,
+     "min": 2971
+    }
+   },
+   {
+    "n": "22",
+    "p": "Mika Godts",
+    "pos": "AiG",
+    "grp": "ATT",
+    "age": 21,
+    "val": 35.0,
+    "stats": null
    },
    {
     "n": "47",
@@ -2671,7 +2985,14 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 19,
-    "val": 8.0
+    "val": 8.0,
+    "stats": {
+     "m": 15,
+     "s": 5,
+     "g": 1,
+     "a": 2,
+     "min": 517
+    }
    },
    {
     "n": "14",
@@ -2679,7 +3000,14 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 21,
-    "val": 120.0
+    "val": 120.0,
+    "stats": {
+     "m": 41,
+     "s": 29,
+     "g": 13,
+     "a": 11,
+     "min": 2558
+    }
    },
    {
     "n": "11",
@@ -2687,7 +3015,8 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 24,
-    "val": 50.0
+    "val": 50.0,
+    "stats": null
    },
    {
     "n": "49",
@@ -2695,7 +3024,14 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 18,
-    "val": 30.0
+    "val": 30.0,
+    "stats": {
+     "m": 30,
+     "s": 11,
+     "g": 3,
+     "a": 2,
+     "min": 1153
+    }
    },
    {
     "n": "10",
@@ -2703,7 +3039,23 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 29,
-    "val": 100.0
+    "val": 100.0,
+    "stats": {
+     "m": 40,
+     "s": 25,
+     "g": 20,
+     "a": 11,
+     "min": 2200
+    }
+   },
+   {
+    "n": "9",
+    "p": "Ferran Torres",
+    "pos": "AC",
+    "grp": "ATT",
+    "age": 26,
+    "val": 55.0,
+    "stats": null
    }
   ],
   "RCL": [
@@ -2713,7 +3065,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 21,
-    "val": 30.0
+    "val": 30.0,
+    "stats": {
+     "m": 38,
+     "s": 38,
+     "g": 0,
+     "a": 1,
+     "min": 3420
+    }
    },
    {
     "n": "16",
@@ -2721,7 +3080,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 36,
-    "val": 0.2
+    "val": 0.2,
+    "stats": {
+     "m": 1,
+     "s": 1,
+     "g": 0,
+     "a": 0,
+     "min": 90
+    }
    },
    {
     "n": "1",
@@ -2729,7 +3095,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 39,
-    "val": 0.1
+    "val": 0.1,
+    "stats": {
+     "m": 1,
+     "s": 1,
+     "g": 0,
+     "a": 0,
+     "min": 90
+    }
    },
    {
     "n": "60",
@@ -2737,7 +3110,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 18,
-    "val": 0.0
+    "val": 0.0,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    }
    },
    {
     "n": "6",
@@ -2745,7 +3125,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 22,
-    "val": 25.0
+    "val": 25.0,
+    "stats": {
+     "m": 26,
+     "s": 23,
+     "g": 2,
+     "a": 2,
+     "min": 2071
+    }
    },
    {
     "n": "25",
@@ -2753,7 +3140,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 21,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 29,
+     "s": 28,
+     "g": 3,
+     "a": 0,
+     "min": 2541
+    }
    },
    {
     "n": "4",
@@ -2761,7 +3155,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 20,
-    "val": 7.0
+    "val": 7.0,
+    "stats": {
+     "m": 9,
+     "s": 9,
+     "g": 0,
+     "a": 0,
+     "min": 708
+    }
    },
    {
     "n": "32",
@@ -2769,7 +3170,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 18,
-    "val": 3.0
+    "val": 3.0,
+    "stats": {
+     "m": 7,
+     "s": 4,
+     "g": 0,
+     "a": 1,
+     "min": 382
+    }
    },
    {
     "n": "24",
@@ -2777,7 +3185,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 33,
-    "val": 2.5
+    "val": 2.5,
+    "stats": {
+     "m": 10,
+     "s": 10,
+     "g": 0,
+     "a": 0,
+     "min": 809
+    }
    },
    {
     "n": "3",
@@ -2785,7 +3200,8 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 25,
-    "val": 1.5
+    "val": 1.5,
+    "stats": null
    },
    {
     "n": "31",
@@ -2793,7 +3209,8 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 21,
-    "val": 0.5
+    "val": 0.5,
+    "stats": null
    },
    {
     "n": "14",
@@ -2801,7 +3218,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 30,
-    "val": 8.0
+    "val": 8.0,
+    "stats": {
+     "m": 40,
+     "s": 38,
+     "g": 3,
+     "a": 10,
+     "min": 3475
+    }
    },
    {
     "n": "",
@@ -2809,7 +3233,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 24,
-    "val": 2.2
+    "val": 2.2,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    }
    },
    {
     "n": "23",
@@ -2817,7 +3248,14 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 27,
-    "val": 9.0
+    "val": 9.0,
+    "stats": {
+     "m": 31,
+     "s": 20,
+     "g": 3,
+     "a": 8,
+     "min": 1838
+    }
    },
    {
     "n": "2",
@@ -2825,7 +3263,14 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 33,
-    "val": 2.5
+    "val": 2.5,
+    "stats": {
+     "m": 29,
+     "s": 20,
+     "g": 2,
+     "a": 2,
+     "min": 1778
+    }
    },
    {
     "n": "5",
@@ -2833,7 +3278,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 19,
-    "val": 8.0
+    "val": 8.0,
+    "stats": {
+     "m": 22,
+     "s": 8,
+     "g": 2,
+     "a": 4,
+     "min": 936
+    }
    },
    {
     "n": "8",
@@ -2841,7 +3293,8 @@
     "pos": "MC",
     "grp": "MID",
     "age": 23,
-    "val": 7.0
+    "val": 7.0,
+    "stats": null
    },
    {
     "n": "21",
@@ -2849,15 +3302,23 @@
     "pos": "MC",
     "grp": "MID",
     "age": 28,
-    "val": 5.0
+    "val": 5.0,
+    "stats": {
+     "m": 10,
+     "s": 3,
+     "g": 1,
+     "a": 1,
+     "min": 325
+    }
    },
    {
     "n": "27",
     "p": "Michaël Cuisance",
     "pos": "MC",
     "grp": "MID",
-    "age": 26,
-    "val": 3.0
+    "age": 27,
+    "val": 3.0,
+    "stats": null
    },
    {
     "n": "38",
@@ -2865,7 +3326,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 16,
-    "val": 0.5
+    "val": 0.5,
+    "stats": {
+     "m": 1,
+     "s": 0,
+     "g": 1,
+     "a": 0,
+     "min": 11
+    }
    },
    {
     "n": "9",
@@ -2873,7 +3341,8 @@
     "pos": "MO",
     "grp": "MID",
     "age": 33,
-    "val": 2.0
+    "val": 2.0,
+    "stats": null
    },
    {
     "n": "19",
@@ -2881,7 +3350,14 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 25,
-    "val": 5.0
+    "val": 5.0,
+    "stats": {
+     "m": 27,
+     "s": 9,
+     "g": 7,
+     "a": 3,
+     "min": 982
+    }
    },
    {
     "n": "22",
@@ -2889,7 +3365,8 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 26,
-    "val": 4.0
+    "val": 4.0,
+    "stats": null
    },
    {
     "n": "10",
@@ -2897,7 +3374,23 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 33,
-    "val": 5.0
+    "val": 5.0,
+    "stats": {
+     "m": 37,
+     "s": 32,
+     "g": 14,
+     "a": 10,
+     "min": 2714
+    }
+   },
+   {
+    "n": "29",
+    "p": "Franjo Ivanović",
+    "pos": "AC",
+    "grp": "ATT",
+    "age": 22,
+    "val": 15.0,
+    "stats": null
    },
    {
     "n": "11",
@@ -2905,7 +3398,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 28,
-    "val": 12.0
+    "val": 12.0,
+    "stats": {
+     "m": 34,
+     "s": 30,
+     "g": 14,
+     "a": 3,
+     "min": 2130
+    }
    },
    {
     "n": "18",
@@ -2913,7 +3413,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 20,
-    "val": 8.0
+    "val": 8.0,
+    "stats": {
+     "m": 29,
+     "s": 9,
+     "g": 6,
+     "a": 1,
+     "min": 951
+    }
    },
    {
     "n": "7",
@@ -2921,15 +3428,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 35,
-    "val": 1.2
-   },
-   {
-    "n": "",
-    "p": "Gabin Capuano",
-    "pos": "AC",
-    "grp": "ATT",
-    "age": 20,
-    "val": 0.25
+    "val": 1.2,
+    "stats": {
+     "m": 30,
+     "s": 7,
+     "g": 2,
+     "a": 1,
+     "min": 743
+    }
    }
   ],
   "LOSC": [
@@ -2939,7 +3445,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 26,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 44,
+     "s": 44,
+     "g": 0,
+     "a": 1,
+     "min": 3945
+    }
    },
    {
     "n": "16",
@@ -2947,7 +3460,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 28,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 5,
+     "s": 4,
+     "g": 0,
+     "a": 0,
+     "min": 405
+    }
    },
    {
     "n": "3",
@@ -2955,7 +3475,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 23,
-    "val": 25.0
+    "val": 25.0,
+    "stats": {
+     "m": 38,
+     "s": 35,
+     "g": 3,
+     "a": 2,
+     "min": 3104
+    }
    },
    {
     "n": "4",
@@ -2963,7 +3490,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 27,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 11,
+     "s": 9,
+     "g": 0,
+     "a": 0,
+     "min": 628
+    }
    },
    {
     "n": "26",
@@ -2971,7 +3505,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 19,
-    "val": 2.5
+    "val": 2.5,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    }
    },
    {
     "n": "23",
@@ -2979,7 +3520,8 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 24,
-    "val": 1.2
+    "val": 1.2,
+    "stats": null
    },
    {
     "n": "36",
@@ -2987,7 +3529,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 21,
-    "val": 0.5
+    "val": 0.5,
+    "stats": {
+     "m": 1,
+     "s": 1,
+     "g": 0,
+     "a": 0,
+     "min": 52
+    }
    },
    {
     "n": "15",
@@ -2995,7 +3544,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 28,
-    "val": 7.0
+    "val": 7.0,
+    "stats": {
+     "m": 41,
+     "s": 35,
+     "g": 3,
+     "a": 5,
+     "min": 3006
+    }
    },
    {
     "n": "24",
@@ -3003,7 +3559,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 29,
-    "val": 2.5
+    "val": 2.5,
+    "stats": {
+     "m": 26,
+     "s": 12,
+     "g": 0,
+     "a": 1,
+     "min": 1245
+    }
    },
    {
     "n": "22",
@@ -3011,7 +3574,14 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 24,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 28,
+     "s": 15,
+     "g": 0,
+     "a": 2,
+     "min": 1368
+    }
    },
    {
     "n": "2",
@@ -3019,7 +3589,8 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 20,
-    "val": 1.2
+    "val": 1.2,
+    "stats": null
    },
    {
     "n": "17",
@@ -3027,7 +3598,14 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 21,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 42,
+     "s": 28,
+     "g": 2,
+     "a": 0,
+     "min": 2283
+    }
    },
    {
     "n": "6",
@@ -3035,7 +3613,14 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 31,
-    "val": 4.5
+    "val": 4.5,
+    "stats": {
+     "m": 37,
+     "s": 22,
+     "g": 2,
+     "a": 2,
+     "min": 2006
+    }
    },
    {
     "n": "21",
@@ -3043,7 +3628,14 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 36,
-    "val": 3.0
+    "val": 3.0,
+    "stats": {
+     "m": 37,
+     "s": 35,
+     "g": 4,
+     "a": 3,
+     "min": 3126
+    }
    },
    {
     "n": "32",
@@ -3051,7 +3643,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 18,
-    "val": 80.0
+    "val": 80.0,
+    "stats": {
+     "m": 42,
+     "s": 37,
+     "g": 0,
+     "a": 1,
+     "min": 3153
+    }
    },
    {
     "n": "10",
@@ -3059,7 +3658,14 @@
     "pos": "MO",
     "grp": "MID",
     "age": 23,
-    "val": 25.0
+    "val": 25.0,
+    "stats": {
+     "m": 46,
+     "s": 40,
+     "g": 9,
+     "a": 7,
+     "min": 3404
+    }
    },
    {
     "n": "27",
@@ -3067,7 +3673,14 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 25,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 48,
+     "s": 37,
+     "g": 5,
+     "a": 6,
+     "min": 2952
+    }
    },
    {
     "n": "11",
@@ -3075,7 +3688,14 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 25,
-    "val": 9.0
+    "val": 9.0,
+    "stats": {
+     "m": 25,
+     "s": 7,
+     "g": 1,
+     "a": 2,
+     "min": 809
+    }
    },
    {
     "n": "19",
@@ -3083,15 +3703,23 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 22,
-    "val": 7.0
+    "val": 7.0,
+    "stats": null
    },
    {
     "n": "35",
     "p": "Soriba Diaoune",
     "pos": "AiG",
     "grp": "ATT",
-    "age": 18,
-    "val": 4.0
+    "age": 19,
+    "val": 4.0,
+    "stats": {
+     "m": 17,
+     "s": 1,
+     "g": 1,
+     "a": 2,
+     "min": 261
+    }
    },
    {
     "n": "",
@@ -3099,7 +3727,8 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 22,
-    "val": 1.8
+    "val": 1.8,
+    "stats": null
    },
    {
     "n": "8",
@@ -3107,7 +3736,14 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 19,
-    "val": 8.0
+    "val": 8.0,
+    "stats": {
+     "m": 22,
+     "s": 5,
+     "g": 3,
+     "a": 1,
+     "min": 709
+    }
    },
    {
     "n": "14",
@@ -3115,7 +3751,14 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 21,
-    "val": 5.0
+    "val": 5.0,
+    "stats": {
+     "m": 14,
+     "s": 5,
+     "g": 2,
+     "a": 1,
+     "min": 462
+    }
    },
    {
     "n": "20",
@@ -3123,7 +3766,14 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 20,
-    "val": 5.0
+    "val": 5.0,
+    "stats": {
+     "m": 5,
+     "s": 1,
+     "g": 0,
+     "a": 0,
+     "min": 127
+    }
    },
    {
     "n": "28",
@@ -3131,7 +3781,14 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 30,
-    "val": 5.0
+    "val": 5.0,
+    "stats": {
+     "m": 15,
+     "s": 6,
+     "g": 1,
+     "a": 0,
+     "min": 519
+    }
    },
    {
     "n": "7",
@@ -3139,7 +3796,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 21,
-    "val": 35.0
+    "val": 35.0,
+    "stats": {
+     "m": 41,
+     "s": 33,
+     "g": 8,
+     "a": 7,
+     "min": 3101
+    }
    },
    {
     "n": "29",
@@ -3147,7 +3811,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 23,
-    "val": 18.0
+    "val": 18.0,
+    "stats": {
+     "m": 18,
+     "s": 8,
+     "g": 9,
+     "a": 2,
+     "min": 750
+    }
    },
    {
     "n": "35",
@@ -3155,7 +3826,8 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 28,
-    "val": 4.5
+    "val": 4.5,
+    "stats": null
    },
    {
     "n": "9",
@@ -3163,7 +3835,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 39,
-    "val": 0.9
+    "val": 0.9,
+    "stats": {
+     "m": 44,
+     "s": 25,
+     "g": 11,
+     "a": 1,
+     "min": 2432
+    }
    }
   ],
   "OL": [
@@ -3173,7 +3852,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 29,
-    "val": 9.0
+    "val": 9.0,
+    "stats": {
+     "m": 35,
+     "s": 35,
+     "g": 0,
+     "a": 1,
+     "min": 3150
+    }
    },
    {
     "n": "40",
@@ -3181,15 +3867,23 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 30,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 13,
+     "s": 13,
+     "g": 0,
+     "a": 1,
+     "min": 1170
+    }
    },
    {
-    "n": "",
+    "n": "25",
     "p": "Justin Bengui",
     "pos": "GdB",
     "grp": "GK",
     "age": 21,
-    "val": 0.25
+    "val": 0.25,
+    "stats": null
    },
    {
     "n": "50",
@@ -3197,7 +3891,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 23,
-    "val": 0.0
+    "val": 0.0,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    }
    },
    {
     "n": "19",
@@ -3205,7 +3906,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 30,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 43,
+     "s": 41,
+     "g": 1,
+     "a": 2,
+     "min": 3677
+    }
    },
    {
     "n": "21",
@@ -3213,7 +3921,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 25,
-    "val": 8.0
+    "val": 8.0,
+    "stats": {
+     "m": 24,
+     "s": 16,
+     "g": 2,
+     "a": 2,
+     "min": 1395
+    }
    },
    {
     "n": "20",
@@ -3221,7 +3936,8 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 25,
-    "val": 6.0
+    "val": 6.0,
+    "stats": null
    },
    {
     "n": "85",
@@ -3229,7 +3945,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 19,
-    "val": 3.0
+    "val": 3.0,
+    "stats": {
+     "m": 2,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 6
+    }
    },
    {
     "n": "",
@@ -3237,7 +3960,8 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 29,
-    "val": 2.8
+    "val": 2.8,
+    "stats": null
    },
    {
     "n": "22",
@@ -3245,7 +3969,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 33,
-    "val": 2.5
+    "val": 2.5,
+    "stats": {
+     "m": 44,
+     "s": 43,
+     "g": 0,
+     "a": 1,
+     "min": 3832
+    }
    },
    {
     "n": "16",
@@ -3253,7 +3984,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 26,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 36,
+     "s": 33,
+     "g": 5,
+     "a": 3,
+     "min": 2813
+    }
    },
    {
     "n": "3",
@@ -3261,7 +3999,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 33,
-    "val": 4.0
+    "val": 4.0,
+    "stats": {
+     "m": 30,
+     "s": 23,
+     "g": 0,
+     "a": 3,
+     "min": 2019
+    }
    },
    {
     "n": "76",
@@ -3269,7 +4014,17 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 23,
-    "val": 1.2
+    "val": 1.2,
+    "stats": null
+   },
+   {
+    "n": "13",
+    "p": "Zachary Athekame",
+    "pos": "ArD",
+    "grp": "DEF",
+    "age": 21,
+    "val": 15.0,
+    "stats": null
    },
    {
     "n": "98",
@@ -3277,15 +4032,29 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 28,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 42,
+     "s": 37,
+     "g": 2,
+     "a": 4,
+     "min": 3291
+    }
    },
    {
-    "n": "34",
+    "n": "37",
     "p": "Steeve Kango",
     "pos": "ArD",
     "grp": "DEF",
     "age": 19,
-    "val": 1.0
+    "val": 1.0,
+    "stats": {
+     "m": 6,
+     "s": 3,
+     "g": 0,
+     "a": 0,
+     "min": 252
+    }
    },
    {
     "n": "23",
@@ -3293,7 +4062,14 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 23,
-    "val": 30.0
+    "val": 30.0,
+    "stats": {
+     "m": 43,
+     "s": 40,
+     "g": 2,
+     "a": 3,
+     "min": 3491
+    }
    },
    {
     "n": "6",
@@ -3301,7 +4077,14 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 24,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 41,
+     "s": 28,
+     "g": 2,
+     "a": 0,
+     "min": 2546
+    }
    },
    {
     "n": "39",
@@ -3309,7 +4092,14 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 21,
-    "val": 3.0
+    "val": 3.0,
+    "stats": {
+     "m": 20,
+     "s": 10,
+     "g": 0,
+     "a": 1,
+     "min": 887
+    }
    },
    {
     "n": "",
@@ -3317,7 +4107,8 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 28,
-    "val": 0.4
+    "val": 0.4,
+    "stats": null
    },
    {
     "n": "18",
@@ -3325,7 +4116,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 19,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 32,
+     "s": 22,
+     "g": 1,
+     "a": 2,
+     "min": 1698
+    }
    },
    {
     "n": "2",
@@ -3333,7 +4131,8 @@
     "pos": "MC",
     "grp": "MID",
     "age": 25,
-    "val": 13.0
+    "val": 13.0,
+    "stats": null
    },
    {
     "n": "8",
@@ -3341,7 +4140,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 32,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 39,
+     "s": 34,
+     "g": 15,
+     "a": 6,
+     "min": 2995
+    }
    },
    {
     "n": "",
@@ -3349,7 +4155,8 @@
     "pos": "MC",
     "grp": "MID",
     "age": 21,
-    "val": 1.0
+    "val": 1.0,
+    "stats": null
    },
    {
     "n": "10",
@@ -3357,7 +4164,14 @@
     "pos": "MO",
     "grp": "MID",
     "age": 25,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 38,
+     "s": 24,
+     "g": 14,
+     "a": 7,
+     "min": 2263
+    }
    },
    {
     "n": "99",
@@ -3365,7 +4179,14 @@
     "pos": "MO",
     "grp": "MID",
     "age": 20,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 15,
+     "s": 9,
+     "g": 2,
+     "a": 0,
+     "min": 842
+    }
    },
    {
     "n": "11",
@@ -3373,7 +4194,14 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 21,
-    "val": 30.0
+    "val": 30.0,
+    "stats": {
+     "m": 16,
+     "s": 11,
+     "g": 2,
+     "a": 1,
+     "min": 921
+    }
    },
    {
     "n": "45",
@@ -3381,7 +4209,14 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 18,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 11,
+     "s": 2,
+     "g": 3,
+     "a": 1,
+     "min": 293
+    }
    },
    {
     "n": "24",
@@ -3389,7 +4224,8 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 20,
-    "val": 6.0
+    "val": 6.0,
+    "stats": null
    },
    {
     "n": "7",
@@ -3397,7 +4233,14 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 22,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 3,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 32
+    }
    },
    {
     "n": "26",
@@ -3405,7 +4248,8 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 20,
-    "val": 5.0
+    "val": 5.0,
+    "stats": null
    },
    {
     "n": "17",
@@ -3413,41 +4257,40 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 26,
-    "val": 25.0
+    "val": 25.0,
+    "stats": null
    },
    {
-    "n": "",
-    "p": "Enzo Molebe",
-    "pos": "AC",
-    "grp": "ATT",
-    "age": 18,
-    "val": 0.8
-   },
-   {
-    "n": "",
+    "n": "32",
     "p": "Alejandro Gomes Rodríguez",
     "pos": "AC",
     "grp": "ATT",
     "age": 18,
-    "val": 0.8
+    "val": 0.8,
+    "stats": {
+     "m": 4,
+     "s": 0,
+     "g": 1,
+     "a": 0,
+     "min": 41
+    }
    }
   ],
   "OM": [
-   {
-    "n": "1",
-    "p": "Gerónimo Rulli",
-    "pos": "GdB",
-    "grp": "GK",
-    "age": 34,
-    "val": 6.0
-   },
    {
     "n": "12",
     "p": "Jeffrey de Lange",
     "pos": "GdB",
     "grp": "GK",
     "age": 28,
-    "val": 2.5
+    "val": 2.5,
+    "stats": {
+     "m": 8,
+     "s": 8,
+     "g": 0,
+     "a": 0,
+     "min": 720
+    }
    },
    {
     "n": "40",
@@ -3455,7 +4298,29 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 22,
-    "val": 0.0
+    "val": 0.0,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    }
+   },
+   {
+    "n": "92",
+    "p": "Théo Vermot",
+    "pos": "GdB",
+    "grp": "GK",
+    "age": 29,
+    "val": 0.0,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    }
    },
    {
     "n": "5",
@@ -3463,15 +4328,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 27,
-    "val": 18.0
-   },
-   {
-    "n": "32",
-    "p": "Facundo Medina",
-    "pos": "DC",
-    "grp": "DEF",
-    "age": 27,
-    "val": 18.0
+    "val": 18.0,
+    "stats": {
+     "m": 36,
+     "s": 30,
+     "g": 1,
+     "a": 1,
+     "min": 2853
+    }
    },
    {
     "n": "21",
@@ -3479,7 +4343,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 30,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 22,
+     "s": 22,
+     "g": 1,
+     "a": 0,
+     "min": 1939
+    }
    },
    {
     "n": "4",
@@ -3487,7 +4358,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 23,
-    "val": 9.0
+    "val": 9.0,
+    "stats": {
+     "m": 16,
+     "s": 9,
+     "g": 1,
+     "a": 0,
+     "min": 821
+    }
    },
    {
     "n": "18",
@@ -3495,7 +4373,8 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 24,
-    "val": 7.0
+    "val": 7.0,
+    "stats": null
    },
    {
     "n": "13",
@@ -3503,7 +4382,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 28,
-    "val": 2.5
+    "val": 2.5,
+    "stats": {
+     "m": 2,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 57
+    }
    },
    {
     "n": "33",
@@ -3511,7 +4397,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 32,
-    "val": 9.0
+    "val": 9.0,
+    "stats": {
+     "m": 37,
+     "s": 32,
+     "g": 0,
+     "a": 3,
+     "min": 2813
+    }
    },
    {
     "n": "25",
@@ -3519,7 +4412,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 30,
-    "val": 3.0
+    "val": 3.0,
+    "stats": {
+     "m": 6,
+     "s": 3,
+     "g": 0,
+     "a": 0,
+     "min": 325
+    }
    },
    {
     "n": "23",
@@ -3527,7 +4427,14 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 31,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 43,
+     "s": 40,
+     "g": 5,
+     "a": 5,
+     "min": 3643
+    }
    },
    {
     "n": "6",
@@ -3535,7 +4442,14 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 23,
-    "val": 4.5
+    "val": 4.5,
+    "stats": {
+     "m": 8,
+     "s": 4,
+     "g": 0,
+     "a": 1,
+     "min": 353
+    }
    },
    {
     "n": "19",
@@ -3543,7 +4457,14 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 33,
-    "val": 3.0
+    "val": 3.0,
+    "stats": {
+     "m": 17,
+     "s": 14,
+     "g": 0,
+     "a": 1,
+     "min": 1016
+    }
    },
    {
     "n": "27",
@@ -3551,7 +4472,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 25,
-    "val": 25.0
+    "val": 25.0,
+    "stats": {
+     "m": 16,
+     "s": 15,
+     "g": 0,
+     "a": 0,
+     "min": 1182
+    }
    },
    {
     "n": "22",
@@ -3559,7 +4487,14 @@
     "pos": "MD",
     "grp": "MID",
     "age": 26,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 41,
+     "s": 36,
+     "g": 3,
+     "a": 4,
+     "min": 3139
+    }
    },
    {
     "n": "7",
@@ -3567,7 +4502,14 @@
     "pos": "MO",
     "grp": "MID",
     "age": 25,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 20,
+     "s": 14,
+     "g": 4,
+     "a": 1,
+     "min": 1086
+    }
    },
    {
     "n": "8",
@@ -3575,7 +4517,14 @@
     "pos": "MO",
     "grp": "MID",
     "age": 26,
-    "val": 5.0
+    "val": 5.0,
+    "stats": {
+     "m": 9,
+     "s": 2,
+     "g": 0,
+     "a": 0,
+     "min": 178
+    }
    },
    {
     "n": "14",
@@ -3583,7 +4532,14 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 26,
-    "val": 35.0
+    "val": 35.0,
+    "stats": {
+     "m": 42,
+     "s": 31,
+     "g": 12,
+     "a": 7,
+     "min": 2781
+    }
    },
    {
     "n": "77",
@@ -3591,7 +4547,44 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 29,
-    "val": 5.0
+    "val": 5.0,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    }
+   },
+   {
+    "n": "43",
+    "p": "Tadjidine Mmadi",
+    "pos": "AiG",
+    "grp": "ATT",
+    "age": 19,
+    "val": 0.8,
+    "stats": {
+     "m": 6,
+     "s": 0,
+     "g": 1,
+     "a": 1,
+     "min": 90
+    }
+   },
+   {
+    "n": "48",
+    "p": "Keyliane Abdallah",
+    "pos": "AiD",
+    "grp": "ATT",
+    "age": 20,
+    "val": 0.05,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    }
    },
    {
     "n": "9",
@@ -3599,15 +4592,29 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 26,
-    "val": 28.0
+    "val": 28.0,
+    "stats": {
+     "m": 28,
+     "s": 20,
+     "g": 11,
+     "a": 5,
+     "min": 1705
+    }
    },
    {
     "n": "11",
     "p": "Neal Maupay",
     "pos": "AC",
     "grp": "ATT",
-    "age": 29,
-    "val": 4.0
+    "age": 30,
+    "val": 4.0,
+    "stats": {
+     "m": 3,
+     "s": 1,
+     "g": 1,
+     "a": 0,
+     "min": 92
+    }
    },
    {
     "n": "29",
@@ -3615,7 +4622,8 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 26,
-    "val": 3.5
+    "val": 3.5,
+    "stats": null
    }
   ],
   "SRFC": [
@@ -3625,7 +4633,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 32,
-    "val": 7.0
+    "val": 7.0,
+    "stats": {
+     "m": 34,
+     "s": 34,
+     "g": 0,
+     "a": 0,
+     "min": 3060
+    }
    },
    {
     "n": "16",
@@ -3633,7 +4648,8 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 29,
-    "val": 0.5
+    "val": 0.5,
+    "stats": null
    },
    {
     "n": "60",
@@ -3641,7 +4657,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 20,
-    "val": 0.0
+    "val": 0.0,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    }
    },
    {
     "n": "4",
@@ -3649,7 +4672,8 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 23,
-    "val": 25.0
+    "val": 25.0,
+    "stats": null
    },
    {
     "n": "3",
@@ -3657,7 +4681,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 26,
-    "val": 12.0
+    "val": 12.0,
+    "stats": {
+     "m": 30,
+     "s": 26,
+     "g": 0,
+     "a": 1,
+     "min": 2369
+    }
    },
    {
     "n": "24",
@@ -3665,7 +4696,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 25,
-    "val": 12.0
+    "val": 12.0,
+    "stats": {
+     "m": 24,
+     "s": 22,
+     "g": 1,
+     "a": 1,
+     "min": 1993
+    }
    },
    {
     "n": "48",
@@ -3673,7 +4711,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 20,
-    "val": 12.0
+    "val": 12.0,
+    "stats": {
+     "m": 21,
+     "s": 18,
+     "g": 2,
+     "a": 1,
+     "min": 1481
+    }
    },
    {
     "n": "36",
@@ -3681,7 +4726,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 26,
-    "val": 6.0
+    "val": 6.0,
+    "stats": {
+     "m": 24,
+     "s": 16,
+     "g": 0,
+     "a": 1,
+     "min": 1407
+    }
    },
    {
     "n": "5",
@@ -3689,7 +4741,8 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 20,
-    "val": 3.0
+    "val": 3.0,
+    "stats": null
    },
    {
     "n": "64",
@@ -3697,7 +4750,8 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 20,
-    "val": 0.3
+    "val": 0.3,
+    "stats": null
    },
    {
     "n": "26",
@@ -3705,7 +4759,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 24,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 36,
+     "s": 30,
+     "g": 3,
+     "a": 7,
+     "min": 2791
+    }
    },
    {
     "n": "18",
@@ -3713,7 +4774,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 21,
-    "val": 7.0
+    "val": 7.0,
+    "stats": {
+     "m": 20,
+     "s": 7,
+     "g": 0,
+     "a": 0,
+     "min": 857
+    }
    },
    {
     "n": "95",
@@ -3721,7 +4789,14 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 31,
-    "val": 6.0
+    "val": 6.0,
+    "stats": {
+     "m": 19,
+     "s": 15,
+     "g": 1,
+     "a": 2,
+     "min": 1217
+    }
    },
    {
     "n": "14",
@@ -3729,7 +4804,8 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 25,
-    "val": 3.5
+    "val": 3.5,
+    "stats": null
    },
    {
     "n": "",
@@ -3737,7 +4813,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 22,
-    "val": 12.0
+    "val": 12.0,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    }
    },
    {
     "n": "45",
@@ -3745,7 +4828,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 28,
-    "val": 12.0
+    "val": 12.0,
+    "stats": {
+     "m": 35,
+     "s": 34,
+     "g": 3,
+     "a": 2,
+     "min": 2931
+    }
    },
    {
     "n": "6",
@@ -3753,7 +4843,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 22,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 25,
+     "s": 12,
+     "g": 0,
+     "a": 0,
+     "min": 987
+    }
    },
    {
     "n": "",
@@ -3761,7 +4858,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 31,
-    "val": 8.0
+    "val": 8.0,
+    "stats": {
+     "m": 12,
+     "s": 7,
+     "g": 1,
+     "a": 0,
+     "min": 654
+    }
    },
    {
     "n": "21",
@@ -3769,7 +4873,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 31,
-    "val": 8.0
+    "val": 8.0,
+    "stats": {
+     "m": 33,
+     "s": 33,
+     "g": 2,
+     "a": 5,
+     "min": 2925
+    }
    },
    {
     "n": "28",
@@ -3777,7 +4888,8 @@
     "pos": "MC",
     "grp": "MID",
     "age": 32,
-    "val": 4.0
+    "val": 4.0,
+    "stats": null
    },
    {
     "n": "10",
@@ -3785,7 +4897,14 @@
     "pos": "MD",
     "grp": "MID",
     "age": 28,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 35,
+     "s": 17,
+     "g": 5,
+     "a": 5,
+     "min": 1749
+    }
    },
    {
     "n": "17",
@@ -3793,7 +4912,14 @@
     "pos": "MO",
     "grp": "MID",
     "age": 27,
-    "val": 12.0
+    "val": 12.0,
+    "stats": {
+     "m": 17,
+     "s": 11,
+     "g": 1,
+     "a": 3,
+     "min": 867
+    }
    },
    {
     "n": "",
@@ -3801,7 +4927,8 @@
     "pos": "MO",
     "grp": "MID",
     "age": 21,
-    "val": 0.8
+    "val": 0.8,
+    "stats": null
    },
    {
     "n": "90",
@@ -3809,7 +4936,8 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 25,
-    "val": 8.0
+    "val": 8.0,
+    "stats": null
    },
    {
     "n": "11",
@@ -3817,7 +4945,14 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 29,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 36,
+     "s": 28,
+     "g": 7,
+     "a": 11,
+     "min": 2493
+    }
    },
    {
     "n": "70",
@@ -3825,7 +4960,14 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 28,
-    "val": 4.0
+    "val": 4.0,
+    "stats": {
+     "m": 10,
+     "s": 7,
+     "g": 1,
+     "a": 2,
+     "min": 574
+    }
    },
    {
     "n": "35",
@@ -3833,7 +4975,14 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 18,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 9,
+     "s": 0,
+     "g": 1,
+     "a": 0,
+     "min": 72
+    }
    },
    {
     "n": "9",
@@ -3841,7 +4990,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 26,
-    "val": 35.0
+    "val": 35.0,
+    "stats": {
+     "m": 35,
+     "s": 34,
+     "g": 20,
+     "a": 5,
+     "min": 2710
+    }
    },
    {
     "n": "12",
@@ -3849,7 +5005,8 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 21,
-    "val": 16.0
+    "val": 16.0,
+    "stats": null
    },
    {
     "n": "7",
@@ -3857,7 +5014,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 29,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 34,
+     "s": 21,
+     "g": 10,
+     "a": 3,
+     "min": 2043
+    }
    }
   ],
   "ASM": [
@@ -3867,7 +5031,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 28,
-    "val": 3.5
+    "val": 3.5,
+    "stats": {
+     "m": 29,
+     "s": 27,
+     "g": 0,
+     "a": 0,
+     "min": 2519
+    }
    },
    {
     "n": "1",
@@ -3875,7 +5046,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 36,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 20,
+     "s": 20,
+     "g": 0,
+     "a": 0,
+     "min": 1711
+    }
    },
    {
     "n": "50",
@@ -3883,7 +5061,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 23,
-    "val": 0.1
+    "val": 0.1,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    }
    },
    {
     "n": "13",
@@ -3891,7 +5076,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 21,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 22,
+     "s": 15,
+     "g": 0,
+     "a": 0,
+     "min": 1370
+    }
    },
    {
     "n": "5",
@@ -3899,7 +5091,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 29,
-    "val": 12.0
+    "val": 12.0,
+    "stats": {
+     "m": 40,
+     "s": 38,
+     "g": 0,
+     "a": 0,
+     "min": 3316
+    }
    },
    {
     "n": "22",
@@ -3907,7 +5106,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 27,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 18,
+     "s": 18,
+     "g": 1,
+     "a": 0,
+     "min": 1613
+    }
    },
    {
     "n": "72",
@@ -3915,7 +5121,8 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 22,
-    "val": 7.0
+    "val": 7.0,
+    "stats": null
    },
    {
     "n": "3",
@@ -3923,7 +5130,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 32,
-    "val": 4.0
+    "val": 4.0,
+    "stats": {
+     "m": 13,
+     "s": 11,
+     "g": 2,
+     "a": 0,
+     "min": 1047
+    }
    },
    {
     "n": "20",
@@ -3931,7 +5145,8 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 23,
-    "val": 6.0
+    "val": 6.0,
+    "stats": null
    },
    {
     "n": "2",
@@ -3939,7 +5154,14 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 25,
-    "val": 18.0
+    "val": 18.0,
+    "stats": {
+     "m": 23,
+     "s": 16,
+     "g": 0,
+     "a": 2,
+     "min": 1293
+    }
    },
    {
     "n": "4",
@@ -3947,7 +5169,14 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 26,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 44,
+     "s": 37,
+     "g": 4,
+     "a": 2,
+     "min": 3330
+    }
    },
    {
     "n": "6",
@@ -3955,7 +5184,14 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 29,
-    "val": 25.0
+    "val": 25.0,
+    "stats": {
+     "m": 33,
+     "s": 32,
+     "g": 2,
+     "a": 3,
+     "min": 2811
+    }
    },
    {
     "n": "15",
@@ -3963,7 +5199,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 22,
-    "val": 40.0
+    "val": 40.0,
+    "stats": {
+     "m": 31,
+     "s": 29,
+     "g": 3,
+     "a": 4,
+     "min": 2457
+    }
    },
    {
     "n": "28",
@@ -3971,7 +5214,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 22,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 36,
+     "s": 21,
+     "g": 3,
+     "a": 6,
+     "min": 2036
+    }
    },
    {
     "n": "37",
@@ -3979,7 +5229,8 @@
     "pos": "MC",
     "grp": "MID",
     "age": 21,
-    "val": 3.0
+    "val": 3.0,
+    "stats": null
    },
    {
     "n": "8",
@@ -3987,7 +5238,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 33,
-    "val": 2.5
+    "val": 2.5,
+    "stats": {
+     "m": 6,
+     "s": 1,
+     "g": 0,
+     "a": 0,
+     "min": 115
+    }
    },
    {
     "n": "19",
@@ -3995,7 +5253,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 19,
-    "val": 1.2
+    "val": 1.2,
+    "stats": {
+     "m": 6,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 107
+    }
    },
    {
     "n": "10",
@@ -4003,7 +5268,14 @@
     "pos": "MO",
     "grp": "MID",
     "age": 30,
-    "val": 18.0
+    "val": 18.0,
+    "stats": {
+     "m": 35,
+     "s": 30,
+     "g": 5,
+     "a": 6,
+     "min": 2352
+    }
    },
    {
     "n": "17",
@@ -4011,7 +5283,14 @@
     "pos": "MO",
     "grp": "MID",
     "age": 21,
-    "val": 4.0
+    "val": 4.0,
+    "stats": {
+     "m": 12,
+     "s": 1,
+     "g": 1,
+     "a": 1,
+     "min": 275
+    }
    },
    {
     "n": "7",
@@ -4019,7 +5298,8 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 19,
-    "val": 15.0
+    "val": 15.0,
+    "stats": null
    },
    {
     "n": "31",
@@ -4027,7 +5307,14 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 23,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 30,
+     "s": 13,
+     "g": 12,
+     "a": 0,
+     "min": 1320
+    }
    },
    {
     "n": "18",
@@ -4035,7 +5322,14 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 31,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 21,
+     "s": 16,
+     "g": 4,
+     "a": 3,
+     "min": 1312
+    }
    },
    {
     "n": "9",
@@ -4043,7 +5337,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 25,
-    "val": 50.0
+    "val": 50.0,
+    "stats": {
+     "m": 43,
+     "s": 38,
+     "g": 19,
+     "a": 5,
+     "min": 3253
+    }
    },
    {
     "n": "39",
@@ -4051,7 +5352,8 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 23,
-    "val": 20.0
+    "val": 20.0,
+    "stats": null
    },
    {
     "n": "14",
@@ -4059,7 +5361,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 23,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 43,
+     "s": 16,
+     "g": 5,
+     "a": 2,
+     "min": 1420
+    }
    },
    {
     "n": "29",
@@ -4067,17 +5376,34 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 20,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 7,
+     "s": 1,
+     "g": 0,
+     "a": 0,
+     "min": 127
+    }
    }
   ],
   "RCSA": [
+   {
+    "n": "1",
+    "p": "Filip Jørgensen",
+    "pos": "GdB",
+    "grp": "GK",
+    "age": 24,
+    "val": 15.0,
+    "stats": null
+   },
    {
     "n": "12",
     "p": "Miłosz Piekutowski",
     "pos": "GdB",
     "grp": "GK",
     "age": 20,
-    "val": 0.6
+    "val": 0.6,
+    "stats": null
    },
    {
     "n": "6",
@@ -4085,7 +5411,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 23,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 43,
+     "s": 41,
+     "g": 2,
+     "a": 2,
+     "min": 3459
+    }
    },
    {
     "n": "24",
@@ -4093,7 +5426,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 20,
-    "val": 18.0
+    "val": 18.0,
+    "stats": {
+     "m": 39,
+     "s": 35,
+     "g": 0,
+     "a": 0,
+     "min": 2978
+    }
    },
    {
     "n": "2",
@@ -4101,7 +5441,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 24,
-    "val": 8.0
+    "val": 8.0,
+    "stats": {
+     "m": 41,
+     "s": 25,
+     "g": 1,
+     "a": 0,
+     "min": 2522
+    }
    },
    {
     "n": "",
@@ -4109,7 +5456,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 22,
-    "val": 6.0
+    "val": 6.0,
+    "stats": {
+     "m": 1,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 3
+    }
    },
    {
     "n": "",
@@ -4117,7 +5471,23 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 23,
-    "val": 2.5
+    "val": 2.5,
+    "stats": {
+     "m": 2,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 46
+    }
+   },
+   {
+    "n": "",
+    "p": "Hermann Malonga",
+    "pos": "DC",
+    "grp": "DEF",
+    "age": 18,
+    "val": 0.0,
+    "stats": null
    },
    {
     "n": "3",
@@ -4125,7 +5495,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 29,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 34,
+     "s": 31,
+     "g": 0,
+     "a": 3,
+     "min": 2602
+    }
    },
    {
     "n": "15",
@@ -4133,7 +5510,8 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 22,
-    "val": 5.0
+    "val": 5.0,
+    "stats": null
    },
    {
     "n": "22",
@@ -4141,7 +5519,14 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 23,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 34,
+     "s": 31,
+     "g": 2,
+     "a": 7,
+     "min": 2820
+    }
    },
    {
     "n": "42",
@@ -4149,7 +5534,14 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 20,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 43,
+     "s": 31,
+     "g": 4,
+     "a": 1,
+     "min": 2820
+    }
    },
    {
     "n": "",
@@ -4157,7 +5549,8 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 19,
-    "val": 0.35
+    "val": 0.35,
+    "stats": null
    },
    {
     "n": "23",
@@ -4165,7 +5558,8 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 20,
-    "val": 8.0
+    "val": 8.0,
+    "stats": null
    },
    {
     "n": "8",
@@ -4173,7 +5567,14 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 21,
-    "val": 5.0
+    "val": 5.0,
+    "stats": {
+     "m": 14,
+     "s": 8,
+     "g": 1,
+     "a": 0,
+     "min": 626
+    }
    },
    {
     "n": "",
@@ -4181,15 +5582,8 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 20,
-    "val": 2.5
-   },
-   {
-    "n": "",
-    "p": "Rabby Nzingoula",
-    "pos": "MDC",
-    "grp": "MID",
-    "age": 20,
-    "val": 2.0
+    "val": 2.5,
+    "stats": null
    },
    {
     "n": "29",
@@ -4197,7 +5591,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 20,
-    "val": 22.0
+    "val": 22.0,
+    "stats": {
+     "m": 48,
+     "s": 38,
+     "g": 2,
+     "a": 3,
+     "min": 3228
+    }
    },
    {
     "n": "17",
@@ -4205,7 +5606,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 20,
-    "val": 9.0
+    "val": 9.0,
+    "stats": {
+     "m": 19,
+     "s": 9,
+     "g": 0,
+     "a": 0,
+     "min": 794
+    }
    },
    {
     "n": "21",
@@ -4213,7 +5621,8 @@
     "pos": "MC",
     "grp": "MID",
     "age": 22,
-    "val": 9.0
+    "val": 9.0,
+    "stats": null
    },
    {
     "n": "7",
@@ -4221,7 +5630,14 @@
     "pos": "MG",
     "grp": "MID",
     "age": 22,
-    "val": 25.0
+    "val": 25.0,
+    "stats": {
+     "m": 42,
+     "s": 32,
+     "g": 5,
+     "a": 9,
+     "min": 2932
+    }
    },
    {
     "n": "19",
@@ -4229,23 +5645,32 @@
     "pos": "MO",
     "grp": "MID",
     "age": 22,
-    "val": 25.0
+    "val": 25.0,
+    "stats": {
+     "m": 42,
+     "s": 34,
+     "g": 12,
+     "a": 9,
+     "min": 2967
+    }
    },
    {
-    "n": "",
+    "n": "13",
     "p": "Giovanni Reyna",
     "pos": "MO",
     "grp": "MID",
     "age": 23,
-    "val": 4.0
+    "val": 4.0,
+    "stats": null
    },
    {
     "n": "",
     "p": "Benjamin Brantlind",
     "pos": "MO",
     "grp": "MID",
-    "age": 17,
-    "val": 0.5
+    "age": 18,
+    "val": 0.5,
+    "stats": null
    },
    {
     "n": "20",
@@ -4253,7 +5678,14 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 23,
-    "val": 22.0
+    "val": 22.0,
+    "stats": {
+     "m": 44,
+     "s": 33,
+     "g": 16,
+     "a": 6,
+     "min": 2795
+    }
    },
    {
     "n": "11",
@@ -4261,15 +5693,23 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 24,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 34,
+     "s": 19,
+     "g": 10,
+     "a": 5,
+     "min": 1754
+    }
    },
    {
     "n": "",
-    "p": "Rayane Messi",
+    "p": "Fábio Baldé",
     "pos": "AiG",
     "grp": "ATT",
-    "age": 19,
-    "val": 2.8
+    "age": 21,
+    "val": 5.0,
+    "stats": null
    },
    {
     "n": "80",
@@ -4277,7 +5717,14 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 20,
-    "val": 12.0
+    "val": 12.0,
+    "stats": {
+     "m": 19,
+     "s": 9,
+     "g": 0,
+     "a": 2,
+     "min": 800
+    }
    },
    {
     "n": "27",
@@ -4285,7 +5732,14 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 20,
-    "val": 8.0
+    "val": 8.0,
+    "stats": {
+     "m": 39,
+     "s": 16,
+     "g": 2,
+     "a": 4,
+     "min": 1732
+    }
    },
    {
     "n": "34",
@@ -4293,7 +5747,14 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 18,
-    "val": 0.3
+    "val": 0.3,
+    "stats": {
+     "m": 3,
+     "s": 2,
+     "g": 0,
+     "a": 1,
+     "min": 155
+    }
    },
    {
     "n": "9",
@@ -4301,7 +5762,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 23,
-    "val": 35.0
+    "val": 35.0,
+    "stats": {
+     "m": 39,
+     "s": 32,
+     "g": 20,
+     "a": 4,
+     "min": 2932
+    }
    },
    {
     "n": "",
@@ -4309,7 +5777,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 24,
-    "val": 4.0
+    "val": 4.0,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    }
    },
    {
     "n": "",
@@ -4317,7 +5792,8 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 20,
-    "val": 3.5
+    "val": 3.5,
+    "stats": null
    }
   ],
   "FCL": [
@@ -4327,7 +5803,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 32,
-    "val": 2.5
+    "val": 2.5,
+    "stats": {
+     "m": 31,
+     "s": 31,
+     "g": 0,
+     "a": 0,
+     "min": 2790
+    }
    },
    {
     "n": "21",
@@ -4335,7 +5818,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 29,
-    "val": 0.6
+    "val": 0.6,
+    "stats": {
+     "m": 7,
+     "s": 7,
+     "g": 0,
+     "a": 0,
+     "min": 630
+    }
    },
    {
     "n": "1",
@@ -4343,7 +5833,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 37,
-    "val": 0.1
+    "val": 0.1,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    }
    },
    {
     "n": "3",
@@ -4351,7 +5848,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 28,
-    "val": 8.0
+    "val": 8.0,
+    "stats": {
+     "m": 31,
+     "s": 31,
+     "g": 0,
+     "a": 1,
+     "min": 2790
+    }
    },
    {
     "n": "",
@@ -4359,7 +5863,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 25,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 2,
+     "s": 2,
+     "g": 0,
+     "a": 0,
+     "min": 135
+    }
    },
    {
     "n": "32",
@@ -4367,7 +5878,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 23,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 18,
+     "s": 12,
+     "g": 0,
+     "a": 0,
+     "min": 1103
+    }
    },
    {
     "n": "95",
@@ -4375,7 +5893,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 23,
-    "val": 1.2
+    "val": 1.2,
+    "stats": {
+     "m": 1,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 28
+    }
    },
    {
     "n": "",
@@ -4383,7 +5908,8 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 20,
-    "val": 0.3
+    "val": 0.3,
+    "stats": null
    },
    {
     "n": "43",
@@ -4391,7 +5917,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 22,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 33,
+     "s": 32,
+     "g": 2,
+     "a": 8,
+     "min": 2770
+    }
    },
    {
     "n": "",
@@ -4399,7 +5932,8 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 23,
-    "val": 1.5
+    "val": 1.5,
+    "stats": null
    },
    {
     "n": "2",
@@ -4407,7 +5941,8 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 27,
-    "val": 1.5
+    "val": 1.5,
+    "stats": null
    },
    {
     "n": "62",
@@ -4415,7 +5950,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 21,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 33,
+     "s": 24,
+     "g": 2,
+     "a": 1,
+     "min": 2295
+    }
    },
    {
     "n": "8",
@@ -4423,7 +5965,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 27,
-    "val": 3.0
+    "val": 3.0,
+    "stats": {
+     "m": 31,
+     "s": 22,
+     "g": 4,
+     "a": 2,
+     "min": 2071
+    }
    },
    {
     "n": "72",
@@ -4431,7 +5980,8 @@
     "pos": "MC",
     "grp": "MID",
     "age": 21,
-    "val": 2.0
+    "val": 2.0,
+    "stats": null
    },
    {
     "n": "11",
@@ -4439,7 +5989,14 @@
     "pos": "MD",
     "grp": "MID",
     "age": 23,
-    "val": 5.0
+    "val": 5.0,
+    "stats": {
+     "m": 32,
+     "s": 25,
+     "g": 2,
+     "a": 3,
+     "min": 2151
+    }
    },
    {
     "n": "77",
@@ -4447,7 +6004,14 @@
     "pos": "MD",
     "grp": "MID",
     "age": 25,
-    "val": 2.0
+    "val": 2.0,
+    "stats": {
+     "m": 18,
+     "s": 8,
+     "g": 1,
+     "a": 2,
+     "min": 777
+    }
    },
    {
     "n": "",
@@ -4455,7 +6019,14 @@
     "pos": "MD",
     "grp": "MID",
     "age": 23,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 17,
+     "s": 7,
+     "g": 0,
+     "a": 2,
+     "min": 736
+    }
    },
    {
     "n": "17",
@@ -4463,7 +6034,14 @@
     "pos": "MO",
     "grp": "MID",
     "age": 28,
-    "val": 6.0
+    "val": 6.0,
+    "stats": {
+     "m": 35,
+     "s": 26,
+     "g": 4,
+     "a": 2,
+     "min": 2059
+    }
    },
    {
     "n": "33",
@@ -4471,7 +6049,8 @@
     "pos": "MO",
     "grp": "MID",
     "age": 20,
-    "val": 1.2
+    "val": 1.2,
+    "stats": null
    },
    {
     "n": "7",
@@ -4479,7 +6058,14 @@
     "pos": "MO",
     "grp": "MID",
     "age": 25,
-    "val": 0.15
+    "val": 0.15,
+    "stats": {
+     "m": 2,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 51
+    }
    },
    {
     "n": "",
@@ -4487,7 +6073,8 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 21,
-    "val": 0.7
+    "val": 0.7,
+    "stats": null
    },
    {
     "n": "19",
@@ -4495,7 +6082,8 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 23,
-    "val": 3.0
+    "val": 3.0,
+    "stats": null
    },
    {
     "n": "9",
@@ -4503,7 +6091,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 24,
-    "val": 2.0
+    "val": 2.0,
+    "stats": {
+     "m": 19,
+     "s": 8,
+     "g": 3,
+     "a": 2,
+     "min": 752
+    }
    },
    {
     "n": "15",
@@ -4511,7 +6106,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 28,
-    "val": 1.8
+    "val": 1.8,
+    "stats": {
+     "m": 28,
+     "s": 11,
+     "g": 5,
+     "a": 0,
+     "min": 1090
+    }
    }
   ],
   "TFC": [
@@ -4521,7 +6123,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 21,
-    "val": 18.0
+    "val": 18.0,
+    "stats": {
+     "m": 33,
+     "s": 33,
+     "g": 0,
+     "a": 0,
+     "min": 2940
+    }
    },
    {
     "n": "",
@@ -4529,7 +6138,8 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 19,
-    "val": 2.5
+    "val": 2.5,
+    "stats": null
    },
    {
     "n": "3",
@@ -4537,7 +6147,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 27,
-    "val": 7.0
+    "val": 7.0,
+    "stats": {
+     "m": 33,
+     "s": 31,
+     "g": 0,
+     "a": 2,
+     "min": 2765
+    }
    },
    {
     "n": "2",
@@ -4545,7 +6162,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 29,
-    "val": 5.0
+    "val": 5.0,
+    "stats": {
+     "m": 35,
+     "s": 33,
+     "g": 1,
+     "a": 1,
+     "min": 2838
+    }
    },
    {
     "n": "35",
@@ -4553,7 +6177,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 19,
-    "val": 5.0
+    "val": 5.0,
+    "stats": {
+     "m": 13,
+     "s": 8,
+     "g": 1,
+     "a": 0,
+     "min": 787
+    }
    },
    {
     "n": "24",
@@ -4561,7 +6192,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 20,
-    "val": 18.0
+    "val": 18.0,
+    "stats": {
+     "m": 30,
+     "s": 24,
+     "g": 2,
+     "a": 2,
+     "min": 2078
+    }
    },
    {
     "n": "12",
@@ -4569,7 +6207,8 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 20,
-    "val": 0.8
+    "val": 0.8,
+    "stats": null
    },
    {
     "n": "",
@@ -4577,7 +6216,8 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 21,
-    "val": 0.25
+    "val": 0.25,
+    "stats": null
    },
    {
     "n": "22",
@@ -4585,7 +6225,14 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 23,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 14,
+     "s": 7,
+     "g": 0,
+     "a": 0,
+     "min": 667
+    }
    },
    {
     "n": "94",
@@ -4593,7 +6240,8 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 22,
-    "val": 0.9
+    "val": 0.9,
+    "stats": null
    },
    {
     "n": "45",
@@ -4601,7 +6249,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 18,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 25,
+     "s": 13,
+     "g": 1,
+     "a": 1,
+     "min": 1209
+    }
    },
    {
     "n": "23",
@@ -4609,7 +6264,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 26,
-    "val": 9.0
+    "val": 9.0,
+    "stats": {
+     "m": 34,
+     "s": 32,
+     "g": 2,
+     "a": 5,
+     "min": 2854
+    }
    },
    {
     "n": "17",
@@ -4617,7 +6279,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 25,
-    "val": 2.0
+    "val": 2.0,
+    "stats": {
+     "m": 8,
+     "s": 7,
+     "g": 0,
+     "a": 0,
+     "min": 532
+    }
    },
    {
     "n": "",
@@ -4625,7 +6294,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 28,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 1,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 19
+    }
    },
    {
     "n": "77",
@@ -4633,7 +6309,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 22,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 29,
+     "s": 9,
+     "g": 1,
+     "a": 0,
+     "min": 897
+    }
    },
    {
     "n": "15",
@@ -4641,7 +6324,14 @@
     "pos": "MD",
     "grp": "MID",
     "age": 28,
-    "val": 5.0
+    "val": 5.0,
+    "stats": {
+     "m": 32,
+     "s": 32,
+     "g": 5,
+     "a": 5,
+     "min": 2784
+    }
    },
    {
     "n": "",
@@ -4649,7 +6339,14 @@
     "pos": "MO",
     "grp": "MID",
     "age": 19,
-    "val": 0.5
+    "val": 0.5,
+    "stats": {
+     "m": 1,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 7
+    }
    },
    {
     "n": "10",
@@ -4657,7 +6354,14 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 25,
-    "val": 18.0
+    "val": 18.0,
+    "stats": {
+     "m": 35,
+     "s": 34,
+     "g": 10,
+     "a": 3,
+     "min": 2970
+    }
    },
    {
     "n": "",
@@ -4665,15 +6369,23 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 18,
-    "val": 0.45
+    "val": 0.45,
+    "stats": null
    },
    {
-    "n": "11",
+    "n": "9",
     "p": "Santiago Hidalgo",
     "pos": "AC",
     "grp": "ATT",
     "age": 21,
-    "val": 6.0
+    "val": 6.0,
+    "stats": {
+     "m": 32,
+     "s": 16,
+     "g": 6,
+     "a": 6,
+     "min": 1531
+    }
    },
    {
     "n": "13",
@@ -4681,7 +6393,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 23,
-    "val": 3.0
+    "val": 3.0,
+    "stats": {
+     "m": 15,
+     "s": 5,
+     "g": 1,
+     "a": 0,
+     "min": 502
+    }
    },
    {
     "n": "7",
@@ -4689,7 +6408,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 19,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 15,
+     "s": 3,
+     "g": 2,
+     "a": 0,
+     "min": 311
+    }
    },
    {
     "n": "21",
@@ -4697,7 +6423,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 19,
-    "val": 0.0
+    "val": 0.0,
+    "stats": {
+     "m": 1,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 5
+    }
    }
   ],
   "PFC": [
@@ -4707,7 +6440,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 23,
-    "val": 5.0
+    "val": 5.0,
+    "stats": {
+     "m": 15,
+     "s": 15,
+     "g": 0,
+     "a": 0,
+     "min": 1350
+    }
    },
    {
     "n": "35",
@@ -4715,7 +6455,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 36,
-    "val": 1.8
+    "val": 1.8,
+    "stats": {
+     "m": 22,
+     "s": 22,
+     "g": 0,
+     "a": 0,
+     "min": 1980
+    }
    },
    {
     "n": "",
@@ -4723,7 +6470,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 22,
-    "val": 18.0
+    "val": 18.0,
+    "stats": {
+     "m": 14,
+     "s": 14,
+     "g": 0,
+     "a": 2,
+     "min": 1260
+    }
    },
    {
     "n": "6",
@@ -4731,7 +6485,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 24,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 24,
+     "s": 22,
+     "g": 1,
+     "a": 0,
+     "min": 1994
+    }
    },
    {
     "n": "5",
@@ -4739,7 +6500,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 26,
-    "val": 9.0
+    "val": 9.0,
+    "stats": {
+     "m": 34,
+     "s": 33,
+     "g": 0,
+     "a": 1,
+     "min": 2986
+    }
    },
    {
     "n": "31",
@@ -4747,7 +6515,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 27,
-    "val": 3.0
+    "val": 3.0,
+    "stats": {
+     "m": 15,
+     "s": 13,
+     "g": 1,
+     "a": 0,
+     "min": 1155
+    }
    },
    {
     "n": "",
@@ -4755,7 +6530,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 21,
-    "val": 0.6
+    "val": 0.6,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    }
    },
    {
     "n": "19",
@@ -4763,7 +6545,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 20,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 29,
+     "s": 21,
+     "g": 0,
+     "a": 0,
+     "min": 2004
+    }
    },
    {
     "n": "28",
@@ -4771,7 +6560,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 28,
-    "val": 1.8
+    "val": 1.8,
+    "stats": {
+     "m": 19,
+     "s": 14,
+     "g": 0,
+     "a": 1,
+     "min": 1283
+    }
    },
    {
     "n": "2",
@@ -4779,7 +6575,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 26,
-    "val": 0.4
+    "val": 0.4,
+    "stats": {
+     "m": 12,
+     "s": 5,
+     "g": 0,
+     "a": 0,
+     "min": 440
+    }
    },
    {
     "n": "",
@@ -4787,7 +6590,8 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 18,
-    "val": 0.0
+    "val": 0.0,
+    "stats": null
    },
    {
     "n": "14",
@@ -4795,7 +6599,14 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 34,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 18,
+     "s": 14,
+     "g": 0,
+     "a": 1,
+     "min": 1154
+    }
    },
    {
     "n": "21",
@@ -4803,7 +6614,14 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 28,
-    "val": 5.0
+    "val": 5.0,
+    "stats": {
+     "m": 27,
+     "s": 23,
+     "g": 0,
+     "a": 3,
+     "min": 2050
+    }
    },
    {
     "n": "33",
@@ -4811,7 +6629,14 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 33,
-    "val": 4.5
+    "val": 4.5,
+    "stats": {
+     "m": 22,
+     "s": 20,
+     "g": 1,
+     "a": 3,
+     "min": 1786
+    }
    },
    {
     "n": "17",
@@ -4819,7 +6644,14 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 29,
-    "val": 3.0
+    "val": 3.0,
+    "stats": {
+     "m": 32,
+     "s": 28,
+     "g": 1,
+     "a": 0,
+     "min": 2363
+    }
    },
    {
     "n": "",
@@ -4827,7 +6659,8 @@
     "pos": "MC",
     "grp": "MID",
     "age": 19,
-    "val": 20.0
+    "val": 20.0,
+    "stats": null
    },
    {
     "n": "23",
@@ -4835,7 +6668,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 18,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 12,
+     "s": 8,
+     "g": 2,
+     "a": 0,
+     "min": 777
+    }
    },
    {
     "n": "4",
@@ -4843,7 +6683,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 29,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 25,
+     "s": 11,
+     "g": 2,
+     "a": 1,
+     "min": 960
+    }
    },
    {
     "n": "",
@@ -4851,7 +6698,8 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 23,
-    "val": 15.0
+    "val": 15.0,
+    "stats": null
    },
    {
     "n": "27",
@@ -4859,7 +6707,14 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 31,
-    "val": 7.0
+    "val": 7.0,
+    "stats": {
+     "m": 29,
+     "s": 25,
+     "g": 3,
+     "a": 3,
+     "min": 2021
+    }
    },
    {
     "n": "10",
@@ -4867,7 +6722,14 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 28,
-    "val": 12.0
+    "val": 12.0,
+    "stats": {
+     "m": 31,
+     "s": 26,
+     "g": 9,
+     "a": 5,
+     "min": 2309
+    }
    },
    {
     "n": "",
@@ -4875,7 +6737,14 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 21,
-    "val": 6.0
+    "val": 6.0,
+    "stats": {
+     "m": 18,
+     "s": 4,
+     "g": 3,
+     "a": 1,
+     "min": 630
+    }
    },
    {
     "n": "93",
@@ -4883,7 +6752,14 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 28,
-    "val": 4.0
+    "val": 4.0,
+    "stats": {
+     "m": 26,
+     "s": 15,
+     "g": 7,
+     "a": 1,
+     "min": 1315
+    }
    },
    {
     "n": "",
@@ -4891,7 +6767,8 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 26,
-    "val": 10.0
+    "val": 10.0,
+    "stats": null
    },
    {
     "n": "11",
@@ -4899,15 +6776,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 29,
-    "val": 3.5
-   },
-   {
-    "n": "36",
-    "p": "Ciro Immobile",
-    "pos": "AC",
-    "grp": "ATT",
-    "age": 36,
-    "val": 1.8
+    "val": 3.5,
+    "stats": {
+     "m": 26,
+     "s": 12,
+     "g": 2,
+     "a": 2,
+     "min": 1105
+    }
    },
    {
     "n": "",
@@ -4915,7 +6791,8 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 19,
-    "val": 1.0
+    "val": 1.0,
+    "stats": null
    }
   ],
   "SB29": [
@@ -4925,7 +6802,23 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 27,
-    "val": 4.0
+    "val": 4.0,
+    "stats": {
+     "m": 26,
+     "s": 25,
+     "g": 0,
+     "a": 0,
+     "min": 2281
+    }
+   },
+   {
+    "n": "",
+    "p": "Egil Selvik",
+    "pos": "GdB",
+    "grp": "GK",
+    "age": 29,
+    "val": 1.5,
+    "stats": null
    },
    {
     "n": "16",
@@ -4933,15 +6826,8 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 19,
-    "val": 0.0
-   },
-   {
-    "n": "50",
-    "p": "Noah Jauny",
-    "pos": "GdB",
-    "grp": "GK",
-    "age": 21,
-    "val": 0.0
+    "val": 0.0,
+    "stats": null
    },
    {
     "n": "5",
@@ -4949,7 +6835,23 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 31,
-    "val": 4.0
+    "val": 4.0,
+    "stats": {
+     "m": 30,
+     "s": 29,
+     "g": 1,
+     "a": 4,
+     "min": 2614
+    }
+   },
+   {
+    "n": "4",
+    "p": "Gautier Lloris",
+    "pos": "DC",
+    "grp": "DEF",
+    "age": 31,
+    "val": 3.0,
+    "stats": null
    },
    {
     "n": "71",
@@ -4957,7 +6859,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 19,
-    "val": 0.8
+    "val": 0.8,
+    "stats": {
+     "m": 6,
+     "s": 4,
+     "g": 0,
+     "a": 0,
+     "min": 373
+    }
    },
    {
     "n": "2",
@@ -4965,7 +6874,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 24,
-    "val": 6.0
+    "val": 6.0,
+    "stats": {
+     "m": 22,
+     "s": 15,
+     "g": 0,
+     "a": 2,
+     "min": 1370
+    }
    },
    {
     "n": "",
@@ -4973,7 +6889,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 20,
-    "val": 1.0
+    "val": 1.0,
+    "stats": {
+     "m": 2,
+     "s": 1,
+     "g": 0,
+     "a": 0,
+     "min": 38
+    }
    },
    {
     "n": "77",
@@ -4981,7 +6904,14 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 34,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 33,
+     "s": 31,
+     "g": 0,
+     "a": 3,
+     "min": 2820
+    }
    },
    {
     "n": "12",
@@ -4989,7 +6919,14 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 21,
-    "val": 1.2
+    "val": 1.2,
+    "stats": {
+     "m": 10,
+     "s": 4,
+     "g": 0,
+     "a": 0,
+     "min": 347
+    }
    },
    {
     "n": "13",
@@ -4997,7 +6934,23 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 24,
-    "val": 7.0
+    "val": 7.0,
+    "stats": {
+     "m": 34,
+     "s": 31,
+     "g": 2,
+     "a": 1,
+     "min": 2804
+    }
+   },
+   {
+    "n": "6",
+    "p": "Mamady Diambou",
+    "pos": "MDC",
+    "grp": "MID",
+    "age": 23,
+    "val": 1.5,
+    "stats": null
    },
    {
     "n": "33",
@@ -5005,7 +6958,14 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 20,
-    "val": 1.0
+    "val": 1.0,
+    "stats": {
+     "m": 18,
+     "s": 3,
+     "g": 0,
+     "a": 0,
+     "min": 392
+    }
    },
    {
     "n": "8",
@@ -5013,7 +6973,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 28,
-    "val": 6.0
+    "val": 6.0,
+    "stats": {
+     "m": 33,
+     "s": 31,
+     "g": 1,
+     "a": 2,
+     "min": 2697
+    }
    },
    {
     "n": "7",
@@ -5021,7 +6988,8 @@
     "pos": "MC",
     "grp": "MID",
     "age": 21,
-    "val": 2.0
+    "val": 2.0,
+    "stats": null
    },
    {
     "n": "24",
@@ -5029,7 +6997,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 29,
-    "val": 2.0
+    "val": 2.0,
+    "stats": {
+     "m": 25,
+     "s": 10,
+     "g": 1,
+     "a": 1,
+     "min": 917
+    }
    },
    {
     "n": "23",
@@ -5037,7 +7012,14 @@
     "pos": "MO",
     "grp": "MID",
     "age": 23,
-    "val": 9.0
+    "val": 9.0,
+    "stats": {
+     "m": 24,
+     "s": 22,
+     "g": 5,
+     "a": 4,
+     "min": 1766
+    }
    },
    {
     "n": "99",
@@ -5045,7 +7027,14 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 22,
-    "val": 2.5
+    "val": 2.5,
+    "stats": {
+     "m": 28,
+     "s": 9,
+     "g": 1,
+     "a": 0,
+     "min": 1048
+    }
    },
    {
     "n": "10",
@@ -5053,7 +7042,14 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 30,
-    "val": 7.0
+    "val": 7.0,
+    "stats": {
+     "m": 33,
+     "s": 33,
+     "g": 9,
+     "a": 4,
+     "min": 2736
+    }
    },
    {
     "n": "",
@@ -5061,7 +7057,14 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 22,
-    "val": 0.6
+    "val": 0.6,
+    "stats": {
+     "m": 1,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 11
+    }
    },
    {
     "n": "17",
@@ -5069,7 +7072,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 30,
-    "val": 3.0
+    "val": 3.0,
+    "stats": {
+     "m": 19,
+     "s": 9,
+     "g": 2,
+     "a": 2,
+     "min": 802
+    }
    },
    {
     "n": "19",
@@ -5077,7 +7087,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 32,
-    "val": 3.0
+    "val": 3.0,
+    "stats": {
+     "m": 32,
+     "s": 32,
+     "g": 8,
+     "a": 10,
+     "min": 2824
+    }
    }
   ],
   "SCO": [
@@ -5087,7 +7104,8 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 35,
-    "val": 0.9
+    "val": 0.9,
+    "stats": null
    },
    {
     "n": "16",
@@ -5095,7 +7113,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 24,
-    "val": 0.3
+    "val": 0.3,
+    "stats": {
+     "m": 3,
+     "s": 2,
+     "g": 0,
+     "a": 0,
+     "min": 221
+    }
    },
    {
     "n": "40",
@@ -5103,7 +7128,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 20,
-    "val": 0.2
+    "val": 0.2,
+    "stats": {
+     "m": 4,
+     "s": 4,
+     "g": 0,
+     "a": 0,
+     "min": 360
+    }
    },
    {
     "n": "4",
@@ -5111,7 +7143,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 23,
-    "val": 8.0
+    "val": 8.0,
+    "stats": {
+     "m": 32,
+     "s": 31,
+     "g": 1,
+     "a": 0,
+     "min": 2719
+    }
    },
    {
     "n": "24",
@@ -5119,7 +7158,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 21,
-    "val": 2.5
+    "val": 2.5,
+    "stats": {
+     "m": 10,
+     "s": 4,
+     "g": 0,
+     "a": 0,
+     "min": 473
+    }
    },
    {
     "n": "21",
@@ -5127,7 +7173,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 33,
-    "val": 1.0
+    "val": 1.0,
+    "stats": {
+     "m": 36,
+     "s": 36,
+     "g": 0,
+     "a": 2,
+     "min": 3240
+    }
    },
    {
     "n": "3",
@@ -5135,7 +7188,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 22,
-    "val": 9.0
+    "val": 9.0,
+    "stats": {
+     "m": 33,
+     "s": 26,
+     "g": 0,
+     "a": 0,
+     "min": 2304
+    }
    },
    {
     "n": "27",
@@ -5143,7 +7203,14 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 26,
-    "val": 4.0
+    "val": 4.0,
+    "stats": {
+     "m": 34,
+     "s": 23,
+     "g": 2,
+     "a": 4,
+     "min": 2123
+    }
    },
    {
     "n": "20",
@@ -5151,7 +7218,14 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 19,
-    "val": 2.0
+    "val": 2.0,
+    "stats": {
+     "m": 9,
+     "s": 6,
+     "g": 0,
+     "a": 0,
+     "min": 541
+    }
    },
    {
     "n": "2",
@@ -5159,15 +7233,14 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 30,
-    "val": 1.8
-   },
-   {
-    "n": "5",
-    "p": "Marius Courcoul",
-    "pos": "MDC",
-    "grp": "MID",
-    "age": 19,
-    "val": 2.5
+    "val": 1.8,
+    "stats": {
+     "m": 28,
+     "s": 25,
+     "g": 0,
+     "a": 3,
+     "min": 2151
+    }
    },
    {
     "n": "14",
@@ -5175,7 +7248,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 24,
-    "val": 7.0
+    "val": 7.0,
+    "stats": {
+     "m": 28,
+     "s": 27,
+     "g": 2,
+     "a": 2,
+     "min": 2224
+    }
    },
    {
     "n": "",
@@ -5183,7 +7263,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 31,
-    "val": 2.5
+    "val": 2.5,
+    "stats": {
+     "m": 15,
+     "s": 14,
+     "g": 0,
+     "a": 1,
+     "min": 1242
+    }
    },
    {
     "n": "93",
@@ -5191,7 +7278,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 32,
-    "val": 1.8
+    "val": 1.8,
+    "stats": {
+     "m": 34,
+     "s": 34,
+     "g": 0,
+     "a": 0,
+     "min": 2970
+    }
    },
    {
     "n": "6",
@@ -5199,7 +7293,14 @@
     "pos": "MO",
     "grp": "MID",
     "age": 24,
-    "val": 4.0
+    "val": 4.0,
+    "stats": {
+     "m": 34,
+     "s": 26,
+     "g": 2,
+     "a": 1,
+     "min": 2085
+    }
    },
    {
     "n": "7",
@@ -5207,7 +7308,14 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 25,
-    "val": 4.0
+    "val": 4.0,
+    "stats": {
+     "m": 27,
+     "s": 25,
+     "g": 4,
+     "a": 1,
+     "min": 2014
+    }
    },
    {
     "n": "26",
@@ -5215,7 +7323,8 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 21,
-    "val": 1.0
+    "val": 1.0,
+    "stats": null
    },
    {
     "n": "31",
@@ -5223,7 +7332,14 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 19,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 15,
+     "s": 1,
+     "g": 2,
+     "a": 1,
+     "min": 323
+    }
    },
    {
     "n": "",
@@ -5231,7 +7347,14 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 31,
-    "val": 1.0
+    "val": 1.0,
+    "stats": {
+     "m": 6,
+     "s": 0,
+     "g": 1,
+     "a": 0,
+     "min": 127
+    }
    },
    {
     "n": "35",
@@ -5239,7 +7362,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 19,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 31,
+     "s": 16,
+     "g": 5,
+     "a": 1,
+     "min": 1446
+    }
    },
    {
     "n": "19",
@@ -5247,7 +7377,8 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 25,
-    "val": 2.5
+    "val": 2.5,
+    "stats": null
    },
    {
     "n": "17",
@@ -5255,7 +7386,8 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 24,
-    "val": 0.7
+    "val": 0.7,
+    "stats": null
    }
   ],
   "HAC": [
@@ -5265,7 +7397,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 33,
-    "val": 0.9
+    "val": 0.9,
+    "stats": {
+     "m": 30,
+     "s": 30,
+     "g": 0,
+     "a": 1,
+     "min": 2655
+    }
    },
    {
     "n": "77",
@@ -5273,7 +7412,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 32,
-    "val": 0.7
+    "val": 0.7,
+    "stats": {
+     "m": 4,
+     "s": 3,
+     "g": 0,
+     "a": 0,
+     "min": 315
+    }
    },
    {
     "n": "50",
@@ -5281,7 +7427,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 20,
-    "val": 0.2
+    "val": 0.2,
+    "stats": {
+     "m": 2,
+     "s": 2,
+     "g": 0,
+     "a": 0,
+     "min": 180
+    }
    },
    {
     "n": "15",
@@ -5289,7 +7442,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 26,
-    "val": 5.0
+    "val": 5.0,
+    "stats": {
+     "m": 30,
+     "s": 29,
+     "g": 0,
+     "a": 0,
+     "min": 2625
+    }
    },
    {
     "n": "29",
@@ -5297,7 +7457,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 17,
-    "val": 4.0
+    "val": 4.0,
+    "stats": {
+     "m": 8,
+     "s": 6,
+     "g": 1,
+     "a": 0,
+     "min": 498
+    }
    },
    {
     "n": "23",
@@ -5305,7 +7472,8 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 35,
-    "val": 0.15
+    "val": 0.15,
+    "stats": null
    },
    {
     "n": "18",
@@ -5313,7 +7481,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 28,
-    "val": 2.5
+    "val": 2.5,
+    "stats": {
+     "m": 30,
+     "s": 28,
+     "g": 1,
+     "a": 1,
+     "min": 2350
+    }
    },
    {
     "n": "27",
@@ -5321,7 +7496,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 20,
-    "val": 1.8
+    "val": 1.8,
+    "stats": {
+     "m": 15,
+     "s": 4,
+     "g": 0,
+     "a": 0,
+     "min": 425
+    }
    },
    {
     "n": "13",
@@ -5329,7 +7511,14 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 25,
-    "val": 2.0
+    "val": 2.0,
+    "stats": {
+     "m": 26,
+     "s": 15,
+     "g": 3,
+     "a": 1,
+     "min": 1242
+    }
    },
    {
     "n": "32",
@@ -5337,7 +7526,14 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 23,
-    "val": 1.8
+    "val": 1.8,
+    "stats": {
+     "m": 14,
+     "s": 2,
+     "g": 0,
+     "a": 0,
+     "min": 374
+    }
    },
    {
     "n": "6",
@@ -5345,15 +7541,23 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 23,
-    "val": 6.0
+    "val": 6.0,
+    "stats": null
    },
    {
     "n": "78",
     "p": "Daren Mosengo",
     "pos": "MDC",
     "grp": "MID",
-    "age": 19,
-    "val": 0.3
+    "age": 20,
+    "val": 0.3,
+    "stats": {
+     "m": 8,
+     "s": 1,
+     "g": 0,
+     "a": 0,
+     "min": 148
+    }
    },
    {
     "n": "14",
@@ -5361,15 +7565,29 @@
     "pos": "MC",
     "grp": "MID",
     "age": 24,
-    "val": 8.0
+    "val": 8.0,
+    "stats": {
+     "m": 34,
+     "s": 31,
+     "g": 4,
+     "a": 4,
+     "min": 2667
+    }
    },
    {
     "n": "26",
     "p": "Simon Ebonog",
     "pos": "MC",
     "grp": "MID",
-    "age": 21,
-    "val": 4.5
+    "age": 22,
+    "val": 4.5,
+    "stats": {
+     "m": 31,
+     "s": 21,
+     "g": 1,
+     "a": 0,
+     "min": 1809
+    }
    },
    {
     "n": "",
@@ -5377,7 +7595,8 @@
     "pos": "MC",
     "grp": "MID",
     "age": 24,
-    "val": 4.0
+    "val": 4.0,
+    "stats": null
    },
    {
     "n": "24",
@@ -5385,7 +7604,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 19,
-    "val": 0.0
+    "val": 0.0,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    }
    },
    {
     "n": "17",
@@ -5393,7 +7619,8 @@
     "pos": "MO",
     "grp": "MID",
     "age": 26,
-    "val": 0.6
+    "val": 0.6,
+    "stats": null
    },
    {
     "n": "37",
@@ -5401,7 +7628,8 @@
     "pos": "MO",
     "grp": "MID",
     "age": 20,
-    "val": 0.4
+    "val": 0.4,
+    "stats": null
    },
    {
     "n": "44",
@@ -5409,7 +7637,14 @@
     "pos": "MO",
     "grp": "MID",
     "age": 20,
-    "val": 0.4
+    "val": 0.4,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    }
    },
    {
     "n": "10",
@@ -5417,7 +7652,14 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 25,
-    "val": 0.5
+    "val": 0.5,
+    "stats": {
+     "m": 17,
+     "s": 7,
+     "g": 1,
+     "a": 0,
+     "min": 529
+    }
    },
    {
     "n": "11",
@@ -5425,7 +7667,14 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 26,
-    "val": 0.5
+    "val": 0.5,
+    "stats": {
+     "m": 14,
+     "s": 4,
+     "g": 1,
+     "a": 1,
+     "min": 419
+    }
    },
    {
     "n": "9",
@@ -5433,15 +7682,8 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 27,
-    "val": 4.5
-   },
-   {
-    "n": "20",
-    "p": "Noam Obougou",
-    "pos": "AC",
-    "grp": "ATT",
-    "age": 20,
-    "val": 1.0
+    "val": 4.5,
+    "stats": null
    },
    {
     "n": "",
@@ -5449,7 +7691,8 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 23,
-    "val": 0.9
+    "val": 0.9,
+    "stats": null
    },
    {
     "n": "25",
@@ -5457,7 +7700,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 33,
-    "val": 0.7
+    "val": 0.7,
+    "stats": {
+     "m": 27,
+     "s": 17,
+     "g": 2,
+     "a": 1,
+     "min": 1545
+    }
    },
    {
     "n": "",
@@ -5465,7 +7715,8 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 22,
-    "val": 0.2
+    "val": 0.2,
+    "stats": null
    },
    {
     "n": "19",
@@ -5473,7 +7724,8 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 20,
-    "val": 0.1
+    "val": 0.1,
+    "stats": null
    }
   ],
   "AJA": [
@@ -5483,7 +7735,8 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 26,
-    "val": 1.5
+    "val": 1.5,
+    "stats": null
    },
    {
     "n": "1",
@@ -5491,7 +7744,8 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 32,
-    "val": 1.2
+    "val": 1.2,
+    "stats": null
    },
    {
     "n": "37",
@@ -5499,7 +7753,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 19,
-    "val": 0.0
+    "val": 0.0,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    }
    },
    {
     "n": "92",
@@ -5507,7 +7768,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 24,
-    "val": 9.0
+    "val": 9.0,
+    "stats": {
+     "m": 26,
+     "s": 21,
+     "g": 0,
+     "a": 0,
+     "min": 1941
+    }
    },
    {
     "n": "20",
@@ -5515,7 +7783,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 25,
-    "val": 6.0
+    "val": 6.0,
+    "stats": {
+     "m": 24,
+     "s": 24,
+     "g": 2,
+     "a": 2,
+     "min": 2134
+    }
    },
    {
     "n": "24",
@@ -5523,7 +7798,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 23,
-    "val": 4.0
+    "val": 4.0,
+    "stats": {
+     "m": 13,
+     "s": 12,
+     "g": 3,
+     "a": 0,
+     "min": 1006
+    }
    },
    {
     "n": "4",
@@ -5531,7 +7813,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 29,
-    "val": 1.2
+    "val": 1.2,
+    "stats": {
+     "m": 11,
+     "s": 10,
+     "g": 1,
+     "a": 0,
+     "min": 952
+    }
    },
    {
     "n": "13",
@@ -5539,7 +7828,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 21,
-    "val": 1.0
+    "val": 1.0,
+    "stats": {
+     "m": 4,
+     "s": 4,
+     "g": 0,
+     "a": 0,
+     "min": 315
+    }
    },
    {
     "n": "15",
@@ -5547,7 +7843,8 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 22,
-    "val": 0.8
+    "val": 0.8,
+    "stats": null
    },
    {
     "n": "35",
@@ -5555,7 +7852,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 18,
-    "val": 0.0
+    "val": 0.0,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    }
    },
    {
     "n": "38",
@@ -5563,7 +7867,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 19,
-    "val": 0.0
+    "val": 0.0,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    }
    },
    {
     "n": "22",
@@ -5571,7 +7882,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 24,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 24,
+     "s": 16,
+     "g": 0,
+     "a": 0,
+     "min": 1338
+    }
    },
    {
     "n": "93",
@@ -5579,7 +7897,8 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 23,
-    "val": 0.8
+    "val": 0.8,
+    "stats": null
    },
    {
     "n": "",
@@ -5587,7 +7906,8 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 17,
-    "val": 0.0
+    "val": 0.0,
+    "stats": null
    },
    {
     "n": "29",
@@ -5595,7 +7915,14 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 25,
-    "val": 3.0
+    "val": 3.0,
+    "stats": {
+     "m": 26,
+     "s": 21,
+     "g": 1,
+     "a": 0,
+     "min": 1875
+    }
    },
    {
     "n": "27",
@@ -5603,7 +7930,14 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 24,
-    "val": 2.5
+    "val": 2.5,
+    "stats": {
+     "m": 25,
+     "s": 18,
+     "g": 0,
+     "a": 2,
+     "min": 1594
+    }
    },
    {
     "n": "42",
@@ -5611,7 +7945,14 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 28,
-    "val": 4.0
+    "val": 4.0,
+    "stats": {
+     "m": 29,
+     "s": 27,
+     "g": 0,
+     "a": 0,
+     "min": 2349
+    }
    },
    {
     "n": "46",
@@ -5619,7 +7960,8 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 21,
-    "val": 4.0
+    "val": 4.0,
+    "stats": null
    },
    {
     "n": "18",
@@ -5627,7 +7969,14 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 28,
-    "val": 0.5
+    "val": 0.5,
+    "stats": {
+     "m": 16,
+     "s": 2,
+     "g": 1,
+     "a": 0,
+     "min": 298
+    }
    },
    {
     "n": "5",
@@ -5635,7 +7984,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 22,
-    "val": 20.0
+    "val": 20.0,
+    "stats": {
+     "m": 34,
+     "s": 33,
+     "g": 3,
+     "a": 1,
+     "min": 2920
+    }
    },
    {
     "n": "8",
@@ -5643,7 +7999,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 24,
-    "val": 3.0
+    "val": 3.0,
+    "stats": {
+     "m": 15,
+     "s": 8,
+     "g": 0,
+     "a": 1,
+     "min": 679
+    }
    },
    {
     "n": "36",
@@ -5651,7 +8014,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 18,
-    "val": 0.3
+    "val": 0.3,
+    "stats": {
+     "m": 3,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 17
+    }
    },
    {
     "n": "28",
@@ -5659,7 +8029,14 @@
     "pos": "MO",
     "grp": "MID",
     "age": 28,
-    "val": 4.0
+    "val": 4.0,
+    "stats": {
+     "m": 10,
+     "s": 7,
+     "g": 0,
+     "a": 2,
+     "min": 583
+    }
    },
    {
     "n": "19",
@@ -5667,15 +8044,23 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 25,
-    "val": 6.0
+    "val": 6.0,
+    "stats": {
+     "m": 30,
+     "s": 29,
+     "g": 3,
+     "a": 3,
+     "min": 2528
+    }
    },
    {
-    "n": "",
+    "n": "77",
     "p": "Aristide Zossou",
     "pos": "AiG",
     "grp": "ATT",
     "age": 21,
-    "val": 2.5
+    "val": 2.5,
+    "stats": null
    },
    {
     "n": "",
@@ -5683,7 +8068,8 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 20,
-    "val": 0.4
+    "val": 0.4,
+    "stats": null
    },
    {
     "n": "7",
@@ -5691,7 +8077,14 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 24,
-    "val": 3.0
+    "val": 3.0,
+    "stats": {
+     "m": 31,
+     "s": 16,
+     "g": 1,
+     "a": 0,
+     "min": 1521
+    }
    },
    {
     "n": "21",
@@ -5699,7 +8092,14 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 23,
-    "val": 0.8
+    "val": 0.8,
+    "stats": {
+     "m": 18,
+     "s": 1,
+     "g": 0,
+     "a": 0,
+     "min": 336
+    }
    },
    {
     "n": "",
@@ -5707,7 +8107,8 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 25,
-    "val": 0.15
+    "val": 0.15,
+    "stats": null
    },
    {
     "n": "3",
@@ -5715,7 +8116,8 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 23,
-    "val": 4.0
+    "val": 4.0,
+    "stats": null
    },
    {
     "n": "",
@@ -5723,7 +8125,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 26,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 2,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 8
+    }
    },
    {
     "n": "31",
@@ -5731,7 +8140,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 20,
-    "val": 0.3
+    "val": 0.3,
+    "stats": {
+     "m": 4,
+     "s": 1,
+     "g": 0,
+     "a": 0,
+     "min": 86
+    }
    },
    {
     "n": "49",
@@ -5739,7 +8155,8 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 18,
-    "val": 0.3
+    "val": 0.3,
+    "stats": null
    }
   ],
   "OGCN": [
@@ -5749,7 +8166,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 26,
-    "val": 7.0
+    "val": 7.0,
+    "stats": {
+     "m": 38,
+     "s": 38,
+     "g": 0,
+     "a": 0,
+     "min": 3420
+    }
    },
    {
     "n": "",
@@ -5757,7 +8181,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 25,
-    "val": 0.3
+    "val": 0.3,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    }
    },
    {
     "n": "33",
@@ -5765,7 +8196,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 22,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 40,
+     "s": 36,
+     "g": 2,
+     "a": 1,
+     "min": 3231
+    }
    },
    {
     "n": "37",
@@ -5773,7 +8211,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 22,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 43,
+     "s": 40,
+     "g": 1,
+     "a": 0,
+     "min": 3465
+    }
    },
    {
     "n": "55",
@@ -5781,7 +8226,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 27,
-    "val": 7.0
+    "val": 7.0,
+    "stats": {
+     "m": 2,
+     "s": 1,
+     "g": 0,
+     "a": 0,
+     "min": 72
+    }
    },
    {
     "n": "64",
@@ -5789,7 +8241,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 26,
-    "val": 7.0
+    "val": 7.0,
+    "stats": {
+     "m": 2,
+     "s": 2,
+     "g": 0,
+     "a": 0,
+     "min": 146
+    }
    },
    {
     "n": "5",
@@ -5797,7 +8256,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 27,
-    "val": 2.5
+    "val": 2.5,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    }
    },
    {
     "n": "26",
@@ -5805,7 +8271,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 25,
-    "val": 10.0
+    "val": 10.0,
+    "stats": {
+     "m": 44,
+     "s": 41,
+     "g": 2,
+     "a": 1,
+     "min": 3680
+    }
    },
    {
     "n": "2",
@@ -5813,7 +8286,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 32,
-    "val": 2.0
+    "val": 2.0,
+    "stats": {
+     "m": 32,
+     "s": 18,
+     "g": 3,
+     "a": 0,
+     "min": 1657
+    }
    },
    {
     "n": "92",
@@ -5821,7 +8301,14 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 33,
-    "val": 4.0
+    "val": 4.0,
+    "stats": {
+     "m": 46,
+     "s": 40,
+     "g": 2,
+     "a": 12,
+     "min": 3642
+    }
    },
    {
     "n": "",
@@ -5829,7 +8316,14 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 19,
-    "val": 0.15
+    "val": 0.15,
+    "stats": {
+     "m": 2,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 18
+    }
    },
    {
     "n": "99",
@@ -5837,7 +8331,14 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 26,
-    "val": 4.0
+    "val": 4.0,
+    "stats": {
+     "m": 28,
+     "s": 19,
+     "g": 0,
+     "a": 1,
+     "min": 1528
+    }
    },
    {
     "n": "41",
@@ -5845,7 +8346,14 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 19,
-    "val": 2.0
+    "val": 2.0,
+    "stats": {
+     "m": 6,
+     "s": 3,
+     "g": 0,
+     "a": 0,
+     "min": 256
+    }
    },
    {
     "n": "19",
@@ -5853,7 +8361,8 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 33,
-    "val": 1.8
+    "val": 1.8,
+    "stats": null
    },
    {
     "n": "6",
@@ -5861,7 +8370,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 26,
-    "val": 12.0
+    "val": 12.0,
+    "stats": {
+     "m": 32,
+     "s": 23,
+     "g": 1,
+     "a": 2,
+     "min": 2081
+    }
    },
    {
     "n": "8",
@@ -5869,7 +8385,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 31,
-    "val": 3.5
+    "val": 3.5,
+    "stats": {
+     "m": 46,
+     "s": 31,
+     "g": 1,
+     "a": 2,
+     "min": 2718
+    }
    },
    {
     "n": "39",
@@ -5877,7 +8400,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 17,
-    "val": 1.0
+    "val": 1.0,
+    "stats": {
+     "m": 7,
+     "s": 4,
+     "g": 1,
+     "a": 0,
+     "min": 275
+    }
    },
    {
     "n": "",
@@ -5885,7 +8415,8 @@
     "pos": "MC",
     "grp": "MID",
     "age": 21,
-    "val": 0.25
+    "val": 0.25,
+    "stats": null
    },
    {
     "n": "10",
@@ -5893,7 +8424,14 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 26,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 46,
+     "s": 32,
+     "g": 10,
+     "a": 3,
+     "min": 2742
+    }
    },
    {
     "n": "21",
@@ -5901,7 +8439,14 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 24,
-    "val": 4.0
+    "val": 4.0,
+    "stats": {
+     "m": 31,
+     "s": 12,
+     "g": 1,
+     "a": 0,
+     "min": 1059
+    }
    },
    {
     "n": "25",
@@ -5909,7 +8454,14 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 22,
-    "val": 15.0
+    "val": 15.0,
+    "stats": {
+     "m": 37,
+     "s": 27,
+     "g": 5,
+     "a": 5,
+     "min": 2282
+    }
    },
    {
     "n": "7",
@@ -5917,7 +8469,8 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 30,
-    "val": 5.0
+    "val": 5.0,
+    "stats": null
    },
    {
     "n": "",
@@ -5925,15 +8478,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 27,
-    "val": 8.0
-   },
-   {
-    "n": "90",
-    "p": "Kevin Carlos",
-    "pos": "AC",
-    "grp": "ATT",
-    "age": 25,
-    "val": 4.0
+    "val": 8.0,
+    "stats": {
+     "m": 15,
+     "s": 9,
+     "g": 3,
+     "a": 0,
+     "min": 786
+    }
    },
    {
     "n": "",
@@ -5941,7 +8493,8 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 20,
-    "val": 0.4
+    "val": 0.4,
+    "stats": null
    }
   ],
   "ESTAC": [
@@ -5951,7 +8504,8 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 23,
-    "val": 1.5
+    "val": 1.5,
+    "stats": null
    },
    {
     "n": "40",
@@ -5959,7 +8513,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 31,
-    "val": 0.4
+    "val": 0.4,
+    "stats": {
+     "m": 28,
+     "s": 27,
+     "g": 0,
+     "a": 0,
+     "min": 2482
+    }
    },
    {
     "n": "1",
@@ -5967,7 +8528,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 34,
-    "val": 0.1
+    "val": 0.1,
+    "stats": {
+     "m": 2,
+     "s": 2,
+     "g": 0,
+     "a": 0,
+     "min": 180
+    }
    },
    {
     "n": "4",
@@ -5975,7 +8543,8 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 23,
-    "val": 6.0
+    "val": 6.0,
+    "stats": null
    },
    {
     "n": "25",
@@ -5983,7 +8552,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 25,
-    "val": 1.2
+    "val": 1.2,
+    "stats": {
+     "m": 16,
+     "s": 15,
+     "g": 0,
+     "a": 0,
+     "min": 1276
+    }
    },
    {
     "n": "6",
@@ -5991,7 +8567,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 35,
-    "val": 0.2
+    "val": 0.2,
+    "stats": {
+     "m": 34,
+     "s": 34,
+     "g": 0,
+     "a": 0,
+     "min": 3060
+    }
    },
    {
     "n": "37",
@@ -5999,15 +8582,29 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 21,
-    "val": 0.0
+    "val": 0.0,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    }
    },
    {
     "n": "14",
     "p": "Ismaël Boura",
     "pos": "ArG",
     "grp": "DEF",
-    "age": 25,
-    "val": 4.0
+    "age": 26,
+    "val": 4.0,
+    "stats": {
+     "m": 28,
+     "s": 27,
+     "g": 1,
+     "a": 2,
+     "min": 2316
+    }
    },
    {
     "n": "3",
@@ -6015,7 +8612,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 19,
-    "val": 0.5
+    "val": 0.5,
+    "stats": {
+     "m": 25,
+     "s": 6,
+     "g": 1,
+     "a": 1,
+     "min": 780
+    }
    },
    {
     "n": "44",
@@ -6023,7 +8627,14 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 20,
-    "val": 2.5
+    "val": 2.5,
+    "stats": {
+     "m": 22,
+     "s": 17,
+     "g": 0,
+     "a": 5,
+     "min": 1559
+    }
    },
    {
     "n": "2",
@@ -6031,7 +8642,14 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 26,
-    "val": 0.8
+    "val": 0.8,
+    "stats": {
+     "m": 24,
+     "s": 21,
+     "g": 0,
+     "a": 2,
+     "min": 1810
+    }
    },
    {
     "n": "26",
@@ -6039,7 +8657,14 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 26,
-    "val": 0.35
+    "val": 0.35,
+    "stats": {
+     "m": 15,
+     "s": 6,
+     "g": 0,
+     "a": 0,
+     "min": 542
+    }
    },
    {
     "n": "35",
@@ -6047,7 +8672,14 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 20,
-    "val": 0.05
+    "val": 0.05,
+    "stats": {
+     "m": 6,
+     "s": 1,
+     "g": 0,
+     "a": 0,
+     "min": 112
+    }
    },
    {
     "n": "8",
@@ -6055,15 +8687,29 @@
     "pos": "MC",
     "grp": "MID",
     "age": 25,
-    "val": 4.0
+    "val": 4.0,
+    "stats": {
+     "m": 35,
+     "s": 35,
+     "g": 4,
+     "a": 3,
+     "min": 3057
+    }
    },
    {
     "n": "17",
     "p": "Antoine Mille",
     "pos": "MC",
     "grp": "MID",
-    "age": 28,
-    "val": 2.5
+    "age": 29,
+    "val": 2.5,
+    "stats": {
+     "m": 35,
+     "s": 34,
+     "g": 3,
+     "a": 7,
+     "min": 3013
+    }
    },
    {
     "n": "",
@@ -6071,7 +8717,8 @@
     "pos": "MC",
     "grp": "MID",
     "age": 26,
-    "val": 1.4
+    "val": 1.4,
+    "stats": null
    },
    {
     "n": "29",
@@ -6079,7 +8726,14 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 26,
-    "val": 1.2
+    "val": 1.2,
+    "stats": {
+     "m": 13,
+     "s": 10,
+     "g": 4,
+     "a": 1,
+     "min": 869
+    }
    },
    {
     "n": "",
@@ -6087,7 +8741,14 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 22,
-    "val": 0.8
+    "val": 0.8,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    }
    },
    {
     "n": "12",
@@ -6095,7 +8756,14 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 19,
-    "val": 0.6
+    "val": 0.6,
+    "stats": {
+     "m": 13,
+     "s": 2,
+     "g": 1,
+     "a": 1,
+     "min": 251
+    }
    },
    {
     "n": "10",
@@ -6103,7 +8771,14 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 27,
-    "val": 2.5
+    "val": 2.5,
+    "stats": {
+     "m": 31,
+     "s": 25,
+     "g": 4,
+     "a": 4,
+     "min": 2221
+    }
    },
    {
     "n": "36",
@@ -6111,7 +8786,14 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 21,
-    "val": 0.05
+    "val": 0.05,
+    "stats": {
+     "m": 5,
+     "s": 2,
+     "g": 0,
+     "a": 0,
+     "min": 149
+    }
    },
    {
     "n": "20",
@@ -6119,7 +8801,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 33,
-    "val": 0.35
+    "val": 0.35,
+    "stats": {
+     "m": 26,
+     "s": 11,
+     "g": 8,
+     "a": 0,
+     "min": 1145
+    }
    },
    {
     "n": "34",
@@ -6127,7 +8816,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 20,
-    "val": 0.05
+    "val": 0.05,
+    "stats": {
+     "m": 3,
+     "s": 1,
+     "g": 0,
+     "a": 2,
+     "min": 88
+    }
    }
   ],
   "LM": [
@@ -6137,7 +8833,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 28,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 31,
+     "s": 31,
+     "g": 0,
+     "a": 0,
+     "min": 2790
+    }
    },
    {
     "n": "1",
@@ -6145,7 +8848,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 26,
-    "val": 0.15
+    "val": 0.15,
+    "stats": {
+     "m": 8,
+     "s": 8,
+     "g": 0,
+     "a": 0,
+     "min": 720
+    }
    },
    {
     "n": "55",
@@ -6153,7 +8863,14 @@
     "pos": "GdB",
     "grp": "GK",
     "age": 24,
-    "val": 0.0
+    "val": 0.0,
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    }
    },
    {
     "n": "15",
@@ -6161,7 +8878,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 20,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 14,
+     "s": 13,
+     "g": 1,
+     "a": 0,
+     "min": 1171
+    }
    },
    {
     "n": "21",
@@ -6169,7 +8893,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 24,
-    "val": 0.9
+    "val": 0.9,
+    "stats": {
+     "m": 27,
+     "s": 26,
+     "g": 1,
+     "a": 0,
+     "min": 2346
+    }
    },
    {
     "n": "5",
@@ -6177,7 +8908,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 29,
-    "val": 0.7
+    "val": 0.7,
+    "stats": {
+     "m": 27,
+     "s": 22,
+     "g": 1,
+     "a": 1,
+     "min": 1938
+    }
    },
    {
     "n": "17",
@@ -6185,7 +8923,14 @@
     "pos": "DC",
     "grp": "DEF",
     "age": 35,
-    "val": 0.2
+    "val": 0.2,
+    "stats": {
+     "m": 36,
+     "s": 36,
+     "g": 4,
+     "a": 0,
+     "min": 3221
+    }
    },
    {
     "n": "22",
@@ -6193,7 +8938,14 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 24,
-    "val": 2.5
+    "val": 2.5,
+    "stats": {
+     "m": 35,
+     "s": 27,
+     "g": 2,
+     "a": 4,
+     "min": 2510
+    }
    },
    {
     "n": "76",
@@ -6201,7 +8953,8 @@
     "pos": "ArG",
     "grp": "DEF",
     "age": 25,
-    "val": 1.5
+    "val": 1.5,
+    "stats": null
    },
    {
     "n": "18",
@@ -6209,7 +8962,14 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 28,
-    "val": 1.5
+    "val": 1.5,
+    "stats": {
+     "m": 30,
+     "s": 29,
+     "g": 3,
+     "a": 6,
+     "min": 2445
+    }
    },
    {
     "n": "19",
@@ -6217,7 +8977,8 @@
     "pos": "ArD",
     "grp": "DEF",
     "age": 22,
-    "val": 1.0
+    "val": 1.0,
+    "stats": null
    },
    {
     "n": "29",
@@ -6225,7 +8986,14 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 24,
-    "val": 1.2
+    "val": 1.2,
+    "stats": {
+     "m": 13,
+     "s": 10,
+     "g": 2,
+     "a": 1,
+     "min": 938
+    }
    },
    {
     "n": "8",
@@ -6233,7 +9001,14 @@
     "pos": "MDC",
     "grp": "MID",
     "age": 29,
-    "val": 0.6
+    "val": 0.6,
+    "stats": {
+     "m": 36,
+     "s": 24,
+     "g": 0,
+     "a": 2,
+     "min": 2193
+    }
    },
    {
     "n": "24",
@@ -6241,7 +9016,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 26,
-    "val": 1.0
+    "val": 1.0,
+    "stats": {
+     "m": 32,
+     "s": 22,
+     "g": 2,
+     "a": 4,
+     "min": 1767
+    }
    },
    {
     "n": "6",
@@ -6249,7 +9031,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 30,
-    "val": 0.5
+    "val": 0.5,
+    "stats": {
+     "m": 37,
+     "s": 28,
+     "g": 2,
+     "a": 1,
+     "min": 2371
+    }
    },
    {
     "n": "11",
@@ -6257,15 +9046,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 21,
-    "val": 0.5
-   },
-   {
-    "n": "",
-    "p": "Daouda Traoré",
-    "pos": "MC",
-    "grp": "MID",
-    "age": 20,
-    "val": 0.4
+    "val": 0.5,
+    "stats": {
+     "m": 14,
+     "s": 5,
+     "g": 0,
+     "a": 1,
+     "min": 645
+    }
    },
    {
     "n": "10",
@@ -6273,7 +9061,23 @@
     "pos": "MC",
     "grp": "MID",
     "age": 26,
-    "val": 0.4
+    "val": 0.4,
+    "stats": {
+     "m": 9,
+     "s": 8,
+     "g": 1,
+     "a": 0,
+     "min": 682
+    }
+   },
+   {
+    "n": "23",
+    "p": "Daouda Traoré",
+    "pos": "MC",
+    "grp": "MID",
+    "age": 20,
+    "val": 0.4,
+    "stats": null
    },
    {
     "n": "27",
@@ -6281,7 +9085,14 @@
     "pos": "MC",
     "grp": "MID",
     "age": 22,
-    "val": 0.4
+    "val": 0.4,
+    "stats": {
+     "m": 28,
+     "s": 14,
+     "g": 1,
+     "a": 1,
+     "min": 1261
+    }
    },
    {
     "n": "28",
@@ -6289,7 +9100,14 @@
     "pos": "AiG",
     "grp": "ATT",
     "age": 29,
-    "val": 0.6
+    "val": 0.6,
+    "stats": {
+     "m": 32,
+     "s": 16,
+     "g": 6,
+     "a": 3,
+     "min": 1622
+    }
    },
    {
     "n": "7",
@@ -6297,7 +9115,8 @@
     "pos": "AiD",
     "grp": "ATT",
     "age": 26,
-    "val": 1.0
+    "val": 1.0,
+    "stats": null
    },
    {
     "n": "14",
@@ -6305,7 +9124,8 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 32,
-    "val": 1.0
+    "val": 1.0,
+    "stats": null
    },
    {
     "n": "9",
@@ -6313,15 +9133,29 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 30,
-    "val": 0.6
+    "val": 0.6,
+    "stats": {
+     "m": 34,
+     "s": 27,
+     "g": 9,
+     "a": 6,
+     "min": 1886
+    }
    },
    {
     "n": "25",
     "p": "Dame Gueye",
     "pos": "AC",
     "grp": "ATT",
-    "age": 30,
-    "val": 0.6
+    "age": 31,
+    "val": 0.6,
+    "stats": {
+     "m": 38,
+     "s": 23,
+     "g": 10,
+     "a": 4,
+     "min": 2037
+    }
    },
    {
     "n": "20",
@@ -6329,7 +9163,14 @@
     "pos": "AC",
     "grp": "ATT",
     "age": 26,
-    "val": 0.4
+    "val": 0.4,
+    "stats": {
+     "m": 22,
+     "s": 4,
+     "g": 4,
+     "a": 1,
+     "min": 661
+    }
    }
   ]
  }
