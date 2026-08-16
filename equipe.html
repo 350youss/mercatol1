@@ -735,18 +735,26 @@ function renderSquad(){
   document.querySelectorAll('#squadList .act.info').forEach(el=>el.onclick=e=>{e.stopPropagation();toggleDetail(el.dataset.info);});
 }
 function toggleDetail(k){
-  if(openDetails.has(k))openDetails.delete(k);else openDetails.add(k);
+  const wasOpen=openDetails.has(k);
+  openDetails.clear();               // un seul panneau ouvert à la fois
+  if(!wasOpen)openDetails.add(k);
   renderSquad();
 }
+function closeAllDetails(){
+  if(openDetails.size){openDetails.clear();renderSquad();}
+}
+document.addEventListener('click', closeAllDetails);
 function statHtml(p){
   const s=p.stats;
   if(!s)return `<div class="pd-empty">Statistiques indisponibles pour ce joueur (saison précédente).</div>`;
   const note=p.statsClub?`Saison précédente · ${esc(p.statsClub)}`:'Saison précédente';
+  const xm=((s.min||0)/90).toFixed(1);
   return `<div class="pd-stats">
       <div class="pd-item"><b>${s.m}</b><span>Matchs</span></div>
       <div class="pd-item"><b>${s.s}</b><span>Titu.</span></div>
       <div class="pd-item"><b>${s.g}</b><span>Buts</span></div>
       <div class="pd-item"><b>${s.a}</b><span>Passes</span></div>
+      <div class="pd-item"><b>${xm}</b><span>xMatchs</span></div>
       <div class="pd-item"><b>${(s.min||0).toLocaleString('fr-FR')}</b><span>Minutes</span></div>
     </div><div class="pd-note">${note}</div>`;
 }
