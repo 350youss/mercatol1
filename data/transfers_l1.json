@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T22:36:25",
+ "updated": "2026-08-16T22:56:34",
  "sig": "7c69c8263c885918685137b362acabe5",
  "seen": {
   "PSG|in|Maghnes Akliouche|Monaco": "2026-08-09",
@@ -2962,7 +2962,9 @@
      "a": 1,
      "min": 2490
     },
-    "statsClub": "Paris Saint-Germain"
+    "statsClub": "Paris Saint-Germain",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "30",
@@ -2978,7 +2980,9 @@
      "a": 0,
      "min": 2340
     },
-    "statsClub": "Paris Saint-Germain"
+    "statsClub": "Paris Saint-Germain",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "16",
@@ -2988,7 +2992,9 @@
     "age": 18,
     "val": 0.3,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "51",
@@ -3004,7 +3010,9 @@
      "a": 1,
      "min": 3839
     },
-    "statsClub": "Paris Saint-Germain"
+    "statsClub": "Paris Saint-Germain",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "6",
@@ -3020,7 +3028,9 @@
      "a": 0,
      "min": 2780
     },
-    "statsClub": "Paris Saint-Germain"
+    "statsClub": "Paris Saint-Germain",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "5",
@@ -3036,7 +3046,9 @@
      "a": 0,
      "min": 2669
     },
-    "statsClub": "Paris Saint-Germain"
+    "statsClub": "Paris Saint-Germain",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "4",
@@ -3052,7 +3064,9 @@
      "a": 1,
      "min": 1789
     },
-    "statsClub": "Paris Saint-Germain"
+    "statsClub": "Paris Saint-Germain",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "25",
@@ -3068,7 +3082,9 @@
      "a": 7,
      "min": 2979
     },
-    "statsClub": "Paris Saint-Germain"
+    "statsClub": "Paris Saint-Germain",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "21",
@@ -3084,7 +3100,9 @@
      "a": 3,
      "min": 2071
     },
-    "statsClub": "Paris Saint-Germain"
+    "statsClub": "Paris Saint-Germain",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "12",
@@ -3100,7 +3118,9 @@
      "a": 7,
      "min": 2772
     },
-    "statsClub": "Aston Villa"
+    "statsClub": "Aston Villa",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "2",
@@ -3116,7 +3136,9 @@
      "a": 9,
      "min": 2619
     },
-    "statsClub": "Paris Saint-Germain"
+    "statsClub": "Paris Saint-Germain",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "17",
@@ -3132,7 +3154,9 @@
      "a": 10,
      "min": 4056
     },
-    "statsClub": "Paris Saint-Germain"
+    "statsClub": "Paris Saint-Germain",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "87",
@@ -3148,7 +3172,9 @@
      "a": 4,
      "min": 2701
     },
-    "statsClub": "Paris Saint-Germain"
+    "statsClub": "Paris Saint-Germain",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "33",
@@ -3164,7 +3190,9 @@
      "a": 5,
      "min": 4224
     },
-    "statsClub": "Paris Saint-Germain"
+    "statsClub": "Paris Saint-Germain",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "24",
@@ -3180,7 +3208,9 @@
      "a": 5,
      "min": 2309
     },
-    "statsClub": "Paris Saint-Germain"
+    "statsClub": "Paris Saint-Germain",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "8",
@@ -3196,7 +3226,9 @@
      "a": 5,
      "min": 2122
     },
-    "statsClub": "Paris Saint-Germain"
+    "statsClub": "Paris Saint-Germain",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "27",
@@ -3212,7 +3244,9 @@
      "a": 0,
      "min": 685
     },
-    "statsClub": "Paris Saint-Germain"
+    "statsClub": "Paris Saint-Germain",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "7",
@@ -3228,7 +3262,9 @@
      "a": 11,
      "min": 2908
     },
-    "statsClub": "Paris Saint-Germain"
+    "statsClub": "Paris Saint-Germain",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "29",
@@ -3244,7 +3280,9 @@
      "a": 7,
      "min": 2971
     },
-    "statsClub": "Paris Saint-Germain"
+    "statsClub": "Paris Saint-Germain",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "22",
@@ -3260,7 +3298,9 @@
      "a": 15,
      "min": 3570
     },
-    "statsClub": "Ajax"
+    "statsClub": "Ajax",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "47",
@@ -3276,7 +3316,9 @@
      "a": 2,
      "min": 517
     },
-    "statsClub": "Paris Saint-Germain"
+    "statsClub": "Paris Saint-Germain",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "14",
@@ -3292,7 +3334,9 @@
      "a": 11,
      "min": 2558
     },
-    "statsClub": "Paris Saint-Germain"
+    "statsClub": "Paris Saint-Germain",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "11",
@@ -3308,7 +3352,9 @@
      "a": 11,
      "min": 3425
     },
-    "statsClub": "Monaco"
+    "statsClub": "Monaco",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "49",
@@ -3324,7 +3370,9 @@
      "a": 2,
      "min": 1153
     },
-    "statsClub": "Paris Saint-Germain"
+    "statsClub": "Paris Saint-Germain",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "10",
@@ -3340,7 +3388,9 @@
      "a": 11,
      "min": 2200
     },
-    "statsClub": "Paris Saint-Germain"
+    "statsClub": "Paris Saint-Germain",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "9",
@@ -3356,7 +3406,9 @@
      "a": 3,
      "min": 2693
     },
-    "statsClub": "Barcelone"
+    "statsClub": "Barcelone",
+    "valDelta": 10.0,
+    "valSince": "01/08/2026"
    }
   ],
   "RCL": [
@@ -3374,7 +3426,9 @@
      "a": 1,
      "min": 3420
     },
-    "statsClub": "RC Lens"
+    "statsClub": "RC Lens",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "16",
@@ -3390,7 +3444,9 @@
      "a": 0,
      "min": 90
     },
-    "statsClub": "RC Lens"
+    "statsClub": "RC Lens",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "1",
@@ -3406,7 +3462,9 @@
      "a": 0,
      "min": 90
     },
-    "statsClub": "RC Lens"
+    "statsClub": "RC Lens",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "60",
@@ -3422,7 +3480,9 @@
      "a": 0,
      "min": 0
     },
-    "statsClub": "RC Lens"
+    "statsClub": "RC Lens",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "6",
@@ -3438,7 +3498,9 @@
      "a": 2,
      "min": 2071
     },
-    "statsClub": "RC Lens"
+    "statsClub": "RC Lens",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "25",
@@ -3454,7 +3516,9 @@
      "a": 0,
      "min": 2541
     },
-    "statsClub": "RC Lens"
+    "statsClub": "RC Lens",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "4",
@@ -3470,7 +3534,9 @@
      "a": 0,
      "min": 708
     },
-    "statsClub": "RC Lens"
+    "statsClub": "RC Lens",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "32",
@@ -3486,7 +3552,9 @@
      "a": 1,
      "min": 382
     },
-    "statsClub": "RC Lens"
+    "statsClub": "RC Lens",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "24",
@@ -3502,7 +3570,9 @@
      "a": 0,
      "min": 809
     },
-    "statsClub": "RC Lens"
+    "statsClub": "RC Lens",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "3",
@@ -3512,7 +3582,9 @@
     "age": 25,
     "val": 1.5,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "31",
@@ -3522,7 +3594,9 @@
     "age": 21,
     "val": 0.5,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "14",
@@ -3538,7 +3612,9 @@
      "a": 10,
      "min": 3475
     },
-    "statsClub": "RC Lens"
+    "statsClub": "RC Lens",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -3554,7 +3630,9 @@
      "a": 0,
      "min": 0
     },
-    "statsClub": "RC Lens"
+    "statsClub": "RC Lens",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "23",
@@ -3570,7 +3648,9 @@
      "a": 8,
      "min": 1838
     },
-    "statsClub": "RC Lens"
+    "statsClub": "RC Lens",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "2",
@@ -3586,7 +3666,9 @@
      "a": 2,
      "min": 1778
     },
-    "statsClub": "RC Lens"
+    "statsClub": "RC Lens",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "5",
@@ -3602,7 +3684,9 @@
      "a": 4,
      "min": 936
     },
-    "statsClub": "RC Lens"
+    "statsClub": "RC Lens",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "8",
@@ -3618,7 +3702,9 @@
      "a": 3,
      "min": 3543
     },
-    "statsClub": "R Charleroi SC"
+    "statsClub": "R Charleroi SC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "21",
@@ -3634,7 +3720,9 @@
      "a": 1,
      "min": 325
     },
-    "statsClub": "RC Lens"
+    "statsClub": "RC Lens",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "27",
@@ -3650,7 +3738,9 @@
      "a": 6,
      "min": 2934
     },
-    "statsClub": "Hertha BSC"
+    "statsClub": "Hertha BSC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "38",
@@ -3666,7 +3756,9 @@
      "a": 0,
      "min": 11
     },
-    "statsClub": "RC Lens"
+    "statsClub": "RC Lens",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "9",
@@ -3682,7 +3774,9 @@
      "a": 11,
      "min": 3477
     },
-    "statsClub": "RSC Anderlecht"
+    "statsClub": "RSC Anderlecht",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "19",
@@ -3698,7 +3792,9 @@
      "a": 3,
      "min": 982
     },
-    "statsClub": "RC Lens"
+    "statsClub": "RC Lens",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "22",
@@ -3714,7 +3810,9 @@
      "a": 11,
      "min": 2849
     },
-    "statsClub": "La Gantoise"
+    "statsClub": "La Gantoise",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "10",
@@ -3730,7 +3828,9 @@
      "a": 10,
      "min": 2714
     },
-    "statsClub": "RC Lens"
+    "statsClub": "RC Lens",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "29",
@@ -3746,7 +3846,9 @@
      "a": 3,
      "min": 1436
     },
-    "statsClub": "Benfica"
+    "statsClub": "Benfica",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "11",
@@ -3762,7 +3864,9 @@
      "a": 3,
      "min": 2130
     },
-    "statsClub": "RC Lens"
+    "statsClub": "RC Lens",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "18",
@@ -3778,7 +3882,9 @@
      "a": 1,
      "min": 951
     },
-    "statsClub": "RC Lens"
+    "statsClub": "RC Lens",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "7",
@@ -3794,7 +3900,9 @@
      "a": 1,
      "min": 743
     },
-    "statsClub": "RC Lens"
+    "statsClub": "RC Lens",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    }
   ],
   "LOSC": [
@@ -3812,7 +3920,9 @@
      "a": 1,
      "min": 3945
     },
-    "statsClub": "LOSC Lille"
+    "statsClub": "LOSC Lille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "16",
@@ -3828,7 +3938,9 @@
      "a": 0,
      "min": 405
     },
-    "statsClub": "LOSC Lille"
+    "statsClub": "LOSC Lille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "3",
@@ -3844,7 +3956,9 @@
      "a": 2,
      "min": 3104
     },
-    "statsClub": "LOSC Lille"
+    "statsClub": "LOSC Lille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "4",
@@ -3860,7 +3974,9 @@
      "a": 0,
      "min": 628
     },
-    "statsClub": "LOSC Lille"
+    "statsClub": "LOSC Lille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "26",
@@ -3876,7 +3992,9 @@
      "a": 0,
      "min": 0
     },
-    "statsClub": "LOSC Lille"
+    "statsClub": "LOSC Lille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "23",
@@ -3892,7 +4010,9 @@
      "a": 0,
      "min": 647
     },
-    "statsClub": "Séville FC"
+    "statsClub": "Séville FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "36",
@@ -3908,7 +4028,9 @@
      "a": 0,
      "min": 52
     },
-    "statsClub": "LOSC Lille"
+    "statsClub": "LOSC Lille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "15",
@@ -3924,7 +4046,9 @@
      "a": 5,
      "min": 3006
     },
-    "statsClub": "LOSC Lille"
+    "statsClub": "LOSC Lille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "24",
@@ -3940,7 +4064,9 @@
      "a": 1,
      "min": 1245
     },
-    "statsClub": "LOSC Lille"
+    "statsClub": "LOSC Lille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "22",
@@ -3956,7 +4082,9 @@
      "a": 2,
      "min": 1368
     },
-    "statsClub": "LOSC Lille"
+    "statsClub": "LOSC Lille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "2",
@@ -3972,7 +4100,9 @@
      "a": 1,
      "min": 800
     },
-    "statsClub": "Servette FC"
+    "statsClub": "Servette FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "17",
@@ -3988,7 +4118,9 @@
      "a": 0,
      "min": 2283
     },
-    "statsClub": "LOSC Lille"
+    "statsClub": "LOSC Lille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "6",
@@ -4004,7 +4136,9 @@
      "a": 2,
      "min": 2006
     },
-    "statsClub": "LOSC Lille"
+    "statsClub": "LOSC Lille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "21",
@@ -4020,7 +4154,9 @@
      "a": 3,
      "min": 3126
     },
-    "statsClub": "LOSC Lille"
+    "statsClub": "LOSC Lille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "32",
@@ -4036,7 +4172,9 @@
      "a": 1,
      "min": 3153
     },
-    "statsClub": "LOSC Lille"
+    "statsClub": "LOSC Lille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "10",
@@ -4052,7 +4190,9 @@
      "a": 7,
      "min": 3404
     },
-    "statsClub": "LOSC Lille"
+    "statsClub": "LOSC Lille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "27",
@@ -4068,7 +4208,9 @@
      "a": 6,
      "min": 2952
     },
-    "statsClub": "LOSC Lille"
+    "statsClub": "LOSC Lille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "11",
@@ -4084,7 +4226,9 @@
      "a": 2,
      "min": 809
     },
-    "statsClub": "LOSC Lille"
+    "statsClub": "LOSC Lille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "19",
@@ -4100,7 +4244,9 @@
      "a": 9,
      "min": 2408
     },
-    "statsClub": "NEC Nijmegen"
+    "statsClub": "NEC Nijmegen",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "35",
@@ -4116,7 +4262,9 @@
      "a": 2,
      "min": 261
     },
-    "statsClub": "LOSC Lille"
+    "statsClub": "LOSC Lille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -4126,7 +4274,9 @@
     "age": 22,
     "val": 1.8,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "8",
@@ -4142,7 +4292,9 @@
      "a": 1,
      "min": 709
     },
-    "statsClub": "LOSC Lille"
+    "statsClub": "LOSC Lille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "14",
@@ -4158,7 +4310,9 @@
      "a": 1,
      "min": 462
     },
-    "statsClub": "LOSC Lille"
+    "statsClub": "LOSC Lille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "20",
@@ -4174,7 +4328,9 @@
      "a": 0,
      "min": 127
     },
-    "statsClub": "LOSC Lille"
+    "statsClub": "LOSC Lille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "28",
@@ -4190,7 +4346,9 @@
      "a": 0,
      "min": 519
     },
-    "statsClub": "LOSC Lille"
+    "statsClub": "LOSC Lille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "7",
@@ -4206,7 +4364,9 @@
      "a": 7,
      "min": 3101
     },
-    "statsClub": "LOSC Lille"
+    "statsClub": "LOSC Lille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "29",
@@ -4222,7 +4382,9 @@
      "a": 2,
      "min": 750
     },
-    "statsClub": "LOSC Lille"
+    "statsClub": "LOSC Lille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "35",
@@ -4232,7 +4394,9 @@
     "age": 28,
     "val": 4.5,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "9",
@@ -4248,7 +4412,9 @@
      "a": 1,
      "min": 2432
     },
-    "statsClub": "LOSC Lille"
+    "statsClub": "LOSC Lille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    }
   ],
   "OL": [
@@ -4266,7 +4432,9 @@
      "a": 1,
      "min": 3150
     },
-    "statsClub": "Olympique Lyonnais"
+    "statsClub": "Olympique Lyonnais",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "40",
@@ -4282,7 +4450,9 @@
      "a": 1,
      "min": 1170
     },
-    "statsClub": "Olympique Lyonnais"
+    "statsClub": "Olympique Lyonnais",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "25",
@@ -4292,7 +4462,9 @@
     "age": 21,
     "val": 0.25,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "50",
@@ -4308,7 +4480,9 @@
      "a": 0,
      "min": 0
     },
-    "statsClub": "Olympique Lyonnais"
+    "statsClub": "Olympique Lyonnais",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "19",
@@ -4324,7 +4498,9 @@
      "a": 2,
      "min": 3677
     },
-    "statsClub": "Olympique Lyonnais"
+    "statsClub": "Olympique Lyonnais",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "21",
@@ -4340,7 +4516,9 @@
      "a": 2,
      "min": 1395
     },
-    "statsClub": "Olympique Lyonnais"
+    "statsClub": "Olympique Lyonnais",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "20",
@@ -4356,7 +4534,9 @@
      "a": 0,
      "min": 3150
     },
-    "statsClub": "Estoril"
+    "statsClub": "Estoril",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "85",
@@ -4372,7 +4552,9 @@
      "a": 0,
      "min": 6
     },
-    "statsClub": "Olympique Lyonnais"
+    "statsClub": "Olympique Lyonnais",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -4382,7 +4564,9 @@
     "age": 29,
     "val": 2.8,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "22",
@@ -4398,7 +4582,9 @@
      "a": 1,
      "min": 3832
     },
-    "statsClub": "Olympique Lyonnais"
+    "statsClub": "Olympique Lyonnais",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "16",
@@ -4414,7 +4600,9 @@
      "a": 3,
      "min": 2813
     },
-    "statsClub": "Olympique Lyonnais"
+    "statsClub": "Olympique Lyonnais",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "3",
@@ -4430,7 +4618,9 @@
      "a": 3,
      "min": 2019
     },
-    "statsClub": "Olympique Lyonnais"
+    "statsClub": "Olympique Lyonnais",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "76",
@@ -4446,7 +4636,9 @@
      "a": 3,
      "min": 2990
     },
-    "statsClub": "SCR Altach"
+    "statsClub": "SCR Altach",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "13",
@@ -4462,7 +4654,9 @@
      "a": 2,
      "min": 873
     },
-    "statsClub": "AC Milan"
+    "statsClub": "AC Milan",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "98",
@@ -4478,7 +4672,9 @@
      "a": 4,
      "min": 3291
     },
-    "statsClub": "Olympique Lyonnais"
+    "statsClub": "Olympique Lyonnais",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "37",
@@ -4494,7 +4690,9 @@
      "a": 0,
      "min": 252
     },
-    "statsClub": "Olympique Lyonnais"
+    "statsClub": "Olympique Lyonnais",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "23",
@@ -4510,7 +4708,9 @@
      "a": 3,
      "min": 3491
     },
-    "statsClub": "Olympique Lyonnais"
+    "statsClub": "Olympique Lyonnais",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "6",
@@ -4526,7 +4726,9 @@
      "a": 0,
      "min": 2546
     },
-    "statsClub": "Olympique Lyonnais"
+    "statsClub": "Olympique Lyonnais",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "39",
@@ -4542,7 +4744,9 @@
      "a": 1,
      "min": 887
     },
-    "statsClub": "Olympique Lyonnais"
+    "statsClub": "Olympique Lyonnais",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -4552,7 +4756,9 @@
     "age": 28,
     "val": 0.4,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "18",
@@ -4568,7 +4774,9 @@
      "a": 2,
      "min": 1698
     },
-    "statsClub": "Olympique Lyonnais"
+    "statsClub": "Olympique Lyonnais",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "2",
@@ -4584,7 +4792,9 @@
      "a": 1,
      "min": 3018
     },
-    "statsClub": "RB Salzbourg"
+    "statsClub": "RB Salzbourg",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "8",
@@ -4600,7 +4810,9 @@
      "a": 6,
      "min": 2995
     },
-    "statsClub": "Olympique Lyonnais"
+    "statsClub": "Olympique Lyonnais",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -4610,7 +4822,9 @@
     "age": 21,
     "val": 1.0,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "10",
@@ -4626,7 +4840,9 @@
      "a": 7,
      "min": 2263
     },
-    "statsClub": "Olympique Lyonnais"
+    "statsClub": "Olympique Lyonnais",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "99",
@@ -4642,7 +4858,9 @@
      "a": 0,
      "min": 842
     },
-    "statsClub": "Olympique Lyonnais"
+    "statsClub": "Olympique Lyonnais",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "11",
@@ -4658,7 +4876,9 @@
      "a": 1,
      "min": 921
     },
-    "statsClub": "Olympique Lyonnais"
+    "statsClub": "Olympique Lyonnais",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "45",
@@ -4674,7 +4894,9 @@
      "a": 1,
      "min": 293
     },
-    "statsClub": "Olympique Lyonnais"
+    "statsClub": "Olympique Lyonnais",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "24",
@@ -4690,7 +4912,9 @@
      "a": 0,
      "min": 0
     },
-    "statsClub": "Dortmund"
+    "statsClub": "Dortmund",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "7",
@@ -4706,7 +4930,9 @@
      "a": 0,
      "min": 32
     },
-    "statsClub": "Olympique Lyonnais"
+    "statsClub": "Olympique Lyonnais",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "26",
@@ -4722,7 +4948,9 @@
      "a": 0,
      "min": 764
     },
-    "statsClub": "OGC Nice"
+    "statsClub": "OGC Nice",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "17",
@@ -4738,7 +4966,9 @@
      "a": 0,
      "min": 997
     },
-    "statsClub": "Juventus"
+    "statsClub": "Juventus",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "32",
@@ -4754,7 +4984,9 @@
      "a": 0,
      "min": 41
     },
-    "statsClub": "Olympique Lyonnais"
+    "statsClub": "Olympique Lyonnais",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    }
   ],
   "OM": [
@@ -4772,7 +5004,9 @@
      "a": 0,
      "min": 720
     },
-    "statsClub": "Olympique de Marseille"
+    "statsClub": "Olympique de Marseille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "40",
@@ -4788,7 +5022,9 @@
      "a": 0,
      "min": 0
     },
-    "statsClub": "Olympique de Marseille"
+    "statsClub": "Olympique de Marseille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "92",
@@ -4804,7 +5040,9 @@
      "a": 0,
      "min": 0
     },
-    "statsClub": "Olympique de Marseille"
+    "statsClub": "Olympique de Marseille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "5",
@@ -4820,7 +5058,9 @@
      "a": 1,
      "min": 2853
     },
-    "statsClub": "Olympique de Marseille"
+    "statsClub": "Olympique de Marseille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "21",
@@ -4836,7 +5076,9 @@
      "a": 0,
      "min": 1939
     },
-    "statsClub": "Olympique de Marseille"
+    "statsClub": "Olympique de Marseille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "4",
@@ -4852,7 +5094,9 @@
      "a": 0,
      "min": 821
     },
-    "statsClub": "Olympique de Marseille"
+    "statsClub": "Olympique de Marseille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "18",
@@ -4862,7 +5106,9 @@
     "age": 24,
     "val": 7.0,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "13",
@@ -4878,7 +5124,9 @@
      "a": 0,
      "min": 57
     },
-    "statsClub": "Olympique de Marseille"
+    "statsClub": "Olympique de Marseille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "33",
@@ -4894,7 +5142,9 @@
      "a": 3,
      "min": 2813
     },
-    "statsClub": "Olympique de Marseille"
+    "statsClub": "Olympique de Marseille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "25",
@@ -4910,7 +5160,9 @@
      "a": 0,
      "min": 325
     },
-    "statsClub": "Olympique de Marseille"
+    "statsClub": "Olympique de Marseille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "23",
@@ -4926,7 +5178,9 @@
      "a": 5,
      "min": 3643
     },
-    "statsClub": "Olympique de Marseille"
+    "statsClub": "Olympique de Marseille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "6",
@@ -4942,7 +5196,9 @@
      "a": 1,
      "min": 353
     },
-    "statsClub": "Olympique de Marseille"
+    "statsClub": "Olympique de Marseille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "19",
@@ -4958,7 +5214,9 @@
      "a": 1,
      "min": 1016
     },
-    "statsClub": "Olympique de Marseille"
+    "statsClub": "Olympique de Marseille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "27",
@@ -4974,7 +5232,9 @@
      "a": 0,
      "min": 1182
     },
-    "statsClub": "Olympique de Marseille"
+    "statsClub": "Olympique de Marseille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "22",
@@ -4990,7 +5250,9 @@
      "a": 4,
      "min": 3139
     },
-    "statsClub": "Olympique de Marseille"
+    "statsClub": "Olympique de Marseille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "7",
@@ -5006,7 +5268,9 @@
      "a": 1,
      "min": 1086
     },
-    "statsClub": "Olympique de Marseille"
+    "statsClub": "Olympique de Marseille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "8",
@@ -5022,7 +5286,9 @@
      "a": 0,
      "min": 178
     },
-    "statsClub": "Olympique de Marseille"
+    "statsClub": "Olympique de Marseille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "14",
@@ -5038,7 +5304,9 @@
      "a": 7,
      "min": 2781
     },
-    "statsClub": "Olympique de Marseille"
+    "statsClub": "Olympique de Marseille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "77",
@@ -5054,7 +5322,9 @@
      "a": 0,
      "min": 0
     },
-    "statsClub": "Olympique de Marseille"
+    "statsClub": "Olympique de Marseille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "43",
@@ -5070,7 +5340,9 @@
      "a": 1,
      "min": 90
     },
-    "statsClub": "Olympique de Marseille"
+    "statsClub": "Olympique de Marseille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "48",
@@ -5086,7 +5358,9 @@
      "a": 0,
      "min": 0
     },
-    "statsClub": "Olympique de Marseille"
+    "statsClub": "Olympique de Marseille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "9",
@@ -5102,7 +5376,9 @@
      "a": 5,
      "min": 1705
     },
-    "statsClub": "Olympique de Marseille"
+    "statsClub": "Olympique de Marseille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "11",
@@ -5118,7 +5394,9 @@
      "a": 0,
      "min": 92
     },
-    "statsClub": "Olympique de Marseille"
+    "statsClub": "Olympique de Marseille",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "29",
@@ -5128,7 +5406,9 @@
     "age": 26,
     "val": 3.5,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    }
   ],
   "SRFC": [
@@ -5146,7 +5426,9 @@
      "a": 0,
      "min": 3060
     },
-    "statsClub": "Stade Rennais FC"
+    "statsClub": "Stade Rennais FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "16",
@@ -5162,7 +5444,9 @@
      "a": 0,
      "min": 848
     },
-    "statsClub": "Troyes"
+    "statsClub": "Troyes",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "60",
@@ -5178,7 +5462,9 @@
      "a": 0,
      "min": 0
     },
-    "statsClub": "Stade Rennais FC"
+    "statsClub": "Stade Rennais FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "4",
@@ -5194,7 +5480,9 @@
      "a": 3,
      "min": 2778
     },
-    "statsClub": "Toulouse"
+    "statsClub": "Toulouse",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "3",
@@ -5210,7 +5498,9 @@
      "a": 1,
      "min": 2369
     },
-    "statsClub": "Stade Rennais FC"
+    "statsClub": "Stade Rennais FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "24",
@@ -5226,7 +5516,9 @@
      "a": 1,
      "min": 1993
     },
-    "statsClub": "Stade Rennais FC"
+    "statsClub": "Stade Rennais FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "48",
@@ -5242,7 +5534,9 @@
      "a": 1,
      "min": 1481
     },
-    "statsClub": "Stade Rennais FC"
+    "statsClub": "Stade Rennais FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "36",
@@ -5258,7 +5552,9 @@
      "a": 1,
      "min": 1407
     },
-    "statsClub": "Stade Rennais FC"
+    "statsClub": "Stade Rennais FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "5",
@@ -5274,7 +5570,9 @@
      "a": 1,
      "min": 2131
     },
-    "statsClub": "Benfica B"
+    "statsClub": "Benfica B",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "64",
@@ -5284,7 +5582,9 @@
     "age": 20,
     "val": 0.3,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "26",
@@ -5300,7 +5600,9 @@
      "a": 7,
      "min": 2791
     },
-    "statsClub": "Stade Rennais FC"
+    "statsClub": "Stade Rennais FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "18",
@@ -5316,7 +5618,9 @@
      "a": 0,
      "min": 857
     },
-    "statsClub": "Stade Rennais FC"
+    "statsClub": "Stade Rennais FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "95",
@@ -5332,7 +5636,9 @@
      "a": 2,
      "min": 1217
     },
-    "statsClub": "Stade Rennais FC"
+    "statsClub": "Stade Rennais FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "14",
@@ -5348,7 +5654,9 @@
      "a": 4,
      "min": 3584
     },
-    "statsClub": "KVC Westerlo"
+    "statsClub": "KVC Westerlo",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -5364,7 +5672,9 @@
      "a": 0,
      "min": 0
     },
-    "statsClub": "Stade Rennais FC"
+    "statsClub": "Stade Rennais FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "45",
@@ -5380,7 +5690,9 @@
      "a": 2,
      "min": 2931
     },
-    "statsClub": "Stade Rennais FC"
+    "statsClub": "Stade Rennais FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "6",
@@ -5396,7 +5708,9 @@
      "a": 0,
      "min": 987
     },
-    "statsClub": "Stade Rennais FC"
+    "statsClub": "Stade Rennais FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -5412,7 +5726,9 @@
      "a": 0,
      "min": 654
     },
-    "statsClub": "Stade Rennais FC"
+    "statsClub": "Stade Rennais FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "21",
@@ -5428,7 +5744,9 @@
      "a": 5,
      "min": 2925
     },
-    "statsClub": "Stade Rennais FC"
+    "statsClub": "Stade Rennais FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "28",
@@ -5444,7 +5762,9 @@
      "a": 10,
      "min": 3051
     },
-    "statsClub": "RC Lens"
+    "statsClub": "RC Lens",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "10",
@@ -5460,7 +5780,9 @@
      "a": 5,
      "min": 1749
     },
-    "statsClub": "Stade Rennais FC"
+    "statsClub": "Stade Rennais FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "17",
@@ -5476,7 +5798,9 @@
      "a": 3,
      "min": 867
     },
-    "statsClub": "Stade Rennais FC"
+    "statsClub": "Stade Rennais FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -5486,7 +5810,9 @@
     "age": 21,
     "val": 0.8,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "90",
@@ -5502,7 +5828,9 @@
      "a": 5,
      "min": 3039
     },
-    "statsClub": "Le Havre AC"
+    "statsClub": "Le Havre AC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "11",
@@ -5518,7 +5846,9 @@
      "a": 11,
      "min": 2493
     },
-    "statsClub": "Stade Rennais FC"
+    "statsClub": "Stade Rennais FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "70",
@@ -5534,7 +5864,9 @@
      "a": 2,
      "min": 574
     },
-    "statsClub": "Stade Rennais FC"
+    "statsClub": "Stade Rennais FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "35",
@@ -5550,7 +5882,9 @@
      "a": 0,
      "min": 72
     },
-    "statsClub": "Stade Rennais FC"
+    "statsClub": "Stade Rennais FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "9",
@@ -5566,7 +5900,9 @@
      "a": 5,
      "min": 2710
     },
-    "statsClub": "Stade Rennais FC"
+    "statsClub": "Stade Rennais FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "12",
@@ -5582,7 +5918,9 @@
      "a": 1,
      "min": 943
     },
-    "statsClub": "AFC Sunderland"
+    "statsClub": "AFC Sunderland",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "7",
@@ -5598,7 +5936,9 @@
      "a": 3,
      "min": 2043
     },
-    "statsClub": "Stade Rennais FC"
+    "statsClub": "Stade Rennais FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    }
   ],
   "ASM": [
@@ -5616,7 +5956,9 @@
      "a": 0,
      "min": 2519
     },
-    "statsClub": "AS Monaco"
+    "statsClub": "AS Monaco",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "1",
@@ -5632,7 +5974,9 @@
      "a": 0,
      "min": 1711
     },
-    "statsClub": "AS Monaco"
+    "statsClub": "AS Monaco",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "50",
@@ -5648,7 +5992,9 @@
      "a": 0,
      "min": 0
     },
-    "statsClub": "AS Monaco"
+    "statsClub": "AS Monaco",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "13",
@@ -5664,7 +6010,9 @@
      "a": 0,
      "min": 1370
     },
-    "statsClub": "AS Monaco"
+    "statsClub": "AS Monaco",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "5",
@@ -5680,7 +6028,9 @@
      "a": 0,
      "min": 3316
     },
-    "statsClub": "AS Monaco"
+    "statsClub": "AS Monaco",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "22",
@@ -5696,7 +6046,9 @@
      "a": 0,
      "min": 1613
     },
-    "statsClub": "AS Monaco"
+    "statsClub": "AS Monaco",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "72",
@@ -5712,7 +6064,9 @@
      "a": 1,
      "min": 2031
     },
-    "statsClub": "FC Metz"
+    "statsClub": "FC Metz",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "3",
@@ -5728,7 +6082,9 @@
      "a": 0,
      "min": 1047
     },
-    "statsClub": "AS Monaco"
+    "statsClub": "AS Monaco",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "20",
@@ -5744,7 +6100,9 @@
      "a": 8,
      "min": 2710
     },
-    "statsClub": "Cercle Brugge"
+    "statsClub": "Cercle Brugge",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "2",
@@ -5760,7 +6118,9 @@
      "a": 2,
      "min": 1293
     },
-    "statsClub": "AS Monaco"
+    "statsClub": "AS Monaco",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "4",
@@ -5776,7 +6136,9 @@
      "a": 2,
      "min": 3330
     },
-    "statsClub": "AS Monaco"
+    "statsClub": "AS Monaco",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "6",
@@ -5792,7 +6154,9 @@
      "a": 3,
      "min": 2811
     },
-    "statsClub": "AS Monaco"
+    "statsClub": "AS Monaco",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "15",
@@ -5808,7 +6172,9 @@
      "a": 4,
      "min": 2457
     },
-    "statsClub": "AS Monaco"
+    "statsClub": "AS Monaco",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "28",
@@ -5824,7 +6190,9 @@
      "a": 6,
      "min": 2036
     },
-    "statsClub": "AS Monaco"
+    "statsClub": "AS Monaco",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "37",
@@ -5834,7 +6202,9 @@
     "age": 21,
     "val": 3.0,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "8",
@@ -5850,7 +6220,9 @@
      "a": 0,
      "min": 115
     },
-    "statsClub": "AS Monaco"
+    "statsClub": "AS Monaco",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "19",
@@ -5866,7 +6238,9 @@
      "a": 0,
      "min": 107
     },
-    "statsClub": "AS Monaco"
+    "statsClub": "AS Monaco",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "10",
@@ -5882,7 +6256,9 @@
      "a": 6,
      "min": 2352
     },
-    "statsClub": "AS Monaco"
+    "statsClub": "AS Monaco",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "17",
@@ -5898,7 +6274,9 @@
      "a": 1,
      "min": 275
     },
-    "statsClub": "AS Monaco"
+    "statsClub": "AS Monaco",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "7",
@@ -5908,7 +6286,9 @@
     "age": 19,
     "val": 15.0,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "31",
@@ -5924,7 +6304,9 @@
      "a": 0,
      "min": 1320
     },
-    "statsClub": "AS Monaco"
+    "statsClub": "AS Monaco",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "18",
@@ -5940,7 +6322,9 @@
      "a": 3,
      "min": 1312
     },
-    "statsClub": "AS Monaco"
+    "statsClub": "AS Monaco",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "9",
@@ -5956,7 +6340,9 @@
      "a": 5,
      "min": 3253
     },
-    "statsClub": "AS Monaco"
+    "statsClub": "AS Monaco",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "39",
@@ -5972,7 +6358,9 @@
      "a": 7,
      "min": 2620
     },
-    "statsClub": "FC Nantes"
+    "statsClub": "FC Nantes",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "14",
@@ -5988,7 +6376,9 @@
      "a": 2,
      "min": 1420
     },
-    "statsClub": "AS Monaco"
+    "statsClub": "AS Monaco",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "29",
@@ -6004,7 +6394,9 @@
      "a": 0,
      "min": 127
     },
-    "statsClub": "AS Monaco"
+    "statsClub": "AS Monaco",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    }
   ],
   "RCSA": [
@@ -6022,7 +6414,9 @@
      "a": 0,
      "min": 963
     },
-    "statsClub": "Chelsea"
+    "statsClub": "Chelsea",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "12",
@@ -6038,7 +6432,9 @@
      "a": 0,
      "min": 720
     },
-    "statsClub": "Jagiellonia"
+    "statsClub": "Jagiellonia",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "6",
@@ -6054,7 +6450,9 @@
      "a": 2,
      "min": 3459
     },
-    "statsClub": "RC Strasbourg"
+    "statsClub": "RC Strasbourg",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "24",
@@ -6070,7 +6468,9 @@
      "a": 0,
      "min": 2978
     },
-    "statsClub": "RC Strasbourg"
+    "statsClub": "RC Strasbourg",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "2",
@@ -6086,7 +6486,9 @@
      "a": 0,
      "min": 2522
     },
-    "statsClub": "RC Strasbourg"
+    "statsClub": "RC Strasbourg",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -6102,7 +6504,9 @@
      "a": 0,
      "min": 3
     },
-    "statsClub": "RC Strasbourg"
+    "statsClub": "RC Strasbourg",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -6118,7 +6522,9 @@
      "a": 0,
      "min": 46
     },
-    "statsClub": "RC Strasbourg"
+    "statsClub": "RC Strasbourg",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -6128,7 +6534,9 @@
     "age": 18,
     "val": 0.0,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "3",
@@ -6144,7 +6552,9 @@
      "a": 3,
      "min": 2602
     },
-    "statsClub": "RC Strasbourg"
+    "statsClub": "RC Strasbourg",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "15",
@@ -6160,7 +6570,9 @@
      "a": 2,
      "min": 1757
     },
-    "statsClub": "Unión Santa Fe"
+    "statsClub": "Unión Santa Fe",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "22",
@@ -6176,7 +6588,9 @@
      "a": 7,
      "min": 2820
     },
-    "statsClub": "RC Strasbourg"
+    "statsClub": "RC Strasbourg",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "42",
@@ -6192,7 +6606,9 @@
      "a": 1,
      "min": 2820
     },
-    "statsClub": "RC Strasbourg"
+    "statsClub": "RC Strasbourg",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -6202,7 +6618,9 @@
     "age": 19,
     "val": 0.35,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "23",
@@ -6218,7 +6636,9 @@
      "a": 1,
      "min": 1429
     },
-    "statsClub": "Vit. Guimarães"
+    "statsClub": "Vit. Guimarães",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "8",
@@ -6234,7 +6654,9 @@
      "a": 0,
      "min": 626
     },
-    "statsClub": "RC Strasbourg"
+    "statsClub": "RC Strasbourg",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -6244,7 +6666,9 @@
     "age": 20,
     "val": 2.5,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "29",
@@ -6260,7 +6684,9 @@
      "a": 3,
      "min": 3228
     },
-    "statsClub": "RC Strasbourg"
+    "statsClub": "RC Strasbourg",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "17",
@@ -6276,7 +6702,9 @@
      "a": 0,
      "min": 794
     },
-    "statsClub": "RC Strasbourg"
+    "statsClub": "RC Strasbourg",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "21",
@@ -6286,7 +6714,9 @@
     "age": 22,
     "val": 9.0,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "7",
@@ -6302,7 +6732,9 @@
      "a": 9,
      "min": 2932
     },
-    "statsClub": "RC Strasbourg"
+    "statsClub": "RC Strasbourg",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "19",
@@ -6318,7 +6750,9 @@
      "a": 9,
      "min": 2967
     },
-    "statsClub": "RC Strasbourg"
+    "statsClub": "RC Strasbourg",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "13",
@@ -6334,7 +6768,9 @@
      "a": 1,
      "min": 577
     },
-    "statsClub": "Bor. M'gladbach"
+    "statsClub": "Bor. M'gladbach",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -6350,7 +6786,9 @@
      "a": 0,
      "min": 437
     },
-    "statsClub": "IFK Göteborg"
+    "statsClub": "IFK Göteborg",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "20",
@@ -6366,7 +6804,9 @@
      "a": 6,
      "min": 2795
     },
-    "statsClub": "RC Strasbourg"
+    "statsClub": "RC Strasbourg",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "11",
@@ -6382,7 +6822,9 @@
      "a": 5,
      "min": 1754
     },
-    "statsClub": "RC Strasbourg"
+    "statsClub": "RC Strasbourg",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -6398,7 +6840,9 @@
      "a": 1,
      "min": 515
     },
-    "statsClub": "Hambourg"
+    "statsClub": "Hambourg",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "80",
@@ -6414,7 +6858,9 @@
      "a": 2,
      "min": 800
     },
-    "statsClub": "RC Strasbourg"
+    "statsClub": "RC Strasbourg",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "27",
@@ -6430,7 +6876,9 @@
      "a": 4,
      "min": 1732
     },
-    "statsClub": "RC Strasbourg"
+    "statsClub": "RC Strasbourg",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "34",
@@ -6446,7 +6894,9 @@
      "a": 1,
      "min": 155
     },
-    "statsClub": "RC Strasbourg"
+    "statsClub": "RC Strasbourg",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "9",
@@ -6462,7 +6912,9 @@
      "a": 4,
      "min": 2932
     },
-    "statsClub": "RC Strasbourg"
+    "statsClub": "RC Strasbourg",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -6478,7 +6930,9 @@
      "a": 0,
      "min": 0
     },
-    "statsClub": "RC Strasbourg"
+    "statsClub": "RC Strasbourg",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -6488,7 +6942,9 @@
     "age": 20,
     "val": 3.5,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    }
   ],
   "FCL": [
@@ -6506,7 +6962,9 @@
      "a": 0,
      "min": 2790
     },
-    "statsClub": "FC Lorient"
+    "statsClub": "FC Lorient",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "21",
@@ -6522,7 +6980,9 @@
      "a": 0,
      "min": 630
     },
-    "statsClub": "FC Lorient"
+    "statsClub": "FC Lorient",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "1",
@@ -6538,7 +6998,9 @@
      "a": 0,
      "min": 0
     },
-    "statsClub": "FC Lorient"
+    "statsClub": "FC Lorient",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "3",
@@ -6554,7 +7016,9 @@
      "a": 1,
      "min": 2790
     },
-    "statsClub": "FC Lorient"
+    "statsClub": "FC Lorient",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -6570,7 +7034,9 @@
      "a": 0,
      "min": 135
     },
-    "statsClub": "FC Lorient"
+    "statsClub": "FC Lorient",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "32",
@@ -6586,7 +7052,9 @@
      "a": 0,
      "min": 1103
     },
-    "statsClub": "FC Lorient"
+    "statsClub": "FC Lorient",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "95",
@@ -6602,7 +7070,9 @@
      "a": 0,
      "min": 28
     },
-    "statsClub": "FC Lorient"
+    "statsClub": "FC Lorient",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -6612,7 +7082,9 @@
     "age": 20,
     "val": 0.3,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "43",
@@ -6628,7 +7100,9 @@
      "a": 8,
      "min": 2770
     },
-    "statsClub": "FC Lorient"
+    "statsClub": "FC Lorient",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -6638,7 +7112,9 @@
     "age": 23,
     "val": 1.5,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "2",
@@ -6654,7 +7130,9 @@
      "a": 2,
      "min": 2806
     },
-    "statsClub": "USL Dunkerque"
+    "statsClub": "USL Dunkerque",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "62",
@@ -6670,7 +7148,9 @@
      "a": 1,
      "min": 2295
     },
-    "statsClub": "FC Lorient"
+    "statsClub": "FC Lorient",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "8",
@@ -6686,7 +7166,9 @@
      "a": 2,
      "min": 2071
     },
-    "statsClub": "FC Lorient"
+    "statsClub": "FC Lorient",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "72",
@@ -6696,7 +7178,9 @@
     "age": 21,
     "val": 2.0,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "11",
@@ -6712,7 +7196,9 @@
      "a": 3,
      "min": 2151
     },
-    "statsClub": "FC Lorient"
+    "statsClub": "FC Lorient",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "77",
@@ -6728,7 +7214,9 @@
      "a": 2,
      "min": 777
     },
-    "statsClub": "FC Lorient"
+    "statsClub": "FC Lorient",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -6744,7 +7232,9 @@
      "a": 2,
      "min": 736
     },
-    "statsClub": "FC Lorient"
+    "statsClub": "FC Lorient",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "17",
@@ -6760,7 +7250,9 @@
      "a": 2,
      "min": 2059
     },
-    "statsClub": "FC Lorient"
+    "statsClub": "FC Lorient",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "33",
@@ -6776,7 +7268,9 @@
      "a": 0,
      "min": 216
     },
-    "statsClub": "OGC Nice"
+    "statsClub": "OGC Nice",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "7",
@@ -6792,7 +7286,9 @@
      "a": 0,
      "min": 51
     },
-    "statsClub": "FC Lorient"
+    "statsClub": "FC Lorient",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -6802,7 +7298,9 @@
     "age": 21,
     "val": 0.7,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "19",
@@ -6818,7 +7316,9 @@
      "a": 1,
      "min": 160
     },
-    "statsClub": "Sporting"
+    "statsClub": "Sporting",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "9",
@@ -6834,7 +7334,9 @@
      "a": 2,
      "min": 752
     },
-    "statsClub": "FC Lorient"
+    "statsClub": "FC Lorient",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "15",
@@ -6850,7 +7352,9 @@
      "a": 0,
      "min": 1090
     },
-    "statsClub": "FC Lorient"
+    "statsClub": "FC Lorient",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    }
   ],
   "TFC": [
@@ -6868,7 +7372,9 @@
      "a": 0,
      "min": 2940
     },
-    "statsClub": "Toulouse FC"
+    "statsClub": "Toulouse FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -6878,7 +7384,9 @@
     "age": 19,
     "val": 2.5,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "3",
@@ -6894,7 +7402,9 @@
      "a": 2,
      "min": 2765
     },
-    "statsClub": "Toulouse FC"
+    "statsClub": "Toulouse FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "2",
@@ -6910,7 +7420,9 @@
      "a": 1,
      "min": 2838
     },
-    "statsClub": "Toulouse FC"
+    "statsClub": "Toulouse FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "35",
@@ -6926,7 +7438,9 @@
      "a": 0,
      "min": 787
     },
-    "statsClub": "Toulouse FC"
+    "statsClub": "Toulouse FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "24",
@@ -6942,7 +7456,9 @@
      "a": 2,
      "min": 2078
     },
-    "statsClub": "Toulouse FC"
+    "statsClub": "Toulouse FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "12",
@@ -6958,7 +7474,9 @@
      "a": 1,
      "min": 2424
     },
-    "statsClub": "AC Horsens"
+    "statsClub": "AC Horsens",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -6968,7 +7486,9 @@
     "age": 21,
     "val": 0.25,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "22",
@@ -6984,7 +7504,9 @@
      "a": 0,
      "min": 667
     },
-    "statsClub": "Toulouse FC"
+    "statsClub": "Toulouse FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "94",
@@ -7000,7 +7522,9 @@
      "a": 4,
      "min": 2037
     },
-    "statsClub": "Dijon"
+    "statsClub": "Dijon",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "45",
@@ -7016,7 +7540,9 @@
      "a": 1,
      "min": 1209
     },
-    "statsClub": "Toulouse FC"
+    "statsClub": "Toulouse FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "23",
@@ -7032,7 +7558,9 @@
      "a": 5,
      "min": 2854
     },
-    "statsClub": "Toulouse FC"
+    "statsClub": "Toulouse FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "17",
@@ -7048,7 +7576,9 @@
      "a": 0,
      "min": 532
     },
-    "statsClub": "Toulouse FC"
+    "statsClub": "Toulouse FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -7064,7 +7594,9 @@
      "a": 0,
      "min": 19
     },
-    "statsClub": "Toulouse FC"
+    "statsClub": "Toulouse FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "77",
@@ -7080,7 +7612,9 @@
      "a": 0,
      "min": 897
     },
-    "statsClub": "Toulouse FC"
+    "statsClub": "Toulouse FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "15",
@@ -7096,7 +7630,9 @@
      "a": 5,
      "min": 2784
     },
-    "statsClub": "Toulouse FC"
+    "statsClub": "Toulouse FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -7112,7 +7648,9 @@
      "a": 0,
      "min": 7
     },
-    "statsClub": "Toulouse FC"
+    "statsClub": "Toulouse FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "10",
@@ -7128,7 +7666,9 @@
      "a": 3,
      "min": 2970
     },
-    "statsClub": "Toulouse FC"
+    "statsClub": "Toulouse FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -7144,7 +7684,9 @@
      "a": 1,
      "min": 1030
     },
-    "statsClub": "Brommapojkarna"
+    "statsClub": "Brommapojkarna",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "9",
@@ -7160,7 +7702,9 @@
      "a": 6,
      "min": 1531
     },
-    "statsClub": "Toulouse FC"
+    "statsClub": "Toulouse FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "13",
@@ -7176,7 +7720,9 @@
      "a": 0,
      "min": 502
     },
-    "statsClub": "Toulouse FC"
+    "statsClub": "Toulouse FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "7",
@@ -7192,7 +7738,9 @@
      "a": 0,
      "min": 311
     },
-    "statsClub": "Toulouse FC"
+    "statsClub": "Toulouse FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "21",
@@ -7208,7 +7756,9 @@
      "a": 0,
      "min": 5
     },
-    "statsClub": "Toulouse FC"
+    "statsClub": "Toulouse FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    }
   ],
   "PFC": [
@@ -7226,7 +7776,9 @@
      "a": 0,
      "min": 1350
     },
-    "statsClub": "Paris FC"
+    "statsClub": "Paris FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "35",
@@ -7242,7 +7794,9 @@
      "a": 0,
      "min": 1980
     },
-    "statsClub": "Paris FC"
+    "statsClub": "Paris FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -7258,7 +7812,9 @@
      "a": 2,
      "min": 1260
     },
-    "statsClub": "Paris FC"
+    "statsClub": "Paris FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "6",
@@ -7274,7 +7830,9 @@
      "a": 0,
      "min": 1994
     },
-    "statsClub": "Paris FC"
+    "statsClub": "Paris FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "5",
@@ -7290,7 +7848,9 @@
      "a": 1,
      "min": 2986
     },
-    "statsClub": "Paris FC"
+    "statsClub": "Paris FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "31",
@@ -7306,7 +7866,9 @@
      "a": 0,
      "min": 1155
     },
-    "statsClub": "Paris FC"
+    "statsClub": "Paris FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -7322,7 +7884,9 @@
      "a": 0,
      "min": 0
     },
-    "statsClub": "Paris FC"
+    "statsClub": "Paris FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "19",
@@ -7338,7 +7902,9 @@
      "a": 0,
      "min": 2004
     },
-    "statsClub": "Paris FC"
+    "statsClub": "Paris FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "28",
@@ -7354,7 +7920,9 @@
      "a": 1,
      "min": 1283
     },
-    "statsClub": "Paris FC"
+    "statsClub": "Paris FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "2",
@@ -7370,7 +7938,9 @@
      "a": 0,
      "min": 440
     },
-    "statsClub": "Paris FC"
+    "statsClub": "Paris FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -7380,7 +7950,9 @@
     "age": 18,
     "val": 0.0,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "14",
@@ -7396,7 +7968,9 @@
      "a": 1,
      "min": 1154
     },
-    "statsClub": "Paris FC"
+    "statsClub": "Paris FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "21",
@@ -7412,7 +7986,9 @@
      "a": 3,
      "min": 2050
     },
-    "statsClub": "Paris FC"
+    "statsClub": "Paris FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "33",
@@ -7428,7 +8004,9 @@
      "a": 3,
      "min": 1786
     },
-    "statsClub": "Paris FC"
+    "statsClub": "Paris FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "17",
@@ -7444,7 +8022,9 @@
      "a": 0,
      "min": 2363
     },
-    "statsClub": "Paris FC"
+    "statsClub": "Paris FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -7460,7 +8040,9 @@
      "a": 5,
      "min": 1893
     },
-    "statsClub": "Stade de Reims"
+    "statsClub": "Stade de Reims",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "23",
@@ -7476,7 +8058,9 @@
      "a": 0,
      "min": 777
     },
-    "statsClub": "Paris FC"
+    "statsClub": "Paris FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "4",
@@ -7492,7 +8076,9 @@
      "a": 1,
      "min": 960
     },
-    "statsClub": "Paris FC"
+    "statsClub": "Paris FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -7508,7 +8094,9 @@
      "a": 5,
      "min": 1949
     },
-    "statsClub": "FC Lorient"
+    "statsClub": "FC Lorient",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "27",
@@ -7524,7 +8112,9 @@
      "a": 3,
      "min": 2021
     },
-    "statsClub": "Paris FC"
+    "statsClub": "Paris FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "10",
@@ -7540,7 +8130,9 @@
      "a": 5,
      "min": 2309
     },
-    "statsClub": "Paris FC"
+    "statsClub": "Paris FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -7556,7 +8148,9 @@
      "a": 1,
      "min": 630
     },
-    "statsClub": "Paris FC"
+    "statsClub": "Paris FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "93",
@@ -7572,7 +8166,9 @@
      "a": 1,
      "min": 1315
     },
-    "statsClub": "Paris FC"
+    "statsClub": "Paris FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -7588,7 +8184,9 @@
      "a": 4,
      "min": 2781
     },
-    "statsClub": "AJ Auxerre"
+    "statsClub": "AJ Auxerre",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "11",
@@ -7604,7 +8202,9 @@
      "a": 2,
      "min": 1105
     },
-    "statsClub": "Paris FC"
+    "statsClub": "Paris FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -7614,7 +8214,9 @@
     "age": 19,
     "val": 1.0,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    }
   ],
   "SB29": [
@@ -7632,7 +8234,9 @@
      "a": 0,
      "min": 2281
     },
-    "statsClub": "Stade Brestois 29"
+    "statsClub": "Stade Brestois 29",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -7648,7 +8252,9 @@
      "a": 0,
      "min": 3645
     },
-    "statsClub": "Watford"
+    "statsClub": "Watford",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "16",
@@ -7658,7 +8264,9 @@
     "age": 19,
     "val": 0.0,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "5",
@@ -7674,7 +8282,9 @@
      "a": 4,
      "min": 2614
     },
-    "statsClub": "Stade Brestois 29"
+    "statsClub": "Stade Brestois 29",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "4",
@@ -7690,7 +8300,9 @@
      "a": 1,
      "min": 2445
     },
-    "statsClub": "Le Havre AC"
+    "statsClub": "Le Havre AC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "71",
@@ -7706,7 +8318,9 @@
      "a": 0,
      "min": 373
     },
-    "statsClub": "Stade Brestois 29"
+    "statsClub": "Stade Brestois 29",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "2",
@@ -7722,7 +8336,9 @@
      "a": 2,
      "min": 1370
     },
-    "statsClub": "Stade Brestois 29"
+    "statsClub": "Stade Brestois 29",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -7738,7 +8354,9 @@
      "a": 0,
      "min": 38
     },
-    "statsClub": "Stade Brestois 29"
+    "statsClub": "Stade Brestois 29",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "77",
@@ -7754,7 +8372,9 @@
      "a": 3,
      "min": 2820
     },
-    "statsClub": "Stade Brestois 29"
+    "statsClub": "Stade Brestois 29",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "12",
@@ -7770,7 +8390,9 @@
      "a": 0,
      "min": 347
     },
-    "statsClub": "Stade Brestois 29"
+    "statsClub": "Stade Brestois 29",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "13",
@@ -7786,7 +8408,9 @@
      "a": 1,
      "min": 2804
     },
-    "statsClub": "Stade Brestois 29"
+    "statsClub": "Stade Brestois 29",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "6",
@@ -7802,7 +8426,9 @@
      "a": 0,
      "min": 774
     },
-    "statsClub": "RB Salzbourg"
+    "statsClub": "RB Salzbourg",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "33",
@@ -7818,7 +8444,9 @@
      "a": 0,
      "min": 392
     },
-    "statsClub": "Stade Brestois 29"
+    "statsClub": "Stade Brestois 29",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "8",
@@ -7834,7 +8462,9 @@
      "a": 2,
      "min": 2697
     },
-    "statsClub": "Stade Brestois 29"
+    "statsClub": "Stade Brestois 29",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "7",
@@ -7850,7 +8480,9 @@
      "a": 0,
      "min": 1469
     },
-    "statsClub": "Kocaelispor"
+    "statsClub": "Kocaelispor",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "24",
@@ -7866,7 +8498,9 @@
      "a": 1,
      "min": 917
     },
-    "statsClub": "Stade Brestois 29"
+    "statsClub": "Stade Brestois 29",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "23",
@@ -7882,7 +8516,9 @@
      "a": 4,
      "min": 1766
     },
-    "statsClub": "Stade Brestois 29"
+    "statsClub": "Stade Brestois 29",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "99",
@@ -7898,7 +8534,9 @@
      "a": 0,
      "min": 1048
     },
-    "statsClub": "Stade Brestois 29"
+    "statsClub": "Stade Brestois 29",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "10",
@@ -7914,7 +8552,9 @@
      "a": 4,
      "min": 2736
     },
-    "statsClub": "Stade Brestois 29"
+    "statsClub": "Stade Brestois 29",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -7930,7 +8570,9 @@
      "a": 0,
      "min": 11
     },
-    "statsClub": "Stade Brestois 29"
+    "statsClub": "Stade Brestois 29",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "17",
@@ -7946,7 +8588,9 @@
      "a": 2,
      "min": 802
     },
-    "statsClub": "Stade Brestois 29"
+    "statsClub": "Stade Brestois 29",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "19",
@@ -7962,7 +8606,9 @@
      "a": 10,
      "min": 2824
     },
-    "statsClub": "Stade Brestois 29"
+    "statsClub": "Stade Brestois 29",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    }
   ],
   "SCO": [
@@ -7980,7 +8626,9 @@
      "a": 0,
      "min": 2879
     },
-    "statsClub": "FC Nantes"
+    "statsClub": "FC Nantes",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "16",
@@ -7996,7 +8644,9 @@
      "a": 0,
      "min": 221
     },
-    "statsClub": "Angers SCO"
+    "statsClub": "Angers SCO",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "40",
@@ -8012,7 +8662,9 @@
      "a": 0,
      "min": 360
     },
-    "statsClub": "Angers SCO"
+    "statsClub": "Angers SCO",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "4",
@@ -8028,7 +8680,9 @@
      "a": 0,
      "min": 2719
     },
-    "statsClub": "Angers SCO"
+    "statsClub": "Angers SCO",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "24",
@@ -8044,7 +8698,9 @@
      "a": 0,
      "min": 473
     },
-    "statsClub": "Angers SCO"
+    "statsClub": "Angers SCO",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "21",
@@ -8060,7 +8716,9 @@
      "a": 2,
      "min": 3240
     },
-    "statsClub": "Angers SCO"
+    "statsClub": "Angers SCO",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "3",
@@ -8076,7 +8734,9 @@
      "a": 0,
      "min": 2304
     },
-    "statsClub": "Angers SCO"
+    "statsClub": "Angers SCO",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "27",
@@ -8092,7 +8752,9 @@
      "a": 4,
      "min": 2123
     },
-    "statsClub": "Angers SCO"
+    "statsClub": "Angers SCO",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "20",
@@ -8108,7 +8770,9 @@
      "a": 0,
      "min": 541
     },
-    "statsClub": "Angers SCO"
+    "statsClub": "Angers SCO",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "2",
@@ -8124,7 +8788,9 @@
      "a": 3,
      "min": 2151
     },
-    "statsClub": "Angers SCO"
+    "statsClub": "Angers SCO",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "14",
@@ -8140,7 +8806,9 @@
      "a": 2,
      "min": 2224
     },
-    "statsClub": "Angers SCO"
+    "statsClub": "Angers SCO",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -8156,7 +8824,9 @@
      "a": 1,
      "min": 1242
     },
-    "statsClub": "Angers SCO"
+    "statsClub": "Angers SCO",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "93",
@@ -8172,7 +8842,9 @@
      "a": 0,
      "min": 2970
     },
-    "statsClub": "Angers SCO"
+    "statsClub": "Angers SCO",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "6",
@@ -8188,7 +8860,9 @@
      "a": 1,
      "min": 2085
     },
-    "statsClub": "Angers SCO"
+    "statsClub": "Angers SCO",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "7",
@@ -8204,7 +8878,9 @@
      "a": 1,
      "min": 2014
     },
-    "statsClub": "Angers SCO"
+    "statsClub": "Angers SCO",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "26",
@@ -8220,7 +8896,9 @@
      "a": 0,
      "min": 165
     },
-    "statsClub": "RC Lens"
+    "statsClub": "RC Lens",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "31",
@@ -8236,7 +8914,9 @@
      "a": 1,
      "min": 323
     },
-    "statsClub": "Angers SCO"
+    "statsClub": "Angers SCO",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -8252,7 +8932,9 @@
      "a": 0,
      "min": 127
     },
-    "statsClub": "Angers SCO"
+    "statsClub": "Angers SCO",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "35",
@@ -8268,7 +8950,9 @@
      "a": 1,
      "min": 1446
     },
-    "statsClub": "Angers SCO"
+    "statsClub": "Angers SCO",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "19",
@@ -8284,7 +8968,9 @@
      "a": 1,
      "min": 1200
     },
-    "statsClub": "SC Braga"
+    "statsClub": "SC Braga",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "17",
@@ -8300,7 +8986,9 @@
      "a": 2,
      "min": 2033
     },
-    "statsClub": "RWDM Brussels"
+    "statsClub": "RWDM Brussels",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    }
   ],
   "HAC": [
@@ -8318,7 +9006,9 @@
      "a": 1,
      "min": 2655
     },
-    "statsClub": "Le Havre AC"
+    "statsClub": "Le Havre AC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "77",
@@ -8334,7 +9024,9 @@
      "a": 0,
      "min": 315
     },
-    "statsClub": "Le Havre AC"
+    "statsClub": "Le Havre AC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "50",
@@ -8350,7 +9042,9 @@
      "a": 0,
      "min": 180
     },
-    "statsClub": "Le Havre AC"
+    "statsClub": "Le Havre AC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "15",
@@ -8366,7 +9060,9 @@
      "a": 0,
      "min": 2625
     },
-    "statsClub": "Le Havre AC"
+    "statsClub": "Le Havre AC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "29",
@@ -8382,7 +9078,9 @@
      "a": 0,
      "min": 498
     },
-    "statsClub": "Le Havre AC"
+    "statsClub": "Le Havre AC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "23",
@@ -8398,7 +9096,9 @@
      "a": 1,
      "min": 2384
     },
-    "statsClub": "USL Dunkerque"
+    "statsClub": "USL Dunkerque",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "18",
@@ -8414,7 +9114,9 @@
      "a": 1,
      "min": 2350
     },
-    "statsClub": "Le Havre AC"
+    "statsClub": "Le Havre AC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "27",
@@ -8430,7 +9132,9 @@
      "a": 0,
      "min": 425
     },
-    "statsClub": "Le Havre AC"
+    "statsClub": "Le Havre AC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "13",
@@ -8446,7 +9150,9 @@
      "a": 1,
      "min": 1242
     },
-    "statsClub": "Le Havre AC"
+    "statsClub": "Le Havre AC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "32",
@@ -8462,7 +9168,9 @@
      "a": 0,
      "min": 374
     },
-    "statsClub": "Le Havre AC"
+    "statsClub": "Le Havre AC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "6",
@@ -8478,7 +9186,9 @@
      "a": 0,
      "min": 564
     },
-    "statsClub": "R. Strasbourg"
+    "statsClub": "R. Strasbourg",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "78",
@@ -8494,7 +9204,9 @@
      "a": 0,
      "min": 148
     },
-    "statsClub": "Le Havre AC"
+    "statsClub": "Le Havre AC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "14",
@@ -8510,7 +9222,9 @@
      "a": 4,
      "min": 2667
     },
-    "statsClub": "Le Havre AC"
+    "statsClub": "Le Havre AC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "26",
@@ -8526,7 +9240,9 @@
      "a": 0,
      "min": 1809
     },
-    "statsClub": "Le Havre AC"
+    "statsClub": "Le Havre AC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -8542,7 +9258,9 @@
      "a": 0,
      "min": 200
     },
-    "statsClub": "Fiorentina"
+    "statsClub": "Fiorentina",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "24",
@@ -8558,7 +9276,9 @@
      "a": 0,
      "min": 0
     },
-    "statsClub": "Le Havre AC"
+    "statsClub": "Le Havre AC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "17",
@@ -8574,7 +9294,9 @@
      "a": 12,
      "min": 3162
     },
-    "statsClub": "RW Essen"
+    "statsClub": "RW Essen",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "37",
@@ -8584,7 +9306,9 @@
     "age": 20,
     "val": 0.4,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "44",
@@ -8600,7 +9324,9 @@
      "a": 0,
      "min": 0
     },
-    "statsClub": "Le Havre AC"
+    "statsClub": "Le Havre AC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "10",
@@ -8616,7 +9342,9 @@
      "a": 0,
      "min": 529
     },
-    "statsClub": "Le Havre AC"
+    "statsClub": "Le Havre AC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "11",
@@ -8632,7 +9360,9 @@
      "a": 1,
      "min": 419
     },
-    "statsClub": "Le Havre AC"
+    "statsClub": "Le Havre AC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "9",
@@ -8648,7 +9378,9 @@
      "a": 1,
      "min": 1710
     },
-    "statsClub": "West Brom"
+    "statsClub": "West Brom",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -8664,7 +9396,9 @@
      "a": 2,
      "min": 1428
     },
-    "statsClub": "Sanf. Hiroshima"
+    "statsClub": "Sanf. Hiroshima",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "25",
@@ -8680,7 +9414,9 @@
      "a": 1,
      "min": 1545
     },
-    "statsClub": "Le Havre AC"
+    "statsClub": "Le Havre AC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -8690,7 +9426,9 @@
     "age": 22,
     "val": 0.2,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "19",
@@ -8700,7 +9438,9 @@
     "age": 20,
     "val": 0.1,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    }
   ],
   "AJA": [
@@ -8718,7 +9458,9 @@
      "a": 0,
      "min": 2684
     },
-    "statsClub": "Grenoble"
+    "statsClub": "Grenoble",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "1",
@@ -8734,7 +9476,9 @@
      "a": 0,
      "min": 1601
     },
-    "statsClub": "QPR"
+    "statsClub": "QPR",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "37",
@@ -8750,7 +9494,9 @@
      "a": 0,
      "min": 0
     },
-    "statsClub": "AJ Auxerre"
+    "statsClub": "AJ Auxerre",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "92",
@@ -8766,7 +9512,9 @@
      "a": 0,
      "min": 1941
     },
-    "statsClub": "AJ Auxerre"
+    "statsClub": "AJ Auxerre",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "20",
@@ -8782,7 +9530,9 @@
      "a": 2,
      "min": 2134
     },
-    "statsClub": "AJ Auxerre"
+    "statsClub": "AJ Auxerre",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "24",
@@ -8798,7 +9548,9 @@
      "a": 0,
      "min": 1006
     },
-    "statsClub": "AJ Auxerre"
+    "statsClub": "AJ Auxerre",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "4",
@@ -8814,7 +9566,9 @@
      "a": 0,
      "min": 952
     },
-    "statsClub": "AJ Auxerre"
+    "statsClub": "AJ Auxerre",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "13",
@@ -8830,7 +9584,9 @@
      "a": 0,
      "min": 315
     },
-    "statsClub": "AJ Auxerre"
+    "statsClub": "AJ Auxerre",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "15",
@@ -8846,7 +9602,9 @@
      "a": 0,
      "min": 1224
     },
-    "statsClub": "Luton"
+    "statsClub": "Luton",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "35",
@@ -8862,7 +9620,9 @@
      "a": 0,
      "min": 0
     },
-    "statsClub": "AJ Auxerre"
+    "statsClub": "AJ Auxerre",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "38",
@@ -8878,7 +9638,9 @@
      "a": 0,
      "min": 0
     },
-    "statsClub": "AJ Auxerre"
+    "statsClub": "AJ Auxerre",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "22",
@@ -8894,7 +9656,9 @@
      "a": 0,
      "min": 1338
     },
-    "statsClub": "AJ Auxerre"
+    "statsClub": "AJ Auxerre",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "93",
@@ -8910,7 +9674,9 @@
      "a": 3,
      "min": 2284
     },
-    "statsClub": "Lausanne-Sport"
+    "statsClub": "Lausanne-Sport",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -8920,7 +9686,9 @@
     "age": 17,
     "val": 0.0,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "29",
@@ -8936,7 +9704,9 @@
      "a": 0,
      "min": 1875
     },
-    "statsClub": "AJ Auxerre"
+    "statsClub": "AJ Auxerre",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "27",
@@ -8952,7 +9722,9 @@
      "a": 2,
      "min": 1594
     },
-    "statsClub": "AJ Auxerre"
+    "statsClub": "AJ Auxerre",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "42",
@@ -8968,7 +9740,9 @@
      "a": 0,
      "min": 2349
     },
-    "statsClub": "AJ Auxerre"
+    "statsClub": "AJ Auxerre",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "46",
@@ -8984,7 +9758,9 @@
      "a": 3,
      "min": 3020
     },
-    "statsClub": "KVC Westerlo"
+    "statsClub": "KVC Westerlo",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "18",
@@ -9000,7 +9776,9 @@
      "a": 0,
      "min": 298
     },
-    "statsClub": "AJ Auxerre"
+    "statsClub": "AJ Auxerre",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "5",
@@ -9016,7 +9794,9 @@
      "a": 1,
      "min": 2920
     },
-    "statsClub": "AJ Auxerre"
+    "statsClub": "AJ Auxerre",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "8",
@@ -9032,7 +9812,9 @@
      "a": 1,
      "min": 679
     },
-    "statsClub": "AJ Auxerre"
+    "statsClub": "AJ Auxerre",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "36",
@@ -9048,7 +9830,9 @@
      "a": 0,
      "min": 17
     },
-    "statsClub": "AJ Auxerre"
+    "statsClub": "AJ Auxerre",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "28",
@@ -9064,7 +9848,9 @@
      "a": 2,
      "min": 583
     },
-    "statsClub": "AJ Auxerre"
+    "statsClub": "AJ Auxerre",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "19",
@@ -9080,7 +9866,9 @@
      "a": 3,
      "min": 2528
     },
-    "statsClub": "AJ Auxerre"
+    "statsClub": "AJ Auxerre",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "77",
@@ -9090,7 +9878,9 @@
     "age": 21,
     "val": 2.5,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -9100,7 +9890,9 @@
     "age": 20,
     "val": 0.4,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "7",
@@ -9116,7 +9908,9 @@
      "a": 0,
      "min": 1521
     },
-    "statsClub": "AJ Auxerre"
+    "statsClub": "AJ Auxerre",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "21",
@@ -9132,7 +9926,9 @@
      "a": 0,
      "min": 336
     },
-    "statsClub": "AJ Auxerre"
+    "statsClub": "AJ Auxerre",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -9142,7 +9938,9 @@
     "age": 25,
     "val": 0.15,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "3",
@@ -9152,7 +9950,9 @@
     "age": 23,
     "val": 4.0,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -9168,7 +9968,9 @@
      "a": 0,
      "min": 8
     },
-    "statsClub": "AJ Auxerre"
+    "statsClub": "AJ Auxerre",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "31",
@@ -9184,7 +9986,9 @@
      "a": 0,
      "min": 86
     },
-    "statsClub": "AJ Auxerre"
+    "statsClub": "AJ Auxerre",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "49",
@@ -9200,7 +10004,9 @@
      "a": 0,
      "min": 958
     },
-    "statsClub": "MZ Hakka"
+    "statsClub": "MZ Hakka",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    }
   ],
   "OGCN": [
@@ -9218,7 +10024,9 @@
      "a": 0,
      "min": 3420
     },
-    "statsClub": "OGC Nice"
+    "statsClub": "OGC Nice",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -9234,7 +10042,9 @@
      "a": 0,
      "min": 0
     },
-    "statsClub": "OGC Nice"
+    "statsClub": "OGC Nice",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "33",
@@ -9250,7 +10060,9 @@
      "a": 1,
      "min": 3231
     },
-    "statsClub": "OGC Nice"
+    "statsClub": "OGC Nice",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "37",
@@ -9266,7 +10078,9 @@
      "a": 0,
      "min": 3465
     },
-    "statsClub": "OGC Nice"
+    "statsClub": "OGC Nice",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "55",
@@ -9282,7 +10096,9 @@
      "a": 0,
      "min": 72
     },
-    "statsClub": "OGC Nice"
+    "statsClub": "OGC Nice",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "64",
@@ -9298,7 +10114,9 @@
      "a": 0,
      "min": 146
     },
-    "statsClub": "OGC Nice"
+    "statsClub": "OGC Nice",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "5",
@@ -9314,7 +10132,9 @@
      "a": 0,
      "min": 0
     },
-    "statsClub": "OGC Nice"
+    "statsClub": "OGC Nice",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "26",
@@ -9330,7 +10150,9 @@
      "a": 1,
      "min": 3680
     },
-    "statsClub": "OGC Nice"
+    "statsClub": "OGC Nice",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "2",
@@ -9346,7 +10168,9 @@
      "a": 0,
      "min": 1657
     },
-    "statsClub": "OGC Nice"
+    "statsClub": "OGC Nice",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "92",
@@ -9362,7 +10186,9 @@
      "a": 12,
      "min": 3642
     },
-    "statsClub": "OGC Nice"
+    "statsClub": "OGC Nice",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -9378,7 +10204,9 @@
      "a": 0,
      "min": 18
     },
-    "statsClub": "OGC Nice"
+    "statsClub": "OGC Nice",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "99",
@@ -9394,7 +10222,9 @@
      "a": 1,
      "min": 1528
     },
-    "statsClub": "OGC Nice"
+    "statsClub": "OGC Nice",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "41",
@@ -9410,7 +10240,9 @@
      "a": 0,
      "min": 256
     },
-    "statsClub": "OGC Nice"
+    "statsClub": "OGC Nice",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "19",
@@ -9426,7 +10258,9 @@
      "a": 0,
      "min": 2472
     },
-    "statsClub": "FC Lorient"
+    "statsClub": "FC Lorient",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "6",
@@ -9442,7 +10276,9 @@
      "a": 2,
      "min": 2081
     },
-    "statsClub": "OGC Nice"
+    "statsClub": "OGC Nice",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "8",
@@ -9458,7 +10294,9 @@
      "a": 2,
      "min": 2718
     },
-    "statsClub": "OGC Nice"
+    "statsClub": "OGC Nice",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "39",
@@ -9474,7 +10312,9 @@
      "a": 0,
      "min": 275
     },
-    "statsClub": "OGC Nice"
+    "statsClub": "OGC Nice",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -9484,7 +10324,9 @@
     "age": 21,
     "val": 0.25,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "10",
@@ -9500,7 +10342,9 @@
      "a": 3,
      "min": 2742
     },
-    "statsClub": "OGC Nice"
+    "statsClub": "OGC Nice",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "21",
@@ -9516,7 +10360,9 @@
      "a": 0,
      "min": 1059
     },
-    "statsClub": "OGC Nice"
+    "statsClub": "OGC Nice",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "25",
@@ -9532,7 +10378,9 @@
      "a": 5,
      "min": 2282
     },
-    "statsClub": "OGC Nice"
+    "statsClub": "OGC Nice",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "7",
@@ -9548,7 +10396,9 @@
      "a": 8,
      "min": 2532
     },
-    "statsClub": "FC Metz"
+    "statsClub": "FC Metz",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -9564,7 +10414,9 @@
      "a": 0,
      "min": 786
     },
-    "statsClub": "OGC Nice"
+    "statsClub": "OGC Nice",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -9574,7 +10426,9 @@
     "age": 20,
     "val": 0.4,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    }
   ],
   "ESTAC": [
@@ -9592,7 +10446,9 @@
      "a": 0,
      "min": 3210
     },
-    "statsClub": "Melbourne City"
+    "statsClub": "Melbourne City",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "40",
@@ -9608,7 +10464,9 @@
      "a": 0,
      "min": 2482
     },
-    "statsClub": "ESTAC Troyes"
+    "statsClub": "ESTAC Troyes",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "1",
@@ -9624,7 +10482,9 @@
      "a": 0,
      "min": 180
     },
-    "statsClub": "ESTAC Troyes"
+    "statsClub": "ESTAC Troyes",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "4",
@@ -9634,7 +10494,9 @@
     "age": 23,
     "val": 6.0,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "25",
@@ -9650,7 +10512,9 @@
      "a": 0,
      "min": 1276
     },
-    "statsClub": "ESTAC Troyes"
+    "statsClub": "ESTAC Troyes",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "6",
@@ -9666,7 +10530,9 @@
      "a": 0,
      "min": 3060
     },
-    "statsClub": "ESTAC Troyes"
+    "statsClub": "ESTAC Troyes",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "37",
@@ -9682,7 +10548,9 @@
      "a": 0,
      "min": 0
     },
-    "statsClub": "ESTAC Troyes"
+    "statsClub": "ESTAC Troyes",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "14",
@@ -9698,7 +10566,9 @@
      "a": 2,
      "min": 2316
     },
-    "statsClub": "ESTAC Troyes"
+    "statsClub": "ESTAC Troyes",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "3",
@@ -9714,7 +10584,9 @@
      "a": 1,
      "min": 780
     },
-    "statsClub": "ESTAC Troyes"
+    "statsClub": "ESTAC Troyes",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "44",
@@ -9730,7 +10602,9 @@
      "a": 5,
      "min": 1559
     },
-    "statsClub": "ESTAC Troyes"
+    "statsClub": "ESTAC Troyes",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "2",
@@ -9746,7 +10620,9 @@
      "a": 2,
      "min": 1810
     },
-    "statsClub": "ESTAC Troyes"
+    "statsClub": "ESTAC Troyes",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "26",
@@ -9762,7 +10638,9 @@
      "a": 0,
      "min": 542
     },
-    "statsClub": "ESTAC Troyes"
+    "statsClub": "ESTAC Troyes",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "35",
@@ -9778,7 +10656,9 @@
      "a": 0,
      "min": 112
     },
-    "statsClub": "ESTAC Troyes"
+    "statsClub": "ESTAC Troyes",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "8",
@@ -9794,7 +10674,9 @@
      "a": 3,
      "min": 3057
     },
-    "statsClub": "ESTAC Troyes"
+    "statsClub": "ESTAC Troyes",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "17",
@@ -9810,7 +10692,9 @@
      "a": 7,
      "min": 3013
     },
-    "statsClub": "ESTAC Troyes"
+    "statsClub": "ESTAC Troyes",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -9826,7 +10710,9 @@
      "a": 2,
      "min": 2956
     },
-    "statsClub": "Zira FK"
+    "statsClub": "Zira FK",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "29",
@@ -9842,7 +10728,9 @@
      "a": 1,
      "min": 869
     },
-    "statsClub": "ESTAC Troyes"
+    "statsClub": "ESTAC Troyes",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "",
@@ -9858,7 +10746,9 @@
      "a": 0,
      "min": 0
     },
-    "statsClub": "ESTAC Troyes"
+    "statsClub": "ESTAC Troyes",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "12",
@@ -9874,7 +10764,9 @@
      "a": 1,
      "min": 251
     },
-    "statsClub": "ESTAC Troyes"
+    "statsClub": "ESTAC Troyes",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "10",
@@ -9890,7 +10782,9 @@
      "a": 4,
      "min": 2221
     },
-    "statsClub": "ESTAC Troyes"
+    "statsClub": "ESTAC Troyes",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "36",
@@ -9906,7 +10800,9 @@
      "a": 0,
      "min": 149
     },
-    "statsClub": "ESTAC Troyes"
+    "statsClub": "ESTAC Troyes",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "20",
@@ -9922,7 +10818,9 @@
      "a": 0,
      "min": 1145
     },
-    "statsClub": "ESTAC Troyes"
+    "statsClub": "ESTAC Troyes",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "34",
@@ -9938,7 +10836,9 @@
      "a": 2,
      "min": 88
     },
-    "statsClub": "ESTAC Troyes"
+    "statsClub": "ESTAC Troyes",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    }
   ],
   "LM": [
@@ -9956,7 +10856,9 @@
      "a": 0,
      "min": 2790
     },
-    "statsClub": "Le Mans FC"
+    "statsClub": "Le Mans FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "1",
@@ -9972,7 +10874,9 @@
      "a": 0,
      "min": 720
     },
-    "statsClub": "Le Mans FC"
+    "statsClub": "Le Mans FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "55",
@@ -9988,7 +10892,9 @@
      "a": 0,
      "min": 0
     },
-    "statsClub": "Le Mans FC"
+    "statsClub": "Le Mans FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "15",
@@ -10004,7 +10910,9 @@
      "a": 0,
      "min": 1171
     },
-    "statsClub": "Le Mans FC"
+    "statsClub": "Le Mans FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "21",
@@ -10020,7 +10928,9 @@
      "a": 0,
      "min": 2346
     },
-    "statsClub": "Le Mans FC"
+    "statsClub": "Le Mans FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "5",
@@ -10036,7 +10946,9 @@
      "a": 1,
      "min": 1938
     },
-    "statsClub": "Le Mans FC"
+    "statsClub": "Le Mans FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "17",
@@ -10052,7 +10964,9 @@
      "a": 0,
      "min": 3221
     },
-    "statsClub": "Le Mans FC"
+    "statsClub": "Le Mans FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "22",
@@ -10068,7 +10982,9 @@
      "a": 4,
      "min": 2510
     },
-    "statsClub": "Le Mans FC"
+    "statsClub": "Le Mans FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "76",
@@ -10078,7 +10994,9 @@
     "age": 25,
     "val": 1.5,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "18",
@@ -10094,7 +11012,9 @@
      "a": 6,
      "min": 2445
     },
-    "statsClub": "Le Mans FC"
+    "statsClub": "Le Mans FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "19",
@@ -10104,7 +11024,9 @@
     "age": 22,
     "val": 1.0,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "29",
@@ -10120,7 +11042,9 @@
      "a": 1,
      "min": 938
     },
-    "statsClub": "Le Mans FC"
+    "statsClub": "Le Mans FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "8",
@@ -10136,7 +11060,9 @@
      "a": 2,
      "min": 2193
     },
-    "statsClub": "Le Mans FC"
+    "statsClub": "Le Mans FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "24",
@@ -10152,7 +11078,9 @@
      "a": 4,
      "min": 1767
     },
-    "statsClub": "Le Mans FC"
+    "statsClub": "Le Mans FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "6",
@@ -10168,7 +11096,9 @@
      "a": 1,
      "min": 2371
     },
-    "statsClub": "Le Mans FC"
+    "statsClub": "Le Mans FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "11",
@@ -10184,7 +11114,9 @@
      "a": 1,
      "min": 645
     },
-    "statsClub": "Le Mans FC"
+    "statsClub": "Le Mans FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "10",
@@ -10200,7 +11132,9 @@
      "a": 0,
      "min": 682
     },
-    "statsClub": "Le Mans FC"
+    "statsClub": "Le Mans FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "23",
@@ -10210,7 +11144,9 @@
     "age": 20,
     "val": 0.4,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "27",
@@ -10226,7 +11162,9 @@
      "a": 1,
      "min": 1261
     },
-    "statsClub": "Le Mans FC"
+    "statsClub": "Le Mans FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "28",
@@ -10242,7 +11180,9 @@
      "a": 3,
      "min": 1622
     },
-    "statsClub": "Le Mans FC"
+    "statsClub": "Le Mans FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "7",
@@ -10252,7 +11192,9 @@
     "age": 26,
     "val": 1.0,
     "stats": null,
-    "statsClub": null
+    "statsClub": null,
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "14",
@@ -10268,7 +11210,9 @@
      "a": 3,
      "min": 2941
     },
-    "statsClub": "EA Guingamp"
+    "statsClub": "EA Guingamp",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "9",
@@ -10284,7 +11228,9 @@
      "a": 6,
      "min": 1886
     },
-    "statsClub": "Le Mans FC"
+    "statsClub": "Le Mans FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "25",
@@ -10300,7 +11246,9 @@
      "a": 4,
      "min": 2037
     },
-    "statsClub": "Le Mans FC"
+    "statsClub": "Le Mans FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
    },
    {
     "n": "20",
@@ -10316,7 +11264,2865 @@
      "a": 1,
      "min": 661
     },
-    "statsClub": "Le Mans FC"
+    "statsClub": "Le Mans FC",
+    "valDelta": 0.0,
+    "valSince": "16/08/2026"
+   }
+  ]
+ },
+ "valhist": {
+  "318470": [
+   {
+    "d": "16/08/2026",
+    "v": 30.0
+   }
+  ],
+  "463600": [
+   {
+    "d": "16/08/2026",
+    "v": 25.0
+   }
+  ],
+  "1074986": [
+   {
+    "d": "16/08/2026",
+    "v": 0.3
+   }
+  ],
+  "661171": [
+   {
+    "d": "16/08/2026",
+    "v": 80.0
+   }
+  ],
+  "659089": [
+   {
+    "d": "16/08/2026",
+    "v": 40.0
+   }
+  ],
+  "181767": [
+   {
+    "d": "16/08/2026",
+    "v": 28.0
+   }
+  ],
+  "872171": [
+   {
+    "d": "16/08/2026",
+    "v": 22.0
+   }
+  ],
+  "616341": [
+   {
+    "d": "16/08/2026",
+    "v": 80.0
+   }
+  ],
+  "281963": [
+   {
+    "d": "16/08/2026",
+    "v": 18.0
+   }
+  ],
+  "126664": [
+   {
+    "d": "16/08/2026",
+    "v": 6.0
+   }
+  ],
+  "398073": [
+   {
+    "d": "16/08/2026",
+    "v": 80.0
+   }
+  ],
+  "487469": [
+   {
+    "d": "16/08/2026",
+    "v": 140.0
+   }
+  ],
+  "670681": [
+   {
+    "d": "16/08/2026",
+    "v": 140.0
+   }
+  ],
+  "810092": [
+   {
+    "d": "16/08/2026",
+    "v": 80.0
+   }
+  ],
+  "903693": [
+   {
+    "d": "16/08/2026",
+    "v": 40.0
+   }
+  ],
+  "350219": [
+   {
+    "d": "16/08/2026",
+    "v": 30.0
+   }
+  ],
+  "1071596": [
+   {
+    "d": "16/08/2026",
+    "v": 10.0
+   }
+  ],
+  "502670": [
+   {
+    "d": "16/08/2026",
+    "v": 140.0
+   }
+  ],
+  "708265": [
+   {
+    "d": "16/08/2026",
+    "v": 90.0
+   }
+  ],
+  "748804": [
+   {
+    "d": "16/08/2026",
+    "v": 35.0
+   }
+  ],
+  "1053208": [
+   {
+    "d": "16/08/2026",
+    "v": 8.0
+   }
+  ],
+  "914562": [
+   {
+    "d": "16/08/2026",
+    "v": 120.0
+   }
+  ],
+  "745200": [
+   {
+    "d": "16/08/2026",
+    "v": 50.0
+   }
+  ],
+  "1185888": [
+   {
+    "d": "16/08/2026",
+    "v": 30.0
+   }
+  ],
+  "288230": [
+   {
+    "d": "16/08/2026",
+    "v": 100.0
+   }
+  ],
+  "398184": [
+   {
+    "d": "01/08/2026",
+    "v": 45.0
+   },
+   {
+    "d": "16/08/2026",
+    "v": 55.0
+   }
+  ],
+  "743515": [
+   {
+    "d": "16/08/2026",
+    "v": 30.0
+   }
+  ],
+  "60543": [
+   {
+    "d": "16/08/2026",
+    "v": 0.2
+   }
+  ],
+  "39918": [
+   {
+    "d": "16/08/2026",
+    "v": 0.1
+   }
+  ],
+  "1200424": [
+   {
+    "d": "16/08/2026",
+    "v": 0.0
+   }
+  ],
+  "655217": [
+   {
+    "d": "16/08/2026",
+    "v": 25.0
+   }
+  ],
+  "1020191": [
+   {
+    "d": "16/08/2026",
+    "v": 20.0
+   }
+  ],
+  "819566": [
+   {
+    "d": "16/08/2026",
+    "v": 7.0
+   }
+  ],
+  "1186789": [
+   {
+    "d": "16/08/2026",
+    "v": 3.0
+   }
+  ],
+  "126557": [
+   {
+    "d": "16/08/2026",
+    "v": 2.5
+   }
+  ],
+  "407745": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "1160378": [
+   {
+    "d": "16/08/2026",
+    "v": 0.5
+   }
+  ],
+  "344886": [
+   {
+    "d": "16/08/2026",
+    "v": 8.0
+   }
+  ],
+  "713787": [
+   {
+    "d": "16/08/2026",
+    "v": 2.2
+   }
+  ],
+  "631927": [
+   {
+    "d": "16/08/2026",
+    "v": 9.0
+   }
+  ],
+  "203746": [
+   {
+    "d": "16/08/2026",
+    "v": 2.5
+   }
+  ],
+  "986291": [
+   {
+    "d": "16/08/2026",
+    "v": 8.0
+   }
+  ],
+  "748445": [
+   {
+    "d": "16/08/2026",
+    "v": 7.0
+   }
+  ],
+  "402008": [
+   {
+    "d": "16/08/2026",
+    "v": 5.0
+   }
+  ],
+  "344600": [
+   {
+    "d": "16/08/2026",
+    "v": 3.0
+   }
+  ],
+  "1297674": [
+   {
+    "d": "16/08/2026",
+    "v": 0.5
+   }
+  ],
+  "102226": [
+   {
+    "d": "16/08/2026",
+    "v": 2.0
+   }
+  ],
+  "776798": [
+   {
+    "d": "16/08/2026",
+    "v": 5.0
+   }
+  ],
+  "393565": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "184892": [
+   {
+    "d": "16/08/2026",
+    "v": 5.0
+   }
+  ],
+  "548028": [
+   {
+    "d": "16/08/2026",
+    "v": 15.0
+   }
+  ],
+  "344152": [
+   {
+    "d": "16/08/2026",
+    "v": 12.0
+   }
+  ],
+  "1160814": [
+   {
+    "d": "16/08/2026",
+    "v": 8.0
+   }
+  ],
+  "354726": [
+   {
+    "d": "16/08/2026",
+    "v": 1.2
+   }
+  ],
+  "361256": [
+   {
+    "d": "16/08/2026",
+    "v": 10.0
+   }
+  ],
+  "417278": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "548254": [
+   {
+    "d": "16/08/2026",
+    "v": 25.0
+   }
+  ],
+  "648020": [
+   {
+    "d": "16/08/2026",
+    "v": 15.0
+   }
+  ],
+  "1160753": [
+   {
+    "d": "16/08/2026",
+    "v": 2.5
+   }
+  ],
+  "538996": [
+   {
+    "d": "16/08/2026",
+    "v": 1.2
+   }
+  ],
+  "990732": [
+   {
+    "d": "16/08/2026",
+    "v": 0.5
+   }
+  ],
+  "318523": [
+   {
+    "d": "16/08/2026",
+    "v": 7.0
+   }
+  ],
+  "258364": [
+   {
+    "d": "16/08/2026",
+    "v": 2.5
+   }
+  ],
+  "816580": [
+   {
+    "d": "16/08/2026",
+    "v": 10.0
+   }
+  ],
+  "999886": [
+   {
+    "d": "16/08/2026",
+    "v": 1.2
+   }
+  ],
+  "1016015": [
+   {
+    "d": "16/08/2026",
+    "v": 15.0
+   }
+  ],
+  "245537": [
+   {
+    "d": "16/08/2026",
+    "v": 4.5
+   }
+  ],
+  "84301": [
+   {
+    "d": "16/08/2026",
+    "v": 3.0
+   }
+  ],
+  "1097139": [
+   {
+    "d": "16/08/2026",
+    "v": 80.0
+   }
+  ],
+  "652275": [
+   {
+    "d": "16/08/2026",
+    "v": 25.0
+   }
+  ],
+  "479648": [
+   {
+    "d": "16/08/2026",
+    "v": 10.0
+   }
+  ],
+  "580657": [
+   {
+    "d": "16/08/2026",
+    "v": 9.0
+   }
+  ],
+  "864112": [
+   {
+    "d": "16/08/2026",
+    "v": 7.0
+   }
+  ],
+  "1184007": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "815652": [
+   {
+    "d": "16/08/2026",
+    "v": 1.8
+   }
+  ],
+  "903666": [
+   {
+    "d": "16/08/2026",
+    "v": 8.0
+   }
+  ],
+  "903359": [
+   {
+    "d": "16/08/2026",
+    "v": 5.0
+   }
+  ],
+  "1078326": [
+   {
+    "d": "16/08/2026",
+    "v": 5.0
+   }
+  ],
+  "353404": [
+   {
+    "d": "16/08/2026",
+    "v": 5.0
+   }
+  ],
+  "724129": [
+   {
+    "d": "16/08/2026",
+    "v": 35.0
+   }
+  ],
+  "885445": [
+   {
+    "d": "16/08/2026",
+    "v": 18.0
+   }
+  ],
+  "594991": [
+   {
+    "d": "16/08/2026",
+    "v": 4.5
+   }
+  ],
+  "82442": [
+   {
+    "d": "16/08/2026",
+    "v": 0.9
+   }
+  ],
+  "316884": [
+   {
+    "d": "16/08/2026",
+    "v": 9.0
+   }
+  ],
+  "282028": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "802986": [
+   {
+    "d": "16/08/2026",
+    "v": 0.25
+   }
+  ],
+  "1071430": [
+   {
+    "d": "16/08/2026",
+    "v": 0.0
+   }
+  ],
+  "291200": [
+   {
+    "d": "16/08/2026",
+    "v": 15.0
+   }
+  ],
+  "578421": [
+   {
+    "d": "16/08/2026",
+    "v": 8.0
+   }
+  ],
+  "394134": [
+   {
+    "d": "16/08/2026",
+    "v": 6.0
+   }
+  ],
+  "1275040": [
+   {
+    "d": "16/08/2026",
+    "v": 3.0
+   }
+  ],
+  "238266": [
+   {
+    "d": "16/08/2026",
+    "v": 2.8
+   }
+  ],
+  "187718": [
+   {
+    "d": "16/08/2026",
+    "v": 2.5
+   }
+  ],
+  "646402": [
+   {
+    "d": "16/08/2026",
+    "v": 10.0
+   }
+  ],
+  "131225": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "1107570": [
+   {
+    "d": "16/08/2026",
+    "v": 1.2
+   }
+  ],
+  "990637": [
+   {
+    "d": "16/08/2026",
+    "v": 15.0
+   }
+  ],
+  "285845": [
+   {
+    "d": "16/08/2026",
+    "v": 10.0
+   }
+  ],
+  "1119391": [
+   {
+    "d": "16/08/2026",
+    "v": 1.0
+   }
+  ],
+  "618494": [
+   {
+    "d": "16/08/2026",
+    "v": 30.0
+   }
+  ],
+  "670096": [
+   {
+    "d": "16/08/2026",
+    "v": 10.0
+   }
+  ],
+  "1004486": [
+   {
+    "d": "16/08/2026",
+    "v": 3.0
+   }
+  ],
+  "429901": [
+   {
+    "d": "16/08/2026",
+    "v": 0.4
+   }
+  ],
+  "1187942": [
+   {
+    "d": "16/08/2026",
+    "v": 15.0
+   }
+  ],
+  "462832": [
+   {
+    "d": "16/08/2026",
+    "v": 13.0
+   }
+  ],
+  "190393": [
+   {
+    "d": "16/08/2026",
+    "v": 10.0
+   }
+  ],
+  "1053147": [
+   {
+    "d": "16/08/2026",
+    "v": 1.0
+   }
+  ],
+  "500053": [
+   {
+    "d": "16/08/2026",
+    "v": 20.0
+   }
+  ],
+  "802515": [
+   {
+    "d": "16/08/2026",
+    "v": 15.0
+   }
+  ],
+  "743386": [
+   {
+    "d": "16/08/2026",
+    "v": 30.0
+   }
+  ],
+  "1200423": [
+   {
+    "d": "16/08/2026",
+    "v": 10.0
+   }
+  ],
+  "819215": [
+   {
+    "d": "16/08/2026",
+    "v": 6.0
+   }
+  ],
+  "955070": [
+   {
+    "d": "16/08/2026",
+    "v": 10.0
+   }
+  ],
+  "1097113": [
+   {
+    "d": "16/08/2026",
+    "v": 5.0
+   }
+  ],
+  "368887": [
+   {
+    "d": "16/08/2026",
+    "v": 25.0
+   }
+  ],
+  "1108478": [
+   {
+    "d": "16/08/2026",
+    "v": 0.8
+   }
+  ],
+  "315253": [
+   {
+    "d": "16/08/2026",
+    "v": 2.5
+   }
+  ],
+  "727086": [
+   {
+    "d": "16/08/2026",
+    "v": 0.0
+   }
+  ],
+  "620912": [
+   {
+    "d": "16/08/2026",
+    "v": 0.0
+   }
+  ],
+  "575998": [
+   {
+    "d": "16/08/2026",
+    "v": 18.0
+   }
+  ],
+  "361914": [
+   {
+    "d": "16/08/2026",
+    "v": 15.0
+   }
+  ],
+  "581669": [
+   {
+    "d": "16/08/2026",
+    "v": 9.0
+   }
+  ],
+  "807165": [
+   {
+    "d": "16/08/2026",
+    "v": 7.0
+   }
+  ],
+  "328609": [
+   {
+    "d": "16/08/2026",
+    "v": 2.5
+   }
+  ],
+  "181778": [
+   {
+    "d": "16/08/2026",
+    "v": 9.0
+   }
+  ],
+  "192616": [
+   {
+    "d": "16/08/2026",
+    "v": 3.0
+   }
+  ],
+  "167799": [
+   {
+    "d": "16/08/2026",
+    "v": 15.0
+   }
+  ],
+  "920470": [
+   {
+    "d": "16/08/2026",
+    "v": 4.5
+   }
+  ],
+  "127189": [
+   {
+    "d": "16/08/2026",
+    "v": 3.0
+   }
+  ],
+  "420213": [
+   {
+    "d": "16/08/2026",
+    "v": 25.0
+   }
+  ],
+  "370846": [
+   {
+    "d": "16/08/2026",
+    "v": 20.0
+   }
+  ],
+  "392770": [
+   {
+    "d": "16/08/2026",
+    "v": 10.0
+   }
+  ],
+  "592979": [
+   {
+    "d": "16/08/2026",
+    "v": 5.0
+   }
+  ],
+  "653610": [
+   {
+    "d": "16/08/2026",
+    "v": 35.0
+   }
+  ],
+  "372711": [
+   {
+    "d": "16/08/2026",
+    "v": 5.0
+   }
+  ],
+  "1206824": [
+   {
+    "d": "16/08/2026",
+    "v": 0.8
+   }
+  ],
+  "1183719": [
+   {
+    "d": "16/08/2026",
+    "v": 0.05
+   }
+  ],
+  "418659": [
+   {
+    "d": "16/08/2026",
+    "v": 28.0
+   }
+  ],
+  "217115": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "599663": [
+   {
+    "d": "16/08/2026",
+    "v": 3.5
+   }
+  ],
+  "191056": [
+   {
+    "d": "16/08/2026",
+    "v": 7.0
+   }
+  ],
+  "373939": [
+   {
+    "d": "16/08/2026",
+    "v": 0.5
+   }
+  ],
+  "1169721": [
+   {
+    "d": "16/08/2026",
+    "v": 0.0
+   }
+  ],
+  "597659": [
+   {
+    "d": "16/08/2026",
+    "v": 25.0
+   }
+  ],
+  "485960": [
+   {
+    "d": "16/08/2026",
+    "v": 12.0
+   }
+  ],
+  "690799": [
+   {
+    "d": "16/08/2026",
+    "v": 12.0
+   }
+  ],
+  "1134251": [
+   {
+    "d": "16/08/2026",
+    "v": 12.0
+   }
+  ],
+  "798404": [
+   {
+    "d": "16/08/2026",
+    "v": 6.0
+   }
+  ],
+  "1078918": [
+   {
+    "d": "16/08/2026",
+    "v": 3.0
+   }
+  ],
+  "1119839": [
+   {
+    "d": "16/08/2026",
+    "v": 0.3
+   }
+  ],
+  "557613": [
+   {
+    "d": "16/08/2026",
+    "v": 15.0
+   }
+  ],
+  "1176345": [
+   {
+    "d": "16/08/2026",
+    "v": 7.0
+   }
+  ],
+  "239743": [
+   {
+    "d": "16/08/2026",
+    "v": 6.0
+   }
+  ],
+  "475208": [
+   {
+    "d": "16/08/2026",
+    "v": 3.5
+   }
+  ],
+  "667517": [
+   {
+    "d": "16/08/2026",
+    "v": 12.0
+   }
+  ],
+  "324795": [
+   {
+    "d": "16/08/2026",
+    "v": 12.0
+   }
+  ],
+  "931160": [
+   {
+    "d": "16/08/2026",
+    "v": 10.0
+   }
+  ],
+  "182893": [
+   {
+    "d": "16/08/2026",
+    "v": 8.0
+   }
+  ],
+  "332889": [
+   {
+    "d": "16/08/2026",
+    "v": 8.0
+   }
+  ],
+  "215977": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "288225": [
+   {
+    "d": "16/08/2026",
+    "v": 10.0
+   }
+  ],
+  "320748": [
+   {
+    "d": "16/08/2026",
+    "v": 12.0
+   }
+  ],
+  "977877": [
+   {
+    "d": "16/08/2026",
+    "v": 0.8
+   }
+  ],
+  "568698": [
+   {
+    "d": "16/08/2026",
+    "v": 8.0
+   }
+  ],
+  "551505": [
+   {
+    "d": "16/08/2026",
+    "v": 10.0
+   }
+  ],
+  "324811": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "1227106": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "461607": [
+   {
+    "d": "16/08/2026",
+    "v": 35.0
+   }
+  ],
+  "967346": [
+   {
+    "d": "16/08/2026",
+    "v": 16.0
+   }
+  ],
+  "237662": [
+   {
+    "d": "16/08/2026",
+    "v": 15.0
+   }
+  ],
+  "251322": [
+   {
+    "d": "16/08/2026",
+    "v": 3.5
+   }
+  ],
+  "48015": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "745341": [
+   {
+    "d": "16/08/2026",
+    "v": 0.1
+   }
+  ],
+  "1005240": [
+   {
+    "d": "16/08/2026",
+    "v": 15.0
+   }
+  ],
+  "228948": [
+   {
+    "d": "16/08/2026",
+    "v": 12.0
+   }
+  ],
+  "563963": [
+   {
+    "d": "16/08/2026",
+    "v": 10.0
+   }
+  ],
+  "1111777": [
+   {
+    "d": "16/08/2026",
+    "v": 7.0
+   }
+  ],
+  "175722": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "668587": [
+   {
+    "d": "16/08/2026",
+    "v": 6.0
+   }
+  ],
+  "789082": [
+   {
+    "d": "16/08/2026",
+    "v": 18.0
+   }
+  ],
+  "364245": [
+   {
+    "d": "16/08/2026",
+    "v": 15.0
+   }
+  ],
+  "334526": [
+   {
+    "d": "16/08/2026",
+    "v": 25.0
+   }
+  ],
+  "918969": [
+   {
+    "d": "16/08/2026",
+    "v": 40.0
+   }
+  ],
+  "745173": [
+   {
+    "d": "16/08/2026",
+    "v": 15.0
+   }
+  ],
+  "745178": [
+   {
+    "d": "16/08/2026",
+    "v": 3.0
+   }
+  ],
+  "122153": [
+   {
+    "d": "16/08/2026",
+    "v": 2.5
+   }
+  ],
+  "1075588": [
+   {
+    "d": "16/08/2026",
+    "v": 1.2
+   }
+  ],
+  "263918": [
+   {
+    "d": "16/08/2026",
+    "v": 18.0
+   }
+  ],
+  "743387": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "1171981": [
+   {
+    "d": "16/08/2026",
+    "v": 15.0
+   }
+  ],
+  "466810": [
+   {
+    "d": "16/08/2026",
+    "v": 15.0
+   }
+  ],
+  "165793": [
+   {
+    "d": "16/08/2026",
+    "v": 10.0
+   }
+  ],
+  "503770": [
+   {
+    "d": "16/08/2026",
+    "v": 50.0
+   }
+  ],
+  "659543": [
+   {
+    "d": "16/08/2026",
+    "v": 20.0
+   }
+  ],
+  "565821": [
+   {
+    "d": "16/08/2026",
+    "v": 15.0
+   }
+  ],
+  "918414": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "585323": [
+   {
+    "d": "16/08/2026",
+    "v": 15.0
+   }
+  ],
+  "965043": [
+   {
+    "d": "16/08/2026",
+    "v": 0.6
+   }
+  ],
+  "786436": [
+   {
+    "d": "16/08/2026",
+    "v": 20.0
+   }
+  ],
+  "926978": [
+   {
+    "d": "16/08/2026",
+    "v": 18.0
+   }
+  ],
+  "621993": [
+   {
+    "d": "16/08/2026",
+    "v": 8.0
+   }
+  ],
+  "659513": [
+   {
+    "d": "16/08/2026",
+    "v": 6.0
+   }
+  ],
+  "962555": [
+   {
+    "d": "16/08/2026",
+    "v": 2.5
+   }
+  ],
+  "1185890": [
+   {
+    "d": "16/08/2026",
+    "v": 0.0
+   }
+  ],
+  "316125": [
+   {
+    "d": "16/08/2026",
+    "v": 10.0
+   }
+  ],
+  "984529": [
+   {
+    "d": "16/08/2026",
+    "v": 5.0
+   }
+  ],
+  "711980": [
+   {
+    "d": "16/08/2026",
+    "v": 20.0
+   }
+  ],
+  "991487": [
+   {
+    "d": "16/08/2026",
+    "v": 15.0
+   }
+  ],
+  "1045121": [
+   {
+    "d": "16/08/2026",
+    "v": 0.35
+   }
+  ],
+  "937729": [
+   {
+    "d": "16/08/2026",
+    "v": 8.0
+   }
+  ],
+  "863204": [
+   {
+    "d": "16/08/2026",
+    "v": 5.0
+   }
+  ],
+  "1183575": [
+   {
+    "d": "16/08/2026",
+    "v": 2.5
+   }
+  ],
+  "1130514": [
+   {
+    "d": "16/08/2026",
+    "v": 22.0
+   }
+  ],
+  "1010854": [
+   {
+    "d": "16/08/2026",
+    "v": 9.0
+   }
+  ],
+  "949113": [
+   {
+    "d": "16/08/2026",
+    "v": 9.0
+   }
+  ],
+  "655006": [
+   {
+    "d": "16/08/2026",
+    "v": 25.0
+   }
+  ],
+  "660867": [
+   {
+    "d": "16/08/2026",
+    "v": 25.0
+   }
+  ],
+  "504215": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "1172441": [
+   {
+    "d": "16/08/2026",
+    "v": 0.5
+   }
+  ],
+  "992686": [
+   {
+    "d": "16/08/2026",
+    "v": 22.0
+   }
+  ],
+  "579928": [
+   {
+    "d": "16/08/2026",
+    "v": 15.0
+   }
+  ],
+  "910541": [
+   {
+    "d": "16/08/2026",
+    "v": 5.0
+   }
+  ],
+  "1151929": [
+   {
+    "d": "16/08/2026",
+    "v": 12.0
+   }
+  ],
+  "933900": [
+   {
+    "d": "16/08/2026",
+    "v": 8.0
+   }
+  ],
+  "1133733": [
+   {
+    "d": "16/08/2026",
+    "v": 0.3
+   }
+  ],
+  "1064871": [
+   {
+    "d": "16/08/2026",
+    "v": 35.0
+   }
+  ],
+  "557612": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "845872": [
+   {
+    "d": "16/08/2026",
+    "v": 3.5
+   }
+  ],
+  "147051": [
+   {
+    "d": "16/08/2026",
+    "v": 2.5
+   }
+  ],
+  "333175": [
+   {
+    "d": "16/08/2026",
+    "v": 0.6
+   }
+  ],
+  "124901": [
+   {
+    "d": "16/08/2026",
+    "v": 0.1
+   }
+  ],
+  "496706": [
+   {
+    "d": "16/08/2026",
+    "v": 8.0
+   }
+  ],
+  "649023": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "646829": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "708678": [
+   {
+    "d": "16/08/2026",
+    "v": 1.2
+   }
+  ],
+  "1130941": [
+   {
+    "d": "16/08/2026",
+    "v": 0.3
+   }
+  ],
+  "1088199": [
+   {
+    "d": "16/08/2026",
+    "v": 15.0
+   }
+  ],
+  "1049151": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "324800": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "1074628": [
+   {
+    "d": "16/08/2026",
+    "v": 20.0
+   }
+  ],
+  "691958": [
+   {
+    "d": "16/08/2026",
+    "v": 3.0
+   }
+  ],
+  "743395": [
+   {
+    "d": "16/08/2026",
+    "v": 2.0
+   }
+  ],
+  "766412": [
+   {
+    "d": "16/08/2026",
+    "v": 5.0
+   }
+  ],
+  "816308": [
+   {
+    "d": "16/08/2026",
+    "v": 2.0
+   }
+  ],
+  "700078": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "322305": [
+   {
+    "d": "16/08/2026",
+    "v": 6.0
+   }
+  ],
+  "1254786": [
+   {
+    "d": "16/08/2026",
+    "v": 1.2
+   }
+  ],
+  "590914": [
+   {
+    "d": "16/08/2026",
+    "v": 0.15
+   }
+  ],
+  "981760": [
+   {
+    "d": "16/08/2026",
+    "v": 0.7
+   }
+  ],
+  "666971": [
+   {
+    "d": "16/08/2026",
+    "v": 3.0
+   }
+  ],
+  "619461": [
+   {
+    "d": "16/08/2026",
+    "v": 2.0
+   }
+  ],
+  "239647": [
+   {
+    "d": "16/08/2026",
+    "v": 1.8
+   }
+  ],
+  "912902": [
+   {
+    "d": "16/08/2026",
+    "v": 18.0
+   }
+  ],
+  "1075580": [
+   {
+    "d": "16/08/2026",
+    "v": 2.5
+   }
+  ],
+  "429259": [
+   {
+    "d": "16/08/2026",
+    "v": 7.0
+   }
+  ],
+  "283227": [
+   {
+    "d": "16/08/2026",
+    "v": 5.0
+   }
+  ],
+  "1075583": [
+   {
+    "d": "16/08/2026",
+    "v": 5.0
+   }
+  ],
+  "1191444": [
+   {
+    "d": "16/08/2026",
+    "v": 18.0
+   }
+  ],
+  "1270796": [
+   {
+    "d": "16/08/2026",
+    "v": 0.8
+   }
+  ],
+  "923758": [
+   {
+    "d": "16/08/2026",
+    "v": 0.25
+   }
+  ],
+  "883865": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "1177290": [
+   {
+    "d": "16/08/2026",
+    "v": 0.9
+   }
+  ],
+  "1200427": [
+   {
+    "d": "16/08/2026",
+    "v": 15.0
+   }
+  ],
+  "467632": [
+   {
+    "d": "16/08/2026",
+    "v": 9.0
+   }
+  ],
+  "658533": [
+   {
+    "d": "16/08/2026",
+    "v": 2.0
+   }
+  ],
+  "275249": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "710885": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "476836": [
+   {
+    "d": "16/08/2026",
+    "v": 5.0
+   }
+  ],
+  "986310": [
+   {
+    "d": "16/08/2026",
+    "v": 0.5
+   }
+  ],
+  "463613": [
+   {
+    "d": "16/08/2026",
+    "v": 18.0
+   }
+  ],
+  "1368526": [
+   {
+    "d": "16/08/2026",
+    "v": 0.45
+   }
+  ],
+  "989574": [
+   {
+    "d": "16/08/2026",
+    "v": 6.0
+   }
+  ],
+  "683625": [
+   {
+    "d": "16/08/2026",
+    "v": 3.0
+   }
+  ],
+  "1234988": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "1075572": [
+   {
+    "d": "16/08/2026",
+    "v": 0.0
+   }
+  ],
+  "750878": [
+   {
+    "d": "16/08/2026",
+    "v": 5.0
+   }
+  ],
+  "45672": [
+   {
+    "d": "16/08/2026",
+    "v": 1.8
+   }
+  ],
+  "660860": [
+   {
+    "d": "16/08/2026",
+    "v": 18.0
+   }
+  ],
+  "818495": [
+   {
+    "d": "16/08/2026",
+    "v": 10.0
+   }
+  ],
+  "649026": [
+   {
+    "d": "16/08/2026",
+    "v": 9.0
+   }
+  ],
+  "668167": [
+   {
+    "d": "16/08/2026",
+    "v": 3.0
+   }
+  ],
+  "914539": [
+   {
+    "d": "16/08/2026",
+    "v": 0.6
+   }
+  ],
+  "955281": [
+   {
+    "d": "16/08/2026",
+    "v": 10.0
+   }
+  ],
+  "340177": [
+   {
+    "d": "16/08/2026",
+    "v": 1.8
+   }
+  ],
+  "433887": [
+   {
+    "d": "16/08/2026",
+    "v": 0.4
+   }
+  ],
+  "1185941": [
+   {
+    "d": "16/08/2026",
+    "v": 0.0
+   }
+  ],
+  "297070": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "290862": [
+   {
+    "d": "16/08/2026",
+    "v": 5.0
+   }
+  ],
+  "377393": [
+   {
+    "d": "16/08/2026",
+    "v": 4.5
+   }
+  ],
+  "973949": [
+   {
+    "d": "16/08/2026",
+    "v": 3.0
+   }
+  ],
+  "1363293": [
+   {
+    "d": "16/08/2026",
+    "v": 20.0
+   }
+  ],
+  "1241211": [
+   {
+    "d": "16/08/2026",
+    "v": 20.0
+   }
+  ],
+  "374040": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "810411": [
+   {
+    "d": "16/08/2026",
+    "v": 15.0
+   }
+  ],
+  "274862": [
+   {
+    "d": "16/08/2026",
+    "v": 7.0
+   }
+  ],
+  "739769": [
+   {
+    "d": "16/08/2026",
+    "v": 12.0
+   }
+  ],
+  "745461": [
+   {
+    "d": "16/08/2026",
+    "v": 6.0
+   }
+  ],
+  "324690": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "569140": [
+   {
+    "d": "16/08/2026",
+    "v": 10.0
+   }
+  ],
+  "358515": [
+   {
+    "d": "16/08/2026",
+    "v": 3.5
+   }
+  ],
+  "1132426": [
+   {
+    "d": "16/08/2026",
+    "v": 1.0
+   }
+  ],
+  "525155": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "380744": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "1228465": [
+   {
+    "d": "16/08/2026",
+    "v": 0.0
+   }
+  ],
+  "250779": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "249636": [
+   {
+    "d": "16/08/2026",
+    "v": 3.0
+   }
+  ],
+  "1166473": [
+   {
+    "d": "16/08/2026",
+    "v": 0.8
+   }
+  ],
+  "805908": [
+   {
+    "d": "16/08/2026",
+    "v": 6.0
+   }
+  ],
+  "1030153": [
+   {
+    "d": "16/08/2026",
+    "v": 1.0
+   }
+  ],
+  "174196": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "1144999": [
+   {
+    "d": "16/08/2026",
+    "v": 1.2
+   }
+  ],
+  "624037": [
+   {
+    "d": "16/08/2026",
+    "v": 7.0
+   }
+  ],
+  "671593": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "1200289": [
+   {
+    "d": "16/08/2026",
+    "v": 1.0
+   }
+  ],
+  "474662": [
+   {
+    "d": "16/08/2026",
+    "v": 6.0
+   }
+  ],
+  "748807": [
+   {
+    "d": "16/08/2026",
+    "v": 2.0
+   }
+  ],
+  "353948": [
+   {
+    "d": "16/08/2026",
+    "v": 2.0
+   }
+  ],
+  "671594": [
+   {
+    "d": "16/08/2026",
+    "v": 9.0
+   }
+  ],
+  "979551": [
+   {
+    "d": "16/08/2026",
+    "v": 2.5
+   }
+  ],
+  "353399": [
+   {
+    "d": "16/08/2026",
+    "v": 7.0
+   }
+  ],
+  "924800": [
+   {
+    "d": "16/08/2026",
+    "v": 0.6
+   }
+  ],
+  "325223": [
+   {
+    "d": "16/08/2026",
+    "v": 3.0
+   }
+  ],
+  "283994": [
+   {
+    "d": "16/08/2026",
+    "v": 3.0
+   }
+  ],
+  "60561": [
+   {
+    "d": "16/08/2026",
+    "v": 0.9
+   }
+  ],
+  "548347": [
+   {
+    "d": "16/08/2026",
+    "v": 0.3
+   }
+  ],
+  "1073176": [
+   {
+    "d": "16/08/2026",
+    "v": 0.2
+   }
+  ],
+  "804711": [
+   {
+    "d": "16/08/2026",
+    "v": 8.0
+   }
+  ],
+  "1071956": [
+   {
+    "d": "16/08/2026",
+    "v": 2.5
+   }
+  ],
+  "192492": [
+   {
+    "d": "16/08/2026",
+    "v": 1.0
+   }
+  ],
+  "970279": [
+   {
+    "d": "16/08/2026",
+    "v": 9.0
+   }
+  ],
+  "829874": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "1103652": [
+   {
+    "d": "16/08/2026",
+    "v": 2.0
+   }
+  ],
+  "371686": [
+   {
+    "d": "16/08/2026",
+    "v": 1.8
+   }
+  ],
+  "807688": [
+   {
+    "d": "16/08/2026",
+    "v": 7.0
+   }
+  ],
+  "203938": [
+   {
+    "d": "16/08/2026",
+    "v": 2.5
+   }
+  ],
+  "138055": [
+   {
+    "d": "16/08/2026",
+    "v": 1.8
+   }
+  ],
+  "904662": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "851220": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "1088110": [
+   {
+    "d": "16/08/2026",
+    "v": 1.0
+   }
+  ],
+  "1133929": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "646733": [
+   {
+    "d": "16/08/2026",
+    "v": 1.0
+   }
+  ],
+  "1103958": [
+   {
+    "d": "16/08/2026",
+    "v": 15.0
+   }
+  ],
+  "735051": [
+   {
+    "d": "16/08/2026",
+    "v": 2.5
+   }
+  ],
+  "766839": [
+   {
+    "d": "16/08/2026",
+    "v": 0.7
+   }
+  ],
+  "164904": [
+   {
+    "d": "16/08/2026",
+    "v": 0.9
+   }
+  ],
+  "164915": [
+   {
+    "d": "16/08/2026",
+    "v": 0.7
+   }
+  ],
+  "988275": [
+   {
+    "d": "16/08/2026",
+    "v": 0.2
+   }
+  ],
+  "405389": [
+   {
+    "d": "16/08/2026",
+    "v": 5.0
+   }
+  ],
+  "1228317": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "122115": [
+   {
+    "d": "16/08/2026",
+    "v": 0.15
+   }
+  ],
+  "691841": [
+   {
+    "d": "16/08/2026",
+    "v": 2.5
+   }
+  ],
+  "1119881": [
+   {
+    "d": "16/08/2026",
+    "v": 1.8
+   }
+  ],
+  "798925": [
+   {
+    "d": "16/08/2026",
+    "v": 2.0
+   }
+  ],
+  "538998": [
+   {
+    "d": "16/08/2026",
+    "v": 1.8
+   }
+  ],
+  "1011200": [
+   {
+    "d": "16/08/2026",
+    "v": 6.0
+   }
+  ],
+  "1119880": [
+   {
+    "d": "16/08/2026",
+    "v": 0.3
+   }
+  ],
+  "662242": [
+   {
+    "d": "16/08/2026",
+    "v": 8.0
+   }
+  ],
+  "770436": [
+   {
+    "d": "16/08/2026",
+    "v": 4.5
+   }
+  ],
+  "893675": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "1119877": [
+   {
+    "d": "16/08/2026",
+    "v": 0.0
+   }
+  ],
+  "677794": [
+   {
+    "d": "16/08/2026",
+    "v": 0.6
+   }
+  ],
+  "789091": [
+   {
+    "d": "16/08/2026",
+    "v": 0.4
+   }
+  ],
+  "986286": [
+   {
+    "d": "16/08/2026",
+    "v": 0.4
+   }
+  ],
+  "507496": [
+   {
+    "d": "16/08/2026",
+    "v": 0.5
+   }
+  ],
+  "651973": [
+   {
+    "d": "16/08/2026",
+    "v": 0.5
+   }
+  ],
+  "453824": [
+   {
+    "d": "16/08/2026",
+    "v": 4.5
+   }
+  ],
+  "1268075": [
+   {
+    "d": "16/08/2026",
+    "v": 0.9
+   }
+  ],
+  "182201": [
+   {
+    "d": "16/08/2026",
+    "v": 0.7
+   }
+  ],
+  "770407": [
+   {
+    "d": "16/08/2026",
+    "v": 0.2
+   }
+  ],
+  "975348": [
+   {
+    "d": "16/08/2026",
+    "v": 0.1
+   }
+  ],
+  "917147": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "189744": [
+   {
+    "d": "16/08/2026",
+    "v": 1.2
+   }
+  ],
+  "1167216": [
+   {
+    "d": "16/08/2026",
+    "v": 0.0
+   }
+  ],
+  "806793": [
+   {
+    "d": "16/08/2026",
+    "v": 9.0
+   }
+  ],
+  "702441": [
+   {
+    "d": "16/08/2026",
+    "v": 6.0
+   }
+  ],
+  "539795": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "371436": [
+   {
+    "d": "16/08/2026",
+    "v": 1.2
+   }
+  ],
+  "1091353": [
+   {
+    "d": "16/08/2026",
+    "v": 1.0
+   }
+  ],
+  "1113528": [
+   {
+    "d": "16/08/2026",
+    "v": 0.8
+   }
+  ],
+  "1291928": [
+   {
+    "d": "16/08/2026",
+    "v": 0.0
+   }
+  ],
+  "1144938": [
+   {
+    "d": "16/08/2026",
+    "v": 0.0
+   }
+  ],
+  "539665": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "668941": [
+   {
+    "d": "16/08/2026",
+    "v": 0.8
+   }
+  ],
+  "1205629": [
+   {
+    "d": "16/08/2026",
+    "v": 0.0
+   }
+  ],
+  "830890": [
+   {
+    "d": "16/08/2026",
+    "v": 3.0
+   }
+  ],
+  "796865": [
+   {
+    "d": "16/08/2026",
+    "v": 2.5
+   }
+  ],
+  "395695": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "775981": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "287635": [
+   {
+    "d": "16/08/2026",
+    "v": 0.5
+   }
+  ],
+  "743496": [
+   {
+    "d": "16/08/2026",
+    "v": 20.0
+   }
+  ],
+  "538971": [
+   {
+    "d": "16/08/2026",
+    "v": 3.0
+   }
+  ],
+  "1174032": [
+   {
+    "d": "16/08/2026",
+    "v": 0.3
+   }
+  ],
+  "555076": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "392767": [
+   {
+    "d": "16/08/2026",
+    "v": 6.0
+   }
+  ],
+  "1310513": [
+   {
+    "d": "16/08/2026",
+    "v": 2.5
+   }
+  ],
+  "1119338": [
+   {
+    "d": "16/08/2026",
+    "v": 0.4
+   }
+  ],
+  "763182": [
+   {
+    "d": "16/08/2026",
+    "v": 3.0
+   }
+  ],
+  "658534": [
+   {
+    "d": "16/08/2026",
+    "v": 0.8
+   }
+  ],
+  "412934": [
+   {
+    "d": "16/08/2026",
+    "v": 0.15
+   }
+  ],
+  "917778": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "501709": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "1010856": [
+   {
+    "d": "16/08/2026",
+    "v": 0.3
+   }
+  ],
+  "1265965": [
+   {
+    "d": "16/08/2026",
+    "v": 0.3
+   }
+  ],
+  "448632": [
+   {
+    "d": "16/08/2026",
+    "v": 7.0
+   }
+  ],
+  "789419": [
+   {
+    "d": "16/08/2026",
+    "v": 0.3
+   }
+  ],
+  "891998": [
+   {
+    "d": "16/08/2026",
+    "v": 10.0
+   }
+  ],
+  "1113451": [
+   {
+    "d": "16/08/2026",
+    "v": 10.0
+   }
+  ],
+  "674612": [
+   {
+    "d": "16/08/2026",
+    "v": 7.0
+   }
+  ],
+  "1089202": [
+   {
+    "d": "16/08/2026",
+    "v": 7.0
+   }
+  ],
+  "566025": [
+   {
+    "d": "16/08/2026",
+    "v": 2.5
+   }
+  ],
+  "532775": [
+   {
+    "d": "16/08/2026",
+    "v": 10.0
+   }
+  ],
+  "211474": [
+   {
+    "d": "16/08/2026",
+    "v": 2.0
+   }
+  ],
+  "175639": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "1134250": [
+   {
+    "d": "16/08/2026",
+    "v": 0.15
+   }
+  ],
+  "688707": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "1191473": [
+   {
+    "d": "16/08/2026",
+    "v": 2.0
+   }
+  ],
+  "238626": [
+   {
+    "d": "16/08/2026",
+    "v": 1.8
+   }
+  ],
+  "560593": [
+   {
+    "d": "16/08/2026",
+    "v": 12.0
+   }
+  ],
+  "174094": [
+   {
+    "d": "16/08/2026",
+    "v": 3.5
+   }
+  ],
+  "1208968": [
+   {
+    "d": "16/08/2026",
+    "v": 1.0
+   }
+  ],
+  "1180835": [
+   {
+    "d": "16/08/2026",
+    "v": 0.25
+   }
+  ],
+  "569389": [
+   {
+    "d": "16/08/2026",
+    "v": 15.0
+   }
+  ],
+  "535820": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "670847": [
+   {
+    "d": "16/08/2026",
+    "v": 15.0
+   }
+  ],
+  "344892": [
+   {
+    "d": "16/08/2026",
+    "v": 5.0
+   }
+  ],
+  "538874": [
+   {
+    "d": "16/08/2026",
+    "v": 8.0
+   }
+  ],
+  "1231401": [
+   {
+    "d": "16/08/2026",
+    "v": 0.4
+   }
+  ],
+  "983578": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "170549": [
+   {
+    "d": "16/08/2026",
+    "v": 0.4
+   }
+  ],
+  "111041": [
+   {
+    "d": "16/08/2026",
+    "v": 0.1
+   }
+  ],
+  "1009596": [
+   {
+    "d": "16/08/2026",
+    "v": 6.0
+   }
+  ],
+  "487333": [
+   {
+    "d": "16/08/2026",
+    "v": 1.2
+   }
+  ],
+  "281611": [
+   {
+    "d": "16/08/2026",
+    "v": 0.2
+   }
+  ],
+  "900037": [
+   {
+    "d": "16/08/2026",
+    "v": 0.0
+   }
+  ],
+  "770895": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "1119845": [
+   {
+    "d": "16/08/2026",
+    "v": 0.5
+   }
+  ],
+  "986299": [
+   {
+    "d": "16/08/2026",
+    "v": 2.5
+   }
+  ],
+  "536473": [
+   {
+    "d": "16/08/2026",
+    "v": 0.8
+   }
+  ],
+  "585951": [
+   {
+    "d": "16/08/2026",
+    "v": 0.35
+   }
+  ],
+  "1174523": [
+   {
+    "d": "16/08/2026",
+    "v": 0.05
+   }
+  ],
+  "933147": [
+   {
+    "d": "16/08/2026",
+    "v": 4.0
+   }
+  ],
+  "807653": [
+   {
+    "d": "16/08/2026",
+    "v": 2.5
+   }
+  ],
+  "693352": [
+   {
+    "d": "16/08/2026",
+    "v": 1.4
+   }
+  ],
+  "575319": [
+   {
+    "d": "16/08/2026",
+    "v": 1.2
+   }
+  ],
+  "931841": [
+   {
+    "d": "16/08/2026",
+    "v": 0.8
+   }
+  ],
+  "1372119": [
+   {
+    "d": "16/08/2026",
+    "v": 0.6
+   }
+  ],
+  "976861": [
+   {
+    "d": "16/08/2026",
+    "v": 2.5
+   }
+  ],
+  "1179193": [
+   {
+    "d": "16/08/2026",
+    "v": 0.05
+   }
+  ],
+  "234802": [
+   {
+    "d": "16/08/2026",
+    "v": 0.35
+   }
+  ],
+  "1146422": [
+   {
+    "d": "16/08/2026",
+    "v": 0.05
+   }
+  ],
+  "357069": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "725963": [
+   {
+    "d": "16/08/2026",
+    "v": 0.15
+   }
+  ],
+  "569359": [
+   {
+    "d": "16/08/2026",
+    "v": 0.0
+   }
+  ],
+  "1169041": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "801762": [
+   {
+    "d": "16/08/2026",
+    "v": 0.9
+   }
+  ],
+  "344382": [
+   {
+    "d": "16/08/2026",
+    "v": 0.7
+   }
+  ],
+  "386048": [
+   {
+    "d": "16/08/2026",
+    "v": 0.2
+   }
+  ],
+  "857653": [
+   {
+    "d": "16/08/2026",
+    "v": 2.5
+   }
+  ],
+  "554251": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "531960": [
+   {
+    "d": "16/08/2026",
+    "v": 1.5
+   }
+  ],
+  "979760": [
+   {
+    "d": "16/08/2026",
+    "v": 1.0
+   }
+  ],
+  "941561": [
+   {
+    "d": "16/08/2026",
+    "v": 1.2
+   }
+  ],
+  "666744": [
+   {
+    "d": "16/08/2026",
+    "v": 0.6
+   }
+  ],
+  "371143": [
+   {
+    "d": "16/08/2026",
+    "v": 1.0
+   }
+  ],
+  "590048": [
+   {
+    "d": "16/08/2026",
+    "v": 0.5
+   }
+  ],
+  "1166137": [
+   {
+    "d": "16/08/2026",
+    "v": 0.5
+   }
+  ],
+  "626592": [
+   {
+    "d": "16/08/2026",
+    "v": 0.4
+   }
+  ],
+  "986300": [
+   {
+    "d": "16/08/2026",
+    "v": 0.4
+   }
+  ],
+  "1010671": [
+   {
+    "d": "16/08/2026",
+    "v": 0.4
+   }
+  ],
+  "804386": [
+   {
+    "d": "16/08/2026",
+    "v": 0.6
+   }
+  ],
+  "543051": [
+   {
+    "d": "16/08/2026",
+    "v": 1.0
+   }
+  ],
+  "461790": [
+   {
+    "d": "16/08/2026",
+    "v": 1.0
+   }
+  ],
+  "146373": [
+   {
+    "d": "16/08/2026",
+    "v": 0.6
+   }
+  ],
+  "422711": [
+   {
+    "d": "16/08/2026",
+    "v": 0.6
+   }
+  ],
+  "1029482": [
+   {
+    "d": "16/08/2026",
+    "v": 0.4
    }
   ]
  }
