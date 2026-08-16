@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T21:58:20",
+ "updated": "2026-08-16T22:14:35",
  "sig": "7c69c8263c885918685137b362acabe5",
  "seen": {
   "PSG|in|Maghnes Akliouche|Monaco": "2026-08-09",
@@ -266,6 +266,7 @@
      "age": 24,
      "pos": "AiD",
      "club": "Monaco",
+     "club_id": 162,
      "type": "paid",
      "val": 50.0,
      "fs": "2026-08-09"
@@ -275,6 +276,7 @@
      "age": 26,
      "pos": "AC",
      "club": "Barcelone",
+     "club_id": 131,
      "type": "paid",
      "val": 45.0,
      "fs": "2026-08-15"
@@ -284,6 +286,7 @@
      "age": 21,
      "pos": "AiG",
      "club": "Ajax",
+     "club_id": 610,
      "type": "paid",
      "val": 45.0,
      "fs": "2026-08-16"
@@ -293,6 +296,7 @@
      "age": 33,
      "pos": "ArG",
      "club": "Aston Villa",
+     "club_id": 405,
      "type": "paid",
      "val": 7.0,
      "fs": "2026-08-09"
@@ -302,6 +306,7 @@
      "age": 21,
      "pos": "AiD",
      "club": "Stade Tunisien",
+     "club_id": 4812,
      "type": "paid",
      "val": 1.5,
      "fs": "2026-08-09"
@@ -313,6 +318,7 @@
      "age": 25,
      "pos": "AC",
      "club": "AC Milan",
+     "club_id": 5,
      "type": "paid",
      "val": 74.0,
      "fs": "2026-08-09"
@@ -322,6 +328,7 @@
      "age": 27,
      "pos": "AC",
      "club": "Juventus",
+     "club_id": 506,
      "type": "paid",
      "val": 41.2,
      "fs": "2026-08-09"
@@ -331,6 +338,7 @@
      "age": 25,
      "pos": "MO",
      "club": "Atlético",
+     "club_id": 13,
      "type": "paid",
      "val": 40.0,
      "fs": "2026-08-09"
@@ -340,6 +348,7 @@
      "age": 19,
      "pos": "DC",
      "club": "Ol. Lyonnais",
+     "club_id": 1041,
      "type": "paid",
      "val": 4.1,
      "fs": "2026-08-09"
@@ -349,6 +358,7 @@
      "age": 20,
      "pos": "MDC",
      "club": "Esp. Barcelona",
+     "club_id": 714,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -358,6 +368,7 @@
      "age": 21,
      "pos": "AiD",
      "club": "USL Dunkerque",
+     "club_id": 9202,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -367,6 +378,7 @@
      "age": 19,
      "pos": "GdB",
      "club": "Nacional",
+     "club_id": 982,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -384,6 +396,7 @@
      "age": 23,
      "pos": "MC",
      "club": "R Charleroi SC",
+     "club_id": 172,
      "type": "paid",
      "val": 8.0,
      "fs": "2026-08-09"
@@ -393,6 +406,7 @@
      "age": 26,
      "pos": "AiG",
      "club": "La Gantoise",
+     "club_id": 157,
      "type": "paid",
      "val": 6.0,
      "fs": "2026-08-09"
@@ -402,6 +416,7 @@
      "age": 26,
      "pos": "ArD",
      "club": "AS Roma",
+     "club_id": 12,
      "type": "paid",
      "val": 3.5,
      "fs": "2026-08-09"
@@ -411,6 +426,7 @@
      "age": 26,
      "pos": "MC",
      "club": "Hertha BSC",
+     "club_id": 44,
      "type": "paid",
      "val": 3.5,
      "fs": "2026-08-09"
@@ -420,6 +436,7 @@
      "age": 22,
      "pos": "AC",
      "club": "Benfica",
+     "club_id": 294,
      "type": "loan",
      "val": 2.5,
      "fs": "2026-08-12"
@@ -429,6 +446,7 @@
      "age": 25,
      "pos": "DC",
      "club": "Celtic Glasgow",
+     "club_id": 371,
      "type": "paid",
      "val": 2.5,
      "fs": "2026-08-09"
@@ -438,6 +456,7 @@
      "age": 33,
      "pos": "MO",
      "club": "RSC Anderlecht",
+     "club_id": 58,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -449,6 +468,7 @@
      "age": 24,
      "pos": "MC",
      "club": "Brentford",
+     "club_id": 1148,
      "type": "paid",
      "val": 48.0,
      "fs": "2026-08-09"
@@ -458,6 +478,7 @@
      "age": 27,
      "pos": "DC",
      "club": "Marseille",
+     "club_id": 244,
      "type": "paid",
      "val": 18.0,
      "fs": "2026-08-09"
@@ -467,6 +488,7 @@
      "age": 25,
      "pos": "AiG",
      "club": "Panathinaikos",
+     "club_id": 265,
      "type": "paid",
      "val": 2.7,
      "fs": "2026-08-09"
@@ -476,6 +498,7 @@
      "age": 23,
      "pos": "AC",
      "club": "AJ Auxerre",
+     "club_id": 290,
      "type": "loan",
      "val": 1.5,
      "fs": "2026-08-09"
@@ -485,6 +508,7 @@
      "age": 27,
      "pos": "DC",
      "club": "NEOM SC",
+     "club_id": 34911,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -494,6 +518,7 @@
      "age": 29,
      "pos": "AiG",
      "club": "Charlotte",
+     "club_id": 78435,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -503,6 +528,7 @@
      "age": 31,
      "pos": "AiG",
      "club": "Al-Shamal SC",
+     "club_id": 10775,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -512,6 +538,7 @@
      "age": 29,
      "pos": "MO",
      "club": "Al-Khaleej",
+     "club_id": 6070,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -521,6 +548,7 @@
      "age": 32,
      "pos": "MC",
      "club": "Stade Rennais",
+     "club_id": 273,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -530,6 +558,7 @@
      "age": 25,
      "pos": "GdB",
      "club": "Amiens SC",
+     "club_id": 1416,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -539,6 +568,7 @@
      "age": 20,
      "pos": "MDC",
      "club": "FC Sion",
+     "club_id": 321,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -548,6 +578,7 @@
      "age": 20,
      "pos": "AiG",
      "club": "FCV Dender EH",
+     "club_id": 9010,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -557,6 +588,7 @@
      "age": 20,
      "pos": "AiD",
      "club": "SC Bastia",
+     "club_id": 595,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -566,6 +598,7 @@
      "age": 29,
      "pos": "GdB",
      "club": "Union SG",
+     "club_id": 3948,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -575,6 +608,7 @@
      "age": 20,
      "pos": "AiD",
      "club": "Jagiellonia",
+     "club_id": 2300,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -584,6 +618,7 @@
      "age": 26,
      "pos": "AC",
      "club": "KV Kortrijk",
+     "club_id": 601,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -593,6 +628,7 @@
      "age": 23,
      "pos": "GdB",
      "club": "Palerme",
+     "club_id": 458,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -602,6 +638,7 @@
      "age": 21,
      "pos": "AiG",
      "club": "Angers SCO",
+     "club_id": 1420,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -611,6 +648,7 @@
      "age": 20,
      "pos": "AC",
      "club": "QRM",
+     "club_id": 7124,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-15"
@@ -628,6 +666,7 @@
      "age": 22,
      "pos": "AiG",
      "club": "NEC Nijmegen",
+     "club_id": 467,
      "type": "paid",
      "val": 12.5,
      "fs": "2026-08-09"
@@ -637,6 +676,7 @@
      "age": 19,
      "pos": "ArD",
      "club": "Servette FC",
+     "club_id": 61,
      "type": "paid",
      "val": 3.0,
      "fs": "2026-08-09"
@@ -646,6 +686,7 @@
      "age": 24,
      "pos": "DC",
      "club": "Séville FC",
+     "club_id": 368,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -657,6 +698,7 @@
      "age": 23,
      "pos": "MDC",
      "club": "Burnley FC",
+     "club_id": 1132,
      "type": "paid",
      "val": 5.0,
      "fs": "2026-08-09"
@@ -666,6 +708,7 @@
      "age": 20,
      "pos": "AiD",
      "club": "Pisa",
+     "club_id": 4172,
      "type": "paid",
      "val": 2.0,
      "fs": "2026-08-09"
@@ -675,6 +718,7 @@
      "age": 20,
      "pos": "ArG",
      "club": "Cracovia",
+     "club_id": 5689,
      "type": "paid",
      "val": 0.5,
      "fs": "2026-08-09"
@@ -684,6 +728,7 @@
      "age": 31,
      "pos": "DC",
      "club": "Al-Diriyah",
+     "club_id": 52358,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-10"
@@ -693,6 +738,7 @@
      "age": 34,
      "pos": "ArD",
      "club": "AFC Sunderland",
+     "club_id": 289,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -702,6 +748,7 @@
      "age": 34,
      "pos": "DC",
      "club": "UD Levante",
+     "club_id": 3368,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -711,6 +758,7 @@
      "age": 20,
      "pos": "GdB",
      "club": "Torreense",
+     "club_id": 2432,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -720,6 +768,7 @@
      "age": 24,
      "pos": "DC",
      "club": "Marítimo",
+     "club_id": 1301,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -729,6 +778,7 @@
      "age": 32,
      "pos": "GdB",
      "club": "Sans club",
+     "club_id": 515,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -746,6 +796,7 @@
      "age": 25,
      "pos": "MC",
      "club": "RB Salzbourg",
+     "club_id": 409,
      "type": "paid",
      "val": 10.5,
      "fs": "2026-08-09"
@@ -755,6 +806,7 @@
      "age": 20,
      "pos": "AiG",
      "club": "Dortmund",
+     "club_id": 16,
      "type": "paid",
      "val": 5.0,
      "fs": "2026-08-09"
@@ -764,6 +816,7 @@
      "age": 25,
      "pos": "DC",
      "club": "Estoril",
+     "club_id": 1465,
      "type": "paid",
      "val": 4.3,
      "fs": "2026-08-09"
@@ -773,6 +826,7 @@
      "age": 19,
      "pos": "DC",
      "club": "PSG",
+     "club_id": 583,
      "type": "paid",
      "val": 4.1,
      "fs": "2026-08-09"
@@ -782,6 +836,7 @@
      "age": 26,
      "pos": "AC",
      "club": "Juventus",
+     "club_id": 506,
      "type": "loan",
      "val": 3.5,
      "fs": "2026-08-09"
@@ -791,6 +846,7 @@
      "age": 23,
      "pos": "ArG",
      "club": "SCR Altach",
+     "club_id": 3551,
      "type": "paid",
      "val": 2.2,
      "fs": "2026-08-09"
@@ -800,6 +856,7 @@
      "age": 20,
      "pos": "AiD",
      "club": "OGC Nice",
+     "club_id": 417,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -809,6 +866,7 @@
      "age": 21,
      "pos": "ArD",
      "club": "AC Milan",
+     "club_id": 5,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-14"
@@ -820,6 +878,7 @@
      "age": 21,
      "pos": "AiG",
      "club": "Leverkusen",
+     "club_id": 15,
      "type": "paid",
      "val": 29.5,
      "fs": "2026-08-09"
@@ -829,6 +888,7 @@
      "age": 25,
      "pos": "AC",
      "club": "FC Getafe",
+     "club_id": 3709,
      "type": "paid",
      "val": 6.5,
      "fs": "2026-08-09"
@@ -838,6 +898,7 @@
      "age": 23,
      "pos": "ArG",
      "club": "Ittihad Tanger",
+     "club_id": 12721,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -847,6 +908,7 @@
      "age": 28,
      "pos": "MDC",
      "club": "FC Getafe",
+     "club_id": 3709,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -856,6 +918,7 @@
      "age": 18,
      "pos": "AC",
      "club": "Lausanne-Sport",
+     "club_id": 527,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-11"
@@ -865,6 +928,7 @@
      "age": 20,
      "pos": "AC",
      "club": "Montpellier",
+     "club_id": 969,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -874,6 +938,7 @@
      "age": 34,
      "pos": "AiD",
      "club": "Sans club",
+     "club_id": 515,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -891,6 +956,7 @@
      "age": 27,
      "pos": "DC",
      "club": "RC Lens",
+     "club_id": 826,
      "type": "paid",
      "val": 18.0,
      "fs": "2026-08-09"
@@ -900,6 +966,7 @@
      "age": 26,
      "pos": "MD",
      "club": "Juventus",
+     "club_id": 506,
      "type": "paid",
      "val": 14.4,
      "fs": "2026-08-09"
@@ -909,6 +976,7 @@
      "age": 26,
      "pos": "AiG",
      "club": "Bournemouth",
+     "club_id": 989,
      "type": "paid",
      "val": 7.7,
      "fs": "2026-08-09"
@@ -920,6 +988,7 @@
      "age": 24,
      "pos": "AiD",
      "club": "Fenerbahçe",
+     "club_id": 36,
      "type": "paid",
      "val": 39.0,
      "fs": "2026-08-09"
@@ -929,6 +998,7 @@
      "age": 27,
      "pos": "DC",
      "club": "Leverkusen",
+     "club_id": 15,
      "type": "paid",
      "val": 23.0,
      "fs": "2026-08-11"
@@ -938,6 +1008,7 @@
      "age": 26,
      "pos": "AiG",
      "club": "Genoa",
+     "club_id": 252,
      "type": "loan",
      "val": 2.0,
      "fs": "2026-08-09"
@@ -947,6 +1018,7 @@
      "age": 34,
      "pos": "GdB",
      "club": "Man City",
+     "club_id": 281,
      "type": "paid",
      "val": 2.0,
      "fs": "2026-08-12"
@@ -956,6 +1028,7 @@
      "age": 37,
      "pos": "AC",
      "club": "Dep. La Corogne",
+     "club_id": 897,
      "type": "paid",
      "val": 1.5,
      "fs": "2026-08-09"
@@ -965,6 +1038,7 @@
      "age": 22,
      "pos": "MC",
      "club": "Hambourg",
+     "club_id": 41,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -982,6 +1056,7 @@
      "age": 21,
      "pos": "AC",
      "club": "AFC Sunderland",
+     "club_id": 289,
      "type": "paid",
      "val": 22.0,
      "fs": "2026-08-09"
@@ -991,6 +1066,7 @@
      "age": 25,
      "pos": "ArD",
      "club": "KVC Westerlo",
+     "club_id": 968,
      "type": "paid",
      "val": 4.6,
      "fs": "2026-08-09"
@@ -1000,6 +1076,7 @@
      "age": 19,
      "pos": "DC",
      "club": "Benfica B",
+     "club_id": 10330,
      "type": "paid",
      "val": 3.5,
      "fs": "2026-08-09"
@@ -1009,6 +1086,7 @@
      "age": 23,
      "pos": "DC",
      "club": "Toulouse",
+     "club_id": 415,
      "type": "loan",
      "val": 2.5,
      "fs": "2026-08-09"
@@ -1018,6 +1096,7 @@
      "age": 28,
      "pos": "AiD",
      "club": "Mainz",
+     "club_id": 39,
      "type": "paid",
      "val": 2.2,
      "fs": "2026-08-09"
@@ -1027,6 +1106,7 @@
      "age": 25,
      "pos": "AiG",
      "club": "Le Havre AC",
+     "club_id": 738,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1036,6 +1116,7 @@
      "age": 32,
      "pos": "MC",
      "club": "RC Lens",
+     "club_id": 826,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1045,6 +1126,7 @@
      "age": 29,
      "pos": "GdB",
      "club": "Troyes",
+     "club_id": 1095,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1056,6 +1138,7 @@
      "age": 20,
      "pos": "DC",
      "club": "Liverpool",
+     "club_id": 31,
      "type": "paid",
      "val": 63.6,
      "fs": "2026-08-09"
@@ -1065,6 +1148,7 @@
      "age": 25,
      "pos": "MO",
      "club": "Hambourg",
+     "club_id": 41,
      "type": "paid",
      "val": 4.7,
      "fs": "2026-08-09"
@@ -1074,6 +1158,7 @@
      "age": 22,
      "pos": "DC",
      "club": "1.FC Nürnberg",
+     "club_id": 4,
      "type": "loan",
      "val": 0.2,
      "fs": "2026-08-09"
@@ -1083,6 +1168,7 @@
      "age": 21,
      "pos": "AC",
      "club": "Racing",
+     "club_id": 630,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1092,6 +1178,7 @@
      "age": 30,
      "pos": "MC",
      "club": "QPR",
+     "club_id": 1039,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1101,6 +1188,7 @@
      "age": 22,
      "pos": "ArD",
      "club": "Le Mans FC",
+     "club_id": 1164,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1110,6 +1198,7 @@
      "age": 20,
      "pos": "AiD",
      "club": "Montpellier",
+     "club_id": 969,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1119,6 +1208,7 @@
      "age": 19,
      "pos": "AiG",
      "club": "Concarneau",
+     "club_id": 21688,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1128,6 +1218,7 @@
      "age": 20,
      "pos": "GdB",
      "club": "QRM",
+     "club_id": 7124,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1137,6 +1228,7 @@
      "age": 20,
      "pos": "MDC",
      "club": "FC Villefranche",
+     "club_id": 18633,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1146,6 +1238,7 @@
      "age": 32,
      "pos": "ArD",
      "club": "Sans club",
+     "club_id": 515,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1163,6 +1256,7 @@
      "age": 23,
      "pos": "AC",
      "club": "FC Nantes",
+     "club_id": 995,
      "type": "paid",
      "val": 25.0,
      "fs": "2026-08-09"
@@ -1172,6 +1266,7 @@
      "age": 23,
      "pos": "AiG",
      "club": "Barcelone",
+     "club_id": 131,
      "type": "paid",
      "val": 11.0,
      "fs": "2026-08-09"
@@ -1181,6 +1276,7 @@
      "age": 22,
      "pos": "DC",
      "club": "FC Metz",
+     "club_id": 347,
      "type": "paid",
      "val": 7.0,
      "fs": "2026-08-09"
@@ -1190,6 +1286,7 @@
      "age": 22,
      "pos": "ArG",
      "club": "Cercle Brugge",
+     "club_id": 520,
      "type": "paid",
      "val": 5.0,
      "fs": "2026-08-09"
@@ -1199,6 +1296,7 @@
      "age": 19,
      "pos": "AiG",
      "club": "Man City",
+     "club_id": 281,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1210,6 +1308,7 @@
      "age": 24,
      "pos": "AiD",
      "club": "PSG",
+     "club_id": 583,
      "type": "paid",
      "val": 50.0,
      "fs": "2026-08-09"
@@ -1219,6 +1318,7 @@
      "age": 20,
      "pos": "MDC",
      "club": "Newcastle",
+     "club_id": 762,
      "type": "paid",
      "val": 35.5,
      "fs": "2026-08-09"
@@ -1228,6 +1328,7 @@
      "age": 28,
      "pos": "ArG",
      "club": "Ajax",
+     "club_id": 610,
      "type": "paid",
      "val": 10.5,
      "fs": "2026-08-09"
@@ -1237,6 +1338,7 @@
      "age": 21,
      "pos": "ArG",
      "club": "Besiktas",
+     "club_id": 114,
      "type": "paid",
      "val": 8.0,
      "fs": "2026-08-09"
@@ -1246,6 +1348,7 @@
      "age": 21,
      "pos": "AiG",
      "club": "Cercle Brugge",
+     "club_id": 520,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1255,6 +1358,7 @@
      "age": 26,
      "pos": "GdB",
      "club": "Pafos",
+     "club_id": 45457,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1264,6 +1368,7 @@
      "age": 27,
      "pos": "MD",
      "club": "Sans club",
+     "club_id": 515,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1281,6 +1386,7 @@
      "age": 20,
      "pos": "MDC",
      "club": "Vit. Guimarães",
+     "club_id": 2420,
      "type": "paid",
      "val": 10.0,
      "fs": "2026-08-09"
@@ -1290,6 +1396,7 @@
      "age": 21,
      "pos": "AiG",
      "club": "Hambourg",
+     "club_id": 41,
      "type": "paid",
      "val": 7.0,
      "fs": "2026-08-14"
@@ -1299,6 +1406,7 @@
      "age": 18,
      "pos": "ArD",
      "club": "São Paulo U20",
+     "club_id": 14708,
      "type": "paid",
      "val": 5.0,
      "fs": "2026-08-09"
@@ -1308,6 +1416,7 @@
      "age": 23,
      "pos": "MO",
      "club": "Bor. M'gladbach",
+     "club_id": 18,
      "type": "paid",
      "val": 3.0,
      "fs": "2026-08-09"
@@ -1317,6 +1426,7 @@
      "age": 22,
      "pos": "ArG",
      "club": "Unión Santa Fe",
+     "club_id": 7097,
      "type": "paid",
      "val": 2.5,
      "fs": "2026-08-09"
@@ -1326,6 +1436,7 @@
      "age": 17,
      "pos": "MO",
      "club": "IFK Göteborg",
+     "club_id": 801,
      "type": "paid",
      "val": 1.9,
      "fs": "2026-08-09"
@@ -1335,6 +1446,7 @@
      "age": 20,
      "pos": "GdB",
      "club": "Jagiellonia",
+     "club_id": 2300,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1344,6 +1456,7 @@
      "age": 24,
      "pos": "GdB",
      "club": "Chelsea",
+     "club_id": 631,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-11"
@@ -1355,6 +1468,7 @@
      "age": 22,
      "pos": "MC",
      "club": "Chelsea",
+     "club_id": 631,
      "type": "paid",
      "val": 40.0,
      "fs": "2026-08-09"
@@ -1364,6 +1478,7 @@
      "age": 23,
      "pos": "AC",
      "club": "Chelsea",
+     "club_id": 631,
      "type": "paid",
      "val": 25.0,
      "fs": "2026-08-09"
@@ -1373,6 +1488,7 @@
      "age": 20,
      "pos": "MDC",
      "club": "West Brom",
+     "club_id": 984,
      "type": "paid",
      "val": 2.35,
      "fs": "2026-08-11"
@@ -1382,6 +1498,7 @@
      "age": 23,
      "pos": "MDC",
      "club": "Le Havre AC",
+     "club_id": 738,
      "type": "paid",
      "val": 1.5,
      "fs": "2026-08-09"
@@ -1391,6 +1508,7 @@
      "age": 24,
      "pos": "GdB",
      "club": "Alem. Aachen",
+     "club_id": 8,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1400,6 +1518,7 @@
      "age": 19,
      "pos": "AiG",
      "club": "Al-Ettifaq",
+     "club_id": 7732,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-14"
@@ -1409,6 +1528,7 @@
      "age": 24,
      "pos": "DC",
      "club": "FC Nantes",
+     "club_id": 995,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1418,6 +1538,7 @@
      "age": 20,
      "pos": "AiG",
      "club": "América",
+     "club_id": 3631,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1427,6 +1548,7 @@
      "age": 36,
      "pos": "GdB",
      "club": "Sans club",
+     "club_id": 515,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1444,6 +1566,7 @@
      "age": 20,
      "pos": "MO",
      "club": "OGC Nice",
+     "club_id": 417,
      "type": "paid",
      "val": 1.0,
      "fs": "2026-08-09"
@@ -1453,6 +1576,7 @@
      "age": 21,
      "pos": "MC",
      "club": "Leverkusen",
+     "club_id": 15,
      "type": "loan",
      "val": 0.5,
      "fs": "2026-08-09"
@@ -1462,6 +1586,7 @@
      "age": 27,
      "pos": "ArD",
      "club": "USL Dunkerque",
+     "club_id": 9202,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1471,6 +1596,7 @@
      "age": 23,
      "pos": "AiD",
      "club": "Sporting",
+     "club_id": 336,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1482,6 +1608,7 @@
      "age": 23,
      "pos": "AiG",
      "club": "Paris FC",
+     "club_id": 10004,
      "type": "paid",
      "val": 15.0,
      "fs": "2026-08-09"
@@ -1491,6 +1618,7 @@
      "age": 25,
      "pos": "ArG",
      "club": "Norwich",
+     "club_id": 1123,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1500,6 +1628,7 @@
      "age": 25,
      "pos": "AC",
      "club": "Stade de Reims",
+     "club_id": 1421,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1509,6 +1638,7 @@
      "age": 33,
      "pos": "MDC",
      "club": "OGC Nice",
+     "club_id": 417,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1518,6 +1648,7 @@
      "age": 19,
      "pos": "ArG",
      "club": "SC Bastia",
+     "club_id": 595,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1527,6 +1658,7 @@
      "age": 26,
      "pos": "AC",
      "club": "Sans club",
+     "club_id": 515,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1536,6 +1668,7 @@
      "age": 29,
      "pos": "ArD",
      "club": "Sans club",
+     "club_id": 515,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1553,6 +1686,7 @@
      "age": 18,
      "pos": "AiG",
      "club": "Brommapojkarna",
+     "club_id": 1092,
      "type": "paid",
      "val": 4.0,
      "fs": "2026-08-09"
@@ -1562,6 +1696,7 @@
      "age": 20,
      "pos": "ArG",
      "club": "AC Horsens",
+     "club_id": 2414,
      "type": "paid",
      "val": 2.5,
      "fs": "2026-08-09"
@@ -1571,6 +1706,7 @@
      "age": 22,
      "pos": "ArD",
      "club": "Dijon",
+     "club_id": 2969,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1582,6 +1718,7 @@
      "age": 21,
      "pos": "AC",
      "club": "Ipswich Town",
+     "club_id": 677,
      "type": "paid",
      "val": 28.0,
      "fs": "2026-08-09"
@@ -1591,6 +1728,7 @@
      "age": 23,
      "pos": "DC",
      "club": "Stade Rennais",
+     "club_id": 273,
      "type": "loan",
      "val": 2.5,
      "fs": "2026-08-09"
@@ -1600,6 +1738,7 @@
      "age": 25,
      "pos": "ArD",
      "club": "Malmö FF",
+     "club_id": 496,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1609,6 +1748,7 @@
      "age": 28,
      "pos": "GdB",
      "club": "Go Ahead Eagles",
+     "club_id": 1435,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1618,6 +1758,7 @@
      "age": 27,
      "pos": "GdB",
      "club": "Ponferradina",
+     "club_id": 4032,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1627,6 +1768,7 @@
      "age": 23,
      "pos": "AiG",
      "club": "PEC Zwolle",
+     "club_id": 1269,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1636,6 +1778,7 @@
      "age": 21,
      "pos": "AiD",
      "club": "VVV-Venlo",
+     "club_id": 1426,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1645,6 +1788,7 @@
      "age": 20,
      "pos": "ArD",
      "club": "Aubagne Air Bel",
+     "club_id": 42609,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1654,6 +1798,7 @@
      "age": 26,
      "pos": "AC",
      "club": "Sans club",
+     "club_id": 515,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1663,6 +1808,7 @@
      "age": 33,
      "pos": "ArD",
      "club": "Sans club",
+     "club_id": 515,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1680,6 +1826,7 @@
      "age": 19,
      "pos": "MC",
      "club": "Stade de Reims",
+     "club_id": 1421,
      "type": "paid",
      "val": 25.0,
      "fs": "2026-08-09"
@@ -1689,6 +1836,7 @@
      "age": 22,
      "pos": "DC",
      "club": "Brighton",
+     "club_id": 1237,
      "type": "paid",
      "val": 17.5,
      "fs": "2026-08-09"
@@ -1698,6 +1846,7 @@
      "age": 23,
      "pos": "AiG",
      "club": "FC Lorient",
+     "club_id": 1158,
      "type": "paid",
      "val": 15.0,
      "fs": "2026-08-09"
@@ -1707,6 +1856,7 @@
      "age": 21,
      "pos": "AiD",
      "club": "Burnley FC",
+     "club_id": 1132,
      "type": "paid",
      "val": 14.0,
      "fs": "2026-08-09"
@@ -1716,6 +1866,7 @@
      "age": 26,
      "pos": "AC",
      "club": "AJ Auxerre",
+     "club_id": 290,
      "type": "paid",
      "val": 8.0,
      "fs": "2026-08-09"
@@ -1727,6 +1878,7 @@
      "age": 24,
      "pos": "AC",
      "club": "Lecce",
+     "club_id": 1005,
      "type": "paid",
      "val": 4.6,
      "fs": "2026-08-09"
@@ -1736,6 +1888,7 @@
      "age": 29,
      "pos": "AiD",
      "club": "FC Nantes",
+     "club_id": 995,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1745,6 +1898,7 @@
      "age": 23,
      "pos": "MDC",
      "club": "Vit. Guimarães",
+     "club_id": 2420,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1754,6 +1908,7 @@
      "age": 34,
      "pos": "AiG",
      "club": "AS Cannes",
+     "club_id": 895,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1763,6 +1918,7 @@
      "age": 29,
      "pos": "AiG",
      "club": "Abha",
+     "club_id": 40039,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1772,6 +1928,7 @@
      "age": 25,
      "pos": "ArD",
      "club": "Pau FC",
+     "club_id": 3166,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1781,6 +1938,7 @@
      "age": 36,
      "pos": "AC",
      "club": "Fin de carrière",
+     "club_id": null,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-15"
@@ -1790,6 +1948,7 @@
      "age": 32,
      "pos": "AC",
      "club": "Sans club",
+     "club_id": 515,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1799,6 +1958,7 @@
      "age": 28,
      "pos": "AiD",
      "club": "Sans club",
+     "club_id": 515,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1808,6 +1968,7 @@
      "age": 34,
      "pos": "DC",
      "club": "Sans club",
+     "club_id": 515,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1817,6 +1978,7 @@
      "age": 27,
      "pos": "ArD",
      "club": "Sans club",
+     "club_id": 515,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1826,6 +1988,7 @@
      "age": 38,
      "pos": "GdB",
      "club": "Sans club",
+     "club_id": 515,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1835,6 +1998,7 @@
      "age": 22,
      "pos": "MDC",
      "club": "Sans club",
+     "club_id": 515,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1852,6 +2016,7 @@
      "age": 31,
      "pos": "DC",
      "club": "Le Havre AC",
+     "club_id": 738,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-12"
@@ -1861,6 +2026,7 @@
      "age": 21,
      "pos": "MC",
      "club": "Kocaelispor",
+     "club_id": 120,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1870,6 +2036,7 @@
      "age": 23,
      "pos": "MDC",
      "club": "RB Salzbourg",
+     "club_id": 409,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-13"
@@ -1879,6 +2046,7 @@
      "age": 29,
      "pos": "GdB",
      "club": "Watford",
+     "club_id": 1010,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-13"
@@ -1890,6 +2058,7 @@
      "age": 23,
      "pos": "ArG",
      "club": "Stade de Reims",
+     "club_id": 1421,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1899,6 +2068,7 @@
      "age": 21,
      "pos": "GdB",
      "club": "Francs Borains",
+     "club_id": 2974,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-12"
@@ -1916,6 +2086,7 @@
      "age": 24,
      "pos": "AC",
      "club": "RWDM Brussels",
+     "club_id": 54189,
      "type": "paid",
      "val": 0.25,
      "fs": "2026-08-09"
@@ -1925,6 +2096,7 @@
      "age": 30,
      "pos": "MC",
      "club": "Ajax",
+     "club_id": 610,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1934,6 +2106,7 @@
      "age": 35,
      "pos": "GdB",
      "club": "FC Nantes",
+     "club_id": 995,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1943,6 +2116,7 @@
      "age": 25,
      "pos": "AC",
      "club": "SC Braga",
+     "club_id": 1075,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1952,6 +2126,7 @@
      "age": 21,
      "pos": "AiG",
      "club": "RC Lens",
+     "club_id": 826,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1963,6 +2138,7 @@
      "age": 19,
      "pos": "AC",
      "club": "Fenerbahçe",
+     "club_id": 36,
      "type": "paid",
      "val": 18.0,
      "fs": "2026-08-09"
@@ -1972,6 +2148,7 @@
      "age": 36,
      "pos": "ArG",
      "club": "Nea Salamis",
+     "club_id": 18945,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1981,6 +2158,7 @@
      "age": 19,
      "pos": "MDC",
      "club": "La Louvière",
+     "club_id": 3901,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-14"
@@ -1990,6 +2168,7 @@
      "age": 20,
      "pos": "AC",
      "club": "Heerenveen",
+     "club_id": 306,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -1999,6 +2178,7 @@
      "age": 20,
      "pos": "ArG",
      "club": "Amiens SC",
+     "club_id": 1416,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2008,6 +2188,7 @@
      "age": 36,
      "pos": "DC",
      "club": "Fin de carrière",
+     "club_id": null,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2017,6 +2198,7 @@
      "age": 39,
      "pos": "MC",
      "club": "Fin de carrière",
+     "club_id": null,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2034,6 +2216,7 @@
      "age": 23,
      "pos": "MDC",
      "club": "R. Strasbourg",
+     "club_id": 667,
      "type": "paid",
      "val": 1.5,
      "fs": "2026-08-09"
@@ -2043,6 +2226,7 @@
      "age": 27,
      "pos": "AC",
      "club": "West Brom",
+     "club_id": 984,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2052,6 +2236,7 @@
      "age": 23,
      "pos": "ArD",
      "club": "AFC Sunderland",
+     "club_id": 289,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2061,6 +2246,7 @@
      "age": 26,
      "pos": "MO",
      "club": "RW Essen",
+     "club_id": 56,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2070,6 +2256,7 @@
      "age": 35,
      "pos": "DC",
      "club": "USL Dunkerque",
+     "club_id": 9202,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2079,6 +2266,7 @@
      "age": 24,
      "pos": "MC",
      "club": "Fiorentina",
+     "club_id": 430,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2088,6 +2276,7 @@
      "age": 23,
      "pos": "AC",
      "club": "Sanf. Hiroshima",
+     "club_id": 2697,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2099,6 +2288,7 @@
      "age": 25,
      "pos": "AiG",
      "club": "Stade Rennais",
+     "club_id": 273,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2108,6 +2298,7 @@
      "age": 24,
      "pos": "DC",
      "club": "Séville FC",
+     "club_id": 368,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2117,6 +2308,7 @@
      "age": 24,
      "pos": "MC",
      "club": "CD Leganés",
+     "club_id": 1244,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2126,6 +2318,7 @@
      "age": 31,
      "pos": "DC",
      "club": "Stade Brestois",
+     "club_id": 3911,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-12"
@@ -2135,6 +2328,7 @@
      "age": 19,
      "pos": "AC",
      "club": "Werder Brême",
+     "club_id": 86,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2144,6 +2338,7 @@
      "age": 35,
      "pos": "ArD",
      "club": "Omonia Nicosie",
+     "club_id": 829,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2153,6 +2348,7 @@
      "age": 20,
      "pos": "AC",
      "club": "AS Nancy",
+     "club_id": 1159,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-12"
@@ -2162,6 +2358,7 @@
      "age": 32,
      "pos": "MDC",
      "club": "Sans club",
+     "club_id": 515,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2171,6 +2368,7 @@
      "age": 24,
      "pos": "DC",
      "club": "Sans club",
+     "club_id": 515,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2180,6 +2378,7 @@
      "age": 32,
      "pos": "MO",
      "club": "Sans club",
+     "club_id": 515,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2197,6 +2396,7 @@
      "age": 21,
      "pos": "MDC",
      "club": "KVC Westerlo",
+     "club_id": 968,
      "type": "paid",
      "val": 5.5,
      "fs": "2026-08-09"
@@ -2206,6 +2406,7 @@
      "age": 25,
      "pos": "AiG",
      "club": "FC Porto",
+     "club_id": 720,
      "type": "paid",
      "val": 5.0,
      "fs": "2026-08-09"
@@ -2215,6 +2416,7 @@
      "age": 22,
      "pos": "DC",
      "club": "Luton",
+     "club_id": 1031,
      "type": "paid",
      "val": 2.3,
      "fs": "2026-08-09"
@@ -2224,6 +2426,7 @@
      "age": 26,
      "pos": "GdB",
      "club": "Grenoble",
+     "club_id": 1290,
      "type": "paid",
      "val": 2.0,
      "fs": "2026-08-09"
@@ -2233,6 +2436,7 @@
      "age": 23,
      "pos": "AC",
      "club": "RC Lens",
+     "club_id": 826,
      "type": "loan",
      "val": 1.5,
      "fs": "2026-08-09"
@@ -2242,6 +2446,7 @@
      "age": 23,
      "pos": "ArG",
      "club": "Lausanne-Sport",
+     "club_id": 527,
      "type": "paid",
      "val": 1.3,
      "fs": "2026-08-09"
@@ -2251,6 +2456,7 @@
      "age": 32,
      "pos": "GdB",
      "club": "QPR",
+     "club_id": 1039,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2260,6 +2466,7 @@
      "age": 18,
      "pos": "AC",
      "club": "MZ Hakka",
+     "club_id": 38929,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2271,6 +2478,7 @@
      "age": 26,
      "pos": "AC",
      "club": "Paris FC",
+     "club_id": 10004,
      "type": "paid",
      "val": 8.0,
      "fs": "2026-08-09"
@@ -2280,6 +2488,7 @@
      "age": 26,
      "pos": "ArD",
      "club": "1.FC K'lautern",
+     "club_id": 2,
      "type": "paid",
      "val": 1.25,
      "fs": "2026-08-09"
@@ -2289,6 +2498,7 @@
      "age": 27,
      "pos": "ArG",
      "club": "1.FC Köln",
+     "club_id": 3,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2298,6 +2508,7 @@
      "age": 33,
      "pos": "GdB",
      "club": "Abha",
+     "club_id": 40039,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2307,6 +2518,7 @@
      "age": 28,
      "pos": "DC",
      "club": "FC Sochaux",
+     "club_id": 750,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2316,6 +2528,7 @@
      "age": 25,
      "pos": "GdB",
      "club": "SC Bastia",
+     "club_id": 595,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2325,6 +2538,7 @@
      "age": 23,
      "pos": "GdB",
      "club": "Sans club",
+     "club_id": 515,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2334,6 +2548,7 @@
      "age": 22,
      "pos": "MDC",
      "club": "Sans club",
+     "club_id": 515,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2351,6 +2566,7 @@
      "age": 29,
      "pos": "AiD",
      "club": "FC Metz",
+     "club_id": 347,
      "type": "paid",
      "val": 1.7,
      "fs": "2026-08-09"
@@ -2360,6 +2576,7 @@
      "age": 33,
      "pos": "MDC",
      "club": "FC Lorient",
+     "club_id": 1158,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2371,6 +2588,7 @@
      "age": 27,
      "pos": "MDC",
      "club": "Feyenoord",
+     "club_id": 234,
      "type": "paid",
      "val": 5.5,
      "fs": "2026-08-09"
@@ -2380,6 +2598,7 @@
      "age": 29,
      "pos": "AiG",
      "club": "Juventus",
+     "club_id": 506,
      "type": "paid",
      "val": 4.8,
      "fs": "2026-08-09"
@@ -2389,6 +2608,7 @@
      "age": 23,
      "pos": "AiG",
      "club": "FC Saint-Gall",
+     "club_id": 257,
      "type": "paid",
      "val": 3.0,
      "fs": "2026-08-09"
@@ -2398,6 +2618,7 @@
      "age": 23,
      "pos": "MD",
      "club": "PAOK Saloniki",
+     "club_id": 1091,
      "type": "paid",
      "val": 2.0,
      "fs": "2026-08-09"
@@ -2407,6 +2628,7 @@
      "age": 20,
      "pos": "MO",
      "club": "FC Lorient",
+     "club_id": 1158,
      "type": "paid",
      "val": 1.0,
      "fs": "2026-08-09"
@@ -2416,6 +2638,7 @@
      "age": 24,
      "pos": "DC",
      "club": "Sampdoria",
+     "club_id": 1038,
      "type": "paid",
      "val": 0.3,
      "fs": "2026-08-09"
@@ -2425,6 +2648,7 @@
      "age": 20,
      "pos": "AiD",
      "club": "Ol. Lyonnais",
+     "club_id": 1041,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2434,6 +2658,7 @@
      "age": 23,
      "pos": "MO",
      "club": "Mantova",
+     "club_id": 2581,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2443,6 +2668,7 @@
      "age": 33,
      "pos": "GdB",
      "club": "FC Nantes",
+     "club_id": 995,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2452,6 +2678,7 @@
      "age": 25,
      "pos": "AC",
      "club": "Cagliari",
+     "club_id": 1390,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-10"
@@ -2461,6 +2688,7 @@
      "age": 29,
      "pos": "MC",
      "club": "Sans club",
+     "club_id": 515,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2470,6 +2698,7 @@
      "age": 42,
      "pos": "DC",
      "club": "Fin de carrière",
+     "club_id": null,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2479,6 +2708,7 @@
      "age": 21,
      "pos": "GdB",
      "club": "Sans club",
+     "club_id": 515,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2496,6 +2726,7 @@
      "age": 22,
      "pos": "GdB",
      "club": "Melbourne City",
+     "club_id": 25580,
      "type": "paid",
      "val": 1.7,
      "fs": "2026-08-09"
@@ -2505,6 +2736,7 @@
      "age": 26,
      "pos": "MC",
      "club": "Zira FK",
+     "club_id": 46710,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2516,6 +2748,7 @@
      "age": 19,
      "pos": "AiG",
      "club": "Man City",
+     "club_id": 281,
      "type": "paid",
      "val": 25.0,
      "fs": "2026-08-09"
@@ -2525,6 +2758,7 @@
      "age": 22,
      "pos": "MO",
      "club": "Hambourg",
+     "club_id": 41,
      "type": "paid",
      "val": 4.0,
      "fs": "2026-08-09"
@@ -2534,6 +2768,7 @@
      "age": 20,
      "pos": "DC",
      "club": "AC Milan",
+     "club_id": 5,
      "type": "paid",
      "val": 2.0,
      "fs": "2026-08-09"
@@ -2543,6 +2778,7 @@
      "age": 25,
      "pos": "ArG",
      "club": "Le Mans FC",
+     "club_id": 1164,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2552,6 +2788,7 @@
      "age": 29,
      "pos": "GdB",
      "club": "Stade Rennais",
+     "club_id": 273,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2561,6 +2798,7 @@
      "age": 24,
      "pos": "ArD",
      "club": "AS Nancy",
+     "club_id": 1159,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2570,6 +2808,7 @@
      "age": 19,
      "pos": "ArG",
      "club": "FC Villefranche",
+     "club_id": 18633,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2579,6 +2818,7 @@
      "age": 27,
      "pos": "AC",
      "club": "Sans club",
+     "club_id": 515,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2588,6 +2828,7 @@
      "age": 35,
      "pos": "MC",
      "club": "Sans club",
+     "club_id": 515,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2605,6 +2846,7 @@
      "age": 25,
      "pos": "ArG",
      "club": "Troyes",
+     "club_id": 1095,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2614,6 +2856,7 @@
      "age": 26,
      "pos": "AiD",
      "club": "Santos",
+     "club_id": 221,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2623,6 +2866,7 @@
      "age": 32,
      "pos": "AC",
      "club": "EA Guingamp",
+     "club_id": 855,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2632,6 +2876,7 @@
      "age": 22,
      "pos": "ArD",
      "club": "Stade Rennais",
+     "club_id": 273,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2643,6 +2888,7 @@
      "age": 30,
      "pos": "ArD",
      "club": "Amiens SC",
+     "club_id": 1416,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2652,6 +2898,7 @@
      "age": 22,
      "pos": "ArG",
      "club": "QRM",
+     "club_id": 7124,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2661,6 +2908,7 @@
      "age": 26,
      "pos": "AiG",
      "club": "FC Arges",
+     "club_id": 41278,
      "type": "free",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2670,6 +2918,7 @@
      "age": 21,
      "pos": "MC",
      "club": "Bourges FC",
+     "club_id": 91662,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2679,6 +2928,7 @@
      "age": 22,
      "pos": "DC",
      "club": "FR Haguenau",
+     "club_id": 8235,
      "type": "loan",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2688,6 +2938,7 @@
      "age": 31,
      "pos": "AC",
      "club": "Sans club",
+     "club_id": 515,
      "type": "none",
      "val": 0.0,
      "fs": "2026-08-09"
@@ -2710,7 +2961,8 @@
      "g": 0,
      "a": 1,
      "min": 2490
-    }
+    },
+    "statsClub": "Paris Saint-Germain"
    },
    {
     "n": "30",
@@ -2725,7 +2977,8 @@
      "g": 0,
      "a": 0,
      "min": 2340
-    }
+    },
+    "statsClub": "Paris Saint-Germain"
    },
    {
     "n": "16",
@@ -2734,7 +2987,8 @@
     "grp": "GK",
     "age": 18,
     "val": 0.3,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "51",
@@ -2749,7 +3003,8 @@
      "g": 2,
      "a": 1,
      "min": 3839
-    }
+    },
+    "statsClub": "Paris Saint-Germain"
    },
    {
     "n": "6",
@@ -2764,7 +3019,8 @@
      "g": 1,
      "a": 0,
      "min": 2780
-    }
+    },
+    "statsClub": "Paris Saint-Germain"
    },
    {
     "n": "5",
@@ -2779,7 +3035,8 @@
      "g": 2,
      "a": 0,
      "min": 2669
-    }
+    },
+    "statsClub": "Paris Saint-Germain"
    },
    {
     "n": "4",
@@ -2794,7 +3051,8 @@
      "g": 2,
      "a": 1,
      "min": 1789
-    }
+    },
+    "statsClub": "Paris Saint-Germain"
    },
    {
     "n": "25",
@@ -2809,7 +3067,8 @@
      "g": 6,
      "a": 7,
      "min": 2979
-    }
+    },
+    "statsClub": "Paris Saint-Germain"
    },
    {
     "n": "21",
@@ -2824,7 +3083,8 @@
      "g": 0,
      "a": 3,
      "min": 2071
-    }
+    },
+    "statsClub": "Paris Saint-Germain"
    },
    {
     "n": "12",
@@ -2833,7 +3093,14 @@
     "grp": "DEF",
     "age": 33,
     "val": 6.0,
-    "stats": null
+    "stats": {
+     "m": 44,
+     "s": 31,
+     "g": 0,
+     "a": 7,
+     "min": 2772
+    },
+    "statsClub": "Aston Villa"
    },
    {
     "n": "2",
@@ -2848,7 +3115,8 @@
      "g": 3,
      "a": 9,
      "min": 2619
-    }
+    },
+    "statsClub": "Paris Saint-Germain"
    },
    {
     "n": "17",
@@ -2863,7 +3131,8 @@
      "g": 7,
      "a": 10,
      "min": 4056
-    }
+    },
+    "statsClub": "Paris Saint-Germain"
    },
    {
     "n": "87",
@@ -2878,7 +3147,8 @@
      "g": 7,
      "a": 4,
      "min": 2701
-    }
+    },
+    "statsClub": "Paris Saint-Germain"
    },
    {
     "n": "33",
@@ -2893,7 +3163,8 @@
      "g": 3,
      "a": 5,
      "min": 4224
-    }
+    },
+    "statsClub": "Paris Saint-Germain"
    },
    {
     "n": "24",
@@ -2908,7 +3179,8 @@
      "g": 6,
      "a": 5,
      "min": 2309
-    }
+    },
+    "statsClub": "Paris Saint-Germain"
    },
    {
     "n": "8",
@@ -2923,7 +3195,8 @@
      "g": 2,
      "a": 5,
      "min": 2122
-    }
+    },
+    "statsClub": "Paris Saint-Germain"
    },
    {
     "n": "27",
@@ -2938,7 +3211,8 @@
      "g": 1,
      "a": 0,
      "min": 685
-    }
+    },
+    "statsClub": "Paris Saint-Germain"
    },
    {
     "n": "7",
@@ -2953,7 +3227,8 @@
      "g": 19,
      "a": 11,
      "min": 2908
-    }
+    },
+    "statsClub": "Paris Saint-Germain"
    },
    {
     "n": "29",
@@ -2968,7 +3243,8 @@
      "g": 13,
      "a": 7,
      "min": 2971
-    }
+    },
+    "statsClub": "Paris Saint-Germain"
    },
    {
     "n": "22",
@@ -2977,7 +3253,14 @@
     "grp": "ATT",
     "age": 21,
     "val": 35.0,
-    "stats": null
+    "stats": {
+     "m": 44,
+     "s": 41,
+     "g": 17,
+     "a": 15,
+     "min": 3570
+    },
+    "statsClub": "Ajax"
    },
    {
     "n": "47",
@@ -2992,7 +3275,8 @@
      "g": 1,
      "a": 2,
      "min": 517
-    }
+    },
+    "statsClub": "Paris Saint-Germain"
    },
    {
     "n": "14",
@@ -3007,7 +3291,8 @@
      "g": 13,
      "a": 11,
      "min": 2558
-    }
+    },
+    "statsClub": "Paris Saint-Germain"
    },
    {
     "n": "11",
@@ -3016,7 +3301,14 @@
     "grp": "ATT",
     "age": 24,
     "val": 50.0,
-    "stats": null
+    "stats": {
+     "m": 43,
+     "s": 40,
+     "g": 7,
+     "a": 11,
+     "min": 3425
+    },
+    "statsClub": "Monaco"
    },
    {
     "n": "49",
@@ -3031,7 +3323,8 @@
      "g": 3,
      "a": 2,
      "min": 1153
-    }
+    },
+    "statsClub": "Paris Saint-Germain"
    },
    {
     "n": "10",
@@ -3046,7 +3339,8 @@
      "g": 20,
      "a": 11,
      "min": 2200
-    }
+    },
+    "statsClub": "Paris Saint-Germain"
    },
    {
     "n": "9",
@@ -3055,7 +3349,14 @@
     "grp": "ATT",
     "age": 26,
     "val": 55.0,
-    "stats": null
+    "stats": {
+     "m": 49,
+     "s": 31,
+     "g": 21,
+     "a": 3,
+     "min": 2693
+    },
+    "statsClub": "Barcelone"
    }
   ],
   "RCL": [
@@ -3072,7 +3373,8 @@
      "g": 0,
      "a": 1,
      "min": 3420
-    }
+    },
+    "statsClub": "RC Lens"
    },
    {
     "n": "16",
@@ -3087,7 +3389,8 @@
      "g": 0,
      "a": 0,
      "min": 90
-    }
+    },
+    "statsClub": "RC Lens"
    },
    {
     "n": "1",
@@ -3102,7 +3405,8 @@
      "g": 0,
      "a": 0,
      "min": 90
-    }
+    },
+    "statsClub": "RC Lens"
    },
    {
     "n": "60",
@@ -3117,7 +3421,8 @@
      "g": 0,
      "a": 0,
      "min": 0
-    }
+    },
+    "statsClub": "RC Lens"
    },
    {
     "n": "6",
@@ -3132,7 +3437,8 @@
      "g": 2,
      "a": 2,
      "min": 2071
-    }
+    },
+    "statsClub": "RC Lens"
    },
    {
     "n": "25",
@@ -3147,7 +3453,8 @@
      "g": 3,
      "a": 0,
      "min": 2541
-    }
+    },
+    "statsClub": "RC Lens"
    },
    {
     "n": "4",
@@ -3162,7 +3469,8 @@
      "g": 0,
      "a": 0,
      "min": 708
-    }
+    },
+    "statsClub": "RC Lens"
    },
    {
     "n": "32",
@@ -3177,7 +3485,8 @@
      "g": 0,
      "a": 1,
      "min": 382
-    }
+    },
+    "statsClub": "RC Lens"
    },
    {
     "n": "24",
@@ -3192,7 +3501,8 @@
      "g": 0,
      "a": 0,
      "min": 809
-    }
+    },
+    "statsClub": "RC Lens"
    },
    {
     "n": "3",
@@ -3201,7 +3511,8 @@
     "grp": "DEF",
     "age": 25,
     "val": 1.5,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "31",
@@ -3210,7 +3521,8 @@
     "grp": "DEF",
     "age": 21,
     "val": 0.5,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "14",
@@ -3225,7 +3537,8 @@
      "g": 3,
      "a": 10,
      "min": 3475
-    }
+    },
+    "statsClub": "RC Lens"
    },
    {
     "n": "",
@@ -3240,7 +3553,8 @@
      "g": 0,
      "a": 0,
      "min": 0
-    }
+    },
+    "statsClub": "RC Lens"
    },
    {
     "n": "23",
@@ -3255,7 +3569,8 @@
      "g": 3,
      "a": 8,
      "min": 1838
-    }
+    },
+    "statsClub": "RC Lens"
    },
    {
     "n": "2",
@@ -3270,7 +3585,8 @@
      "g": 2,
      "a": 2,
      "min": 1778
-    }
+    },
+    "statsClub": "RC Lens"
    },
    {
     "n": "5",
@@ -3285,7 +3601,8 @@
      "g": 2,
      "a": 4,
      "min": 936
-    }
+    },
+    "statsClub": "RC Lens"
    },
    {
     "n": "8",
@@ -3294,7 +3611,14 @@
     "grp": "MID",
     "age": 23,
     "val": 7.0,
-    "stats": null
+    "stats": {
+     "m": 42,
+     "s": 40,
+     "g": 5,
+     "a": 3,
+     "min": 3543
+    },
+    "statsClub": "R Charleroi SC"
    },
    {
     "n": "21",
@@ -3309,7 +3633,8 @@
      "g": 1,
      "a": 1,
      "min": 325
-    }
+    },
+    "statsClub": "RC Lens"
    },
    {
     "n": "27",
@@ -3318,7 +3643,14 @@
     "grp": "MID",
     "age": 27,
     "val": 3.0,
-    "stats": null
+    "stats": {
+     "m": 35,
+     "s": 33,
+     "g": 4,
+     "a": 6,
+     "min": 2934
+    },
+    "statsClub": "Hertha BSC"
    },
    {
     "n": "38",
@@ -3333,7 +3665,8 @@
      "g": 1,
      "a": 0,
      "min": 11
-    }
+    },
+    "statsClub": "RC Lens"
    },
    {
     "n": "9",
@@ -3342,7 +3675,14 @@
     "grp": "MID",
     "age": 33,
     "val": 2.0,
-    "stats": null
+    "stats": {
+     "m": 46,
+     "s": 39,
+     "g": 15,
+     "a": 11,
+     "min": 3477
+    },
+    "statsClub": "RSC Anderlecht"
    },
    {
     "n": "19",
@@ -3357,7 +3697,8 @@
      "g": 7,
      "a": 3,
      "min": 982
-    }
+    },
+    "statsClub": "RC Lens"
    },
    {
     "n": "22",
@@ -3366,7 +3707,14 @@
     "grp": "ATT",
     "age": 26,
     "val": 4.0,
-    "stats": null
+    "stats": {
+     "m": 35,
+     "s": 33,
+     "g": 2,
+     "a": 11,
+     "min": 2849
+    },
+    "statsClub": "La Gantoise"
    },
    {
     "n": "10",
@@ -3381,7 +3729,8 @@
      "g": 14,
      "a": 10,
      "min": 2714
-    }
+    },
+    "statsClub": "RC Lens"
    },
    {
     "n": "29",
@@ -3390,7 +3739,14 @@
     "grp": "ATT",
     "age": 22,
     "val": 15.0,
-    "stats": null
+    "stats": {
+     "m": 42,
+     "s": 15,
+     "g": 8,
+     "a": 3,
+     "min": 1436
+    },
+    "statsClub": "Benfica"
    },
    {
     "n": "11",
@@ -3405,7 +3761,8 @@
      "g": 14,
      "a": 3,
      "min": 2130
-    }
+    },
+    "statsClub": "RC Lens"
    },
    {
     "n": "18",
@@ -3420,7 +3777,8 @@
      "g": 6,
      "a": 1,
      "min": 951
-    }
+    },
+    "statsClub": "RC Lens"
    },
    {
     "n": "7",
@@ -3435,7 +3793,8 @@
      "g": 2,
      "a": 1,
      "min": 743
-    }
+    },
+    "statsClub": "RC Lens"
    }
   ],
   "LOSC": [
@@ -3452,7 +3811,8 @@
      "g": 0,
      "a": 1,
      "min": 3945
-    }
+    },
+    "statsClub": "LOSC Lille"
    },
    {
     "n": "16",
@@ -3467,7 +3827,8 @@
      "g": 0,
      "a": 0,
      "min": 405
-    }
+    },
+    "statsClub": "LOSC Lille"
    },
    {
     "n": "3",
@@ -3482,7 +3843,8 @@
      "g": 3,
      "a": 2,
      "min": 3104
-    }
+    },
+    "statsClub": "LOSC Lille"
    },
    {
     "n": "4",
@@ -3497,7 +3859,8 @@
      "g": 0,
      "a": 0,
      "min": 628
-    }
+    },
+    "statsClub": "LOSC Lille"
    },
    {
     "n": "26",
@@ -3512,7 +3875,8 @@
      "g": 0,
      "a": 0,
      "min": 0
-    }
+    },
+    "statsClub": "LOSC Lille"
    },
    {
     "n": "23",
@@ -3521,7 +3885,14 @@
     "grp": "DEF",
     "age": 24,
     "val": 1.2,
-    "stats": null
+    "stats": {
+     "m": 12,
+     "s": 8,
+     "g": 0,
+     "a": 0,
+     "min": 647
+    },
+    "statsClub": "Séville FC"
    },
    {
     "n": "36",
@@ -3536,7 +3907,8 @@
      "g": 0,
      "a": 0,
      "min": 52
-    }
+    },
+    "statsClub": "LOSC Lille"
    },
    {
     "n": "15",
@@ -3551,7 +3923,8 @@
      "g": 3,
      "a": 5,
      "min": 3006
-    }
+    },
+    "statsClub": "LOSC Lille"
    },
    {
     "n": "24",
@@ -3566,7 +3939,8 @@
      "g": 0,
      "a": 1,
      "min": 1245
-    }
+    },
+    "statsClub": "LOSC Lille"
    },
    {
     "n": "22",
@@ -3581,7 +3955,8 @@
      "g": 0,
      "a": 2,
      "min": 1368
-    }
+    },
+    "statsClub": "LOSC Lille"
    },
    {
     "n": "2",
@@ -3590,7 +3965,14 @@
     "grp": "DEF",
     "age": 20,
     "val": 1.2,
-    "stats": null
+    "stats": {
+     "m": 16,
+     "s": 9,
+     "g": 0,
+     "a": 1,
+     "min": 800
+    },
+    "statsClub": "Servette FC"
    },
    {
     "n": "17",
@@ -3605,7 +3987,8 @@
      "g": 2,
      "a": 0,
      "min": 2283
-    }
+    },
+    "statsClub": "LOSC Lille"
    },
    {
     "n": "6",
@@ -3620,7 +4003,8 @@
      "g": 2,
      "a": 2,
      "min": 2006
-    }
+    },
+    "statsClub": "LOSC Lille"
    },
    {
     "n": "21",
@@ -3635,7 +4019,8 @@
      "g": 4,
      "a": 3,
      "min": 3126
-    }
+    },
+    "statsClub": "LOSC Lille"
    },
    {
     "n": "32",
@@ -3650,7 +4035,8 @@
      "g": 0,
      "a": 1,
      "min": 3153
-    }
+    },
+    "statsClub": "LOSC Lille"
    },
    {
     "n": "10",
@@ -3665,7 +4051,8 @@
      "g": 9,
      "a": 7,
      "min": 3404
-    }
+    },
+    "statsClub": "LOSC Lille"
    },
    {
     "n": "27",
@@ -3680,7 +4067,8 @@
      "g": 5,
      "a": 6,
      "min": 2952
-    }
+    },
+    "statsClub": "LOSC Lille"
    },
    {
     "n": "11",
@@ -3695,7 +4083,8 @@
      "g": 1,
      "a": 2,
      "min": 809
-    }
+    },
+    "statsClub": "LOSC Lille"
    },
    {
     "n": "19",
@@ -3704,7 +4093,14 @@
     "grp": "ATT",
     "age": 22,
     "val": 7.0,
-    "stats": null
+    "stats": {
+     "m": 34,
+     "s": 29,
+     "g": 9,
+     "a": 9,
+     "min": 2408
+    },
+    "statsClub": "NEC Nijmegen"
    },
    {
     "n": "35",
@@ -3719,7 +4115,8 @@
      "g": 1,
      "a": 2,
      "min": 261
-    }
+    },
+    "statsClub": "LOSC Lille"
    },
    {
     "n": "",
@@ -3728,7 +4125,8 @@
     "grp": "ATT",
     "age": 22,
     "val": 1.8,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "8",
@@ -3743,7 +4141,8 @@
      "g": 3,
      "a": 1,
      "min": 709
-    }
+    },
+    "statsClub": "LOSC Lille"
    },
    {
     "n": "14",
@@ -3758,7 +4157,8 @@
      "g": 2,
      "a": 1,
      "min": 462
-    }
+    },
+    "statsClub": "LOSC Lille"
    },
    {
     "n": "20",
@@ -3773,7 +4173,8 @@
      "g": 0,
      "a": 0,
      "min": 127
-    }
+    },
+    "statsClub": "LOSC Lille"
    },
    {
     "n": "28",
@@ -3788,7 +4189,8 @@
      "g": 1,
      "a": 0,
      "min": 519
-    }
+    },
+    "statsClub": "LOSC Lille"
    },
    {
     "n": "7",
@@ -3803,7 +4205,8 @@
      "g": 8,
      "a": 7,
      "min": 3101
-    }
+    },
+    "statsClub": "LOSC Lille"
    },
    {
     "n": "29",
@@ -3818,7 +4221,8 @@
      "g": 9,
      "a": 2,
      "min": 750
-    }
+    },
+    "statsClub": "LOSC Lille"
    },
    {
     "n": "35",
@@ -3827,7 +4231,8 @@
     "grp": "ATT",
     "age": 28,
     "val": 4.5,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "9",
@@ -3842,7 +4247,8 @@
      "g": 11,
      "a": 1,
      "min": 2432
-    }
+    },
+    "statsClub": "LOSC Lille"
    }
   ],
   "OL": [
@@ -3859,7 +4265,8 @@
      "g": 0,
      "a": 1,
      "min": 3150
-    }
+    },
+    "statsClub": "Olympique Lyonnais"
    },
    {
     "n": "40",
@@ -3874,7 +4281,8 @@
      "g": 0,
      "a": 1,
      "min": 1170
-    }
+    },
+    "statsClub": "Olympique Lyonnais"
    },
    {
     "n": "25",
@@ -3883,7 +4291,8 @@
     "grp": "GK",
     "age": 21,
     "val": 0.25,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "50",
@@ -3898,7 +4307,8 @@
      "g": 0,
      "a": 0,
      "min": 0
-    }
+    },
+    "statsClub": "Olympique Lyonnais"
    },
    {
     "n": "19",
@@ -3913,7 +4323,8 @@
      "g": 1,
      "a": 2,
      "min": 3677
-    }
+    },
+    "statsClub": "Olympique Lyonnais"
    },
    {
     "n": "21",
@@ -3928,7 +4339,8 @@
      "g": 2,
      "a": 2,
      "min": 1395
-    }
+    },
+    "statsClub": "Olympique Lyonnais"
    },
    {
     "n": "20",
@@ -3937,7 +4349,14 @@
     "grp": "DEF",
     "age": 25,
     "val": 6.0,
-    "stats": null
+    "stats": {
+     "m": 35,
+     "s": 35,
+     "g": 2,
+     "a": 0,
+     "min": 3150
+    },
+    "statsClub": "Estoril"
    },
    {
     "n": "85",
@@ -3952,7 +4371,8 @@
      "g": 0,
      "a": 0,
      "min": 6
-    }
+    },
+    "statsClub": "Olympique Lyonnais"
    },
    {
     "n": "",
@@ -3961,7 +4381,8 @@
     "grp": "DEF",
     "age": 29,
     "val": 2.8,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "22",
@@ -3976,7 +4397,8 @@
      "g": 0,
      "a": 1,
      "min": 3832
-    }
+    },
+    "statsClub": "Olympique Lyonnais"
    },
    {
     "n": "16",
@@ -3991,7 +4413,8 @@
      "g": 5,
      "a": 3,
      "min": 2813
-    }
+    },
+    "statsClub": "Olympique Lyonnais"
    },
    {
     "n": "3",
@@ -4006,7 +4429,8 @@
      "g": 0,
      "a": 3,
      "min": 2019
-    }
+    },
+    "statsClub": "Olympique Lyonnais"
    },
    {
     "n": "76",
@@ -4015,7 +4439,14 @@
     "grp": "DEF",
     "age": 23,
     "val": 1.2,
-    "stats": null
+    "stats": {
+     "m": 35,
+     "s": 33,
+     "g": 4,
+     "a": 3,
+     "min": 2990
+    },
+    "statsClub": "SCR Altach"
    },
    {
     "n": "13",
@@ -4024,7 +4455,14 @@
     "grp": "DEF",
     "age": 21,
     "val": 15.0,
-    "stats": null
+    "stats": {
+     "m": 29,
+     "s": 7,
+     "g": 2,
+     "a": 2,
+     "min": 873
+    },
+    "statsClub": "AC Milan"
    },
    {
     "n": "98",
@@ -4039,7 +4477,8 @@
      "g": 2,
      "a": 4,
      "min": 3291
-    }
+    },
+    "statsClub": "Olympique Lyonnais"
    },
    {
     "n": "37",
@@ -4054,7 +4493,8 @@
      "g": 0,
      "a": 0,
      "min": 252
-    }
+    },
+    "statsClub": "Olympique Lyonnais"
    },
    {
     "n": "23",
@@ -4069,7 +4509,8 @@
      "g": 2,
      "a": 3,
      "min": 3491
-    }
+    },
+    "statsClub": "Olympique Lyonnais"
    },
    {
     "n": "6",
@@ -4084,7 +4525,8 @@
      "g": 2,
      "a": 0,
      "min": 2546
-    }
+    },
+    "statsClub": "Olympique Lyonnais"
    },
    {
     "n": "39",
@@ -4099,7 +4541,8 @@
      "g": 0,
      "a": 1,
      "min": 887
-    }
+    },
+    "statsClub": "Olympique Lyonnais"
    },
    {
     "n": "",
@@ -4108,7 +4551,8 @@
     "grp": "MID",
     "age": 28,
     "val": 0.4,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "18",
@@ -4123,7 +4567,8 @@
      "g": 1,
      "a": 2,
      "min": 1698
-    }
+    },
+    "statsClub": "Olympique Lyonnais"
    },
    {
     "n": "2",
@@ -4132,7 +4577,14 @@
     "grp": "MID",
     "age": 25,
     "val": 13.0,
-    "stats": null
+    "stats": {
+     "m": 36,
+     "s": 34,
+     "g": 0,
+     "a": 1,
+     "min": 3018
+    },
+    "statsClub": "RB Salzbourg"
    },
    {
     "n": "8",
@@ -4147,7 +4599,8 @@
      "g": 15,
      "a": 6,
      "min": 2995
-    }
+    },
+    "statsClub": "Olympique Lyonnais"
    },
    {
     "n": "",
@@ -4156,7 +4609,8 @@
     "grp": "MID",
     "age": 21,
     "val": 1.0,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "10",
@@ -4171,7 +4625,8 @@
      "g": 14,
      "a": 7,
      "min": 2263
-    }
+    },
+    "statsClub": "Olympique Lyonnais"
    },
    {
     "n": "99",
@@ -4186,7 +4641,8 @@
      "g": 2,
      "a": 0,
      "min": 842
-    }
+    },
+    "statsClub": "Olympique Lyonnais"
    },
    {
     "n": "11",
@@ -4201,7 +4657,8 @@
      "g": 2,
      "a": 1,
      "min": 921
-    }
+    },
+    "statsClub": "Olympique Lyonnais"
    },
    {
     "n": "45",
@@ -4216,7 +4673,8 @@
      "g": 3,
      "a": 1,
      "min": 293
-    }
+    },
+    "statsClub": "Olympique Lyonnais"
    },
    {
     "n": "24",
@@ -4225,7 +4683,14 @@
     "grp": "ATT",
     "age": 20,
     "val": 6.0,
-    "stats": null
+    "stats": {
+     "m": 0,
+     "s": 0,
+     "g": 0,
+     "a": 0,
+     "min": 0
+    },
+    "statsClub": "Dortmund"
    },
    {
     "n": "7",
@@ -4240,7 +4705,8 @@
      "g": 0,
      "a": 0,
      "min": 32
-    }
+    },
+    "statsClub": "Olympique Lyonnais"
    },
    {
     "n": "26",
@@ -4249,7 +4715,14 @@
     "grp": "ATT",
     "age": 20,
     "val": 5.0,
-    "stats": null
+    "stats": {
+     "m": 19,
+     "s": 4,
+     "g": 3,
+     "a": 0,
+     "min": 764
+    },
+    "statsClub": "OGC Nice"
    },
    {
     "n": "17",
@@ -4258,7 +4731,14 @@
     "grp": "ATT",
     "age": 26,
     "val": 25.0,
-    "stats": null
+    "stats": {
+     "m": 34,
+     "s": 9,
+     "g": 2,
+     "a": 0,
+     "min": 997
+    },
+    "statsClub": "Juventus"
    },
    {
     "n": "32",
@@ -4273,7 +4753,8 @@
      "g": 1,
      "a": 0,
      "min": 41
-    }
+    },
+    "statsClub": "Olympique Lyonnais"
    }
   ],
   "OM": [
@@ -4290,7 +4771,8 @@
      "g": 0,
      "a": 0,
      "min": 720
-    }
+    },
+    "statsClub": "Olympique de Marseille"
    },
    {
     "n": "40",
@@ -4305,7 +4787,8 @@
      "g": 0,
      "a": 0,
      "min": 0
-    }
+    },
+    "statsClub": "Olympique de Marseille"
    },
    {
     "n": "92",
@@ -4320,7 +4803,8 @@
      "g": 0,
      "a": 0,
      "min": 0
-    }
+    },
+    "statsClub": "Olympique de Marseille"
    },
    {
     "n": "5",
@@ -4335,7 +4819,8 @@
      "g": 1,
      "a": 1,
      "min": 2853
-    }
+    },
+    "statsClub": "Olympique de Marseille"
    },
    {
     "n": "21",
@@ -4350,7 +4835,8 @@
      "g": 1,
      "a": 0,
      "min": 1939
-    }
+    },
+    "statsClub": "Olympique de Marseille"
    },
    {
     "n": "4",
@@ -4365,7 +4851,8 @@
      "g": 1,
      "a": 0,
      "min": 821
-    }
+    },
+    "statsClub": "Olympique de Marseille"
    },
    {
     "n": "18",
@@ -4374,7 +4861,8 @@
     "grp": "DEF",
     "age": 24,
     "val": 7.0,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "13",
@@ -4389,7 +4877,8 @@
      "g": 0,
      "a": 0,
      "min": 57
-    }
+    },
+    "statsClub": "Olympique de Marseille"
    },
    {
     "n": "33",
@@ -4404,7 +4893,8 @@
      "g": 0,
      "a": 3,
      "min": 2813
-    }
+    },
+    "statsClub": "Olympique de Marseille"
    },
    {
     "n": "25",
@@ -4419,7 +4909,8 @@
      "g": 0,
      "a": 0,
      "min": 325
-    }
+    },
+    "statsClub": "Olympique de Marseille"
    },
    {
     "n": "23",
@@ -4434,7 +4925,8 @@
      "g": 5,
      "a": 5,
      "min": 3643
-    }
+    },
+    "statsClub": "Olympique de Marseille"
    },
    {
     "n": "6",
@@ -4449,7 +4941,8 @@
      "g": 0,
      "a": 1,
      "min": 353
-    }
+    },
+    "statsClub": "Olympique de Marseille"
    },
    {
     "n": "19",
@@ -4464,7 +4957,8 @@
      "g": 0,
      "a": 1,
      "min": 1016
-    }
+    },
+    "statsClub": "Olympique de Marseille"
    },
    {
     "n": "27",
@@ -4479,7 +4973,8 @@
      "g": 0,
      "a": 0,
      "min": 1182
-    }
+    },
+    "statsClub": "Olympique de Marseille"
    },
    {
     "n": "22",
@@ -4494,7 +4989,8 @@
      "g": 3,
      "a": 4,
      "min": 3139
-    }
+    },
+    "statsClub": "Olympique de Marseille"
    },
    {
     "n": "7",
@@ -4509,7 +5005,8 @@
      "g": 4,
      "a": 1,
      "min": 1086
-    }
+    },
+    "statsClub": "Olympique de Marseille"
    },
    {
     "n": "8",
@@ -4524,7 +5021,8 @@
      "g": 0,
      "a": 0,
      "min": 178
-    }
+    },
+    "statsClub": "Olympique de Marseille"
    },
    {
     "n": "14",
@@ -4539,7 +5037,8 @@
      "g": 12,
      "a": 7,
      "min": 2781
-    }
+    },
+    "statsClub": "Olympique de Marseille"
    },
    {
     "n": "77",
@@ -4554,7 +5053,8 @@
      "g": 0,
      "a": 0,
      "min": 0
-    }
+    },
+    "statsClub": "Olympique de Marseille"
    },
    {
     "n": "43",
@@ -4569,7 +5069,8 @@
      "g": 1,
      "a": 1,
      "min": 90
-    }
+    },
+    "statsClub": "Olympique de Marseille"
    },
    {
     "n": "48",
@@ -4584,7 +5085,8 @@
      "g": 0,
      "a": 0,
      "min": 0
-    }
+    },
+    "statsClub": "Olympique de Marseille"
    },
    {
     "n": "9",
@@ -4599,7 +5101,8 @@
      "g": 11,
      "a": 5,
      "min": 1705
-    }
+    },
+    "statsClub": "Olympique de Marseille"
    },
    {
     "n": "11",
@@ -4614,7 +5117,8 @@
      "g": 1,
      "a": 0,
      "min": 92
-    }
+    },
+    "statsClub": "Olympique de Marseille"
    },
    {
     "n": "29",
@@ -4623,7 +5127,8 @@
     "grp": "ATT",
     "age": 26,
     "val": 3.5,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    }
   ],
   "SRFC": [
@@ -4640,7 +5145,8 @@
      "g": 0,
      "a": 0,
      "min": 3060
-    }
+    },
+    "statsClub": "Stade Rennais FC"
    },
    {
     "n": "16",
@@ -4649,7 +5155,14 @@
     "grp": "GK",
     "age": 29,
     "val": 0.5,
-    "stats": null
+    "stats": {
+     "m": 10,
+     "s": 10,
+     "g": 0,
+     "a": 0,
+     "min": 848
+    },
+    "statsClub": "Troyes"
    },
    {
     "n": "60",
@@ -4664,7 +5177,8 @@
      "g": 0,
      "a": 0,
      "min": 0
-    }
+    },
+    "statsClub": "Stade Rennais FC"
    },
    {
     "n": "4",
@@ -4673,7 +5187,14 @@
     "grp": "DEF",
     "age": 23,
     "val": 25.0,
-    "stats": null
+    "stats": {
+     "m": 32,
+     "s": 31,
+     "g": 4,
+     "a": 3,
+     "min": 2778
+    },
+    "statsClub": "Toulouse"
    },
    {
     "n": "3",
@@ -4688,7 +5209,8 @@
      "g": 0,
      "a": 1,
      "min": 2369
-    }
+    },
+    "statsClub": "Stade Rennais FC"
    },
    {
     "n": "24",
@@ -4703,7 +5225,8 @@
      "g": 1,
      "a": 1,
      "min": 1993
-    }
+    },
+    "statsClub": "Stade Rennais FC"
    },
    {
     "n": "48",
@@ -4718,7 +5241,8 @@
      "g": 2,
      "a": 1,
      "min": 1481
-    }
+    },
+    "statsClub": "Stade Rennais FC"
    },
    {
     "n": "36",
@@ -4733,7 +5257,8 @@
      "g": 0,
      "a": 1,
      "min": 1407
-    }
+    },
+    "statsClub": "Stade Rennais FC"
    },
    {
     "n": "5",
@@ -4742,7 +5267,14 @@
     "grp": "DEF",
     "age": 20,
     "val": 3.0,
-    "stats": null
+    "stats": {
+     "m": 24,
+     "s": 24,
+     "g": 2,
+     "a": 1,
+     "min": 2131
+    },
+    "statsClub": "Benfica B"
    },
    {
     "n": "64",
@@ -4751,7 +5283,8 @@
     "grp": "DEF",
     "age": 20,
     "val": 0.3,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "26",
@@ -4766,7 +5299,8 @@
      "g": 3,
      "a": 7,
      "min": 2791
-    }
+    },
+    "statsClub": "Stade Rennais FC"
    },
    {
     "n": "18",
@@ -4781,7 +5315,8 @@
      "g": 0,
      "a": 0,
      "min": 857
-    }
+    },
+    "statsClub": "Stade Rennais FC"
    },
    {
     "n": "95",
@@ -4796,7 +5331,8 @@
      "g": 1,
      "a": 2,
      "min": 1217
-    }
+    },
+    "statsClub": "Stade Rennais FC"
    },
    {
     "n": "14",
@@ -4805,7 +5341,14 @@
     "grp": "DEF",
     "age": 25,
     "val": 3.5,
-    "stats": null
+    "stats": {
+     "m": 40,
+     "s": 40,
+     "g": 2,
+     "a": 4,
+     "min": 3584
+    },
+    "statsClub": "KVC Westerlo"
    },
    {
     "n": "",
@@ -4820,7 +5363,8 @@
      "g": 0,
      "a": 0,
      "min": 0
-    }
+    },
+    "statsClub": "Stade Rennais FC"
    },
    {
     "n": "45",
@@ -4835,7 +5379,8 @@
      "g": 3,
      "a": 2,
      "min": 2931
-    }
+    },
+    "statsClub": "Stade Rennais FC"
    },
    {
     "n": "6",
@@ -4850,7 +5395,8 @@
      "g": 0,
      "a": 0,
      "min": 987
-    }
+    },
+    "statsClub": "Stade Rennais FC"
    },
    {
     "n": "",
@@ -4865,7 +5411,8 @@
      "g": 1,
      "a": 0,
      "min": 654
-    }
+    },
+    "statsClub": "Stade Rennais FC"
    },
    {
     "n": "21",
@@ -4880,7 +5427,8 @@
      "g": 2,
      "a": 5,
      "min": 2925
-    }
+    },
+    "statsClub": "Stade Rennais FC"
    },
    {
     "n": "28",
@@ -4889,7 +5437,14 @@
     "grp": "MID",
     "age": 32,
     "val": 4.0,
-    "stats": null
+    "stats": {
+     "m": 36,
+     "s": 35,
+     "g": 4,
+     "a": 10,
+     "min": 3051
+    },
+    "statsClub": "RC Lens"
    },
    {
     "n": "10",
@@ -4904,7 +5459,8 @@
      "g": 5,
      "a": 5,
      "min": 1749
-    }
+    },
+    "statsClub": "Stade Rennais FC"
    },
    {
     "n": "17",
@@ -4919,7 +5475,8 @@
      "g": 1,
      "a": 3,
      "min": 867
-    }
+    },
+    "statsClub": "Stade Rennais FC"
    },
    {
     "n": "",
@@ -4928,7 +5485,8 @@
     "grp": "MID",
     "age": 21,
     "val": 0.8,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "90",
@@ -4937,7 +5495,14 @@
     "grp": "ATT",
     "age": 25,
     "val": 8.0,
-    "stats": null
+    "stats": {
+     "m": 35,
+     "s": 34,
+     "g": 8,
+     "a": 5,
+     "min": 3039
+    },
+    "statsClub": "Le Havre AC"
    },
    {
     "n": "11",
@@ -4952,7 +5517,8 @@
      "g": 7,
      "a": 11,
      "min": 2493
-    }
+    },
+    "statsClub": "Stade Rennais FC"
    },
    {
     "n": "70",
@@ -4967,7 +5533,8 @@
      "g": 1,
      "a": 2,
      "min": 574
-    }
+    },
+    "statsClub": "Stade Rennais FC"
    },
    {
     "n": "35",
@@ -4982,7 +5549,8 @@
      "g": 1,
      "a": 0,
      "min": 72
-    }
+    },
+    "statsClub": "Stade Rennais FC"
    },
    {
     "n": "9",
@@ -4997,7 +5565,8 @@
      "g": 20,
      "a": 5,
      "min": 2710
-    }
+    },
+    "statsClub": "Stade Rennais FC"
    },
    {
     "n": "12",
@@ -5006,7 +5575,14 @@
     "grp": "ATT",
     "age": 21,
     "val": 16.0,
-    "stats": null
+    "stats": {
+     "m": 23,
+     "s": 10,
+     "g": 2,
+     "a": 1,
+     "min": 943
+    },
+    "statsClub": "AFC Sunderland"
    },
    {
     "n": "7",
@@ -5021,7 +5597,8 @@
      "g": 10,
      "a": 3,
      "min": 2043
-    }
+    },
+    "statsClub": "Stade Rennais FC"
    }
   ],
   "ASM": [
@@ -5038,7 +5615,8 @@
      "g": 0,
      "a": 0,
      "min": 2519
-    }
+    },
+    "statsClub": "AS Monaco"
    },
    {
     "n": "1",
@@ -5053,7 +5631,8 @@
      "g": 0,
      "a": 0,
      "min": 1711
-    }
+    },
+    "statsClub": "AS Monaco"
    },
    {
     "n": "50",
@@ -5068,7 +5647,8 @@
      "g": 0,
      "a": 0,
      "min": 0
-    }
+    },
+    "statsClub": "AS Monaco"
    },
    {
     "n": "13",
@@ -5083,7 +5663,8 @@
      "g": 0,
      "a": 0,
      "min": 1370
-    }
+    },
+    "statsClub": "AS Monaco"
    },
    {
     "n": "5",
@@ -5098,7 +5679,8 @@
      "g": 0,
      "a": 0,
      "min": 3316
-    }
+    },
+    "statsClub": "AS Monaco"
    },
    {
     "n": "22",
@@ -5113,7 +5695,8 @@
      "g": 1,
      "a": 0,
      "min": 1613
-    }
+    },
+    "statsClub": "AS Monaco"
    },
    {
     "n": "72",
@@ -5122,7 +5705,14 @@
     "grp": "DEF",
     "age": 22,
     "val": 7.0,
-    "stats": null
+    "stats": {
+     "m": 24,
+     "s": 23,
+     "g": 2,
+     "a": 1,
+     "min": 2031
+    },
+    "statsClub": "FC Metz"
    },
    {
     "n": "3",
@@ -5137,7 +5727,8 @@
      "g": 2,
      "a": 0,
      "min": 1047
-    }
+    },
+    "statsClub": "AS Monaco"
    },
    {
     "n": "20",
@@ -5146,7 +5737,14 @@
     "grp": "DEF",
     "age": 23,
     "val": 6.0,
-    "stats": null
+    "stats": {
+     "m": 32,
+     "s": 30,
+     "g": 3,
+     "a": 8,
+     "min": 2710
+    },
+    "statsClub": "Cercle Brugge"
    },
    {
     "n": "2",
@@ -5161,7 +5759,8 @@
      "g": 0,
      "a": 2,
      "min": 1293
-    }
+    },
+    "statsClub": "AS Monaco"
    },
    {
     "n": "4",
@@ -5176,7 +5775,8 @@
      "g": 4,
      "a": 2,
      "min": 3330
-    }
+    },
+    "statsClub": "AS Monaco"
    },
    {
     "n": "6",
@@ -5191,7 +5791,8 @@
      "g": 2,
      "a": 3,
      "min": 2811
-    }
+    },
+    "statsClub": "AS Monaco"
    },
    {
     "n": "15",
@@ -5206,7 +5807,8 @@
      "g": 3,
      "a": 4,
      "min": 2457
-    }
+    },
+    "statsClub": "AS Monaco"
    },
    {
     "n": "28",
@@ -5221,7 +5823,8 @@
      "g": 3,
      "a": 6,
      "min": 2036
-    }
+    },
+    "statsClub": "AS Monaco"
    },
    {
     "n": "37",
@@ -5230,7 +5833,8 @@
     "grp": "MID",
     "age": 21,
     "val": 3.0,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "8",
@@ -5245,7 +5849,8 @@
      "g": 0,
      "a": 0,
      "min": 115
-    }
+    },
+    "statsClub": "AS Monaco"
    },
    {
     "n": "19",
@@ -5260,7 +5865,8 @@
      "g": 0,
      "a": 0,
      "min": 107
-    }
+    },
+    "statsClub": "AS Monaco"
    },
    {
     "n": "10",
@@ -5275,7 +5881,8 @@
      "g": 5,
      "a": 6,
      "min": 2352
-    }
+    },
+    "statsClub": "AS Monaco"
    },
    {
     "n": "17",
@@ -5290,7 +5897,8 @@
      "g": 1,
      "a": 1,
      "min": 275
-    }
+    },
+    "statsClub": "AS Monaco"
    },
    {
     "n": "7",
@@ -5299,7 +5907,8 @@
     "grp": "ATT",
     "age": 19,
     "val": 15.0,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "31",
@@ -5314,7 +5923,8 @@
      "g": 12,
      "a": 0,
      "min": 1320
-    }
+    },
+    "statsClub": "AS Monaco"
    },
    {
     "n": "18",
@@ -5329,7 +5939,8 @@
      "g": 4,
      "a": 3,
      "min": 1312
-    }
+    },
+    "statsClub": "AS Monaco"
    },
    {
     "n": "9",
@@ -5344,7 +5955,8 @@
      "g": 19,
      "a": 5,
      "min": 3253
-    }
+    },
+    "statsClub": "AS Monaco"
    },
    {
     "n": "39",
@@ -5353,7 +5965,14 @@
     "grp": "ATT",
     "age": 23,
     "val": 20.0,
-    "stats": null
+    "stats": {
+     "m": 34,
+     "s": 28,
+     "g": 8,
+     "a": 7,
+     "min": 2620
+    },
+    "statsClub": "FC Nantes"
    },
    {
     "n": "14",
@@ -5368,7 +5987,8 @@
      "g": 5,
      "a": 2,
      "min": 1420
-    }
+    },
+    "statsClub": "AS Monaco"
    },
    {
     "n": "29",
@@ -5383,7 +6003,8 @@
      "g": 0,
      "a": 0,
      "min": 127
-    }
+    },
+    "statsClub": "AS Monaco"
    }
   ],
   "RCSA": [
@@ -5394,7 +6015,14 @@
     "grp": "GK",
     "age": 24,
     "val": 15.0,
-    "stats": null
+    "stats": {
+     "m": 12,
+     "s": 10,
+     "g": 0,
+     "a": 0,
+     "min": 963
+    },
+    "statsClub": "Chelsea"
    },
    {
     "n": "12",
@@ -5403,7 +6031,14 @@
     "grp": "GK",
     "age": 20,
     "val": 0.6,
-    "stats": null
+    "stats": {
+     "m": 8,
+     "s": 8,
+     "g": 0,
+     "a": 0,
+     "min": 720
+    },
+    "statsClub": "Jagiellonia"
    },
    {
     "n": "6",
@@ -5418,7 +6053,8 @@
      "g": 2,
      "a": 2,
      "min": 3459
-    }
+    },
+    "statsClub": "RC Strasbourg"
    },
    {
     "n": "24",
@@ -5433,7 +6069,8 @@
      "g": 0,
      "a": 0,
      "min": 2978
-    }
+    },
+    "statsClub": "RC Strasbourg"
    },
    {
     "n": "2",
@@ -5448,7 +6085,8 @@
      "g": 1,
      "a": 0,
      "min": 2522
-    }
+    },
+    "statsClub": "RC Strasbourg"
    },
    {
     "n": "",
@@ -5463,7 +6101,8 @@
      "g": 0,
      "a": 0,
      "min": 3
-    }
+    },
+    "statsClub": "RC Strasbourg"
    },
    {
     "n": "",
@@ -5478,7 +6117,8 @@
      "g": 0,
      "a": 0,
      "min": 46
-    }
+    },
+    "statsClub": "RC Strasbourg"
    },
    {
     "n": "",
@@ -5487,7 +6127,8 @@
     "grp": "DEF",
     "age": 18,
     "val": 0.0,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "3",
@@ -5502,7 +6143,8 @@
      "g": 0,
      "a": 3,
      "min": 2602
-    }
+    },
+    "statsClub": "RC Strasbourg"
    },
    {
     "n": "15",
@@ -5511,7 +6153,14 @@
     "grp": "DEF",
     "age": 22,
     "val": 5.0,
-    "stats": null
+    "stats": {
+     "m": 20,
+     "s": 20,
+     "g": 2,
+     "a": 2,
+     "min": 1757
+    },
+    "statsClub": "Unión Santa Fe"
    },
    {
     "n": "22",
@@ -5526,7 +6175,8 @@
      "g": 2,
      "a": 7,
      "min": 2820
-    }
+    },
+    "statsClub": "RC Strasbourg"
    },
    {
     "n": "42",
@@ -5541,7 +6191,8 @@
      "g": 4,
      "a": 1,
      "min": 2820
-    }
+    },
+    "statsClub": "RC Strasbourg"
    },
    {
     "n": "",
@@ -5550,7 +6201,8 @@
     "grp": "DEF",
     "age": 19,
     "val": 0.35,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "23",
@@ -5559,7 +6211,14 @@
     "grp": "MID",
     "age": 20,
     "val": 8.0,
-    "stats": null
+    "stats": {
+     "m": 28,
+     "s": 15,
+     "g": 1,
+     "a": 1,
+     "min": 1429
+    },
+    "statsClub": "Vit. Guimarães"
    },
    {
     "n": "8",
@@ -5574,7 +6233,8 @@
      "g": 1,
      "a": 0,
      "min": 626
-    }
+    },
+    "statsClub": "RC Strasbourg"
    },
    {
     "n": "",
@@ -5583,7 +6243,8 @@
     "grp": "MID",
     "age": 20,
     "val": 2.5,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "29",
@@ -5598,7 +6259,8 @@
      "g": 2,
      "a": 3,
      "min": 3228
-    }
+    },
+    "statsClub": "RC Strasbourg"
    },
    {
     "n": "17",
@@ -5613,7 +6275,8 @@
      "g": 0,
      "a": 0,
      "min": 794
-    }
+    },
+    "statsClub": "RC Strasbourg"
    },
    {
     "n": "21",
@@ -5622,7 +6285,8 @@
     "grp": "MID",
     "age": 22,
     "val": 9.0,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "7",
@@ -5637,7 +6301,8 @@
      "g": 5,
      "a": 9,
      "min": 2932
-    }
+    },
+    "statsClub": "RC Strasbourg"
    },
    {
     "n": "19",
@@ -5652,7 +6317,8 @@
      "g": 12,
      "a": 9,
      "min": 2967
-    }
+    },
+    "statsClub": "RC Strasbourg"
    },
    {
     "n": "13",
@@ -5661,7 +6327,14 @@
     "grp": "MID",
     "age": 23,
     "val": 4.0,
-    "stats": null
+    "stats": {
+     "m": 20,
+     "s": 5,
+     "g": 1,
+     "a": 1,
+     "min": 577
+    },
+    "statsClub": "Bor. M'gladbach"
    },
    {
     "n": "",
@@ -5670,7 +6343,14 @@
     "grp": "MID",
     "age": 18,
     "val": 0.5,
-    "stats": null
+    "stats": {
+     "m": 12,
+     "s": 4,
+     "g": 1,
+     "a": 0,
+     "min": 437
+    },
+    "statsClub": "IFK Göteborg"
    },
    {
     "n": "20",
@@ -5685,7 +6365,8 @@
      "g": 16,
      "a": 6,
      "min": 2795
-    }
+    },
+    "statsClub": "RC Strasbourg"
    },
    {
     "n": "11",
@@ -5700,7 +6381,8 @@
      "g": 10,
      "a": 5,
      "min": 1754
-    }
+    },
+    "statsClub": "RC Strasbourg"
    },
    {
     "n": "",
@@ -5709,7 +6391,14 @@
     "grp": "ATT",
     "age": 21,
     "val": 5.0,
-    "stats": null
+    "stats": {
+     "m": 17,
+     "s": 3,
+     "g": 1,
+     "a": 1,
+     "min": 515
+    },
+    "statsClub": "Hambourg"
    },
    {
     "n": "80",
@@ -5724,7 +6413,8 @@
      "g": 0,
      "a": 2,
      "min": 800
-    }
+    },
+    "statsClub": "RC Strasbourg"
    },
    {
     "n": "27",
@@ -5739,7 +6429,8 @@
      "g": 2,
      "a": 4,
      "min": 1732
-    }
+    },
+    "statsClub": "RC Strasbourg"
    },
    {
     "n": "34",
@@ -5754,7 +6445,8 @@
      "g": 0,
      "a": 1,
      "min": 155
-    }
+    },
+    "statsClub": "RC Strasbourg"
    },
    {
     "n": "9",
@@ -5769,7 +6461,8 @@
      "g": 20,
      "a": 4,
      "min": 2932
-    }
+    },
+    "statsClub": "RC Strasbourg"
    },
    {
     "n": "",
@@ -5784,7 +6477,8 @@
      "g": 0,
      "a": 0,
      "min": 0
-    }
+    },
+    "statsClub": "RC Strasbourg"
    },
    {
     "n": "",
@@ -5793,7 +6487,8 @@
     "grp": "ATT",
     "age": 20,
     "val": 3.5,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    }
   ],
   "FCL": [
@@ -5810,7 +6505,8 @@
      "g": 0,
      "a": 0,
      "min": 2790
-    }
+    },
+    "statsClub": "FC Lorient"
    },
    {
     "n": "21",
@@ -5825,7 +6521,8 @@
      "g": 0,
      "a": 0,
      "min": 630
-    }
+    },
+    "statsClub": "FC Lorient"
    },
    {
     "n": "1",
@@ -5840,7 +6537,8 @@
      "g": 0,
      "a": 0,
      "min": 0
-    }
+    },
+    "statsClub": "FC Lorient"
    },
    {
     "n": "3",
@@ -5855,7 +6553,8 @@
      "g": 0,
      "a": 1,
      "min": 2790
-    }
+    },
+    "statsClub": "FC Lorient"
    },
    {
     "n": "",
@@ -5870,7 +6569,8 @@
      "g": 0,
      "a": 0,
      "min": 135
-    }
+    },
+    "statsClub": "FC Lorient"
    },
    {
     "n": "32",
@@ -5885,7 +6585,8 @@
      "g": 0,
      "a": 0,
      "min": 1103
-    }
+    },
+    "statsClub": "FC Lorient"
    },
    {
     "n": "95",
@@ -5900,7 +6601,8 @@
      "g": 0,
      "a": 0,
      "min": 28
-    }
+    },
+    "statsClub": "FC Lorient"
    },
    {
     "n": "",
@@ -5909,7 +6611,8 @@
     "grp": "DEF",
     "age": 20,
     "val": 0.3,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "43",
@@ -5924,7 +6627,8 @@
      "g": 2,
      "a": 8,
      "min": 2770
-    }
+    },
+    "statsClub": "FC Lorient"
    },
    {
     "n": "",
@@ -5933,7 +6637,8 @@
     "grp": "DEF",
     "age": 23,
     "val": 1.5,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "2",
@@ -5942,7 +6647,14 @@
     "grp": "DEF",
     "age": 27,
     "val": 1.5,
-    "stats": null
+    "stats": {
+     "m": 34,
+     "s": 31,
+     "g": 0,
+     "a": 2,
+     "min": 2806
+    },
+    "statsClub": "USL Dunkerque"
    },
    {
     "n": "62",
@@ -5957,7 +6669,8 @@
      "g": 2,
      "a": 1,
      "min": 2295
-    }
+    },
+    "statsClub": "FC Lorient"
    },
    {
     "n": "8",
@@ -5972,7 +6685,8 @@
      "g": 4,
      "a": 2,
      "min": 2071
-    }
+    },
+    "statsClub": "FC Lorient"
    },
    {
     "n": "72",
@@ -5981,7 +6695,8 @@
     "grp": "MID",
     "age": 21,
     "val": 2.0,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "11",
@@ -5996,7 +6711,8 @@
      "g": 2,
      "a": 3,
      "min": 2151
-    }
+    },
+    "statsClub": "FC Lorient"
    },
    {
     "n": "77",
@@ -6011,7 +6727,8 @@
      "g": 1,
      "a": 2,
      "min": 777
-    }
+    },
+    "statsClub": "FC Lorient"
    },
    {
     "n": "",
@@ -6026,7 +6743,8 @@
      "g": 0,
      "a": 2,
      "min": 736
-    }
+    },
+    "statsClub": "FC Lorient"
    },
    {
     "n": "17",
@@ -6041,7 +6759,8 @@
      "g": 4,
      "a": 2,
      "min": 2059
-    }
+    },
+    "statsClub": "FC Lorient"
    },
    {
     "n": "33",
@@ -6050,7 +6769,14 @@
     "grp": "MID",
     "age": 20,
     "val": 1.2,
-    "stats": null
+    "stats": {
+     "m": 8,
+     "s": 2,
+     "g": 0,
+     "a": 0,
+     "min": 216
+    },
+    "statsClub": "OGC Nice"
    },
    {
     "n": "7",
@@ -6065,7 +6791,8 @@
      "g": 0,
      "a": 0,
      "min": 51
-    }
+    },
+    "statsClub": "FC Lorient"
    },
    {
     "n": "",
@@ -6074,7 +6801,8 @@
     "grp": "ATT",
     "age": 21,
     "val": 0.7,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "19",
@@ -6083,7 +6811,14 @@
     "grp": "ATT",
     "age": 23,
     "val": 3.0,
-    "stats": null
+    "stats": {
+     "m": 9,
+     "s": 0,
+     "g": 0,
+     "a": 1,
+     "min": 160
+    },
+    "statsClub": "Sporting"
    },
    {
     "n": "9",
@@ -6098,7 +6833,8 @@
      "g": 3,
      "a": 2,
      "min": 752
-    }
+    },
+    "statsClub": "FC Lorient"
    },
    {
     "n": "15",
@@ -6113,7 +6849,8 @@
      "g": 5,
      "a": 0,
      "min": 1090
-    }
+    },
+    "statsClub": "FC Lorient"
    }
   ],
   "TFC": [
@@ -6130,7 +6867,8 @@
      "g": 0,
      "a": 0,
      "min": 2940
-    }
+    },
+    "statsClub": "Toulouse FC"
    },
    {
     "n": "",
@@ -6139,7 +6877,8 @@
     "grp": "GK",
     "age": 19,
     "val": 2.5,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "3",
@@ -6154,7 +6893,8 @@
      "g": 0,
      "a": 2,
      "min": 2765
-    }
+    },
+    "statsClub": "Toulouse FC"
    },
    {
     "n": "2",
@@ -6169,7 +6909,8 @@
      "g": 1,
      "a": 1,
      "min": 2838
-    }
+    },
+    "statsClub": "Toulouse FC"
    },
    {
     "n": "35",
@@ -6184,7 +6925,8 @@
      "g": 1,
      "a": 0,
      "min": 787
-    }
+    },
+    "statsClub": "Toulouse FC"
    },
    {
     "n": "24",
@@ -6199,7 +6941,8 @@
      "g": 2,
      "a": 2,
      "min": 2078
-    }
+    },
+    "statsClub": "Toulouse FC"
    },
    {
     "n": "12",
@@ -6208,7 +6951,14 @@
     "grp": "DEF",
     "age": 20,
     "val": 0.8,
-    "stats": null
+    "stats": {
+     "m": 29,
+     "s": 28,
+     "g": 1,
+     "a": 1,
+     "min": 2424
+    },
+    "statsClub": "AC Horsens"
    },
    {
     "n": "",
@@ -6217,7 +6967,8 @@
     "grp": "DEF",
     "age": 21,
     "val": 0.25,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "22",
@@ -6232,7 +6983,8 @@
      "g": 0,
      "a": 0,
      "min": 667
-    }
+    },
+    "statsClub": "Toulouse FC"
    },
    {
     "n": "94",
@@ -6241,7 +6993,14 @@
     "grp": "DEF",
     "age": 22,
     "val": 0.9,
-    "stats": null
+    "stats": {
+     "m": 24,
+     "s": 23,
+     "g": 3,
+     "a": 4,
+     "min": 2037
+    },
+    "statsClub": "Dijon"
    },
    {
     "n": "45",
@@ -6256,7 +7015,8 @@
      "g": 1,
      "a": 1,
      "min": 1209
-    }
+    },
+    "statsClub": "Toulouse FC"
    },
    {
     "n": "23",
@@ -6271,7 +7031,8 @@
      "g": 2,
      "a": 5,
      "min": 2854
-    }
+    },
+    "statsClub": "Toulouse FC"
    },
    {
     "n": "17",
@@ -6286,7 +7047,8 @@
      "g": 0,
      "a": 0,
      "min": 532
-    }
+    },
+    "statsClub": "Toulouse FC"
    },
    {
     "n": "",
@@ -6301,7 +7063,8 @@
      "g": 0,
      "a": 0,
      "min": 19
-    }
+    },
+    "statsClub": "Toulouse FC"
    },
    {
     "n": "77",
@@ -6316,7 +7079,8 @@
      "g": 1,
      "a": 0,
      "min": 897
-    }
+    },
+    "statsClub": "Toulouse FC"
    },
    {
     "n": "15",
@@ -6331,7 +7095,8 @@
      "g": 5,
      "a": 5,
      "min": 2784
-    }
+    },
+    "statsClub": "Toulouse FC"
    },
    {
     "n": "",
@@ -6346,7 +7111,8 @@
      "g": 0,
      "a": 0,
      "min": 7
-    }
+    },
+    "statsClub": "Toulouse FC"
    },
    {
     "n": "10",
@@ -6361,7 +7127,8 @@
      "g": 10,
      "a": 3,
      "min": 2970
-    }
+    },
+    "statsClub": "Toulouse FC"
    },
    {
     "n": "",
@@ -6370,7 +7137,14 @@
     "grp": "ATT",
     "age": 18,
     "val": 0.45,
-    "stats": null
+    "stats": {
+     "m": 17,
+     "s": 12,
+     "g": 2,
+     "a": 1,
+     "min": 1030
+    },
+    "statsClub": "Brommapojkarna"
    },
    {
     "n": "9",
@@ -6385,7 +7159,8 @@
      "g": 6,
      "a": 6,
      "min": 1531
-    }
+    },
+    "statsClub": "Toulouse FC"
    },
    {
     "n": "13",
@@ -6400,7 +7175,8 @@
      "g": 1,
      "a": 0,
      "min": 502
-    }
+    },
+    "statsClub": "Toulouse FC"
    },
    {
     "n": "7",
@@ -6415,7 +7191,8 @@
      "g": 2,
      "a": 0,
      "min": 311
-    }
+    },
+    "statsClub": "Toulouse FC"
    },
    {
     "n": "21",
@@ -6430,7 +7207,8 @@
      "g": 0,
      "a": 0,
      "min": 5
-    }
+    },
+    "statsClub": "Toulouse FC"
    }
   ],
   "PFC": [
@@ -6447,7 +7225,8 @@
      "g": 0,
      "a": 0,
      "min": 1350
-    }
+    },
+    "statsClub": "Paris FC"
    },
    {
     "n": "35",
@@ -6462,7 +7241,8 @@
      "g": 0,
      "a": 0,
      "min": 1980
-    }
+    },
+    "statsClub": "Paris FC"
    },
    {
     "n": "",
@@ -6477,7 +7257,8 @@
      "g": 0,
      "a": 2,
      "min": 1260
-    }
+    },
+    "statsClub": "Paris FC"
    },
    {
     "n": "6",
@@ -6492,7 +7273,8 @@
      "g": 1,
      "a": 0,
      "min": 1994
-    }
+    },
+    "statsClub": "Paris FC"
    },
    {
     "n": "5",
@@ -6507,7 +7289,8 @@
      "g": 0,
      "a": 1,
      "min": 2986
-    }
+    },
+    "statsClub": "Paris FC"
    },
    {
     "n": "31",
@@ -6522,7 +7305,8 @@
      "g": 1,
      "a": 0,
      "min": 1155
-    }
+    },
+    "statsClub": "Paris FC"
    },
    {
     "n": "",
@@ -6537,7 +7321,8 @@
      "g": 0,
      "a": 0,
      "min": 0
-    }
+    },
+    "statsClub": "Paris FC"
    },
    {
     "n": "19",
@@ -6552,7 +7337,8 @@
      "g": 0,
      "a": 0,
      "min": 2004
-    }
+    },
+    "statsClub": "Paris FC"
    },
    {
     "n": "28",
@@ -6567,7 +7353,8 @@
      "g": 0,
      "a": 1,
      "min": 1283
-    }
+    },
+    "statsClub": "Paris FC"
    },
    {
     "n": "2",
@@ -6582,7 +7369,8 @@
      "g": 0,
      "a": 0,
      "min": 440
-    }
+    },
+    "statsClub": "Paris FC"
    },
    {
     "n": "",
@@ -6591,7 +7379,8 @@
     "grp": "DEF",
     "age": 18,
     "val": 0.0,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "14",
@@ -6606,7 +7395,8 @@
      "g": 0,
      "a": 1,
      "min": 1154
-    }
+    },
+    "statsClub": "Paris FC"
    },
    {
     "n": "21",
@@ -6621,7 +7411,8 @@
      "g": 0,
      "a": 3,
      "min": 2050
-    }
+    },
+    "statsClub": "Paris FC"
    },
    {
     "n": "33",
@@ -6636,7 +7427,8 @@
      "g": 1,
      "a": 3,
      "min": 1786
-    }
+    },
+    "statsClub": "Paris FC"
    },
    {
     "n": "17",
@@ -6651,7 +7443,8 @@
      "g": 1,
      "a": 0,
      "min": 2363
-    }
+    },
+    "statsClub": "Paris FC"
    },
    {
     "n": "",
@@ -6660,7 +7453,14 @@
     "grp": "MID",
     "age": 19,
     "val": 20.0,
-    "stats": null
+    "stats": {
+     "m": 32,
+     "s": 20,
+     "g": 3,
+     "a": 5,
+     "min": 1893
+    },
+    "statsClub": "Stade de Reims"
    },
    {
     "n": "23",
@@ -6675,7 +7475,8 @@
      "g": 2,
      "a": 0,
      "min": 777
-    }
+    },
+    "statsClub": "Paris FC"
    },
    {
     "n": "4",
@@ -6690,7 +7491,8 @@
      "g": 2,
      "a": 1,
      "min": 960
-    }
+    },
+    "statsClub": "Paris FC"
    },
    {
     "n": "",
@@ -6699,7 +7501,14 @@
     "grp": "ATT",
     "age": 23,
     "val": 15.0,
-    "stats": null
+    "stats": {
+     "m": 32,
+     "s": 25,
+     "g": 10,
+     "a": 5,
+     "min": 1949
+    },
+    "statsClub": "FC Lorient"
    },
    {
     "n": "27",
@@ -6714,7 +7523,8 @@
      "g": 3,
      "a": 3,
      "min": 2021
-    }
+    },
+    "statsClub": "Paris FC"
    },
    {
     "n": "10",
@@ -6729,7 +7539,8 @@
      "g": 9,
      "a": 5,
      "min": 2309
-    }
+    },
+    "statsClub": "Paris FC"
    },
    {
     "n": "",
@@ -6744,7 +7555,8 @@
      "g": 3,
      "a": 1,
      "min": 630
-    }
+    },
+    "statsClub": "Paris FC"
    },
    {
     "n": "93",
@@ -6759,7 +7571,8 @@
      "g": 7,
      "a": 1,
      "min": 1315
-    }
+    },
+    "statsClub": "Paris FC"
    },
    {
     "n": "",
@@ -6768,7 +7581,14 @@
     "grp": "ATT",
     "age": 26,
     "val": 10.0,
-    "stats": null
+    "stats": {
+     "m": 32,
+     "s": 32,
+     "g": 12,
+     "a": 4,
+     "min": 2781
+    },
+    "statsClub": "AJ Auxerre"
    },
    {
     "n": "11",
@@ -6783,7 +7603,8 @@
      "g": 2,
      "a": 2,
      "min": 1105
-    }
+    },
+    "statsClub": "Paris FC"
    },
    {
     "n": "",
@@ -6792,7 +7613,8 @@
     "grp": "ATT",
     "age": 19,
     "val": 1.0,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    }
   ],
   "SB29": [
@@ -6809,7 +7631,8 @@
      "g": 0,
      "a": 0,
      "min": 2281
-    }
+    },
+    "statsClub": "Stade Brestois 29"
    },
    {
     "n": "",
@@ -6818,7 +7641,14 @@
     "grp": "GK",
     "age": 29,
     "val": 1.5,
-    "stats": null
+    "stats": {
+     "m": 41,
+     "s": 41,
+     "g": 0,
+     "a": 0,
+     "min": 3645
+    },
+    "statsClub": "Watford"
    },
    {
     "n": "16",
@@ -6827,7 +7657,8 @@
     "grp": "GK",
     "age": 19,
     "val": 0.0,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "5",
@@ -6842,7 +7673,8 @@
      "g": 1,
      "a": 4,
      "min": 2614
-    }
+    },
+    "statsClub": "Stade Brestois 29"
    },
    {
     "n": "4",
@@ -6851,7 +7683,14 @@
     "grp": "DEF",
     "age": 31,
     "val": 3.0,
-    "stats": null
+    "stats": {
+     "m": 30,
+     "s": 28,
+     "g": 1,
+     "a": 1,
+     "min": 2445
+    },
+    "statsClub": "Le Havre AC"
    },
    {
     "n": "71",
@@ -6866,7 +7705,8 @@
      "g": 0,
      "a": 0,
      "min": 373
-    }
+    },
+    "statsClub": "Stade Brestois 29"
    },
    {
     "n": "2",
@@ -6881,7 +7721,8 @@
      "g": 0,
      "a": 2,
      "min": 1370
-    }
+    },
+    "statsClub": "Stade Brestois 29"
    },
    {
     "n": "",
@@ -6896,7 +7737,8 @@
      "g": 0,
      "a": 0,
      "min": 38
-    }
+    },
+    "statsClub": "Stade Brestois 29"
    },
    {
     "n": "77",
@@ -6911,7 +7753,8 @@
      "g": 0,
      "a": 3,
      "min": 2820
-    }
+    },
+    "statsClub": "Stade Brestois 29"
    },
    {
     "n": "12",
@@ -6926,7 +7769,8 @@
      "g": 0,
      "a": 0,
      "min": 347
-    }
+    },
+    "statsClub": "Stade Brestois 29"
    },
    {
     "n": "13",
@@ -6941,7 +7785,8 @@
      "g": 2,
      "a": 1,
      "min": 2804
-    }
+    },
+    "statsClub": "Stade Brestois 29"
    },
    {
     "n": "6",
@@ -6950,7 +7795,14 @@
     "grp": "MID",
     "age": 23,
     "val": 1.5,
-    "stats": null
+    "stats": {
+     "m": 15,
+     "s": 11,
+     "g": 0,
+     "a": 0,
+     "min": 774
+    },
+    "statsClub": "RB Salzbourg"
    },
    {
     "n": "33",
@@ -6965,7 +7817,8 @@
      "g": 0,
      "a": 0,
      "min": 392
-    }
+    },
+    "statsClub": "Stade Brestois 29"
    },
    {
     "n": "8",
@@ -6980,7 +7833,8 @@
      "g": 1,
      "a": 2,
      "min": 2697
-    }
+    },
+    "statsClub": "Stade Brestois 29"
    },
    {
     "n": "7",
@@ -6989,7 +7843,14 @@
     "grp": "MID",
     "age": 21,
     "val": 2.0,
-    "stats": null
+    "stats": {
+     "m": 29,
+     "s": 17,
+     "g": 1,
+     "a": 0,
+     "min": 1469
+    },
+    "statsClub": "Kocaelispor"
    },
    {
     "n": "24",
@@ -7004,7 +7865,8 @@
      "g": 1,
      "a": 1,
      "min": 917
-    }
+    },
+    "statsClub": "Stade Brestois 29"
    },
    {
     "n": "23",
@@ -7019,7 +7881,8 @@
      "g": 5,
      "a": 4,
      "min": 1766
-    }
+    },
+    "statsClub": "Stade Brestois 29"
    },
    {
     "n": "99",
@@ -7034,7 +7897,8 @@
      "g": 1,
      "a": 0,
      "min": 1048
-    }
+    },
+    "statsClub": "Stade Brestois 29"
    },
    {
     "n": "10",
@@ -7049,7 +7913,8 @@
      "g": 9,
      "a": 4,
      "min": 2736
-    }
+    },
+    "statsClub": "Stade Brestois 29"
    },
    {
     "n": "",
@@ -7064,7 +7929,8 @@
      "g": 0,
      "a": 0,
      "min": 11
-    }
+    },
+    "statsClub": "Stade Brestois 29"
    },
    {
     "n": "17",
@@ -7079,7 +7945,8 @@
      "g": 2,
      "a": 2,
      "min": 802
-    }
+    },
+    "statsClub": "Stade Brestois 29"
    },
    {
     "n": "19",
@@ -7094,7 +7961,8 @@
      "g": 8,
      "a": 10,
      "min": 2824
-    }
+    },
+    "statsClub": "Stade Brestois 29"
    }
   ],
   "SCO": [
@@ -7105,7 +7973,14 @@
     "grp": "GK",
     "age": 35,
     "val": 0.9,
-    "stats": null
+    "stats": {
+     "m": 32,
+     "s": 32,
+     "g": 0,
+     "a": 0,
+     "min": 2879
+    },
+    "statsClub": "FC Nantes"
    },
    {
     "n": "16",
@@ -7120,7 +7995,8 @@
      "g": 0,
      "a": 0,
      "min": 221
-    }
+    },
+    "statsClub": "Angers SCO"
    },
    {
     "n": "40",
@@ -7135,7 +8011,8 @@
      "g": 0,
      "a": 0,
      "min": 360
-    }
+    },
+    "statsClub": "Angers SCO"
    },
    {
     "n": "4",
@@ -7150,7 +8027,8 @@
      "g": 1,
      "a": 0,
      "min": 2719
-    }
+    },
+    "statsClub": "Angers SCO"
    },
    {
     "n": "24",
@@ -7165,7 +8043,8 @@
      "g": 0,
      "a": 0,
      "min": 473
-    }
+    },
+    "statsClub": "Angers SCO"
    },
    {
     "n": "21",
@@ -7180,7 +8059,8 @@
      "g": 0,
      "a": 2,
      "min": 3240
-    }
+    },
+    "statsClub": "Angers SCO"
    },
    {
     "n": "3",
@@ -7195,7 +8075,8 @@
      "g": 0,
      "a": 0,
      "min": 2304
-    }
+    },
+    "statsClub": "Angers SCO"
    },
    {
     "n": "27",
@@ -7210,7 +8091,8 @@
      "g": 2,
      "a": 4,
      "min": 2123
-    }
+    },
+    "statsClub": "Angers SCO"
    },
    {
     "n": "20",
@@ -7225,7 +8107,8 @@
      "g": 0,
      "a": 0,
      "min": 541
-    }
+    },
+    "statsClub": "Angers SCO"
    },
    {
     "n": "2",
@@ -7240,7 +8123,8 @@
      "g": 0,
      "a": 3,
      "min": 2151
-    }
+    },
+    "statsClub": "Angers SCO"
    },
    {
     "n": "14",
@@ -7255,7 +8139,8 @@
      "g": 2,
      "a": 2,
      "min": 2224
-    }
+    },
+    "statsClub": "Angers SCO"
    },
    {
     "n": "",
@@ -7270,7 +8155,8 @@
      "g": 0,
      "a": 1,
      "min": 1242
-    }
+    },
+    "statsClub": "Angers SCO"
    },
    {
     "n": "93",
@@ -7285,7 +8171,8 @@
      "g": 0,
      "a": 0,
      "min": 2970
-    }
+    },
+    "statsClub": "Angers SCO"
    },
    {
     "n": "6",
@@ -7300,7 +8187,8 @@
      "g": 2,
      "a": 1,
      "min": 2085
-    }
+    },
+    "statsClub": "Angers SCO"
    },
    {
     "n": "7",
@@ -7315,7 +8203,8 @@
      "g": 4,
      "a": 1,
      "min": 2014
-    }
+    },
+    "statsClub": "Angers SCO"
    },
    {
     "n": "26",
@@ -7324,7 +8213,14 @@
     "grp": "ATT",
     "age": 21,
     "val": 1.0,
-    "stats": null
+    "stats": {
+     "m": 11,
+     "s": 1,
+     "g": 0,
+     "a": 0,
+     "min": 165
+    },
+    "statsClub": "RC Lens"
    },
    {
     "n": "31",
@@ -7339,7 +8235,8 @@
      "g": 2,
      "a": 1,
      "min": 323
-    }
+    },
+    "statsClub": "Angers SCO"
    },
    {
     "n": "",
@@ -7354,7 +8251,8 @@
      "g": 1,
      "a": 0,
      "min": 127
-    }
+    },
+    "statsClub": "Angers SCO"
    },
    {
     "n": "35",
@@ -7369,7 +8267,8 @@
      "g": 5,
      "a": 1,
      "min": 1446
-    }
+    },
+    "statsClub": "Angers SCO"
    },
    {
     "n": "19",
@@ -7378,7 +8277,14 @@
     "grp": "ATT",
     "age": 25,
     "val": 2.5,
-    "stats": null
+    "stats": {
+     "m": 24,
+     "s": 13,
+     "g": 2,
+     "a": 1,
+     "min": 1200
+    },
+    "statsClub": "SC Braga"
    },
    {
     "n": "17",
@@ -7387,7 +8293,14 @@
     "grp": "ATT",
     "age": 24,
     "val": 0.7,
-    "stats": null
+    "stats": {
+     "m": 29,
+     "s": 22,
+     "g": 15,
+     "a": 2,
+     "min": 2033
+    },
+    "statsClub": "RWDM Brussels"
    }
   ],
   "HAC": [
@@ -7404,7 +8317,8 @@
      "g": 0,
      "a": 1,
      "min": 2655
-    }
+    },
+    "statsClub": "Le Havre AC"
    },
    {
     "n": "77",
@@ -7419,7 +8333,8 @@
      "g": 0,
      "a": 0,
      "min": 315
-    }
+    },
+    "statsClub": "Le Havre AC"
    },
    {
     "n": "50",
@@ -7434,7 +8349,8 @@
      "g": 0,
      "a": 0,
      "min": 180
-    }
+    },
+    "statsClub": "Le Havre AC"
    },
    {
     "n": "15",
@@ -7449,7 +8365,8 @@
      "g": 0,
      "a": 0,
      "min": 2625
-    }
+    },
+    "statsClub": "Le Havre AC"
    },
    {
     "n": "29",
@@ -7464,7 +8381,8 @@
      "g": 1,
      "a": 0,
      "min": 498
-    }
+    },
+    "statsClub": "Le Havre AC"
    },
    {
     "n": "23",
@@ -7473,7 +8391,14 @@
     "grp": "DEF",
     "age": 35,
     "val": 0.15,
-    "stats": null
+    "stats": {
+     "m": 27,
+     "s": 27,
+     "g": 4,
+     "a": 1,
+     "min": 2384
+    },
+    "statsClub": "USL Dunkerque"
    },
    {
     "n": "18",
@@ -7488,7 +8413,8 @@
      "g": 1,
      "a": 1,
      "min": 2350
-    }
+    },
+    "statsClub": "Le Havre AC"
    },
    {
     "n": "27",
@@ -7503,7 +8429,8 @@
      "g": 0,
      "a": 0,
      "min": 425
-    }
+    },
+    "statsClub": "Le Havre AC"
    },
    {
     "n": "13",
@@ -7518,7 +8445,8 @@
      "g": 3,
      "a": 1,
      "min": 1242
-    }
+    },
+    "statsClub": "Le Havre AC"
    },
    {
     "n": "32",
@@ -7533,7 +8461,8 @@
      "g": 0,
      "a": 0,
      "min": 374
-    }
+    },
+    "statsClub": "Le Havre AC"
    },
    {
     "n": "6",
@@ -7542,7 +8471,14 @@
     "grp": "MID",
     "age": 23,
     "val": 6.0,
-    "stats": null
+    "stats": {
+     "m": 8,
+     "s": 7,
+     "g": 0,
+     "a": 0,
+     "min": 564
+    },
+    "statsClub": "R. Strasbourg"
    },
    {
     "n": "78",
@@ -7557,7 +8493,8 @@
      "g": 0,
      "a": 0,
      "min": 148
-    }
+    },
+    "statsClub": "Le Havre AC"
    },
    {
     "n": "14",
@@ -7572,7 +8509,8 @@
      "g": 4,
      "a": 4,
      "min": 2667
-    }
+    },
+    "statsClub": "Le Havre AC"
    },
    {
     "n": "26",
@@ -7587,7 +8525,8 @@
      "g": 1,
      "a": 0,
      "min": 1809
-    }
+    },
+    "statsClub": "Le Havre AC"
    },
    {
     "n": "",
@@ -7596,7 +8535,14 @@
     "grp": "MID",
     "age": 24,
     "val": 4.0,
-    "stats": null
+    "stats": {
+     "m": 4,
+     "s": 2,
+     "g": 0,
+     "a": 0,
+     "min": 200
+    },
+    "statsClub": "Fiorentina"
    },
    {
     "n": "24",
@@ -7611,7 +8557,8 @@
      "g": 0,
      "a": 0,
      "min": 0
-    }
+    },
+    "statsClub": "Le Havre AC"
    },
    {
     "n": "17",
@@ -7620,7 +8567,14 @@
     "grp": "MID",
     "age": 26,
     "val": 0.6,
-    "stats": null
+    "stats": {
+     "m": 41,
+     "s": 36,
+     "g": 9,
+     "a": 12,
+     "min": 3162
+    },
+    "statsClub": "RW Essen"
    },
    {
     "n": "37",
@@ -7629,7 +8583,8 @@
     "grp": "MID",
     "age": 20,
     "val": 0.4,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "44",
@@ -7644,7 +8599,8 @@
      "g": 0,
      "a": 0,
      "min": 0
-    }
+    },
+    "statsClub": "Le Havre AC"
    },
    {
     "n": "10",
@@ -7659,7 +8615,8 @@
      "g": 1,
      "a": 0,
      "min": 529
-    }
+    },
+    "statsClub": "Le Havre AC"
    },
    {
     "n": "11",
@@ -7674,7 +8631,8 @@
      "g": 1,
      "a": 1,
      "min": 419
-    }
+    },
+    "statsClub": "Le Havre AC"
    },
    {
     "n": "9",
@@ -7683,7 +8641,14 @@
     "grp": "ATT",
     "age": 27,
     "val": 4.5,
-    "stats": null
+    "stats": {
+     "m": 43,
+     "s": 17,
+     "g": 6,
+     "a": 1,
+     "min": 1710
+    },
+    "statsClub": "West Brom"
    },
    {
     "n": "",
@@ -7692,7 +8657,14 @@
     "grp": "ATT",
     "age": 23,
     "val": 0.9,
-    "stats": null
+    "stats": {
+     "m": 24,
+     "s": 15,
+     "g": 5,
+     "a": 2,
+     "min": 1428
+    },
+    "statsClub": "Sanf. Hiroshima"
    },
    {
     "n": "25",
@@ -7707,7 +8679,8 @@
      "g": 2,
      "a": 1,
      "min": 1545
-    }
+    },
+    "statsClub": "Le Havre AC"
    },
    {
     "n": "",
@@ -7716,7 +8689,8 @@
     "grp": "ATT",
     "age": 22,
     "val": 0.2,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "19",
@@ -7725,7 +8699,8 @@
     "grp": "ATT",
     "age": 20,
     "val": 0.1,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    }
   ],
   "AJA": [
@@ -7736,7 +8711,14 @@
     "grp": "GK",
     "age": 26,
     "val": 1.5,
-    "stats": null
+    "stats": {
+     "m": 31,
+     "s": 31,
+     "g": 0,
+     "a": 0,
+     "min": 2684
+    },
+    "statsClub": "Grenoble"
    },
    {
     "n": "1",
@@ -7745,7 +8727,14 @@
     "grp": "GK",
     "age": 32,
     "val": 1.2,
-    "stats": null
+    "stats": {
+     "m": 18,
+     "s": 17,
+     "g": 0,
+     "a": 0,
+     "min": 1601
+    },
+    "statsClub": "QPR"
    },
    {
     "n": "37",
@@ -7760,7 +8749,8 @@
      "g": 0,
      "a": 0,
      "min": 0
-    }
+    },
+    "statsClub": "AJ Auxerre"
    },
    {
     "n": "92",
@@ -7775,7 +8765,8 @@
      "g": 0,
      "a": 0,
      "min": 1941
-    }
+    },
+    "statsClub": "AJ Auxerre"
    },
    {
     "n": "20",
@@ -7790,7 +8781,8 @@
      "g": 2,
      "a": 2,
      "min": 2134
-    }
+    },
+    "statsClub": "AJ Auxerre"
    },
    {
     "n": "24",
@@ -7805,7 +8797,8 @@
      "g": 3,
      "a": 0,
      "min": 1006
-    }
+    },
+    "statsClub": "AJ Auxerre"
    },
    {
     "n": "4",
@@ -7820,7 +8813,8 @@
      "g": 1,
      "a": 0,
      "min": 952
-    }
+    },
+    "statsClub": "AJ Auxerre"
    },
    {
     "n": "13",
@@ -7835,7 +8829,8 @@
      "g": 0,
      "a": 0,
      "min": 315
-    }
+    },
+    "statsClub": "AJ Auxerre"
    },
    {
     "n": "15",
@@ -7844,7 +8839,14 @@
     "grp": "DEF",
     "age": 22,
     "val": 0.8,
-    "stats": null
+    "stats": {
+     "m": 15,
+     "s": 13,
+     "g": 0,
+     "a": 0,
+     "min": 1224
+    },
+    "statsClub": "Luton"
    },
    {
     "n": "35",
@@ -7859,7 +8861,8 @@
      "g": 0,
      "a": 0,
      "min": 0
-    }
+    },
+    "statsClub": "AJ Auxerre"
    },
    {
     "n": "38",
@@ -7874,7 +8877,8 @@
      "g": 0,
      "a": 0,
      "min": 0
-    }
+    },
+    "statsClub": "AJ Auxerre"
    },
    {
     "n": "22",
@@ -7889,7 +8893,8 @@
      "g": 0,
      "a": 0,
      "min": 1338
-    }
+    },
+    "statsClub": "AJ Auxerre"
    },
    {
     "n": "93",
@@ -7898,7 +8903,14 @@
     "grp": "DEF",
     "age": 23,
     "val": 0.8,
-    "stats": null
+    "stats": {
+     "m": 40,
+     "s": 25,
+     "g": 2,
+     "a": 3,
+     "min": 2284
+    },
+    "statsClub": "Lausanne-Sport"
    },
    {
     "n": "",
@@ -7907,7 +8919,8 @@
     "grp": "DEF",
     "age": 17,
     "val": 0.0,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "29",
@@ -7922,7 +8935,8 @@
      "g": 1,
      "a": 0,
      "min": 1875
-    }
+    },
+    "statsClub": "AJ Auxerre"
    },
    {
     "n": "27",
@@ -7937,7 +8951,8 @@
      "g": 0,
      "a": 2,
      "min": 1594
-    }
+    },
+    "statsClub": "AJ Auxerre"
    },
    {
     "n": "42",
@@ -7952,7 +8967,8 @@
      "g": 0,
      "a": 0,
      "min": 2349
-    }
+    },
+    "statsClub": "AJ Auxerre"
    },
    {
     "n": "46",
@@ -7961,7 +8977,14 @@
     "grp": "MID",
     "age": 21,
     "val": 4.0,
-    "stats": null
+    "stats": {
+     "m": 37,
+     "s": 35,
+     "g": 3,
+     "a": 3,
+     "min": 3020
+    },
+    "statsClub": "KVC Westerlo"
    },
    {
     "n": "18",
@@ -7976,7 +8999,8 @@
      "g": 1,
      "a": 0,
      "min": 298
-    }
+    },
+    "statsClub": "AJ Auxerre"
    },
    {
     "n": "5",
@@ -7991,7 +9015,8 @@
      "g": 3,
      "a": 1,
      "min": 2920
-    }
+    },
+    "statsClub": "AJ Auxerre"
    },
    {
     "n": "8",
@@ -8006,7 +9031,8 @@
      "g": 0,
      "a": 1,
      "min": 679
-    }
+    },
+    "statsClub": "AJ Auxerre"
    },
    {
     "n": "36",
@@ -8021,7 +9047,8 @@
      "g": 0,
      "a": 0,
      "min": 17
-    }
+    },
+    "statsClub": "AJ Auxerre"
    },
    {
     "n": "28",
@@ -8036,7 +9063,8 @@
      "g": 0,
      "a": 2,
      "min": 583
-    }
+    },
+    "statsClub": "AJ Auxerre"
    },
    {
     "n": "19",
@@ -8051,7 +9079,8 @@
      "g": 3,
      "a": 3,
      "min": 2528
-    }
+    },
+    "statsClub": "AJ Auxerre"
    },
    {
     "n": "77",
@@ -8060,7 +9089,8 @@
     "grp": "ATT",
     "age": 21,
     "val": 2.5,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "",
@@ -8069,7 +9099,8 @@
     "grp": "ATT",
     "age": 20,
     "val": 0.4,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "7",
@@ -8084,7 +9115,8 @@
      "g": 1,
      "a": 0,
      "min": 1521
-    }
+    },
+    "statsClub": "AJ Auxerre"
    },
    {
     "n": "21",
@@ -8099,7 +9131,8 @@
      "g": 0,
      "a": 0,
      "min": 336
-    }
+    },
+    "statsClub": "AJ Auxerre"
    },
    {
     "n": "",
@@ -8108,7 +9141,8 @@
     "grp": "ATT",
     "age": 25,
     "val": 0.15,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "3",
@@ -8117,7 +9151,8 @@
     "grp": "ATT",
     "age": 23,
     "val": 4.0,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "",
@@ -8132,7 +9167,8 @@
      "g": 0,
      "a": 0,
      "min": 8
-    }
+    },
+    "statsClub": "AJ Auxerre"
    },
    {
     "n": "31",
@@ -8147,7 +9183,8 @@
      "g": 0,
      "a": 0,
      "min": 86
-    }
+    },
+    "statsClub": "AJ Auxerre"
    },
    {
     "n": "49",
@@ -8156,7 +9193,14 @@
     "grp": "ATT",
     "age": 18,
     "val": 0.3,
-    "stats": null
+    "stats": {
+     "m": 12,
+     "s": 11,
+     "g": 1,
+     "a": 0,
+     "min": 958
+    },
+    "statsClub": "MZ Hakka"
    }
   ],
   "OGCN": [
@@ -8173,7 +9217,8 @@
      "g": 0,
      "a": 0,
      "min": 3420
-    }
+    },
+    "statsClub": "OGC Nice"
    },
    {
     "n": "",
@@ -8188,7 +9233,8 @@
      "g": 0,
      "a": 0,
      "min": 0
-    }
+    },
+    "statsClub": "OGC Nice"
    },
    {
     "n": "33",
@@ -8203,7 +9249,8 @@
      "g": 2,
      "a": 1,
      "min": 3231
-    }
+    },
+    "statsClub": "OGC Nice"
    },
    {
     "n": "37",
@@ -8218,7 +9265,8 @@
      "g": 1,
      "a": 0,
      "min": 3465
-    }
+    },
+    "statsClub": "OGC Nice"
    },
    {
     "n": "55",
@@ -8233,7 +9281,8 @@
      "g": 0,
      "a": 0,
      "min": 72
-    }
+    },
+    "statsClub": "OGC Nice"
    },
    {
     "n": "64",
@@ -8248,7 +9297,8 @@
      "g": 0,
      "a": 0,
      "min": 146
-    }
+    },
+    "statsClub": "OGC Nice"
    },
    {
     "n": "5",
@@ -8263,7 +9313,8 @@
      "g": 0,
      "a": 0,
      "min": 0
-    }
+    },
+    "statsClub": "OGC Nice"
    },
    {
     "n": "26",
@@ -8278,7 +9329,8 @@
      "g": 2,
      "a": 1,
      "min": 3680
-    }
+    },
+    "statsClub": "OGC Nice"
    },
    {
     "n": "2",
@@ -8293,7 +9345,8 @@
      "g": 3,
      "a": 0,
      "min": 1657
-    }
+    },
+    "statsClub": "OGC Nice"
    },
    {
     "n": "92",
@@ -8308,7 +9361,8 @@
      "g": 2,
      "a": 12,
      "min": 3642
-    }
+    },
+    "statsClub": "OGC Nice"
    },
    {
     "n": "",
@@ -8323,7 +9377,8 @@
      "g": 0,
      "a": 0,
      "min": 18
-    }
+    },
+    "statsClub": "OGC Nice"
    },
    {
     "n": "99",
@@ -8338,7 +9393,8 @@
      "g": 0,
      "a": 1,
      "min": 1528
-    }
+    },
+    "statsClub": "OGC Nice"
    },
    {
     "n": "41",
@@ -8353,7 +9409,8 @@
      "g": 0,
      "a": 0,
      "min": 256
-    }
+    },
+    "statsClub": "OGC Nice"
    },
    {
     "n": "19",
@@ -8362,7 +9419,14 @@
     "grp": "MID",
     "age": 33,
     "val": 1.8,
-    "stats": null
+    "stats": {
+     "m": 30,
+     "s": 29,
+     "g": 1,
+     "a": 0,
+     "min": 2472
+    },
+    "statsClub": "FC Lorient"
    },
    {
     "n": "6",
@@ -8377,7 +9441,8 @@
      "g": 1,
      "a": 2,
      "min": 2081
-    }
+    },
+    "statsClub": "OGC Nice"
    },
    {
     "n": "8",
@@ -8392,7 +9457,8 @@
      "g": 1,
      "a": 2,
      "min": 2718
-    }
+    },
+    "statsClub": "OGC Nice"
    },
    {
     "n": "39",
@@ -8407,7 +9473,8 @@
      "g": 1,
      "a": 0,
      "min": 275
-    }
+    },
+    "statsClub": "OGC Nice"
    },
    {
     "n": "",
@@ -8416,7 +9483,8 @@
     "grp": "MID",
     "age": 21,
     "val": 0.25,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "10",
@@ -8431,7 +9499,8 @@
      "g": 10,
      "a": 3,
      "min": 2742
-    }
+    },
+    "statsClub": "OGC Nice"
    },
    {
     "n": "21",
@@ -8446,7 +9515,8 @@
      "g": 1,
      "a": 0,
      "min": 1059
-    }
+    },
+    "statsClub": "OGC Nice"
    },
    {
     "n": "25",
@@ -8461,7 +9531,8 @@
      "g": 5,
      "a": 5,
      "min": 2282
-    }
+    },
+    "statsClub": "OGC Nice"
    },
    {
     "n": "7",
@@ -8470,7 +9541,14 @@
     "grp": "ATT",
     "age": 30,
     "val": 5.0,
-    "stats": null
+    "stats": {
+     "m": 31,
+     "s": 28,
+     "g": 8,
+     "a": 8,
+     "min": 2532
+    },
+    "statsClub": "FC Metz"
    },
    {
     "n": "",
@@ -8485,7 +9563,8 @@
      "g": 3,
      "a": 0,
      "min": 786
-    }
+    },
+    "statsClub": "OGC Nice"
    },
    {
     "n": "",
@@ -8494,7 +9573,8 @@
     "grp": "ATT",
     "age": 20,
     "val": 0.4,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    }
   ],
   "ESTAC": [
@@ -8505,7 +9585,14 @@
     "grp": "GK",
     "age": 23,
     "val": 1.5,
-    "stats": null
+    "stats": {
+     "m": 35,
+     "s": 35,
+     "g": 0,
+     "a": 0,
+     "min": 3210
+    },
+    "statsClub": "Melbourne City"
    },
    {
     "n": "40",
@@ -8520,7 +9607,8 @@
      "g": 0,
      "a": 0,
      "min": 2482
-    }
+    },
+    "statsClub": "ESTAC Troyes"
    },
    {
     "n": "1",
@@ -8535,7 +9623,8 @@
      "g": 0,
      "a": 0,
      "min": 180
-    }
+    },
+    "statsClub": "ESTAC Troyes"
    },
    {
     "n": "4",
@@ -8544,7 +9633,8 @@
     "grp": "DEF",
     "age": 23,
     "val": 6.0,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "25",
@@ -8559,7 +9649,8 @@
      "g": 0,
      "a": 0,
      "min": 1276
-    }
+    },
+    "statsClub": "ESTAC Troyes"
    },
    {
     "n": "6",
@@ -8574,7 +9665,8 @@
      "g": 0,
      "a": 0,
      "min": 3060
-    }
+    },
+    "statsClub": "ESTAC Troyes"
    },
    {
     "n": "37",
@@ -8589,7 +9681,8 @@
      "g": 0,
      "a": 0,
      "min": 0
-    }
+    },
+    "statsClub": "ESTAC Troyes"
    },
    {
     "n": "14",
@@ -8604,7 +9697,8 @@
      "g": 1,
      "a": 2,
      "min": 2316
-    }
+    },
+    "statsClub": "ESTAC Troyes"
    },
    {
     "n": "3",
@@ -8619,7 +9713,8 @@
      "g": 1,
      "a": 1,
      "min": 780
-    }
+    },
+    "statsClub": "ESTAC Troyes"
    },
    {
     "n": "44",
@@ -8634,7 +9729,8 @@
      "g": 0,
      "a": 5,
      "min": 1559
-    }
+    },
+    "statsClub": "ESTAC Troyes"
    },
    {
     "n": "2",
@@ -8649,7 +9745,8 @@
      "g": 0,
      "a": 2,
      "min": 1810
-    }
+    },
+    "statsClub": "ESTAC Troyes"
    },
    {
     "n": "26",
@@ -8664,7 +9761,8 @@
      "g": 0,
      "a": 0,
      "min": 542
-    }
+    },
+    "statsClub": "ESTAC Troyes"
    },
    {
     "n": "35",
@@ -8679,7 +9777,8 @@
      "g": 0,
      "a": 0,
      "min": 112
-    }
+    },
+    "statsClub": "ESTAC Troyes"
    },
    {
     "n": "8",
@@ -8694,7 +9793,8 @@
      "g": 4,
      "a": 3,
      "min": 3057
-    }
+    },
+    "statsClub": "ESTAC Troyes"
    },
    {
     "n": "17",
@@ -8709,7 +9809,8 @@
      "g": 3,
      "a": 7,
      "min": 3013
-    }
+    },
+    "statsClub": "ESTAC Troyes"
    },
    {
     "n": "",
@@ -8718,7 +9819,14 @@
     "grp": "MID",
     "age": 26,
     "val": 1.4,
-    "stats": null
+    "stats": {
+     "m": 35,
+     "s": 32,
+     "g": 2,
+     "a": 2,
+     "min": 2956
+    },
+    "statsClub": "Zira FK"
    },
    {
     "n": "29",
@@ -8733,7 +9841,8 @@
      "g": 4,
      "a": 1,
      "min": 869
-    }
+    },
+    "statsClub": "ESTAC Troyes"
    },
    {
     "n": "",
@@ -8748,7 +9857,8 @@
      "g": 0,
      "a": 0,
      "min": 0
-    }
+    },
+    "statsClub": "ESTAC Troyes"
    },
    {
     "n": "12",
@@ -8763,7 +9873,8 @@
      "g": 1,
      "a": 1,
      "min": 251
-    }
+    },
+    "statsClub": "ESTAC Troyes"
    },
    {
     "n": "10",
@@ -8778,7 +9889,8 @@
      "g": 4,
      "a": 4,
      "min": 2221
-    }
+    },
+    "statsClub": "ESTAC Troyes"
    },
    {
     "n": "36",
@@ -8793,7 +9905,8 @@
      "g": 0,
      "a": 0,
      "min": 149
-    }
+    },
+    "statsClub": "ESTAC Troyes"
    },
    {
     "n": "20",
@@ -8808,7 +9921,8 @@
      "g": 8,
      "a": 0,
      "min": 1145
-    }
+    },
+    "statsClub": "ESTAC Troyes"
    },
    {
     "n": "34",
@@ -8823,7 +9937,8 @@
      "g": 0,
      "a": 2,
      "min": 88
-    }
+    },
+    "statsClub": "ESTAC Troyes"
    }
   ],
   "LM": [
@@ -8840,7 +9955,8 @@
      "g": 0,
      "a": 0,
      "min": 2790
-    }
+    },
+    "statsClub": "Le Mans FC"
    },
    {
     "n": "1",
@@ -8855,7 +9971,8 @@
      "g": 0,
      "a": 0,
      "min": 720
-    }
+    },
+    "statsClub": "Le Mans FC"
    },
    {
     "n": "55",
@@ -8870,7 +9987,8 @@
      "g": 0,
      "a": 0,
      "min": 0
-    }
+    },
+    "statsClub": "Le Mans FC"
    },
    {
     "n": "15",
@@ -8885,7 +10003,8 @@
      "g": 1,
      "a": 0,
      "min": 1171
-    }
+    },
+    "statsClub": "Le Mans FC"
    },
    {
     "n": "21",
@@ -8900,7 +10019,8 @@
      "g": 1,
      "a": 0,
      "min": 2346
-    }
+    },
+    "statsClub": "Le Mans FC"
    },
    {
     "n": "5",
@@ -8915,7 +10035,8 @@
      "g": 1,
      "a": 1,
      "min": 1938
-    }
+    },
+    "statsClub": "Le Mans FC"
    },
    {
     "n": "17",
@@ -8930,7 +10051,8 @@
      "g": 4,
      "a": 0,
      "min": 3221
-    }
+    },
+    "statsClub": "Le Mans FC"
    },
    {
     "n": "22",
@@ -8945,7 +10067,8 @@
      "g": 2,
      "a": 4,
      "min": 2510
-    }
+    },
+    "statsClub": "Le Mans FC"
    },
    {
     "n": "76",
@@ -8954,7 +10077,8 @@
     "grp": "DEF",
     "age": 25,
     "val": 1.5,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "18",
@@ -8969,7 +10093,8 @@
      "g": 3,
      "a": 6,
      "min": 2445
-    }
+    },
+    "statsClub": "Le Mans FC"
    },
    {
     "n": "19",
@@ -8978,7 +10103,8 @@
     "grp": "DEF",
     "age": 22,
     "val": 1.0,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "29",
@@ -8993,7 +10119,8 @@
      "g": 2,
      "a": 1,
      "min": 938
-    }
+    },
+    "statsClub": "Le Mans FC"
    },
    {
     "n": "8",
@@ -9008,7 +10135,8 @@
      "g": 0,
      "a": 2,
      "min": 2193
-    }
+    },
+    "statsClub": "Le Mans FC"
    },
    {
     "n": "24",
@@ -9023,7 +10151,8 @@
      "g": 2,
      "a": 4,
      "min": 1767
-    }
+    },
+    "statsClub": "Le Mans FC"
    },
    {
     "n": "6",
@@ -9038,7 +10167,8 @@
      "g": 2,
      "a": 1,
      "min": 2371
-    }
+    },
+    "statsClub": "Le Mans FC"
    },
    {
     "n": "11",
@@ -9053,7 +10183,8 @@
      "g": 0,
      "a": 1,
      "min": 645
-    }
+    },
+    "statsClub": "Le Mans FC"
    },
    {
     "n": "10",
@@ -9068,7 +10199,8 @@
      "g": 1,
      "a": 0,
      "min": 682
-    }
+    },
+    "statsClub": "Le Mans FC"
    },
    {
     "n": "23",
@@ -9077,7 +10209,8 @@
     "grp": "MID",
     "age": 20,
     "val": 0.4,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "27",
@@ -9092,7 +10225,8 @@
      "g": 1,
      "a": 1,
      "min": 1261
-    }
+    },
+    "statsClub": "Le Mans FC"
    },
    {
     "n": "28",
@@ -9107,7 +10241,8 @@
      "g": 6,
      "a": 3,
      "min": 1622
-    }
+    },
+    "statsClub": "Le Mans FC"
    },
    {
     "n": "7",
@@ -9116,7 +10251,8 @@
     "grp": "ATT",
     "age": 26,
     "val": 1.0,
-    "stats": null
+    "stats": null,
+    "statsClub": null
    },
    {
     "n": "14",
@@ -9125,7 +10261,14 @@
     "grp": "ATT",
     "age": 32,
     "val": 1.0,
-    "stats": null
+    "stats": {
+     "m": 36,
+     "s": 33,
+     "g": 15,
+     "a": 3,
+     "min": 2941
+    },
+    "statsClub": "EA Guingamp"
    },
    {
     "n": "9",
@@ -9140,7 +10283,8 @@
      "g": 9,
      "a": 6,
      "min": 1886
-    }
+    },
+    "statsClub": "Le Mans FC"
    },
    {
     "n": "25",
@@ -9155,7 +10299,8 @@
      "g": 10,
      "a": 4,
      "min": 2037
-    }
+    },
+    "statsClub": "Le Mans FC"
    },
    {
     "n": "20",
@@ -9170,7 +10315,8 @@
      "g": 4,
      "a": 1,
      "min": 661
-    }
+    },
+    "statsClub": "Le Mans FC"
    }
   ]
  }
